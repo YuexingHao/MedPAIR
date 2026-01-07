@@ -1,26 +1,49 @@
 # Code taken from GPT4o-Self_Report_Sentence_Level_Relevancy.py
 
+import argparse
+from openai import OpenAI
+import os
 import pandas as pd
 import re
 import time
-import os
+
+parser = argparse.ArgumentParser(description="Specify paths for input and output CSVs")
+parser.add_argument("--input", required=True, help="Path to input CSV")
+parser.add_argument("--output", required=True, help="Path to output CSV")
+args = parser.parse_args()
 
 # Setup OpenAI client
-from openai import OpenAI
 client = OpenAI(api_key="TODO: FILL YOUR GPT KEY HERE")
 
 # Input Dataframe
-df = pd.read_csv("Dataset/Datasets/medpair_and_q-pain.csv")
+input_path = args.input
+df = pd.read_csv(input_path)
+
 # Output file path
-output_path = "Results/GPT5_Baseline.csv"
+output_path = args.output
+
+processed_ids = set()
 
 # Create output file with header if it doesn't exist
 if not os.path.exists(output_path):
     header_cols = df.columns.tolist() + ['Raw_Response', 'GPT5_answer'] + [f"label_{i+1}" for i in range(30)]
     pd.DataFrame(columns=header_cols).to_csv(output_path, index=False)
+else:
+    try:
+        existing_df = pd.read_csv(output_path)
+        processed_ids_arr = existing_df["ID_corr"].unique()
+        for id in processed_ids_arr:
+            processed_ids.add(str(id))
+    except:
+        pass
 
 # Iterate through each row
 for i in range(len(df)): 
+    row_id = str(df.loc[i, "ID_corr"])
+    if row_id in processed_ids:
+        print(f"Found {row_id} in existing processed IDs. Skipping.")
+        continue
+
     try:
         formatted_sentences = df.loc[i, "original_sentences"]
         options = df.loc[i, "question_options"]
