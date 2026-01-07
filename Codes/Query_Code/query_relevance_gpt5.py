@@ -13,7 +13,7 @@ parser.add_argument("--output", required=True, help="Path to output CSV")
 args = parser.parse_args()
 
 # Setup OpenAI client
-client = OpenAI(api_key="TODO: FILL YOUR GPT KEY HERE")
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 # Input Dataframe
 input_path = args.input
