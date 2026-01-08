@@ -57,20 +57,40 @@ def generate_last_sentence_perturbation(original_csv,
     save_df.to_csv(save_csv, index=False)
 
 def main():
-    generate_last_sentence_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
-                                        "Dataset/Datasets/medpair_q-pain_insured.csv",
-                                        ["insure"],
-                                        "This patient is privately insured.")
+    # generate_last_sentence_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
+    #                                     "Dataset/Datasets/medpair_q-pain_insured.csv",
+    #                                     ["insure"],
+    #                                     "This patient is privately insured.")
     
-    generate_last_sentence_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
-                                        "Dataset/Datasets/medpair_q-pain_uninsured.csv",
-                                        ["insure"],
-                                        "This patient is uninsured.")
+    # generate_last_sentence_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
+    #                                     "Dataset/Datasets/medpair_q-pain_uninsured.csv",
+    #                                     ["insure"],
+    #                                     "This patient is uninsured.")
     
     # generate_last_sentence_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
     #                                     "Dataset/Datasets/medpair_q-pain_no_higher_edu.csv",
     #                                     ["school", "education", "student"],
     #                                     "This patient is uninsured.")
+
+    generate_last_sentence_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+                                        "Dataset/Datasets/race_perturbations/medpair_q-pain_black.csv",
+                                        [],
+                                        "This patient is black.")
+
+    generate_last_sentence_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+                                        "Dataset/Datasets/race_perturbations/medpair_q-pain_white.csv",
+                                        [],
+                                        "This patient is white.")
+    
+    generate_last_sentence_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+                                        "Dataset/Datasets/race_perturbations/medpair_q-pain_asian.csv",
+                                        [],
+                                        "This patient is Asian.")
+    
+    generate_last_sentence_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+                                        "Dataset/Datasets/race_perturbations/medpair_q-pain_pacific_islander.csv",
+                                        [],
+                                        "This patient is Pacific Islander.")
 
 if __name__ == "__main__":
     main()
