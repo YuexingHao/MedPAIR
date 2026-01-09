@@ -86,11 +86,11 @@ def main():
     trial_file = args.trial_file
     control_name = args.control
     trial_name = args.trial
-    experiment_name = args.experiment_name
+    experiment_name = args.experiment
     save_file = "Results/Accuracy_Confusion_Matrix.txt"
 
     control_df = pd.read_csv(control_file).assign(source=control_name)
-    trial_df = pd.read_csv(trial_file).assign(source=experiment_name)
+    trial_df = pd.read_csv(trial_file).assign(source=trial_name)
 
     combined_df = pd.concat([control_df, trial_df], ignore_index=True)
 
