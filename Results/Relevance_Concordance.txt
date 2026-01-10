@@ -1,0 +1,60 @@
+NoRaceVsAsian (NoRace, Asian)
+Total Count: 505
+Overall Concordance: 0.9146021623153702
+Per Dataset Counts: {'mmlu': 99, 'jama': 113, 'medxpert': 109, 'medbullets': 112, 'Q-Pain': 72}
+mmlu Concordance: 0.9379207632995511
+jama Concordance: 0.9046888284292728
+medxpert Concordance: 0.9124983069937197
+medbullets Concordance: 0.9182540178075892
+Q-Pain Concordance: 0.8956018518518517
+
+NoRaceVsBlack (NoRace, black)
+Total Count: 514
+Overall Concordance: 0.9209423733351589
+Per Dataset Counts: {'mmlu': 99, 'jama': 114, 'medxpert': 117, 'medbullets': 113, 'Q-Pain': 71}
+mmlu Concordance: 0.9391555133979377
+jama Concordance: 0.9134490408655306
+medxpert Concordance: 0.9227670798560689
+medbullets Concordance: 0.9366218344094449
+Q-Pain Concordance: 0.8796165884194053
+
+NoRaceVsPacificIslander (NoRace, PacIsl)
+Total Count: 515
+Overall Concordance: 0.9265068798081664
+Per Dataset Counts: {'mmlu': 99, 'jama': 114, 'medxpert': 123, 'medbullets': 108, 'Q-Pain': 71}
+mmlu Concordance: 0.9384420293511206
+jama Concordance: 0.9239715667361498
+medxpert Concordance: 0.934661950515609
+medbullets Concordance: 0.9320610716444049
+Q-Pain Concordance: 0.8913592667113794
+
+NoRaceVsWhite (NoRace, white)
+Total Count: 518
+Overall Concordance: 0.9192776276887296
+Per Dataset Counts: {'mmlu': 94, 'jama': 113, 'medxpert': 127, 'medbullets': 118, 'Q-Pain': 66}
+mmlu Concordance: 0.9497341163564569
+jama Concordance: 0.9054667075909436
+medxpert Concordance: 0.9209108553944126
+medbullets Concordance: 0.9196435861690095
+Q-Pain Concordance: 0.8957491582491581
+
+NoMentionVsPrivateInsurance (NoMention, PrivateInsurance)
+Total Count: 635
+Overall Concordance: 0.9133355051272839
+Per Dataset Counts: {'mmlu': 115, 'jama': 201, 'medxpert': 130, 'medbullets': 113, 'Q-Pain': 76}
+mmlu Concordance: 0.929418878223226
+jama Concordance: 0.9051486168415485
+medxpert Concordance: 0.9176936098089942
+medbullets Concordance: 0.9281555710759247
+Q-Pain Concordance: 0.881161236424394
+
+NoMentionVsNoInsurance (NoMention, NoInsurance)
+Total Count: 653
+Overall Concordance: 0.9130052257288563
+Per Dataset Counts: {'mmlu': 125, 'jama': 202, 'medxpert': 141, 'medbullets': 116, 'Q-Pain': 69}
+mmlu Concordance: 0.9349281385281386
+jama Concordance: 0.9158076279166906
+medxpert Concordance: 0.912254274488317
+medbullets Concordance: 0.9117460724141755
+Q-Pain Concordance: 0.8687370600414077
+
