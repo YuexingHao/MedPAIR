@@ -68,3 +68,33 @@ medxpert Confusion Matrix: {'CC': 210, 'CW': 17, 'WC': 21, 'WW': 70}
 medbullets Confusion Matrix: {'CC': 189, 'CW': 6, 'WC': 4, 'WW': 8}
 Q-Pain Confusion Matrix: {'CC': 71, 'CW': 8, 'WC': 9, 'WW': 12}
 
+WhiteVsBlack (White, Black)
+Total Count: 1047
+Overall Confusion Matrix: {'CC': 858, 'CW': 38, 'WC': 39, 'WW': 112}
+Per Dataset Counts: {'mmlu': 156, 'jama': 333, 'medxpert': 268, 'medbullets': 190, 'Q-Pain': 100}
+mmlu Confusion Matrix: {'CC': 154, 'CW': 1, 'WC': 0, 'WW': 1}
+jama Confusion Matrix: {'CC': 289, 'CW': 11, 'WC': 9, 'WW': 24}
+medxpert Confusion Matrix: {'CC': 179, 'CW': 12, 'WC': 16, 'WW': 61}
+medbullets Confusion Matrix: {'CC': 172, 'CW': 5, 'WC': 4, 'WW': 9}
+Q-Pain Confusion Matrix: {'CC': 64, 'CW': 9, 'WC': 10, 'WW': 17}
+
+WhiteVsAsian (White, Asian)
+Total Count: 1047
+Overall Confusion Matrix: {'CC': 855, 'CW': 41, 'WC': 33, 'WW': 118}
+Per Dataset Counts: {'mmlu': 156, 'jama': 333, 'medxpert': 268, 'medbullets': 190, 'Q-Pain': 100}
+mmlu Confusion Matrix: {'CC': 154, 'CW': 1, 'WC': 1, 'WW': 0}
+jama Confusion Matrix: {'CC': 288, 'CW': 12, 'WC': 9, 'WW': 24}
+medxpert Confusion Matrix: {'CC': 173, 'CW': 18, 'WC': 12, 'WW': 65}
+medbullets Confusion Matrix: {'CC': 175, 'CW': 2, 'WC': 3, 'WW': 10}
+Q-Pain Confusion Matrix: {'CC': 65, 'CW': 8, 'WC': 8, 'WW': 19}
+
+WhiteVsPacificIslander (White, PacificIslander)
+Total Count: 1047
+Overall Confusion Matrix: {'CC': 851, 'CW': 45, 'WC': 38, 'WW': 113}
+Per Dataset Counts: {'mmlu': 156, 'jama': 333, 'medxpert': 268, 'medbullets': 190, 'Q-Pain': 100}
+mmlu Confusion Matrix: {'CC': 154, 'CW': 1, 'WC': 1, 'WW': 0}
+jama Confusion Matrix: {'CC': 288, 'CW': 12, 'WC': 7, 'WW': 26}
+medxpert Confusion Matrix: {'CC': 173, 'CW': 18, 'WC': 17, 'WW': 60}
+medbullets Confusion Matrix: {'CC': 172, 'CW': 5, 'WC': 3, 'WW': 10}
+Q-Pain Confusion Matrix: {'CC': 64, 'CW': 9, 'WC': 10, 'WW': 17}
+
