@@ -1,37 +1,37 @@
 PrivateInsuranceVsNoInsurance (PrivateInsurance, NoInsurance)
-Total Count: 1399
+Total Count: 683
 Overall Confusion Matrix: {'RR': 10, 'RI': 3, 'IR': 45, 'II': 625}
-Per Dataset Counts: {'mmlu': 192, 'jama': 582, 'medxpert': 318, 'medbullets': 207, 'Q-Pain': 100}
+Per Dataset Counts: {'mmlu': 120, 'jama': 227, 'medxpert': 141, 'medbullets': 124, 'Q-Pain': 71}
 mmlu Confusion Matrix: {'RR': 0, 'RI': 1, 'IR': 1, 'II': 118}
 jama Confusion Matrix: {'RR': 0, 'RI': 0, 'IR': 8, 'II': 219}
 medxpert Confusion Matrix: {'RR': 9, 'RI': 1, 'IR': 10, 'II': 121}
 medbullets Confusion Matrix: {'RR': 1, 'RI': 1, 'IR': 4, 'II': 118}
 Q-Pain Confusion Matrix: {'RR': 0, 'RI': 0, 'IR': 22, 'II': 49}
 
-WhiteVsBlack (White, Black)
-Total Count: 1047
-Overall Confusion Matrix: {'RR': 16, 'RI': 14, 'IR': 30, 'II': 484}
-Per Dataset Counts: {'mmlu': 156, 'jama': 333, 'medxpert': 268, 'medbullets': 190, 'Q-Pain': 100}
-mmlu Confusion Matrix: {'RR': 1, 'RI': 1, 'IR': 2, 'II': 94}
-jama Confusion Matrix: {'RR': 2, 'RI': 8, 'IR': 13, 'II': 109}
-medxpert Confusion Matrix: {'RR': 11, 'RI': 3, 'IR': 6, 'II': 102}
-medbullets Confusion Matrix: {'RR': 2, 'RI': 2, 'IR': 9, 'II': 106}
-Q-Pain Confusion Matrix: {'RR': 0, 'RI': 0, 'IR': 0, 'II': 73}
-
 WhiteVsAsian (White, Asian)
-Total Count: 1047
+Total Count: 527
 Overall Confusion Matrix: {'RR': 14, 'RI': 10, 'IR': 20, 'II': 483}
-Per Dataset Counts: {'mmlu': 156, 'jama': 333, 'medxpert': 268, 'medbullets': 190, 'Q-Pain': 100}
+Per Dataset Counts: {'mmlu': 91, 'jama': 119, 'medxpert': 121, 'medbullets': 118, 'Q-Pain': 78}
 mmlu Confusion Matrix: {'RR': 0, 'RI': 2, 'IR': 1, 'II': 88}
 jama Confusion Matrix: {'RR': 5, 'RI': 5, 'IR': 9, 'II': 100}
 medxpert Confusion Matrix: {'RR': 8, 'RI': 0, 'IR': 4, 'II': 109}
 medbullets Confusion Matrix: {'RR': 1, 'RI': 3, 'IR': 6, 'II': 108}
 Q-Pain Confusion Matrix: {'RR': 0, 'RI': 0, 'IR': 0, 'II': 78}
 
+WhiteVsBlack (White, Black)
+Total Count: 544
+Overall Confusion Matrix: {'RR': 16, 'RI': 14, 'IR': 30, 'II': 484}
+Per Dataset Counts: {'mmlu': 98, 'jama': 132, 'medxpert': 122, 'medbullets': 119, 'Q-Pain': 73}
+mmlu Confusion Matrix: {'RR': 1, 'RI': 1, 'IR': 2, 'II': 94}
+jama Confusion Matrix: {'RR': 2, 'RI': 8, 'IR': 13, 'II': 109}
+medxpert Confusion Matrix: {'RR': 11, 'RI': 3, 'IR': 6, 'II': 102}
+medbullets Confusion Matrix: {'RR': 2, 'RI': 2, 'IR': 9, 'II': 106}
+Q-Pain Confusion Matrix: {'RR': 0, 'RI': 0, 'IR': 0, 'II': 73}
+
 WhiteVsPacificIslander (White, PacificIslander)
-Total Count: 1047
+Total Count: 548
 Overall Confusion Matrix: {'RR': 8, 'RI': 21, 'IR': 12, 'II': 507}
-Per Dataset Counts: {'mmlu': 156, 'jama': 333, 'medxpert': 268, 'medbullets': 190, 'Q-Pain': 100}
+Per Dataset Counts: {'mmlu': 93, 'jama': 129, 'medxpert': 129, 'medbullets': 122, 'Q-Pain': 75}
 mmlu Confusion Matrix: {'RR': 0, 'RI': 2, 'IR': 0, 'II': 91}
 jama Confusion Matrix: {'RR': 2, 'RI': 11, 'IR': 7, 'II': 109}
 medxpert Confusion Matrix: {'RR': 5, 'RI': 4, 'IR': 1, 'II': 119}

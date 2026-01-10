@@ -34,11 +34,7 @@ def relevance_confusion_matrix(combined_df,
         if not {control_name, trial_name}.issubset(filtered_df["source"].unique()) or len(filtered_df) != 2:
             continue
 
-        total_ct += 1
-        data_source = str(row["data_source_corr"]).strip()
-        per_dataset_total_ct[data_source] += 1
         sentence_number = str(row["sentence_number_corr"]).strip()
-
         control = filtered_df[filtered_df["source"] == control_name].iloc[0]
         control_answer = str(control[f"label_{sentence_number}"]).strip()
         trial = filtered_df[filtered_df["source"] == trial_name].iloc[0]
@@ -50,6 +46,10 @@ def relevance_confusion_matrix(combined_df,
 
         if control_answer not in valid_responses or trial_answer not in valid_responses:
             continue
+
+        total_ct += 1
+        data_source = str(row["data_source_corr"]).strip()
+        per_dataset_total_ct[data_source] += 1
 
         if control_answer in relevant and trial_answer in relevant:
             confusion_matrix["RR"] += 1
