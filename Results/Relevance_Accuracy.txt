@@ -1,0 +1,36 @@
+Asian
+Overall Correct: {'High Relevance': 8, 'Low Relevance': 23, 'Irrelevant': 567}
+Overall Counts: {'High Relevance': 10, 'Low Relevance': 30, 'Irrelevant': 654}
+Per Dataset Correct: {'mmlu': {'High Relevance': 0, 'Low Relevance': 1, 'Irrelevant': 115}, 'jama': {'High Relevance': 1, 'Low Relevance': 14, 'Irrelevant': 151}, 'medxpert': {'High Relevance': 6, 'Low Relevance': 3, 'Irrelevant': 106}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 5, 'Irrelevant': 129}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 66}}
+Per Dataset Count: {'mmlu': {'High Relevance': 0, 'Low Relevance': 1, 'Irrelevant': 115}, 'jama': {'High Relevance': 1, 'Low Relevance': 16, 'Irrelevant': 170}, 'medxpert': {'High Relevance': 8, 'Low Relevance': 7, 'Irrelevant': 144}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 6, 'Irrelevant': 135}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 90}}
+
+Black
+Overall Correct: {'High Relevance': 9, 'Low Relevance': 43, 'Irrelevant': 569}
+Overall Counts: {'High Relevance': 10, 'Low Relevance': 48, 'Irrelevant': 652}
+Per Dataset Correct: {'mmlu': {'High Relevance': 0, 'Low Relevance': 4, 'Irrelevant': 116}, 'jama': {'High Relevance': 0, 'Low Relevance': 18, 'Irrelevant': 159}, 'medxpert': {'High Relevance': 7, 'Low Relevance': 12, 'Irrelevant': 113}, 'medbullets': {'High Relevance': 2, 'Low Relevance': 9, 'Irrelevant': 118}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 63}}
+Per Dataset Count: {'mmlu': {'High Relevance': 0, 'Low Relevance': 5, 'Irrelevant': 117}, 'jama': {'High Relevance': 0, 'Low Relevance': 20, 'Irrelevant': 173}, 'medxpert': {'High Relevance': 8, 'Low Relevance': 14, 'Irrelevant': 149}, 'medbullets': {'High Relevance': 2, 'Low Relevance': 9, 'Irrelevant': 128}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 85}}
+
+Pacific_Islander
+Overall Correct: {'High Relevance': 10, 'Low Relevance': 14, 'Irrelevant': 592}
+Overall Counts: {'High Relevance': 10, 'Low Relevance': 18, 'Irrelevant': 688}
+Per Dataset Correct: {'mmlu': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 114}, 'jama': {'High Relevance': 1, 'Low Relevance': 8, 'Irrelevant': 166}, 'medxpert': {'High Relevance': 6, 'Low Relevance': 4, 'Irrelevant': 120}, 'medbullets': {'High Relevance': 3, 'Low Relevance': 2, 'Irrelevant': 126}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 66}}
+Per Dataset Count: {'mmlu': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 115}, 'jama': {'High Relevance': 1, 'Low Relevance': 8, 'Irrelevant': 184}, 'medxpert': {'High Relevance': 6, 'Low Relevance': 7, 'Irrelevant': 166}, 'medbullets': {'High Relevance': 3, 'Low Relevance': 3, 'Irrelevant': 136}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 87}}
+
+White
+Overall Correct: {'High Relevance': 6, 'Low Relevance': 27, 'Irrelevant': 591}
+Overall Counts: {'High Relevance': 6, 'Low Relevance': 32, 'Irrelevant': 688}
+Per Dataset Correct: {'mmlu': {'High Relevance': 0, 'Low Relevance': 2, 'Irrelevant': 112}, 'jama': {'High Relevance': 0, 'Low Relevance': 15, 'Irrelevant': 167}, 'medxpert': {'High Relevance': 5, 'Low Relevance': 5, 'Irrelevant': 117}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 5, 'Irrelevant': 138}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 57}}
+Per Dataset Count: {'mmlu': {'High Relevance': 0, 'Low Relevance': 2, 'Irrelevant': 112}, 'jama': {'High Relevance': 0, 'Low Relevance': 15, 'Irrelevant': 186}, 'medxpert': {'High Relevance': 5, 'Low Relevance': 10, 'Irrelevant': 162}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 5, 'Irrelevant': 148}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 80}}
+
+PrivatelyInsured
+Overall Correct: {'High Relevance': 8, 'Low Relevance': 5, 'Irrelevant': 798}
+Overall Counts: {'High Relevance': 8, 'Low Relevance': 8, 'Irrelevant': 910}
+Per Dataset Correct: {'mmlu': {'High Relevance': 1, 'Low Relevance': 0, 'Irrelevant': 145}, 'jama': {'High Relevance': 0, 'Low Relevance': 2, 'Irrelevant': 302}, 'medxpert': {'High Relevance': 6, 'Low Relevance': 2, 'Irrelevant': 140}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 1, 'Irrelevant': 144}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 67}}
+Per Dataset Count: {'mmlu': {'High Relevance': 1, 'Low Relevance': 0, 'Irrelevant': 148}, 'jama': {'High Relevance': 0, 'Low Relevance': 2, 'Irrelevant': 334}, 'medxpert': {'High Relevance': 6, 'Low Relevance': 5, 'Irrelevant': 189}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 1, 'Irrelevant': 152}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 0, 'Irrelevant': 87}}
+
+Uninsured
+Overall Correct: {'High Relevance': 10, 'Low Relevance': 51, 'Irrelevant': 785}
+Overall Counts: {'High Relevance': 14, 'Low Relevance': 65, 'Irrelevant': 876}
+Per Dataset Correct: {'mmlu': {'High Relevance': 0, 'Low Relevance': 2, 'Irrelevant': 151}, 'jama': {'High Relevance': 1, 'Low Relevance': 14, 'Irrelevant': 304}, 'medxpert': {'High Relevance': 8, 'Low Relevance': 13, 'Irrelevant': 144}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 4, 'Irrelevant': 137}, 'Q-Pain': {'High Relevance': 0, 'Low Relevance': 18, 'Irrelevant': 49}}
+Per Dataset Count: {'mmlu': {'High Relevance': 0, 'Low Relevance': 2, 'Irrelevant': 151}, 'jama': {'High Relevance': 3, 'Low Relevance': 18, 'Irrelevant': 335}, 'medxpert': {'High Relevance': 9, 'Low Relevance': 19, 'Irrelevant': 182}, 'medbullets': {'High Relevance': 1, 'Low Relevance': 4, 'Irrelevant': 148}, 'Q-Pain': {'High Relevance': 1, 'Low Relevance': 22, 'Irrelevant': 60}}
+
