@@ -6,10 +6,14 @@ def generate_equipair_dataset(original_csv,
                               new_answer):
     df = pd.read_csv(original_csv)
     
-    for _, row in df.iterrows():
-        row["question_options"] = new_question
-        row["centaur_question_corr"] = f"### Step 1: Read excerpt \n {row["original_sentences"]} \n\n ### Step 2: Answer QA Details \n {row["question_options"]} \n\n ### Step 3: Determine sentence relevance \n {row["original_sentences"]}"
-        row["answer_corr"] = new_answer
+    df["question_options"] = new_question
+    df["answer_corr"] = new_answer
+
+    df["centaur_question_corr"] = (
+        "### Step 1: Read excerpt\n" + df["original_sentences"] + "\n\n"
+        "### Step 2: Answer QA Details\n" + new_question + "\n\n"
+        "### Step 3: Determine sentence relevance\n" + df["original_sentences"]
+    )
 
     df.to_csv(save_csv, index=False)
 
