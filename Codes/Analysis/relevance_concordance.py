@@ -36,8 +36,8 @@ def relevance_concordance(combined_df,
         trial = filtered_df[filtered_df["source"] == trial_name].iloc[0]
 
         valid_responses = {"Irrelevant", "Low Relevance", "High Relevance"}
-        irrelevant = {"Irrelevant", "Low Relevance"}
-        relevant = {"High Relevance"}
+        irrelevant = {"Irrelevant"}
+        relevant = {"Low Relevance", "High Relevance"}
 
         curr_concordance = 0
         contribution_flag = True
