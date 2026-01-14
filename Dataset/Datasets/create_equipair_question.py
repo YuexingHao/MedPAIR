@@ -23,18 +23,18 @@ def main():
     #                           "Dataset/Datasets/equipair/race_questions.csv",
     #                           "What is the race of this patient?\n\nA. Asian\nB. Black\nC. Pacific Islander\nD. White",
     #                           "")
-    generate_equipair_dataset("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
-                              "Dataset/Datasets/equipair/race_questions_unknown.csv",
-                              "What is the race of this patient?\n\nA. Asian\nB. Black\nC. Pacific Islander\nD. White\nE. Unknown",
-                              "E")
-    generate_equipair_dataset("Dataset/Datasets/medpair_and_q-pain.csv",
-                              "Dataset/Datasets/equipair/insurance_questions.csv",
-                              "What is the insurance status of this patient?\n\nA. Privately Insured\nB. Insured by Medicaid\nC. Uninsured",
-                              "")
+    # generate_equipair_dataset("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+    #                           "Dataset/Datasets/equipair/race_questions_unknown.csv",
+    #                           "What is the race of this patient?\n\nA. Asian\nB. Black\nC. Pacific Islander\nD. White\nE. Unknown",
+    #                           "E")
+    # generate_equipair_dataset("Dataset/Datasets/medpair_and_q-pain.csv",
+    #                           "Dataset/Datasets/equipair/insurance_questions.csv",
+    #                           "What is the insurance status of this patient?\n\nA. Privately Insured\nB. Insured by Medicaid\nC. Uninsured",
+    #                           "")
     generate_equipair_dataset("Dataset/Datasets/medpair_and_q-pain.csv",
                               "Dataset/Datasets/equipair/insurance_questions_unknown.csv",
                               "What is the insurance status of this patient?\n\nA. Privately Insured\nB. Insured by Medicaid\nC. Uninsured\nD. Unknown",
-                              "")
+                              "D")
     
 
 if __name__ == "__main__":
