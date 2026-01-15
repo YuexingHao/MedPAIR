@@ -27,7 +27,7 @@ def calculate_relevance(df, experiment_name, save_file):
             if row[f"label_{i}"] not in valid_responses:
                 contribution_flag = False
                 break
-            curr_sentence_ct
+            curr_sentence_ct += 1
             if row[f"label_{i}"] in relevant:
                 curr_relevant_sentence_ct += 1
         
@@ -46,7 +46,7 @@ def calculate_relevance(df, experiment_name, save_file):
             file.write(f"mmlu Percentage of Relevant Sentences: {per_dataset_relevance_sum["mmlu"] / per_dataset_total_ct["mmlu"]}" + '\n')
             file.write(f"jama Percentage of Relevant Sentences: {per_dataset_relevance_sum["jama"] / per_dataset_total_ct["jama"]}" + '\n')
             file.write(f"medxpert Percentage of Relevant Sentences: {per_dataset_relevance_sum["medxpert"] / per_dataset_total_ct["medxpert"]}" + '\n')
-            file.write(f"medbullets ConPercentage of Relevant Sentencescordance: {per_dataset_relevance_sum["medbullets"] / per_dataset_total_ct["medbullets"]}" + '\n')
+            file.write(f"medbullets Percentage of Relevant Sentences: {per_dataset_relevance_sum["medbullets"] / per_dataset_total_ct["medbullets"]}" + '\n')
             file.write(f"Q-Pain Percentage of Relevant Sentences: {per_dataset_relevance_sum["Q-Pain"] / per_dataset_total_ct["Q-Pain"]}" + '\n')
             file.write('\n')
 

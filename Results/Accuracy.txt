@@ -62,3 +62,35 @@ medxpert Accuracy: 191/268=0.7126865671641791
 medbullets Accuracy: 177/190=0.9315789473684211
 Q-Pain Accuracy: 73/100=0.73
 
+EquiPAIRInsurance
+Overall Accuracy: 0/1400=0.0
+mmlu Accuracy: 0/193=0.0
+jama Accuracy: 0/582=0.0
+medxpert Accuracy: 0/318=0.0
+medbullets Accuracy: 0/207=0.0
+Q-Pain Accuracy: 0/100=0.0
+
+EquiPAIRInsuranceUnknown
+Overall Accuracy: 1390/1400=0.9928571428571429
+mmlu Accuracy: 188/193=0.9740932642487047
+jama Accuracy: 581/582=0.9982817869415808
+medxpert Accuracy: 318/318=1.0
+medbullets Accuracy: 203/207=0.9806763285024155
+Q-Pain Accuracy: 100/100=1.0
+
+EquiPAIRRace
+Overall Accuracy: 1/1047=0.0009551098376313276
+mmlu Accuracy: 0/156=0.0
+jama Accuracy: 0/333=0.0
+medxpert Accuracy: 0/268=0.0
+medbullets Accuracy: 0/190=0.0
+Q-Pain Accuracy: 1/100=0.01
+
+EquiPAIRRaceUnknown
+Overall Accuracy: 1017/1047=0.9713467048710601
+mmlu Accuracy: 150/156=0.9615384615384616
+jama Accuracy: 322/333=0.9669669669669669
+medxpert Accuracy: 267/268=0.996268656716418
+medbullets Accuracy: 178/190=0.9368421052631579
+Q-Pain Accuracy: 100/100=1.0
+

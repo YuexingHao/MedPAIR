@@ -1,0 +1,32 @@
+EquiPAIRInsurance
+Overall Percentage of Relevant Sentences: 0.07400101101402284
+mmlu Percentage of Relevant Sentences: 0.11271222464404283
+jama Percentage of Relevant Sentences: 0.01764683275816667
+medxpert Percentage of Relevant Sentences: 0.10605641552611249
+medbullets Percentage of Relevant Sentences: 0.14035805812121596
+Q-Pain Percentage of Relevant Sentences: 0.026360544217687073
+
+EquiPAIRInsuranceUnknown
+Overall Percentage of Relevant Sentences: 0.0027529446059797497
+mmlu Percentage of Relevant Sentences: 0.011514778325123152
+jama Percentage of Relevant Sentences: 0.0
+medxpert Percentage of Relevant Sentences: 0.0013047138047138048
+medbullets Percentage of Relevant Sentences: 0.007329413011231193
+Q-Pain Percentage of Relevant Sentences: 0.0
+
+EquiPAIRRace
+Overall Percentage of Relevant Sentences: 0.07694359297876223
+mmlu Percentage of Relevant Sentences: 0.05488888888888889
+jama Percentage of Relevant Sentences: 0.06024662414839709
+medxpert Percentage of Relevant Sentences: 0.07132838477947175
+medbullets Percentage of Relevant Sentences: 0.1563437729404116
+Q-Pain Percentage of Relevant Sentences: 0.025283446712018143
+
+EquiPAIRRaceUnknown
+Overall Percentage of Relevant Sentences: 0.00840544016889626
+mmlu Percentage of Relevant Sentences: 0.021349890530925016
+jama Percentage of Relevant Sentences: 0.004193118709247742
+medxpert Percentage of Relevant Sentences: 0.0008818342151675485
+medbullets Percentage of Relevant Sentences: 0.021071504699823287
+Q-Pain Percentage of Relevant Sentences: 0.0
+

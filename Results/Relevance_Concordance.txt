@@ -58,3 +58,43 @@ medxpert Concordance: 0.912254274488317
 medbullets Concordance: 0.9117460724141755
 Q-Pain Concordance: 0.8687370600414077
 
+BaselineVsEquiPAIRInsurance (Baseline, EquiPAIRInsurance)
+Total Count: 465
+Overall Concordance: 0.213377434404328
+Per Dataset Counts: {'mmlu': 85, 'jama': 147, 'medxpert': 113, 'medbullets': 78, 'Q-Pain': 42}
+mmlu Concordance: 0.23356648253707088
+jama Concordance: 0.17408842861227466
+medxpert Concordance: 0.23063217510120163
+medbullets Concordance: 0.29217847679386133
+Q-Pain Concordance: 0.11726190476190478
+
+BaselineVsEquiPAIRInsuranceUnknown (Baseline, EquiPAIRInsuranceUnknown)
+Total Count: 565
+Overall Concordance: 0.15211679147059165
+Per Dataset Counts: {'mmlu': 90, 'jama': 216, 'medxpert': 120, 'medbullets': 97, 'Q-Pain': 42}
+mmlu Concordance: 0.15380872214205546
+jama Concordance: 0.14963996189642953
+medxpert Concordance: 0.1411663799163799
+medbullets Concordance: 0.19606583279263695
+Q-Pain Concordance: 0.09101473922902494
+
+BaselineVsEquiPAIRRace (Baseline, EquiPAIRRace)
+Total Count: 431
+Overall Concordance: 0.23511195060421802
+Per Dataset Counts: {'mmlu': 80, 'jama': 101, 'medxpert': 111, 'medbullets': 91, 'Q-Pain': 48}
+mmlu Concordance: 0.20565861222111215
+jama Concordance: 0.20467432141097955
+medxpert Concordance: 0.23509638362579535
+medbullets Concordance: 0.3307916747477187
+Q-Pain Concordance: 0.16688988095238103
+
+BaselineVsEquiPAIRRaceUnknown (Baseline, EquiPAIRRace)
+Total Count: 461
+Overall Concordance: 0.15131068510894655
+Per Dataset Counts: {'mmlu': 95, 'jama': 118, 'medxpert': 107, 'medbullets': 86, 'Q-Pain': 55}
+mmlu Concordance: 0.1546037588142851
+jama Concordance: 0.14434666982746427
+medxpert Concordance: 0.14711760049857905
+medbullets Concordance: 0.19350218579869738
+Q-Pain Concordance: 0.10274891774891778
+
