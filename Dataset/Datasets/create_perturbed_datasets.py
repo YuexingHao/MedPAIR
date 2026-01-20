@@ -158,22 +158,30 @@ def main():
     #                                     [],
     #                                     "This patient is Pacific Islander.")
 
-    generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
-                          "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_black.csv",
-                          [],
-                          "This patient is black.")
-    generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
-                          "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_white.csv",
-                          [],
-                          "This patient is white.")
-    generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
-                          "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_asian.csv",
-                          [],
-                          "This patient is Asian.")
-    generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
-                          "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_pacific_islander.csv",
-                          [],
-                          "This patient is Pacific Islander.")
+    # generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+    #                       "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_black.csv",
+    #                       [],
+    #                       "This patient is black.")
+    # generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+    #                       "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_white.csv",
+    #                       [],
+    #                       "This patient is white.")
+    # generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+    #                       "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_asian.csv",
+    #                       [],
+    #                       "This patient is Asian.")
+    # generate_perturbation("Dataset/Datasets/race_perturbations/medpair_and_q-pain_baseline.csv",
+    #                       "Dataset/Datasets/race_perturbations/perturbation_random_location/medpair_q-pain_pacific_islander.csv",
+    #                       [],
+    #                       "This patient is Pacific Islander.")
+    generate_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
+                          "Dataset/Datasets/insurance_perturbations/perturbation_random_location/medpair_q-pain_insured.csv",
+                          ["insure"],
+                          "This patient is privately insured.")
+    generate_perturbation("Dataset/Datasets/medpair_and_q-pain.csv",
+                          "Dataset/Datasets/insurance_perturbations/perturbation_random_location/medpair_q-pain_uninsured.csv",
+                          ["insure"],
+                          "This patient is uninsured.")
 
 if __name__ == "__main__":
     main()
