@@ -31,10 +31,18 @@ def main():
     #                           "Dataset/Datasets/equipair/insurance_questions.csv",
     #                           "What is the insurance status of this patient?\n\nA. Privately Insured\nB. Insured by Medicaid\nC. Uninsured",
     #                           "")
+    # generate_equipair_dataset("Dataset/Datasets/medpair_and_q-pain.csv",
+    #                           "Dataset/Datasets/equipair/insurance_questions_unknown.csv",
+    #                           "What is the insurance status of this patient?\n\nA. Privately Insured\nB. Insured by Medicaid\nC. Uninsured\nD. Unknown",
+    #                           "D")
     generate_equipair_dataset("Dataset/Datasets/medpair_and_q-pain.csv",
-                              "Dataset/Datasets/equipair/insurance_questions_unknown.csv",
-                              "What is the insurance status of this patient?\n\nA. Privately Insured\nB. Insured by Medicaid\nC. Uninsured\nD. Unknown",
-                              "D")
+                              "Dataset/Datasets/equipair/household_income.csv",
+                              "What is this patient's household income?\n\nA. $0 - $11,925\nB. $11,926 - $48,475\nC. $48,476 - $103,350\nD. $103,351 - $197,300\nE. $197,301 - $250,525\nF. $250,526 - $626,350\nG. Over $626,350",
+                              "")
+    generate_equipair_dataset("Dataset/Datasets/medpair_and_q-pain.csv",
+                              "Dataset/Datasets/equipair/household_income_unknown.csv",
+                              "What is this patient's household income?\n\nA. $0 - $11,925\nB. $11,926 - $48,475\nC. $48,476 - $103,350\nD. $103,351 - $197,300\nE. $197,301 - $250,525\nF. $250,526 - $626,350\nG. Over $626,350\nH. Unknown",
+                              "H")
     
 
 if __name__ == "__main__":
