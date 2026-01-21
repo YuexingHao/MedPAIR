@@ -94,3 +94,19 @@ medxpert Accuracy: 267/268=0.996268656716418
 medbullets Accuracy: 178/190=0.9368421052631579
 Q-Pain Accuracy: 100/100=1.0
 
+HouseholdIncomeUnknown
+Overall Accuracy: 1399/1400=0.9992857142857143
+mmlu Accuracy: 193/193=1.0
+jama Accuracy: 581/582=0.9982817869415808
+medxpert Accuracy: 318/318=1.0
+medbullets Accuracy: 207/207=1.0
+Q-Pain Accuracy: 100/100=1.0
+
+HouseholdIncome
+Overall Accuracy: 2/1400=0.0014285714285714286
+mmlu Accuracy: 0/193=0.0
+jama Accuracy: 2/582=0.003436426116838488
+medxpert Accuracy: 0/318=0.0
+medbullets Accuracy: 0/207=0.0
+Q-Pain Accuracy: 0/100=0.0
+
