@@ -30,3 +30,51 @@ medxpert Percentage of Relevant Sentences: 0.0008818342151675485
 medbullets Percentage of Relevant Sentences: 0.021071504699823287
 Q-Pain Percentage of Relevant Sentences: 0.0
 
+EquiPAIRInsurance
+Overall: mean=0.0740, std=0.1322, 95% CI=(0.0646, 0.0834)
+mmlu: mean=0.1127, std=0.1708, 95% CI=(0.0808, 0.1446)
+jama: mean=0.0176, std=0.0579, 95% CI=(0.0109, 0.0244)
+medxpert: mean=0.1061, std=0.1583, 95% CI=(0.0840, 0.1281)
+medbullets: mean=0.1404, std=0.1247, 95% CI=(0.1175, 0.1632)
+Q-Pain: mean=0.0264, std=0.0955, 95% CI=(-0.0004, 0.0531)
+
+EquiPAIRInsuranceUnknown
+Overall: mean=0.0028, std=0.0292, 95% CI=(0.0009, 0.0046)
+mmlu: mean=0.0115, std=0.0717, 95% CI=(-0.0015, 0.0246)
+jama: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+medxpert: mean=0.0013, std=0.0141, 95% CI=(-0.0006, 0.0032)
+medbullets: mean=0.0073, std=0.0337, 95% CI=(0.0016, 0.0131)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+EquiPAIRRace
+Overall: mean=0.0769, std=0.2188, 95% CI=(0.0600, 0.0939)
+mmlu: mean=0.0549, std=0.1948, 95% CI=(0.0167, 0.0931)
+jama: mean=0.0602, std=0.1818, 95% CI=(0.0335, 0.0870)
+medxpert: mean=0.0713, std=0.2177, 95% CI=(0.0399, 0.1028)
+medbullets: mean=0.1563, std=0.2990, 95% CI=(0.1026, 0.2101)
+Q-Pain: mean=0.0253, std=0.1213, 95% CI=(-0.0047, 0.0552)
+
+EquiPAIRRaceUnknown
+Overall: mean=0.0084, std=0.0682, 95% CI=(0.0034, 0.0134)
+mmlu: mean=0.0213, std=0.1239, 95% CI=(-0.0012, 0.0439)
+jama: mean=0.0042, std=0.0185, 95% CI=(0.0017, 0.0067)
+medxpert: mean=0.0009, std=0.0121, 95% CI=(-0.0008, 0.0026)
+medbullets: mean=0.0211, std=0.1097, 95% CI=(0.0008, 0.0413)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+HouseholdIncome
+Overall: mean=0.0134, std=0.0600, 95% CI=(0.0095, 0.0174)
+mmlu: mean=0.0294, std=0.0935, 95% CI=(0.0128, 0.0460)
+jama: mean=0.0028, std=0.0190, 95% CI=(0.0008, 0.0047)
+medxpert: mean=0.0104, std=0.0549, 95% CI=(0.0029, 0.0178)
+medbullets: mean=0.0295, std=0.0919, 95% CI=(0.0137, 0.0452)
+Q-Pain: mean=0.0231, std=0.0551, 95% CI=(0.0089, 0.0372)
+
+HouseholdIncomeUnknown
+Overall: mean=0.0016, std=0.0136, 95% CI=(0.0008, 0.0025)
+mmlu: mean=0.0036, std=0.0202, 95% CI=(0.0000, 0.0072)
+jama: mean=0.0012, std=0.0111, 95% CI=(0.0002, 0.0023)
+medxpert: mean=0.0015, std=0.0155, 95% CI=(-0.0006, 0.0035)
+medbullets: mean=0.0021, std=0.0139, 95% CI=(-0.0003, 0.0044)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
