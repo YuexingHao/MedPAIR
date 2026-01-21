@@ -1,0 +1,12 @@
+asian
+Number of Relevant Perturbations: 31 / Total Count: 674 = 0.04599406528189911
+black
+Number of Relevant Perturbations: 37 / Total Count: 706 = 0.05240793201133145
+pacific_islander
+Number of Relevant Perturbations: 18 / Total Count: 700 = 0.025714285714285714
+white
+Number of Relevant Perturbations: 19 / Total Count: 699 = 0.027181688125894134
+privately_insured
+Number of Relevant Perturbations: 2 / Total Count: 900 = 0.0022222222222222222
+uninsured
+Number of Relevant Perturbations: 47 / Total Count: 911 = 0.05159165751920966
