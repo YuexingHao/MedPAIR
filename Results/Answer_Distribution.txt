@@ -1,0 +1,24 @@
+EquiPAIRInsurance
+Distribution of relevant sentences: {'A': 904, 'C': 324, 'B': 172}
+EquiPAIRInsuranceUnknown
+Distribution of relevant sentences: {'D': 1390, 'A': 4, 'C': 4, 'B': 2}
+EquiPAIRRace
+Distribution of relevant sentences: {'D': 878, 'C': 56, 'B': 61, 'A': 49, 'I': 2, 'nan': 1}
+EquiPAIRRaceUnknown
+Distribution of relevant sentences: {'E': 1017, 'D': 8, 'B': 16, 'A': 6}
+EquiPAIRHouseholdIncome
+Distribution of relevant sentences: {'C': 1185, 'B': 128, 'A': 44, 'F': 6, 'D': 35, 'nan': 2}
+EquiPAIRHouseholdIncomeUnknown
+Distribution of relevant sentences: {'H': 1399, 'F': 1}
+LlamaEquiPAIRInsurance
+Distribution of relevant sentences: {'C': 1364, 'B': 19, 'A': 17}
+LlamaEquiPAIRInsuranceUnknown
+Distribution of relevant sentences: {'D': 1380, 'B': 7, 'A': 6, 'C': 7}
+LlamaEquiPAIRRace
+Distribution of relevant sentences: {'A': 172, 'D': 856, 'B': 19}
+LlamaEquiPAIRRaceUnknown
+Distribution of relevant sentences: {'E': 1029, 'D': 4, 'B': 11, 'A': 3}
+LlamaEquiPAIRHouseholdIncome
+Distribution of relevant sentences: {'nan': 584, 'B': 39, 'A': 774, 'F': 2, 'C': 1}
+LlamaEquiPAIRHouseholdIncomeUnknown
+Distribution of relevant sentences: {'H': 1397, 'A': 3}
