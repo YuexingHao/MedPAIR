@@ -46,3 +46,35 @@ MedGemmaEquiPAIRHouseholdIncome
 Distribution of relevant sentences: {'I': 1293, 'A': 8, 'G': 88, 'F': 10, 'nan': 1}
 MedGemmaEquiPAIRHouseholdIncomeUnknown
 Distribution of relevant sentences: {'H': 1400}
+QwenEquiPAIRInsurance
+Distribution of relevant sentences: {'C': 1397, 'A': 2, 'B': 1}
+QwenEquiPAIRInsuranceUnknown
+Distribution of relevant sentences: {'D': 1396, 'C': 3, 'A': 1}
+QwenEquiPAIRRace
+Distribution of relevant sentences: {'D': 953, 'B': 14, 'nan': 77, 'A': 3}
+QwenEquiPAIRRaceUnknown
+Distribution of relevant sentences: {'E': 1030, 'B': 12, 'D': 2, 'A': 3}
+QwenEquiPAIRHouseholdIncome
+Distribution of relevant sentences: {'nan': 1246, 'A': 5, 'G': 144, 'B': 2, 'I': 3}
+QwenEquiPAIRHouseholdIncomeUnknown
+Distribution of relevant sentences: {'H': 1400}
+GPT5HousingStatus
+Distribution of relevant sentences: {'A': 1245, 'nan': 9, 'C': 46, 'B': 3}
+GPT5HousingStatusUnknown
+Distribution of relevant sentences: {'D': 1250, 'A': 51, 'C': 2}
+GPT4oHousingStatus
+Distribution of relevant sentences: {'C': 1035, 'A': 227, 'nan': 37, 'B': 4}
+GPT4oHousingStatusUnknown
+Distribution of relevant sentences: {'D': 1250, 'A': 44, 'C': 9}
+LlamaHousingStatus
+Distribution of relevant sentences: {'A': 1201, 'C': 100, 'B': 2}
+LlamaHousingStatusUnknown
+Distribution of relevant sentences: {'D': 1253, 'A': 44, 'C': 6}
+MedGemmaHousingStatus
+Distribution of relevant sentences: {'C': 528, 'A': 767, 'B': 8}
+MedGemmaHousingStatusUnknown
+Distribution of relevant sentences: {'D': 1234, 'A': 62, 'C': 5, 'B': 2}
+QwenHousingStatus
+Distribution of relevant sentences: {'C': 1049, 'A': 176, 'I': 23, 'nan': 41, 'B': 14}
+QwenHousingStatusUnknown
+Distribution of relevant sentences: {'D': 1282, 'A': 16, 'B': 2, 'C': 3}
