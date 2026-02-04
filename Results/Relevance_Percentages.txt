@@ -1,36 +1,4 @@
-EquiPAIRInsurance
-Overall Percentage of Relevant Sentences: 0.07400101101402284
-mmlu Percentage of Relevant Sentences: 0.11271222464404283
-jama Percentage of Relevant Sentences: 0.01764683275816667
-medxpert Percentage of Relevant Sentences: 0.10605641552611249
-medbullets Percentage of Relevant Sentences: 0.14035805812121596
-Q-Pain Percentage of Relevant Sentences: 0.026360544217687073
-
-EquiPAIRInsuranceUnknown
-Overall Percentage of Relevant Sentences: 0.0027529446059797497
-mmlu Percentage of Relevant Sentences: 0.011514778325123152
-jama Percentage of Relevant Sentences: 0.0
-medxpert Percentage of Relevant Sentences: 0.0013047138047138048
-medbullets Percentage of Relevant Sentences: 0.007329413011231193
-Q-Pain Percentage of Relevant Sentences: 0.0
-
-EquiPAIRRace
-Overall Percentage of Relevant Sentences: 0.07694359297876223
-mmlu Percentage of Relevant Sentences: 0.05488888888888889
-jama Percentage of Relevant Sentences: 0.06024662414839709
-medxpert Percentage of Relevant Sentences: 0.07132838477947175
-medbullets Percentage of Relevant Sentences: 0.1563437729404116
-Q-Pain Percentage of Relevant Sentences: 0.025283446712018143
-
-EquiPAIRRaceUnknown
-Overall Percentage of Relevant Sentences: 0.00840544016889626
-mmlu Percentage of Relevant Sentences: 0.021349890530925016
-jama Percentage of Relevant Sentences: 0.004193118709247742
-medxpert Percentage of Relevant Sentences: 0.0008818342151675485
-medbullets Percentage of Relevant Sentences: 0.021071504699823287
-Q-Pain Percentage of Relevant Sentences: 0.0
-
-EquiPAIRInsurance
+GPT5EquiPAIRInsurance
 Overall: mean=0.0740, std=0.1322, 95% CI=(0.0646, 0.0834)
 mmlu: mean=0.1127, std=0.1708, 95% CI=(0.0808, 0.1446)
 jama: mean=0.0176, std=0.0579, 95% CI=(0.0109, 0.0244)
@@ -38,7 +6,7 @@ medxpert: mean=0.1061, std=0.1583, 95% CI=(0.0840, 0.1281)
 medbullets: mean=0.1404, std=0.1247, 95% CI=(0.1175, 0.1632)
 Q-Pain: mean=0.0264, std=0.0955, 95% CI=(-0.0004, 0.0531)
 
-EquiPAIRInsuranceUnknown
+GPT5EquiPAIRInsuranceUnknown
 Overall: mean=0.0028, std=0.0292, 95% CI=(0.0009, 0.0046)
 mmlu: mean=0.0115, std=0.0717, 95% CI=(-0.0015, 0.0246)
 jama: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
@@ -46,7 +14,7 @@ medxpert: mean=0.0013, std=0.0141, 95% CI=(-0.0006, 0.0032)
 medbullets: mean=0.0073, std=0.0337, 95% CI=(0.0016, 0.0131)
 Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
 
-EquiPAIRRace
+GPT5EquiPAIRRace
 Overall: mean=0.0769, std=0.2188, 95% CI=(0.0600, 0.0939)
 mmlu: mean=0.0549, std=0.1948, 95% CI=(0.0167, 0.0931)
 jama: mean=0.0602, std=0.1818, 95% CI=(0.0335, 0.0870)
@@ -54,7 +22,7 @@ medxpert: mean=0.0713, std=0.2177, 95% CI=(0.0399, 0.1028)
 medbullets: mean=0.1563, std=0.2990, 95% CI=(0.1026, 0.2101)
 Q-Pain: mean=0.0253, std=0.1213, 95% CI=(-0.0047, 0.0552)
 
-EquiPAIRRaceUnknown
+GPT5EquiPAIRRaceUnknown
 Overall: mean=0.0084, std=0.0682, 95% CI=(0.0034, 0.0134)
 mmlu: mean=0.0213, std=0.1239, 95% CI=(-0.0012, 0.0439)
 jama: mean=0.0042, std=0.0185, 95% CI=(0.0017, 0.0067)
@@ -62,7 +30,7 @@ medxpert: mean=0.0009, std=0.0121, 95% CI=(-0.0008, 0.0026)
 medbullets: mean=0.0211, std=0.1097, 95% CI=(0.0008, 0.0413)
 Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
 
-HouseholdIncome
+GPT5HouseholdIncome
 Overall: mean=0.0134, std=0.0600, 95% CI=(0.0095, 0.0174)
 mmlu: mean=0.0294, std=0.0935, 95% CI=(0.0128, 0.0460)
 jama: mean=0.0028, std=0.0190, 95% CI=(0.0008, 0.0047)
@@ -70,7 +38,7 @@ medxpert: mean=0.0104, std=0.0549, 95% CI=(0.0029, 0.0178)
 medbullets: mean=0.0295, std=0.0919, 95% CI=(0.0137, 0.0452)
 Q-Pain: mean=0.0231, std=0.0551, 95% CI=(0.0089, 0.0372)
 
-HouseholdIncomeUnknown
+GPT5HouseholdIncomeUnknown
 Overall: mean=0.0016, std=0.0136, 95% CI=(0.0008, 0.0025)
 mmlu: mean=0.0036, std=0.0202, 95% CI=(0.0000, 0.0072)
 jama: mean=0.0012, std=0.0111, 95% CI=(0.0002, 0.0023)
@@ -125,4 +93,228 @@ jama: mean=0.0151, std=0.0995, 95% CI=(0.0061, 0.0241)
 medxpert: mean=0.0949, std=0.2541, 95% CI=(0.0668, 0.1230)
 medbullets: mean=0.1198, std=0.2843, 95% CI=(0.0808, 0.1588)
 Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+GPT4oEquiPAIRInsurance
+Overall: mean=0.1335, std=0.2087, 95% CI=(0.1222, 0.1448)
+mmlu: mean=0.1419, std=0.2076, 95% CI=(0.1126, 0.1712)
+jama: mean=0.0831, std=0.1537, 95% CI=(0.0702, 0.0959)
+medxpert: mean=0.1608, std=0.2363, 95% CI=(0.1348, 0.1868)
+medbullets: mean=0.2220, std=0.2490, 95% CI=(0.1880, 0.2560)
+Q-Pain: mean=0.1160, std=0.2244, 95% CI=(0.0473, 0.1847)
+
+GPT4oEquiPAIRInsuranceUnknown
+Overall: mean=0.1083, std=0.2177, 95% CI=(0.0966, 0.1201)
+mmlu: mean=0.0960, std=0.1876, 95% CI=(0.0695, 0.1224)
+jama: mean=0.0736, std=0.1870, 95% CI=(0.0581, 0.0891)
+medxpert: mean=0.1198, std=0.2233, 95% CI=(0.0953, 0.1444)
+medbullets: mean=0.1962, std=0.2735, 95% CI=(0.1589, 0.2336)
+Q-Pain: mean=0.1099, std=0.2526, 95% CI=(0.0369, 0.1829)
+
+GPT4oEquiPAIRRace
+Overall: mean=0.1122, std=0.1992, 95% CI=(0.0998, 0.1247)
+mmlu: mean=0.0915, std=0.1933, 95% CI=(0.0610, 0.1220)
+jama: mean=0.1354, std=0.2035, 95% CI=(0.1133, 0.1574)
+medxpert: mean=0.0899, std=0.1811, 95% CI=(0.0680, 0.1118)
+medbullets: mean=0.1520, std=0.2298, 95% CI=(0.1194, 0.1847)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+GPT4oEquiPAIRRaceUnknown
+Overall: mean=0.1183, std=0.2303, 95% CI=(0.1040, 0.1327)
+mmlu: mean=0.0787, std=0.2044, 95% CI=(0.0467, 0.1108)
+jama: mean=0.1427, std=0.2355, 95% CI=(0.1173, 0.1681)
+medxpert: mean=0.1109, std=0.2409, 95% CI=(0.0821, 0.1397)
+medbullets: mean=0.1472, std=0.2405, 95% CI=(0.1129, 0.1814)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+GPT4oEquiPAIRHouseholdIncome
+Overall: mean=0.0409, std=0.1150, 95% CI=(0.0348, 0.0470)
+mmlu: mean=0.0679, std=0.1509, 95% CI=(0.0465, 0.0893)
+jama: mean=0.0212, std=0.0748, 95% CI=(0.0151, 0.0274)
+medxpert: mean=0.0489, std=0.1207, 95% CI=(0.0356, 0.0622)
+medbullets: mean=0.0740, std=0.1591, 95% CI=(0.0524, 0.0957)
+Q-Pain: mean=0.0032, std=0.0303, 95% CI=(-0.0031, 0.0095)
+
+GPT4oEquiPAIRHouseholdIncomeUnknown
+Overall: mean=0.0331, std=0.1218, 95% CI=(0.0265, 0.0398)
+mmlu: mean=0.0431, std=0.1224, 95% CI=(0.0256, 0.0606)
+jama: mean=0.0146, std=0.0813, 95% CI=(0.0078, 0.0215)
+medxpert: mean=0.0410, std=0.1436, 95% CI=(0.0251, 0.0569)
+medbullets: mean=0.0609, std=0.1596, 95% CI=(0.0391, 0.0827)
+Q-Pain: mean=0.0318, std=0.1312, 95% CI=(-0.0062, 0.0697)
+
+QwenEquiPAIRInsurance
+Overall: mean=0.9285, std=0.2109, 95% CI=(0.9158, 0.9412)
+mmlu: mean=0.8727, std=0.3004, 95% CI=(0.8271, 0.9182)
+jama: mean=0.9112, std=0.2216, 95% CI=(0.8888, 0.9336)
+medxpert: mean=0.9476, std=0.1940, 95% CI=(0.9242, 0.9709)
+medbullets: mean=0.9717, std=0.1111, 95% CI=(0.9561, 0.9873)
+Q-Pain: mean=0.9700, std=0.0566, 95% CI=(0.9553, 0.9846)
+
+QwenEquiPAIRInsuranceUnknown
+Overall: mean=0.9499, std=0.1673, 95% CI=(0.9401, 0.9597)
+mmlu: mean=0.8766, std=0.3043, 95% CI=(0.8317, 0.9216)
+jama: mean=0.9500, std=0.1288, 95% CI=(0.9370, 0.9629)
+medxpert: mean=0.9711, std=0.1420, 95% CI=(0.9551, 0.9872)
+medbullets: mean=0.9851, std=0.0769, 95% CI=(0.9745, 0.9958)
+Q-Pain: mean=0.9419, std=0.0745, 95% CI=(0.9239, 0.9599)
+
+QwenEquiPAIRRace
+Overall: mean=0.9521, std=0.1517, 95% CI=(0.9401, 0.9642)
+mmlu: mean=0.9109, std=0.2317, 95% CI=(0.8652, 0.9565)
+jama: mean=0.9640, std=0.0880, 95% CI=(0.9515, 0.9765)
+medxpert: mean=0.9425, std=0.1851, 95% CI=(0.9131, 0.9719)
+medbullets: mean=0.9740, std=0.1035, 95% CI=(0.9578, 0.9903)
+Q-Pain: mean=0.9417, std=0.1189, 95% CI=(0.8744, 1.0089)
+
+QwenEquiPAIRRaceUnknown
+Overall: mean=0.9672, std=0.1201, 95% CI=(0.9584, 0.9760)
+mmlu: mean=0.9447, std=0.1916, 95% CI=(0.9092, 0.9801)
+jama: mean=0.9708, std=0.0756, 95% CI=(0.9603, 0.9813)
+medxpert: mean=0.9667, std=0.1346, 95% CI=(0.9476, 0.9859)
+medbullets: mean=0.9835, std=0.0864, 95% CI=(0.9704, 0.9966)
+Q-Pain: mean=0.9485, std=0.0810, 95% CI=(0.9246, 0.9724)
+
+QwenEquiPAIRHouseholdIncome
+Overall: mean=0.5523, std=0.4848, 95% CI=(0.4849, 0.6197)
+mmlu: mean=0.5752, std=0.4752, 95% CI=(0.4200, 0.7304)
+jama: mean=0.4544, std=0.4886, 95% CI=(0.3505, 0.5583)
+medxpert: mean=0.5083, std=0.4949, 95% CI=(0.3550, 0.6617)
+medbullets: mean=0.8307, std=0.3684, 95% CI=(0.7068, 0.9545)
+Q-Pain: mean=0.5000, std=0.5774, 95% CI=(-0.0658, 1.0658)
+
+QwenEquiPAIRHouseholdIncomeUnknown
+Overall: mean=0.8642, std=0.3205, 95% CI=(0.8455, 0.8828)
+mmlu: mean=0.7916, std=0.3917, 95% CI=(0.7339, 0.8493)
+jama: mean=0.8754, std=0.2977, 95% CI=(0.8455, 0.9053)
+medxpert: mean=0.8549, std=0.3434, 95% CI=(0.8164, 0.8934)
+medbullets: mean=0.9462, std=0.2069, 95% CI=(0.9177, 0.9748)
+Q-Pain: mean=0.7890, std=0.3531, 95% CI=(0.7057, 0.8723)
+
+GPT5HousingStatus
+Overall: mean=0.0299, std=0.0799, 95% CI=(0.0233, 0.0364)
+mmlu: mean=0.0597, std=0.1167, 95% CI=(0.0343, 0.0851)
+jama: mean=0.0068, std=0.0317, 95% CI=(0.0029, 0.0107)
+medxpert: mean=0.0461, std=0.1050, 95% CI=(0.0266, 0.0655)
+medbullets: mean=0.0659, std=0.0933, 95% CI=(0.0452, 0.0866)
+Q-Pain: mean=0.0040, std=0.0257, 95% CI=(-0.0038, 0.0117)
+
+GPT5HousingStatusUnknown
+Overall: mean=0.0078, std=0.0353, 95% CI=(0.0054, 0.0103)
+mmlu: mean=0.0101, std=0.0396, 95% CI=(0.0024, 0.0178)
+jama: mean=0.0012, std=0.0103, 95% CI=(0.0001, 0.0023)
+medxpert: mean=0.0133, std=0.0469, 95% CI=(0.0064, 0.0201)
+medbullets: mean=0.0210, std=0.0565, 95% CI=(0.0107, 0.0312)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+GPT4oHousingStatus
+Overall: mean=0.0579, std=0.1240, 95% CI=(0.0508, 0.0650)
+mmlu: mean=0.0842, std=0.1421, 95% CI=(0.0625, 0.1058)
+jama: mean=0.0191, std=0.0546, 95% CI=(0.0143, 0.0239)
+medxpert: mean=0.0790, std=0.1402, 95% CI=(0.0625, 0.0956)
+medbullets: mean=0.1133, std=0.1770, 95% CI=(0.0879, 0.1387)
+Q-Pain: mean=0.0299, std=0.0894, 95% CI=(0.0032, 0.0566)
+
+GPT4oHousingStatusUnknown
+Overall: mean=0.0291, std=0.0853, 95% CI=(0.0241, 0.0341)
+mmlu: mean=0.0474, std=0.0997, 95% CI=(0.0322, 0.0626)
+jama: mean=0.0090, std=0.0377, 95% CI=(0.0056, 0.0125)
+medxpert: mean=0.0272, std=0.0811, 95% CI=(0.0176, 0.0368)
+medbullets: mean=0.0717, std=0.1374, 95% CI=(0.0520, 0.0913)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+LlamaHousingStatus
+Overall: mean=0.1099, std=0.2632, 95% CI=(0.0941, 0.1258)
+mmlu: mean=0.2080, std=0.3327, 95% CI=(0.1563, 0.2597)
+jama: mean=0.0202, std=0.0930, 95% CI=(0.0112, 0.0291)
+medxpert: mean=0.1299, std=0.2864, 95% CI=(0.0953, 0.1644)
+medbullets: mean=0.1912, std=0.3286, 95% CI=(0.1426, 0.2397)
+Q-Pain: mean=0.1456, std=0.3427, 95% CI=(0.0496, 0.2415)
+
+LlamaHousingStatusUnknown
+Overall: mean=0.0556, std=0.1826, 95% CI=(0.0447, 0.0665)
+mmlu: mean=0.1130, std=0.2544, 95% CI=(0.0736, 0.1524)
+jama: mean=0.0084, std=0.0549, 95% CI=(0.0032, 0.0136)
+medxpert: mean=0.0483, std=0.1509, 95% CI=(0.0302, 0.0664)
+medbullets: mean=0.1182, std=0.2640, 95% CI=(0.0797, 0.1566)
+Q-Pain: mean=0.0867, std=0.2740, 95% CI=(0.0107, 0.1626)
+
+MedGemmaHousingStatus
+Overall: mean=0.1652, std=0.3391, 95% CI=(0.1446, 0.1857)
+mmlu: mean=0.1641, std=0.3257, 95% CI=(0.1130, 0.2152)
+jama: mean=0.1389, std=0.3245, 95% CI=(0.1051, 0.1726)
+medxpert: mean=0.1696, std=0.3498, 95% CI=(0.1278, 0.2114)
+medbullets: mean=0.1810, std=0.3350, 95% CI=(0.1299, 0.2321)
+Q-Pain: mean=0.2218, std=0.3834, 95% CI=(0.1467, 0.2970)
+
+MedGemmaHousingStatusUnknown
+Overall: mean=0.1730, std=0.3543, 95% CI=(0.1519, 0.1942)
+mmlu: mean=0.1711, std=0.3425, 95% CI=(0.1181, 0.2242)
+jama: mean=0.1473, std=0.3369, 95% CI=(0.1126, 0.1820)
+medxpert: mean=0.1502, std=0.3380, 95% CI=(0.1105, 0.1899)
+medbullets: mean=0.1467, std=0.3246, 95% CI=(0.0994, 0.1940)
+Q-Pain: mean=0.3866, std=0.4567, 95% CI=(0.2957, 0.4775)
+
+QwenHousingStatus
+Overall: mean=0.2970, std=0.4424, 95% CI=(0.2626, 0.3314)
+mmlu: mean=0.3136, std=0.4449, 95% CI=(0.2232, 0.4040)
+jama: mean=0.2446, std=0.4213, 95% CI=(0.1992, 0.2900)
+medxpert: mean=0.2356, std=0.4065, 95% CI=(0.1622, 0.3089)
+medbullets: mean=0.5382, std=0.4746, 95% CI=(0.4361, 0.6403)
+Q-Pain: mean=0.6000, std=0.5164, 95% CI=(0.2799, 0.9201)
+
+QwenHousingStatusUnknown
+Overall: mean=0.4373, std=0.4805, 95% CI=(0.4023, 0.4724)
+mmlu: mean=0.4688, std=0.4786, 95% CI=(0.3817, 0.5559)
+jama: mean=0.3516, std=0.4672, 95% CI=(0.3028, 0.4004)
+medxpert: mean=0.4092, std=0.4709, 95% CI=(0.3311, 0.4872)
+medbullets: mean=0.6897, std=0.4463, 95% CI=(0.6047, 0.7746)
+Q-Pain: mean=0.8519, std=0.3275, 95% CI=(0.6379, 1.0658)
+
+MedGemmaEquiPAIRInsurance
+Overall: mean=0.0689, std=0.2349, 95% CI=(0.0555, 0.0824)
+mmlu: mean=0.0965, std=0.2714, 95% CI=(0.0570, 0.1359)
+jama: mean=0.1025, std=0.2776, 95% CI=(0.0746, 0.1304)
+medxpert: mean=0.0435, std=0.1948, 95% CI=(0.0219, 0.0650)
+medbullets: mean=0.0547, std=0.2143, 95% CI=(0.0251, 0.0842)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+MedGemmaEquiPAIRInsuranceUnknown
+Overall: mean=0.3923, std=0.4545, 95% CI=(0.3664, 0.4183)
+mmlu: mean=0.4241, std=0.4661, 95% CI=(0.3564, 0.4919)
+jama: mean=0.4485, std=0.4471, 95% CI=(0.4036, 0.4935)
+medxpert: mean=0.3226, std=0.4453, 95% CI=(0.2734, 0.3719)
+medbullets: mean=0.3067, std=0.4447, 95% CI=(0.2453, 0.3680)
+Q-Pain: mean=0.5155, std=0.4529, 95% CI=(0.4258, 0.6052)
+
+MedGemmaEquiPAIRRace
+Overall: mean=0.4538, std=0.4404, 95% CI=(0.4255, 0.4820)
+mmlu: mean=0.3707, std=0.4223, 95% CI=(0.3024, 0.4390)
+jama: mean=0.5666, std=0.4172, 95% CI=(0.5137, 0.6195)
+medxpert: mean=0.3442, std=0.4392, 95% CI=(0.2912, 0.3972)
+medbullets: mean=0.4968, std=0.4437, 95% CI=(0.4325, 0.5611)
+Q-Pain: mean=0.5176, std=0.4353, 95% CI=(0.4319, 0.6034)
+
+MedGemmaEquiPAIRRaceUnknown
+Overall: mean=0.7168, std=0.3920, 95% CI=(0.6916, 0.7420)
+mmlu: mean=0.7309, std=0.3850, 95% CI=(0.6687, 0.7931)
+jama: mean=0.7761, std=0.3139, 95% CI=(0.7364, 0.8158)
+medxpert: mean=0.6349, std=0.4536, 95% CI=(0.5801, 0.6897)
+medbullets: mean=0.7245, std=0.4050, 95% CI=(0.6661, 0.7828)
+Q-Pain: mean=0.7566, std=0.3380, 95% CI=(0.6890, 0.8242)
+
+MedGemmaEquiPAIRHouseholdIncome
+Overall: mean=0.0201, std=0.1328, 95% CI=(0.0126, 0.0277)
+mmlu: mean=0.0226, std=0.1370, 95% CI=(0.0027, 0.0425)
+jama: mean=0.0100, std=0.0900, 95% CI=(0.0009, 0.0190)
+medxpert: mean=0.0311, std=0.1661, 95% CI=(0.0128, 0.0495)
+medbullets: mean=0.0299, std=0.1656, 95% CI=(0.0070, 0.0528)
+Q-Pain: mean=0.0000, std=0.0000, 95% CI=(0.0000, 0.0000)
+
+MedGemmaEquiPAIRHouseholdIncomeUnknown
+Overall: mean=0.4697, std=0.4606, 95% CI=(0.4434, 0.4960)
+mmlu: mean=0.5572, std=0.4503, 95% CI=(0.4918, 0.6227)
+jama: mean=0.4490, std=0.4461, 95% CI=(0.4041, 0.4938)
+medxpert: mean=0.4833, std=0.4747, 95% CI=(0.4308, 0.5358)
+medbullets: mean=0.4120, std=0.4669, 95% CI=(0.3476, 0.4764)
+Q-Pain: mean=0.4626, std=0.4596, 95% CI=(0.3716, 0.5536)
 
