@@ -18,59 +18,60 @@ def mean_std_ci(values):
 
 
 def calculate_relevance(df, experiment_name, save_file):
-    valid_responses = {"Irrelevant", "Low Relevance", "High Relevance"}
-    relevant = {"Low Relevance", "High Relevance"}
+    relevance_labels = {"Irrelevant": 0, "Low Relevance": 0, "High Relevance": 0}
 
     # Store per-case relevance percentages
-    overall_relevance = []
+    overall_relevance_percentage = {"Irrelevant": [],
+                                    "Low Relevance": [],
+                                    "High Relevance": []}
 
     per_dataset_relevance = {
-        "mmlu": [],
-        "jama": [],
-        "medxpert": [],
-        "medbullets": [],
-        "Q-Pain": []
+        "mmlu": {"Irrelevant": [], "Low Relevance": [], "High Relevance": []},
+        "jama": {"Irrelevant": [], "Low Relevance": [], "High Relevance": []},
+        "medxpert": {"Irrelevant": [], "Low Relevance": [], "High Relevance": []},
+        "medbullets": {"Irrelevant": [], "Low Relevance": [], "High Relevance": []},
+        "Q-Pain": {"Irrelevant": [], "Low Relevance": [], "High Relevance": []}
     }
 
     for _, row in df.iterrows():
         curr_sentence_ct = 0
-        curr_relevant_sentence_ct = 0
+        curr_relevance_labels = {"Irrelevant": 0, "Low Relevance": 0, "High Relevance": 0}
         contribution_flag = True
         sentence_number = int(row["sentence_number_corr"])
 
         for i in range(1, sentence_number + 1):
             label = row[f"label_{i}"]
-            if label not in valid_responses:
+            if label not in relevance_labels:
                 contribution_flag = False
                 break
             curr_sentence_ct += 1
-            if label in relevant:
-                curr_relevant_sentence_ct += 1
+            curr_relevance_labels[label] += 1
 
         if contribution_flag and curr_sentence_ct > 0:
-            relevance_percentage = curr_relevant_sentence_ct / curr_sentence_ct
-            overall_relevance.append(relevance_percentage)
-
-            data_source = str(row["data_source_corr"]).strip()
-            if data_source in per_dataset_relevance:
-                per_dataset_relevance[data_source].append(relevance_percentage)
+            for k in relevance_labels.keys():
+                overall_relevance_percentage[k].append(curr_relevance_labels[k] / curr_sentence_ct)
+                data_source = str(row["data_source_corr"]).strip()
+                if data_source in per_dataset_relevance:
+                    per_dataset_relevance[data_source][k].append(curr_relevance_labels[k] / curr_sentence_ct)
 
     try:
         with open(save_file, 'a') as file:
             file.write(f"{experiment_name}\n")
 
-            mean, std, ci_low, ci_high = mean_std_ci(overall_relevance)
-            file.write(
-                f"Overall: mean={mean:.4f}, std={std:.4f}, "
-                f"95% CI=({ci_low:.4f}, {ci_high:.4f})\n"
-            )
+            for k in overall_relevance_percentage.keys():
+                mean, std, ci_low, ci_high = mean_std_ci(overall_relevance_percentage[k])
+                file.write(
+                    f"Overall {k}: mean={mean:.4f}, std={std:.4f}, "
+                    f"95% CI {k}=({ci_low:.4f}, {ci_high:.4f})\n"
+                )
 
             for dataset, values in per_dataset_relevance.items():
-                mean, std, ci_low, ci_high = mean_std_ci(values)
-                file.write(
-                    f"{dataset}: mean={mean:.4f}, std={std:.4f}, "
-                    f"95% CI=({ci_low:.4f}, {ci_high:.4f})\n"
-                )
+                for k in overall_relevance_percentage.keys():
+                    mean, std, ci_low, ci_high = mean_std_ci(values[k])
+                    file.write(
+                        f"{dataset} {k}: mean={mean:.4f}, std={std:.4f}, "
+                        f"95% CI {k}=({ci_low:.4f}, {ci_high:.4f})\n"
+                    )
 
             file.write("\n")
 
