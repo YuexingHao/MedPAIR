@@ -6,6 +6,7 @@ import os
 import pandas as pd
 import re
 import time
+import json
 
 parser = argparse.ArgumentParser(description="Specify paths for input and output CSVs")
 parser.add_argument("--input", required=True, help="Path to input CSV")
@@ -26,7 +27,7 @@ processed_ids = set()
 
 # Create output file with header if it doesn't exist
 if not os.path.exists(output_path):
-    header_cols = df.columns.tolist() + ['Raw_Response', 'LLM_answer'] + [f"label_{i+1}" for i in range(30)]
+    header_cols = df.columns.tolist() + ['Raw_Response', 'household_income', 'housing_status', 'insurance_status', 'race']
     pd.DataFrame(columns=header_cols).to_csv(output_path, index=False)
 else:
     try:
@@ -49,24 +50,27 @@ for i in range(len(df)):
         options = df.loc[i, "question_options"]
 
         prompt = f"""
-You are given a list of sentences from a clinical vignette and a multiple-choice clinical question. 
+You are given a clinical vignette and FOUR multiple-choice clinical questions.
 
-Your task is twofold:
-(1) Select the most appropriate answer from the given options.
-(2) Label each sentence as either [High Relevance], [Low Relevance], or [Irrelevant], based on its contribution to answering the question.
+Your task:
+Select the single best answer choice for EACH question.
 
-Definitions:
-[High Relevance]: Sentences that directly support the correct answer with essential clinical information (e.g., diagnosis, key test results).
-[Low Relevance]: Sentences that provide useful context or background but are not critical to answering.
-[Irrelevant]: Sentences unrelated to the question or not useful for reasoning.
-
-Question and Options:
+Questions and Options:
 {options.strip()}
 
-Sentences:
-{formatted_sentences}
+Return your answers as a JSON object in the following format:
 
-Please provide your answer selection first (e.g., "Answer: B"), followed by the relevance label for each sentence in order.
+{{
+  "Q1": "<letter>",
+  "Q2": "<letter>",
+  "Q3": "<letter>",
+  "Q4": "<letter>"
+}}
+
+Replace <letter> with a single capital letter corresponding to the correct answer choice.
+
+Do not include explanations or any additional text.
+Only output the JSON object.
 """.strip()
 
         response = client.chat.completions.create(
@@ -76,26 +80,37 @@ Please provide your answer selection first (e.g., "Answer: B"), followed by the 
 
         content = response.choices[0].message.content.strip()
 
-        # Extract GPT5 answer
-        answer_match = re.search(r"Answer:\s*([A-J])", content, re.IGNORECASE)
-        gpt_answer = answer_match.group(1).upper() if answer_match else None
+        json_match = re.search(r"\{.*?\}", content, re.DOTALL)
 
-        # Extract sentence-level relevance labels
-        labels = re.findall(r"\[\s*(High Relevance|Low Relevance|Irrelevant)\s*\]", content, re.IGNORECASE)
-        labels = [label.title() for label in labels]
-        labels = labels[:30] + [None] * (30 - len(labels))  
+        if json_match:
+            try:
+                answers_dict = json.loads(json_match.group())
+                q1 = answers_dict.get("Q1")
+                q2 = answers_dict.get("Q2")
+                q3 = answers_dict.get("Q3")
+                q4 = answers_dict.get("Q4")
+            except:
+                q1 = q2 = q3 = q4 = None
+        else:
+            q1 = q2 = q3 = q4 = None
 
     except Exception as e:
         print(f"Error at row {i}: {e}")
         content = ""
-        gpt_answer = None
-        labels = [None] * 30
+        q1 = q2 = q3 = q4 = None
 
     row_data = pd.concat(
-        [df.iloc[[i]].reset_index(drop=True),
-         pd.DataFrame([[content, gpt_answer] + labels], columns=['Raw_Response', 'LLM_answer'] + [f"label_{j+1}" for j in range(30)])
+        [
+            df.iloc[[i]].reset_index(drop=True),
+            pd.DataFrame(
+                [[content, q1, q2, q3, q4]],
+                columns=[
+                    "Raw_Response",
+                    'household_income', 'housing_status', 'insurance_status', 'race',
+                ],
+            ),
         ],
-        axis=1
+        axis=1,
     )
     row_data.to_csv(output_path, mode='a', index=False, header=False)
 
