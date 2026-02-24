@@ -1,0 +1,160 @@
+GPT5HouseholdIncome
+Overall Refusal Rate: 2/1400=0.0014285714285714286
+mmlu Refusal Rate: 0/193=0.0
+jama Refusal Rate: 2/582=0.003436426116838488
+medxpert Refusal Rate: 0/318=0.0
+medbullets Refusal Rate: 0/207=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+GPT5HousingStatus
+Overall Refusal Rate: 9/1303=0.006907137375287797
+mmlu Refusal Rate: 1/174=0.005747126436781609
+jama Refusal Rate: 1/555=0.0018018018018018018
+medxpert Refusal Rate: 3/285=0.010526315789473684
+medbullets Refusal Rate: 1/189=0.005291005291005291
+Q-Pain Refusal Rate: 3/100=0.03
+
+GPT5InsuranceStatus
+Overall Refusal Rate: 0/1400=0.0
+mmlu Refusal Rate: 0/193=0.0
+jama Refusal Rate: 0/582=0.0
+medxpert Refusal Rate: 0/318=0.0
+medbullets Refusal Rate: 0/207=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+GPT5Race
+Overall Refusal Rate: 3/1047=0.0028653295128939827
+mmlu Refusal Rate: 0/156=0.0
+jama Refusal Rate: 0/333=0.0
+medxpert Refusal Rate: 0/268=0.0
+medbullets Refusal Rate: 2/190=0.010526315789473684
+Q-Pain Refusal Rate: 1/100=0.01
+
+GPT4oHouseholdIncome
+Overall Refusal Rate: 1010/1400=0.7214285714285714
+mmlu Refusal Rate: 114/193=0.5906735751295337
+jama Refusal Rate: 440/582=0.7560137457044673
+medxpert Refusal Rate: 230/318=0.7232704402515723
+medbullets Refusal Rate: 133/207=0.642512077294686
+Q-Pain Refusal Rate: 93/100=0.93
+
+GPT4oHousingStatus
+Overall Refusal Rate: 37/1303=0.0283960092095165
+mmlu Refusal Rate: 7/174=0.040229885057471264
+jama Refusal Rate: 8/555=0.014414414414414415
+medxpert Refusal Rate: 18/285=0.06315789473684211
+medbullets Refusal Rate: 2/189=0.010582010582010581
+Q-Pain Refusal Rate: 2/100=0.02
+
+GPT4oInsuranceStatus
+Overall Refusal Rate: 35/1400=0.025
+mmlu Refusal Rate: 12/193=0.06217616580310881
+jama Refusal Rate: 5/582=0.00859106529209622
+medxpert Refusal Rate: 12/318=0.03773584905660377
+medbullets Refusal Rate: 1/207=0.004830917874396135
+Q-Pain Refusal Rate: 5/100=0.05
+
+GPT4oRace
+Overall Refusal Rate: 218/1047=0.2082139446036294
+mmlu Refusal Rate: 55/156=0.3525641025641026
+jama Refusal Rate: 15/333=0.04504504504504504
+medxpert Refusal Rate: 56/268=0.208955223880597
+medbullets Refusal Rate: 28/190=0.14736842105263157
+Q-Pain Refusal Rate: 64/100=0.64
+
+LlamaHouseholdIncome
+Overall Refusal Rate: 584/1400=0.41714285714285715
+mmlu Refusal Rate: 14/193=0.07253886010362694
+jama Refusal Rate: 433/582=0.7439862542955327
+medxpert Refusal Rate: 39/318=0.12264150943396226
+medbullets Refusal Rate: 51/207=0.2463768115942029
+Q-Pain Refusal Rate: 47/100=0.47
+
+LlamaHousingStatus
+Overall Refusal Rate: 0/1303=0.0
+mmlu Refusal Rate: 0/174=0.0
+jama Refusal Rate: 0/555=0.0
+medxpert Refusal Rate: 0/285=0.0
+medbullets Refusal Rate: 0/189=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+LlamaInsuranceStatus
+Overall Refusal Rate: 0/1400=0.0
+mmlu Refusal Rate: 0/193=0.0
+jama Refusal Rate: 0/582=0.0
+medxpert Refusal Rate: 0/318=0.0
+medbullets Refusal Rate: 0/207=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+LlamaRace
+Overall Refusal Rate: 0/1047=0.0
+mmlu Refusal Rate: 0/156=0.0
+jama Refusal Rate: 0/333=0.0
+medxpert Refusal Rate: 0/268=0.0
+medbullets Refusal Rate: 0/190=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+MedGemmaHouseholdIncome
+Overall Refusal Rate: 1294/1400=0.9242857142857143
+mmlu Refusal Rate: 178/193=0.9222797927461139
+jama Refusal Rate: 528/582=0.9072164948453608
+medxpert Refusal Rate: 300/318=0.9433962264150944
+medbullets Refusal Rate: 188/207=0.9082125603864735
+Q-Pain Refusal Rate: 100/100=1.0
+
+MedGemmaHousingStatus
+Overall Refusal Rate: 0/1303=0.0
+mmlu Refusal Rate: 0/174=0.0
+jama Refusal Rate: 0/555=0.0
+medxpert Refusal Rate: 0/285=0.0
+medbullets Refusal Rate: 0/189=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+MedGemmaInsuranceStatus
+Overall Refusal Rate: 0/1400=0.0
+mmlu Refusal Rate: 0/193=0.0
+jama Refusal Rate: 0/582=0.0
+medxpert Refusal Rate: 0/318=0.0
+medbullets Refusal Rate: 0/207=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+MedGemmaRace
+Overall Refusal Rate: 1/1047=0.0009551098376313276
+mmlu Refusal Rate: 0/156=0.0
+jama Refusal Rate: 0/333=0.0
+medxpert Refusal Rate: 1/268=0.0037313432835820895
+medbullets Refusal Rate: 0/190=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+QwenHouseholdIncome
+Overall Refusal Rate: 1249/1400=0.8921428571428571
+mmlu Refusal Rate: 185/193=0.9585492227979274
+jama Refusal Rate: 474/582=0.8144329896907216
+medxpert Refusal Rate: 298/318=0.9371069182389937
+medbullets Refusal Rate: 192/207=0.927536231884058
+Q-Pain Refusal Rate: 100/100=1.0
+
+QwenHousingStatus
+Overall Refusal Rate: 64/1303=0.04911742133537989
+mmlu Refusal Rate: 0/174=0.0
+jama Refusal Rate: 44/555=0.07927927927927927
+medxpert Refusal Rate: 6/285=0.021052631578947368
+medbullets Refusal Rate: 1/189=0.005291005291005291
+Q-Pain Refusal Rate: 13/100=0.13
+
+QwenInsuranceStatus
+Overall Refusal Rate: 0/1400=0.0
+mmlu Refusal Rate: 0/193=0.0
+jama Refusal Rate: 0/582=0.0
+medxpert Refusal Rate: 0/318=0.0
+medbullets Refusal Rate: 0/207=0.0
+Q-Pain Refusal Rate: 0/100=0.0
+
+QwenRace
+Overall Refusal Rate: 77/1047=0.07354345749761222
+mmlu Refusal Rate: 0/156=0.0
+jama Refusal Rate: 9/333=0.02702702702702703
+medxpert Refusal Rate: 0/268=0.0
+medbullets Refusal Rate: 0/190=0.0
+Q-Pain Refusal Rate: 68/100=0.68
+

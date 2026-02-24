@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 import pandas as pd
 
-df = pd.read_csv("Results/qwen/equipair/qwen_Merged_Union.csv")
+df = pd.read_csv("Results/medgemma/equipair/MedGemma_Merged_Intersection.csv")
 
 # Create dimensions
 household_income_dim = go.parcats.Dimension(
@@ -20,11 +20,11 @@ race_dim = go.parcats.Dimension(values=df.race, label="Race")
 # Create parcats trace
 race_codes, race_labels = pd.factorize(df["race"])
 race_to_color = {
-    "Asian": "#f35f73",
-    "Black": "#ff8ca0",
-    "Pacific Islander": "#fcb558",
-    "White": "#ffce91",
-    "Not Classified": "#bcd574",
+    "Asian": "#207EB5",
+    "Black": "#B4DADB",
+    "Pacific Islander": "#5986E3",
+    "White": "#A5B4ED",
+    "Not Classified": "#A6EAFD",
 }
 n = len(race_labels)
 color = race_codes;

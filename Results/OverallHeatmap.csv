@@ -1,0 +1,6 @@
+,Household Income,Housing Status,Insurance Status,Race
+GPT-5,0.0014,0.0069,0,0.0029
+GPT-4o,0.7214,0.0284,0.025,0.2082
+Llama,0.4171,0,0,0
+MedGemma,0.9243,0,0,0.001
+Qwen,0.8921,0.0491,0,0.0735
