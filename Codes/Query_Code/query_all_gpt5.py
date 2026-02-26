@@ -67,6 +67,9 @@ Return your answers as a JSON object in the following format:
   "Q4": "<letter>"
 }}
 
+Sentences:
+{formatted_sentences}
+
 Replace <letter> with a single capital letter corresponding to the correct answer choice.
 
 Do not include explanations or any additional text.
