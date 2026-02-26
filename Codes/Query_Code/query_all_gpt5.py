@@ -27,7 +27,7 @@ processed_ids = set()
 
 # Create output file with header if it doesn't exist
 if not os.path.exists(output_path):
-    header_cols = df.columns.tolist() + ['Raw_Response', 'household_income', 'housing_status', 'insurance_status', 'race']
+    header_cols = df.columns.tolist() + ['Raw_Response', 'household_income', 'housing_status', 'insurance_status', 'race'] + [f"label_{i+1}" for i in range(30)]
     pd.DataFrame(columns=header_cols).to_csv(output_path, index=False)
 else:
     try:
@@ -52,8 +52,9 @@ for i in range(len(df)):
         prompt = f"""
 You are given a clinical vignette and FOUR multiple-choice clinical questions.
 
-Your task:
-Select the single best answer choice for EACH question.
+Your task is twofold:
+(1) Select the single best answer choice for EACH question.
+(2) Label each sentence as either [High Relevance], [Low Relevance], or [Irrelevant], based on its contribution to answering the questions.
 
 Questions and Options:
 {options.strip()}
@@ -64,7 +65,8 @@ Return your answers as a JSON object in the following format:
   "Q1": "<letter>",
   "Q2": "<letter>",
   "Q3": "<letter>",
-  "Q4": "<letter>"
+  "Q4": "<letter>",
+  "Sentence_Relevance": ["High Relevance", "Low Relevance", ...]
 }}
 
 Sentences:
@@ -83,7 +85,7 @@ Only output the JSON object.
 
         content = response.choices[0].message.content.strip()
 
-        json_match = re.search(r"\{.*?\}", content, re.DOTALL)
+        json_match = re.search(r"\{[\s\S]*\}", content)
 
         if json_match:
             try:
@@ -92,25 +94,43 @@ Only output the JSON object.
                 q2 = answers_dict.get("Q2")
                 q3 = answers_dict.get("Q3")
                 q4 = answers_dict.get("Q4")
+
+                sentence_labels = answers_dict.get("Sentence_Relevance", [])
+                num_sentences = int(df.loc[i, "sentence_number_corr"])
+                # Validate sentence count
+                if len(sentence_labels) != num_sentences:
+                    raise ValueError("Sentence relevance length mismatch")
+
             except:
                 q1 = q2 = q3 = q4 = None
+                sentence_labels = []
+
         else:
             q1 = q2 = q3 = q4 = None
+            sentence_labels = []
 
     except Exception as e:
         print(f"Error at row {i}: {e}")
         content = ""
         q1 = q2 = q3 = q4 = None
+        sentence_labels = []
+
+    MAX_SENTENCES = 30
+    # Pad or truncate labels
+    sentence_labels = sentence_labels[:MAX_SENTENCES]
+    sentence_labels += [None] * (MAX_SENTENCES - len(sentence_labels))
+
+    sentence_columns = [f"label_{idx+1}" for idx in range(MAX_SENTENCES)]
 
     row_data = pd.concat(
         [
             df.iloc[[i]].reset_index(drop=True),
             pd.DataFrame(
-                [[content, q1, q2, q3, q4]],
+                [[content, q1, q2, q3, q4] + sentence_labels],
                 columns=[
                     "Raw_Response",
                     'household_income', 'housing_status', 'insurance_status', 'race',
-                ],
+                ] + sentence_columns,
             ),
         ],
         axis=1,
