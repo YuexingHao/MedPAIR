@@ -1,6 +1,6 @@
 import pandas as pd
 
-dir_path = "Results/gpt5/EquiPAIRQuestions/"
+dir_path = "Results/medgemma/equipair/"
 individual_questions = pd.read_csv(f"{dir_path}combined_relevance.csv")
 combined_questions = pd.read_csv(f"{dir_path}all_questions.csv")
 
