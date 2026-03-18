@@ -1,9 +1,11 @@
 import pandas as pd
 
-household_income_df = pd.read_csv("Results/gpt5/EquiPAIRQuestions/household_income_questions.csv")
-housing_status_df = pd.read_csv("Results/gpt5/EquiPAIRQuestions/housing_status.csv")
-insurance_df = pd.read_csv("Results/gpt5/EquiPAIRQuestions/insurance_questions.csv")
-race_df = pd.read_csv("Results/gpt5/EquiPAIRQuestions/race_questions.csv")
+dir_path = "Results/medgemma/equipair/"
+
+household_income_df = pd.read_csv(f"{dir_path}household_income.csv")
+housing_status_df = pd.read_csv(f"{dir_path}housing_status.csv")
+insurance_df = pd.read_csv(f"{dir_path}insurance_questions.csv")
+race_df = pd.read_csv(f"{dir_path}race_questions.csv")
 
 dfs = [household_income_df, housing_status_df, insurance_df, race_df]
 
@@ -32,6 +34,6 @@ for _, row in household_income_df.iterrows():
     relevance_combined_df.loc[len(relevance_combined_df)] = new_row
 
 relevance_combined_df.to_csv(
-    "Results/gpt5/EquiPAIRQuestions/combined_relevance.csv",
+    f"{dir_path}combined_relevance.csv",
     index=False
 )
