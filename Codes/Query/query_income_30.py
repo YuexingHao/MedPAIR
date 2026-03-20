@@ -5,7 +5,7 @@ import os
 
 # Setup OpenAI client
 from openai import OpenAI
-client = OpenAI(api_key="OPENAIAPIKEY")
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 # Output file path
 output_path = "MedPAIREquity/Results/income_30200_last_sentence_data.csv"
