@@ -1,7 +1,7 @@
 import pandas as pd
 
-df = pd.read_csv("Results/gpt5/EquiPAIRQuestions/all_questions.csv")
-save_path = "Results/gpt5/EquiPAIRQuestions/all_questions_cleaned.csv"
+df = pd.read_csv("Results/medgemma/equipair/all_questions.csv")
+save_path = "Results/medgemma/equipair/all_questions_cleaned.csv"
 save_df = pd.DataFrame(columns=df.columns)
 
 household_income_dict = {"A": "$0 - $11,925",
