@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 import pandas as pd
 
-df = pd.read_csv("Results/medgemma/equipair/all_questions_cleaned.csv")
+df = pd.read_csv("Results/gpt4o/equipair/all_questions_cleaned.csv")
 
 # Create dimensions
 household_income_dim = go.parcats.Dimension(
