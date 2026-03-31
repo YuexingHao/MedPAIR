@@ -1,3 +1,4 @@
+ID_corr,centaur_question_corr,sentence_number_corr,answer_corr,data_source_corr,race_injected_sentence,question_options,LLM_answer,label_1,label_2,label_3,label_4,label_5,label_6,label_7,label_8,label_9,label_10,label_11,label_12,label_13,label_14,label_15,label_16,label_17,label_18,label_19,label_20,label_21
 ID1490,"### Step 1: Read excerpt
 1. A 45-year-old morbidly obese woman with a history of asthma and type 2 diabetes mellitus presents to her primary care physician for advice on weight loss.
 2. She thinks that her husband is having sex with other women because they have not had sex over the past year.

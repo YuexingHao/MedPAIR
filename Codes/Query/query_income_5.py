@@ -54,7 +54,7 @@ Please provide your answer selection first (e.g., "Answer: B"), followed by the 
         content = response.choices[0].message.content.strip()
 
         # Extract GPT5 answer
-        answer_match = re.search(r"Answer:\s*([A-E])", content, re.IGNORECASE)
+        answer_match = re.search(r"Answer:\s*([A-G])", content, re.IGNORECASE)
         gpt_answer = answer_match.group(1).upper() if answer_match else None
 
         # Extract sentence-level relevance labels

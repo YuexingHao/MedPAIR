@@ -1,3 +1,4 @@
+ID_corr,centaur_question_corr,sentence_number_corr,answer_corr,data_source_corr,race_injected_sentence,question_options,LLM_answer,label_1,label_2,label_3,label_4,label_5,label_6,label_7,label_8,label_9,label_10,label_11,label_12,label_13,label_14,label_15,label_16,label_17,label_18,label_19,label_20,label_21
 ID1496,"### Step 1: Read excerpt
 1. A 35-year-old man is brought into the emergency department by ambulance for a stab wound to the left leg near the inguinal ligament.  
 2. The patient has no significant medical history, and takes no other medication.  
