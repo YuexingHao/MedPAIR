@@ -8,8 +8,8 @@ from openai import OpenAI
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 # Output file path
-output_path = "MedPAIREquity/Results/random_location/pacific_islander.csv"
-df = pd.read_csv("MedPAIREquity/perturbations/random_location/pacific_islander.csv")
+output_path = "MedPAIREquity/Results/all_qas.csv"
+df = pd.read_csv("1300_QA.csv")
 
 # Create output file with header if it doesn't exist
 if not os.path.exists(output_path):
