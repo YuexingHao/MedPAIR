@@ -19,7 +19,7 @@ if not os.path.exists(output_path):
 # Iterate through each row
 for i in range(len(df)): 
     try:
-        sentences = re.split(r'\n\d+\.\s*', df.loc[i, "race_injected_sentence"])
+        sentences = re.split(r'\n\d+\.\s*', df.loc[i, "original_sentences"])
         print(len(sentences))
         options = df.loc[i, "question_options"]
 
@@ -69,7 +69,7 @@ Please provide your answer selection first (e.g., "Answer: B"), followed by the 
 
     row_data = pd.concat(
         [df.iloc[[i]].reset_index(drop=True),
-         pd.DataFrame([[gpt_answer] + labels], columns=['GPT5_answer'] + [f"label_{j+1}" for j in range(21)])
+         pd.DataFrame([[gpt_answer] + labels], columns=['LLM_answer'] + [f"label_{j+1}" for j in range(21)])
         ],
         axis=1
     )
