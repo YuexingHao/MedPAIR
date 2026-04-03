@@ -103,3 +103,10 @@ jama Last Sentence Relevant: mean=0.0549, std=0.2282, 95% CI=(0.0258, 0.0839)
 medxpert Last Sentence Relevant: mean=0.0640, std=0.2454, 95% CI=(0.0303, 0.0978)
 medbullets Last Sentence Relevant: mean=0.0663, std=0.2495, 95% CI=(0.0283, 0.1042)
 
+original
+Overall Last Sentence Relevant: mean=0.7975, std=0.4021, 95% CI=(0.7721, 0.8229)
+mmlu Last Sentence Relevant: mean=0.8882, std=0.3161, 95% CI=(0.8394, 0.9370)
+jama Last Sentence Relevant: mean=0.6684, std=0.4714, 95% CI=(0.6217, 0.7150)
+medxpert Last Sentence Relevant: mean=0.9083, std=0.2892, 95% CI=(0.8708, 0.9458)
+medbullets Last Sentence Relevant: mean=0.8564, std=0.3517, 95% CI=(0.8051, 0.9076)
+
