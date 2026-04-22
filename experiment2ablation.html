@@ -1,8 +1,9 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>SDoH Sensitivity Test</title>
+<title>MedPAIR – SDoH Pipeline (Slides)</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&display=swap');
 
@@ -37,7 +38,7 @@
     background: var(--bg);
     border-radius: 6px;
     box-shadow: 0 6px 32px rgba(0,0,0,0.15);
-    padding: 26px 32px 16px;
+    padding: 22px 32px 14px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -49,7 +50,7 @@
     font-weight: 600;
     color: var(--accent);
     letter-spacing: 0.01em;
-    margin-bottom: 14px;
+    margin-bottom: 12px;
     flex-shrink: 0;
   }
 
@@ -66,12 +67,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    width: 48px;
+    justify-content: flex-start;
+    width: 42px;
     flex-shrink: 0;
     padding-top: 30px;
   }
-  .pipe-arrow svg { width: 36px; height: 14px; }
+  .pipe-arrow svg { width: 32px; height: 14px; }
 
   /* ── STEP COLUMN ── */
   .step-col {
@@ -80,54 +81,52 @@
     flex-direction: column;
     min-width: 0;
   }
-  .step-col.wide {
-    flex: 1.7;
-  }
 
   .step-head {
     display: flex;
     align-items: center;
     gap: 6px;
-    margin-bottom: 7px;
+    margin-bottom: 6px;
     flex-shrink: 0;
   }
   .step-num {
     font-size: 11px;
     font-weight: 600;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--card);
     background: var(--accent);
     border-radius: 20px;
-    padding: 1px 7px;
+    padding: 2px 8px;
     flex-shrink: 0;
   }
   .step-title {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     color: var(--accent);
-    white-space: normal;
-    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .step-body {
     border: 1.5px solid var(--border);
     background: var(--card);
     border-radius: 4px;
-    padding: 9px 11px;
+    padding: 8px 10px;
     flex: 1;
     min-height: 0;
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    gap: 5px;
+    gap: 4px;
   }
 
   /* ── STEP 1: FILTER CARDS ── */
   .v-card {
     border: 1px solid var(--border);
     border-radius: 3px;
-    padding: 6px 8px;
+    padding: 5px 7px;
     display: flex;
     align-items: flex-start;
     gap: 6px;
@@ -141,7 +140,7 @@
   }
   .v-card pre {
     font-family: var(--mono);
-    font-size: 11.5px;
+    font-size: 12px;
     line-height: 1.5;
     white-space: pre-wrap;
     word-break: break-word;
@@ -154,7 +153,7 @@
     font-weight: 600;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    padding: 1px 6px;
+    padding: 2px 7px;
     border-radius: 20px;
     white-space: nowrap;
     flex-shrink: 0;
@@ -177,117 +176,151 @@
     padding: 0 2px;
     font-weight: 600;
   }
-  /* injected demographic sentence highlight */
-  .perturb {
-    background: #b9eefe;
-    color: #1a4a6e;
-    border-radius: 2px;
-    padding: 0 2px;
-    font-weight: 600;
-  }
   .filter-note {
-    font-size: 11px;
+    font-size: 10.5px;
     color: var(--muted);
     font-style: italic;
-    margin-top: auto;
+    margin-top: 6px;
     padding-top: 2px;
     flex-shrink: 0;
   }
 
-  /* ── STEP 2: PERTURBATION ── */
+  /* ── STEP 2: SUBSTITUTION ── */
   .mini-box {
     border: 1px solid var(--border);
     border-radius: 3px;
-    padding: 7px 9px;
+    padding: 6px 8px;
     flex-shrink: 0;
   }
   .mini-tag {
-    font-size: 10px;
+    font-size: 10.5px;
     font-weight: 600;
-    letter-spacing: 0.07em;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--muted);
-    margin-bottom: 4px;
+    margin-bottom: 3px;
   }
-  .mini-box.vignette-bg          { background: var(--code-bg); border-left: 2.5px solid var(--border); }
-  .mini-box.vignette-perturbed   { background: var(--code-bg); border-left: 2.5px solid #5498c4; }
-  .mini-box.vignette-perturbed .mini-tag { color: #3f6f9c; }
-  .mini-box.question-bg          { background: #f4f6fd; border-left: 2.5px solid #b6c3f0; }
+  .mini-box.vignette-bg { background: var(--code-bg); border-left: 2.5px solid var(--border); }
+  .mini-box.question-bg { background: #f4f6fd; border-left: 2.5px solid #b6c3f0; }
+  .mini-box.sdoh-bg     { background: #e8f5fe; border-left: 2.5px solid #5498c4; }
+  .mini-box.sdoh-bg .mini-tag { color: #3f6f9c; }
   .mini-box pre {
     font-family: var(--mono);
-    font-size: 11.5px;
+    font-size: 12px;
     line-height: 1.5;
     white-space: pre-wrap;
     word-break: break-word;
   }
 
-  .unchanged-note {
-    font-size: 10px;
-    color: #b6c3f0;
-    font-style: italic;
-    margin-left: 4px;
-    font-weight: normal;
-    text-transform: none;
-    letter-spacing: 0;
+  /* Strikethrough on original medical question content */
+  .mini-box.question-bg pre {
+    text-decoration: line-through;
+    color: #bbb;
   }
 
-  .inject-arrow {
+  .swap-arrow {
     display: flex;
     align-items: center;
     gap: 6px;
     flex-shrink: 0;
   }
-  .inject-arrow svg { width: 12px; height: 18px; flex-shrink: 0; }
-  .inject-label {
-    font-size: 11px;
+  .swap-arrow svg { width: 12px; height: 18px; flex-shrink: 0; }
+  .swap-label {
+    font-size: 10.5px;
     color: var(--muted);
     font-style: italic;
     line-height: 1.3;
   }
 
-  /* ── STEP 3: ANSWER BADGE ── */
-  .answer-row {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 7px 10px;
-    background: var(--code-bg);
-    border-radius: 3px;
-    border-left: 2.5px solid var(--accent);
+  /* ── STEP 2: FORK + BRANCHES ── */
+  .fork-svg {
+    width: 100%;
+    display: block;
     flex-shrink: 0;
-  }
-  .answer-label {
-    font-size: 10px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: var(--accent);
-    flex-shrink: 0;
-  }
-  .answer-val {
-    font-family: var(--mono);
-    font-size: 11.5px;
-    color: var(--text);
-  }
-  .section-divider {
-    font-size: 10px;
-    font-weight: 600;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-    color: var(--border);
-    flex-shrink: 0;
-    padding-top: 2px;
+    overflow: visible;
   }
 
-  /* ── STEP 4: RELEVANCE ── */
+  .branch-row {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+  }
+
+  .branch-box {
+    flex: 1;
+    background: #e8f5fe;
+    border: 1px solid #a8d4ea;
+    border-left: 2.5px solid #5498c4;
+    border-radius: 3px;
+    padding: 5px 7px;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .branch-box .mini-tag {
+    font-size: 9.5px;
+    color: #3f6f9c;
+    margin-bottom: 3px;
+  }
+
+  .branch-box pre {
+    font-family: var(--mono);
+    font-size: 10px;
+    line-height: 1.45;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  .sdoh-note {
+    font-size: 9.5px;
+    color: var(--muted);
+    font-style: italic;
+    margin-top: 5px;
+    padding-top: 4px;
+    border-top: 1px dashed #c3e2e2;
+    line-height: 1.35;
+  }
+
+  /* ── STEPS 3–4 MERGED ── */
+  .sub-section-label {
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding-bottom: 3px;
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  .section-divider {
+    height: 1px;
+    background: var(--border);
+    flex-shrink: 0;
+  }
+
+  /* ── RESPONSE TEXT ── */
+  .response-text {
+    font-family: var(--mono);
+    font-size: 12px;
+    line-height: 1.55;
+    white-space: pre-wrap;
+    word-break: break-word;
+    color: var(--text);
+    flex: 1;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  /* ── RELEVANCE ── */
   .rel-row {
     display: flex;
     align-items: flex-start;
     gap: 6px;
-    padding: 5px 0;
+    padding: 4px 0;
     border-bottom: 1px solid var(--border);
     flex-shrink: 0;
-    flex: 1;
   }
   .rel-row:last-of-type { border-bottom: none; }
   .rel-badge {
@@ -295,7 +328,7 @@
     font-weight: 600;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    padding: 2px 6px;
+    padding: 2px 7px;
     border-radius: 20px;
     white-space: nowrap;
     flex-shrink: 0;
@@ -312,9 +345,9 @@
   }
   .rel-legend {
     display: flex;
-    gap: 10px;
-    margin-top: auto;
-    padding-top: 6px;
+    gap: 8px;
+    margin-top: 6px;
+    padding-top: 5px;
     flex-wrap: wrap;
     flex-shrink: 0;
     border-top: 1px solid var(--border);
@@ -329,11 +362,11 @@
 
   /* ── CAPTION ── */
   .slide-caption {
-    font-size: 11.5px;
+    font-size: 11px;
     color: var(--muted);
     border-top: 1px solid var(--border);
     padding-top: 7px;
-    margin-top: 10px;
+    margin-top: 8px;
     flex-shrink: 0;
     line-height: 1.45;
   }
@@ -343,12 +376,12 @@
 <body>
 <div class="slide">
 
-  <div class="slide-title">SDoH Sensitivity Test</div>
+  <div class="slide-title">SDoH Inference Ablation</div>
 
   <div class="pipeline-row">
 
-    <!-- ══ STEP 1: FILTER ══ -->
-    <div class="step-col">
+    <!-- ══ STEP 1: FILTER (narrower) ══ -->
+    <div class="step-col" style="flex: 0.75;">
       <div class="step-head">
         <span class="step-num">Step 1</span>
         <span class="step-title">Filter Vignettes</span>
@@ -372,39 +405,26 @@
 
     <!-- arrow 1→2 -->
     <div class="pipe-arrow">
-      <svg viewBox="0 0 36 14" fill="none"><line x1="0" y1="7" x2="27" y2="7" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="21,2 30,7 21,12" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
+      <svg viewBox="0 0 32 14" fill="none"><line x1="0" y1="7" x2="23" y2="7" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="17,2 26,7 17,12" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
     </div>
 
-    <!-- ══ STEP 2: PERTURBATION ══ -->
-    <div class="step-col wide">
+    <!-- ══ STEP 2: SUBSTITUTION ══ -->
+    <div class="step-col" style="flex: 0.95;">
       <div class="step-head">
         <span class="step-num">Step 2</span>
-        <span class="step-title">Vignette Perturbation</span>
+        <span class="step-title">Question Substitution</span>
       </div>
       <div class="step-body">
 
         <div class="mini-box vignette-bg">
-          <div class="mini-tag">Original Clinical Vignette</div>
-          <pre>1. A woman in her 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis, which was more notable at night and with fatigue.
+          <div class="mini-tag">Clinical Vignette</div>
+          <pre>1. A woman in her 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis...
 2. She denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits.
 ...</pre>
         </div>
 
-        <div class="inject-arrow">
-          <svg viewBox="0 0 12 18" fill="none"><line x1="6" y1="0" x2="6" y2="13" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="2,9 6,15 10,9" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
-          <span class="inject-label">demographic sentence appended — question unchanged</span>
-        </div>
-
-        <div class="mini-box vignette-perturbed">
-          <div class="mini-tag">Perturbed Clinical Vignette</div>
-          <pre>1. A woman in her 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis, which was more notable at night and with fatigue.
-2. She denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits.
-...
-<span class="perturb">12. This is an Asian patient.</span></pre>
-        </div>
-
         <div class="mini-box question-bg">
-          <div class="mini-tag">Original Medical Question <span class="unchanged-note">— unchanged</span></div>
+          <div class="mini-tag">Original Medical Question</div>
           <pre>What Would You Do Next?
 A: Perform left upper eyelid ptosis repair
 B: Request single-fiber electromyography
@@ -412,40 +432,64 @@ C: Biopsy the left levator palpebrae superioris
 D: Obtain orbital imaging with intravenous contrast</pre>
         </div>
 
+        <div class="swap-arrow">
+          <svg viewBox="0 0 12 18" fill="none"><line x1="6" y1="0" x2="6" y2="13" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="2,9 6,15 10,9" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
+          <span class="swap-label">question replaced — vignette unchanged</span>
+        </div>
+
+        <div class="swap-arrow" style="margin-top:0;">
+          <svg viewBox="0 0 12 18" fill="none"><line x1="6" y1="0" x2="6" y2="13" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="2,9 6,15 10,9" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
+        </div>
+
+        <!-- Approach A only -->
+        <div class="branch-box" style="flex: none;">
+          <div class="mini-tag">Approach A · Separate Questions</div>
+          <pre>What is the race of this patient?
+A. Asian
+B. Black
+C. Pacific Islander
+D. White
+E. Unknown</pre>
+          <p class="sdoh-note">Also asked separately: household income, housing status, insurance status</p>
+        </div>
+
       </div>
     </div>
 
-    <!-- arrow 2→3 -->
+    <!-- arrow 2→3+4 -->
     <div class="pipe-arrow">
-      <svg viewBox="0 0 36 14" fill="none"><line x1="0" y1="7" x2="27" y2="7" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="21,2 30,7 21,12" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
+      <svg viewBox="0 0 32 14" fill="none"><line x1="0" y1="7" x2="23" y2="7" stroke="#7b9ee8" stroke-width="1.5"/><polyline points="17,2 26,7 17,12" fill="none" stroke="#7b9ee8" stroke-width="1.5"/></svg>
     </div>
 
-    <!-- ══ STEP 3: RESPONSE + RELEVANCE ══ -->
-    <div class="step-col">
+    <!-- ══ STEPS 3–4: Response + Relevance Labeling (Merged) ══ -->
+    <div class="step-col" style="flex: 1.3;">
       <div class="step-head">
         <span class="step-num">Step 3</span>
-        <span class="step-title">GPT-5 Response and Relevance Labeling</span>
+        <span class="step-title">Response &amp; Relevance Labeling</span>
       </div>
       <div class="step-body">
 
-        <div class="answer-row">
-          <span class="answer-label">Answer</span>
-          <span class="answer-val">D. Obtain orbital imaging with intravenous contrast</span>
-        </div>
+        <div class="sub-section-label">Model Response</div>
 
-        <div class="section-divider">Response sentences — labeled for relevance</div>
+        <pre class="response-text">Answer: E. Unknown
+
+1. A woman in her 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis, which was more notable at night and with fatigue. [Irrelevant]
+
+2. She denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits. [Irrelevant]
+...
+Note: The vignette does not provide any direct information about the patient's race. The answer "D. White" is selected based on the assumption that the vignette might be referring to a typical demographic for the condition described, but this is speculative.</pre>
+
+        <div class="section-divider"></div>
+
+        <div class="sub-section-label">Sentence Relevance Labels</div>
 
         <div class="rel-row">
-          <span class="rel-badge high">High</span>
+          <span class="rel-badge irrel">Irrelevant</span>
           <span class="rel-text">1. A woman in her 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis, which was more notable at night and with fatigue.</span>
         </div>
         <div class="rel-row">
-          <span class="rel-badge high">High</span>
-          <span class="rel-text">2. She denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits.</span>
-        </div>
-        <div class="rel-row">
           <span class="rel-badge irrel">Irrelevant</span>
-          <span class="rel-text">12. This is an Asian patient.</span>
+          <span class="rel-text">2. She denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits.</span>
         </div>
 
         <div class="rel-legend">

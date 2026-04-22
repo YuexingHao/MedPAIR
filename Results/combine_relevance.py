@@ -1,6 +1,6 @@
 import pandas as pd
 
-dir_path = "Results/medgemma/equipair/"
+dir_path = "Results/qwen/equipair/"
 
 household_income_df = pd.read_csv(f"{dir_path}household_income.csv")
 housing_status_df = pd.read_csv(f"{dir_path}housing_status.csv")
