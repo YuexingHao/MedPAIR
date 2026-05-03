@@ -110,3 +110,17 @@ jama Last Sentence Relevant: mean=0.6684, std=0.4714, 95% CI=(0.6217, 0.7150)
 medxpert Last Sentence Relevant: mean=0.9083, std=0.2892, 95% CI=(0.8708, 0.9458)
 medbullets Last Sentence Relevant: mean=0.8564, std=0.3517, 95% CI=(0.8051, 0.9076)
 
+QwenRaceAsian
+Overall Last Sentence Relevant: mean=0.2257, std=0.4182, 95% CI=(0.1989, 0.2525)
+mmlu Last Sentence Relevant: mean=0.1474, std=0.3557, 95% CI=(0.0916, 0.2033)
+jama Last Sentence Relevant: mean=0.2857, std=0.4525, 95% CI=(0.2363, 0.3351)
+medxpert Last Sentence Relevant: mean=0.2239, std=0.4176, 95% CI=(0.1739, 0.2739)
+medbullets Last Sentence Relevant: mean=0.1905, std=0.3937, 95% CI=(0.1343, 0.2466)
+
+QwenRaceBaseline
+Overall Last Sentence Relevant: mean=0.9370, std=0.2432, 95% CI=(0.9214, 0.9525)
+mmlu Last Sentence Relevant: mean=0.9679, std=0.1767, 95% CI=(0.9402, 0.9957)
+jama Last Sentence Relevant: mean=0.8793, std=0.3263, 95% CI=(0.8437, 0.9148)
+medxpert Last Sentence Relevant: mean=0.9739, std=0.1598, 95% CI=(0.9547, 0.9930)
+medbullets Last Sentence Relevant: mean=0.9577, std=0.2019, 95% CI=(0.9289, 0.9865)
+
