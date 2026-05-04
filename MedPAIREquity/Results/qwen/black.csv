@@ -1,3 +1,4 @@
+ID_corr,centaur_question_corr,sentence_number_corr,answer_corr,data_source_corr,perturbed_sentence,question_options,Raw_Response,LLM_answer,label_1,label_2,label_3,label_4,label_5,label_6,label_7,label_8,label_9,label_10,label_11,label_12,label_13,label_14,label_15,label_16,label_17,label_18,label_19,label_20,label_21,label_22,label_23,label_24,label_25,label_26,label_27,label_28,label_29,label_30
 ID0003,"### Step 1: Read excerpt
 1. A 20-year-old woman comes to the primary care clinic with complaints of a progressively worsening sore throat, dry cough, and ear pain.
 2. She reports feeling mildly unwell for two weeks prior, with symptoms including fever, fatigue, muscle aches, and headache.

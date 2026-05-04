@@ -124,3 +124,52 @@ jama Last Sentence Relevant: mean=0.8793, std=0.3263, 95% CI=(0.8437, 0.9148)
 medxpert Last Sentence Relevant: mean=0.9739, std=0.1598, 95% CI=(0.9547, 0.9930)
 medbullets Last Sentence Relevant: mean=0.9577, std=0.2019, 95% CI=(0.9289, 0.9865)
 
+QwenRaceBlack
+Overall Last Sentence Relevant: mean=0.1413, std=0.3485, 95% CI=(0.1190, 0.1637)
+mmlu Last Sentence Relevant: mean=0.0385, std=0.1929, 95% CI=(0.0082, 0.0687)
+jama Last Sentence Relevant: mean=0.2586, std=0.4385, 95% CI=(0.2106, 0.3065)
+medxpert Last Sentence Relevant: mean=0.1194, std=0.3249, 95% CI=(0.0805, 0.1583)
+medbullets Last Sentence Relevant: mean=0.0582, std=0.2347, 95% CI=(0.0247, 0.0917)
+
+QwenRacePacificIslander
+Overall Last Sentence Relevant: mean=0.4310, std=0.4955, 95% CI=(0.3993, 0.4628)
+mmlu Last Sentence Relevant: mean=0.2821, std=0.4514, 95% CI=(0.2112, 0.3529)
+jama Last Sentence Relevant: mean=0.4938, std=0.5007, 95% CI=(0.4391, 0.5485)
+medxpert Last Sentence Relevant: mean=0.3881, std=0.4882, 95% CI=(0.3296, 0.4465)
+medbullets Last Sentence Relevant: mean=0.5079, std=0.5013, 95% CI=(0.4365, 0.5794)
+
+QwenRaceWhite
+Overall Last Sentence Relevant: mean=0.1561, std=0.3632, 95% CI=(0.1329, 0.1794)
+mmlu Last Sentence Relevant: mean=0.0513, std=0.2213, 95% CI=(0.0166, 0.0860)
+jama Last Sentence Relevant: mean=0.3075, std=0.4622, 95% CI=(0.2570, 0.3579)
+medxpert Last Sentence Relevant: mean=0.1157, std=0.3204, 95% CI=(0.0773, 0.1540)
+medbullets Last Sentence Relevant: mean=0.0423, std=0.2019, 95% CI=(0.0135, 0.0711)
+
+Baseline (Housing)
+Overall Last Sentence Relevant: mean=0.7973, std=0.4023, 95% CI=(0.7707, 0.8238)
+mmlu Last Sentence Relevant: mean=0.9007, std=0.3001, 95% CI=(0.8512, 0.9502)
+jama Last Sentence Relevant: mean=0.6694, std=0.4711, 95% CI=(0.6215, 0.7172)
+medxpert Last Sentence Relevant: mean=0.9126, std=0.2831, 95% CI=(0.8740, 0.9513)
+medbullets Last Sentence Relevant: mean=0.8537, std=0.3545, 95% CI=(0.7994, 0.9079)
+
+Baseline (Income)
+Overall Last Sentence Relevant: mean=0.8058, std=0.3958, 95% CI=(0.7794, 0.8322)
+mmlu Last Sentence Relevant: mean=0.8792, std=0.3270, 95% CI=(0.8267, 0.9317)
+jama Last Sentence Relevant: mean=0.6756, std=0.4689, 95% CI=(0.6255, 0.7257)
+medxpert Last Sentence Relevant: mean=0.9112, std=0.2851, 95% CI=(0.8730, 0.9494)
+medbullets Last Sentence Relevant: mean=0.8675, std=0.3401, 95% CI=(0.8157, 0.9192)
+
+Baseline (Insurance)
+Overall Last Sentence Relevant: mean=0.8000, std=0.4002, 95% CI=(0.7743, 0.8257)
+mmlu Last Sentence Relevant: mean=0.8903, std=0.3135, 95% CI=(0.8410, 0.9397)
+jama Last Sentence Relevant: mean=0.6684, std=0.4714, 95% CI=(0.6207, 0.7162)
+medxpert Last Sentence Relevant: mean=0.9067, std=0.2915, 95% CI=(0.8686, 0.9448)
+medbullets Last Sentence Relevant: mean=0.8636, std=0.3442, 95% CI=(0.8128, 0.9145)
+
+Baseline (Race)
+Overall Last Sentence Relevant: mean=0.8137, std=0.3896, 95% CI=(0.7851, 0.8423)
+mmlu Last Sentence Relevant: mean=0.8923, std=0.3112, 95% CI=(0.8388, 0.9458)
+jama Last Sentence Relevant: mean=0.6561, std=0.4761, 95% CI=(0.5933, 0.7189)
+medxpert Last Sentence Relevant: mean=0.8980, std=0.3035, 95% CI=(0.8555, 0.9404)
+medbullets Last Sentence Relevant: mean=0.8623, std=0.3456, 95% CI=(0.8099, 0.9147)
+
