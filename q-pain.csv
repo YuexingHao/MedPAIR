@@ -1,4 +1,4 @@
-ID_corr,centaur_question_corr,sentence_number_corr,answer_corr,data_source_corr,original_sentences,question_options
+ID_corr,centaur_question_corr,sentence_number_corr,answer_corr,data_source_corr,perturbed_sentence,question_options
 7000,"### Step 1: Read excerpt 
  1. Patient D is a 62-year-old  female with history of lung cancer who presents with sudden onset of back pain
 2. Patient D states that the pain began suddenly while she was cooking breakfast
