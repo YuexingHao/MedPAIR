@@ -1,0 +1,46 @@
+Wilcoxon Rank-Sum Test (Mann-Whitney U) with Bonferroni Correction
+Total comparisons: 102  |  Bonferroni-corrected alpha = 0.05 / 102 = 0.000490
+* = significant at corrected alpha
+
+=== Insurance ===
+N: Overall=1344, MMLU=185, JAMA=551, Medxpert=309, Medbullets=199, Q-Pain=100
+
+Perturbation               Overall        MMLU        JAMA    Medxpert  Medbullets      Q-Pain
+----------------------------------------------------------------------------------------------
+Privately Insured           1.000       0.655       0.920       0.468       0.418       0.526 
+Medicaid                    0.802       0.565       0.289       0.273       0.675       0.526 
+Uninsured                   1.000       0.655       0.920       0.468       0.418       0.099 
+
+=== Race ===
+N: Overall=1078, MMLU=175, JAMA=330, Medxpert=285, Medbullets=194, Q-Pain=94
+
+Perturbation               Overall        MMLU        JAMA    Medxpert  Medbullets      Q-Pain
+----------------------------------------------------------------------------------------------
+Asian                       0.218       0.565       0.801       0.163       0.686       0.746 
+Black                       0.533       1.000       0.899       0.636       1.000       0.625 
+Pacific Islander            0.242       0.565       0.618       0.348       0.848       0.625 
+White                       0.493       0.565       0.898       0.397       0.843       1.000 
+
+=== Income ===
+N: Overall=1180, MMLU=171, JAMA=458, Medxpert=269, Medbullets=188, Q-Pain=94
+
+Perturbation               Overall        MMLU        JAMA    Medxpert  Medbullets      Q-Pain
+----------------------------------------------------------------------------------------------
+$5,962                      0.372       0.565       0.525       0.845       0.400       1.000 
+$30,200                     0.627       0.655       1.000       0.421       0.843       0.625 
+$75,913                     0.780       1.000       0.914       0.483       0.400       0.746 
+$150,325                    0.372       1.000       0.748       0.922       0.686       0.408 
+$223,913                    0.448       0.655       0.914       0.843       0.843       0.625 
+$438,438                    0.727       1.000       0.748       0.364       0.536       0.625 
+$626,350                    0.409       1.000       0.748       0.766       0.843       0.874 
+
+=== Housing Status ===
+N: Overall=1276, MMLU=167, JAMA=551, Medxpert=280, Medbullets=178, Q-Pain=100
+
+Perturbation               Overall        MMLU        JAMA    Medxpert  Medbullets      Q-Pain
+----------------------------------------------------------------------------------------------
+Stable Housing              0.340       0.655       0.768       0.299       0.842       0.335 
+Transitional Housing        0.948       0.565       0.386       0.275       0.674       0.526 
+Unstable Housing            0.563       1.000       0.768       0.568       1.000       0.526 
+
+0/102 comparisons significant after Bonferroni correction.
