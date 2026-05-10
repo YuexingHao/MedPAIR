@@ -138,3 +138,75 @@ jama Accuracy: 178/333=0.5345345345345346
 medxpert Accuracy: 27/151=0.17880794701986755
 medbullets Accuracy: 101/190=0.531578947368421
 
+gpt5_qpain_baseline
+Overall Accuracy: 71/100=0.71
+Q-Pain Accuracy: 71/100=0.71
+
+gpt5_qpain_housing_stable
+Overall Accuracy: 77/100=0.77
+Q-Pain Accuracy: 77/100=0.77
+
+gpt5_qpain_housing_transitional
+Overall Accuracy: 75/100=0.75
+Q-Pain Accuracy: 75/100=0.75
+
+gpt5_qpain_housing_unstable
+Overall Accuracy: 75/100=0.75
+Q-Pain Accuracy: 75/100=0.75
+
+gpt5_qpain_income_150325
+Overall Accuracy: 77/100=0.77
+Q-Pain Accuracy: 77/100=0.77
+
+gpt5_qpain_income_223913
+Overall Accuracy: 74/100=0.74
+Q-Pain Accuracy: 74/100=0.74
+
+gpt5_qpain_income_30200
+Overall Accuracy: 74/100=0.74
+Q-Pain Accuracy: 74/100=0.74
+
+gpt5_qpain_income_438438
+Overall Accuracy: 75/100=0.75
+Q-Pain Accuracy: 75/100=0.75
+
+gpt5_qpain_income_5962
+Overall Accuracy: 71/100=0.71
+Q-Pain Accuracy: 71/100=0.71
+
+gpt5_qpain_income_626350
+Overall Accuracy: 70/100=0.7
+Q-Pain Accuracy: 70/100=0.7
+
+gpt5_qpain_income_75913
+Overall Accuracy: 73/100=0.73
+Q-Pain Accuracy: 73/100=0.73
+
+gpt5_qpain_insurance_medicaid
+Overall Accuracy: 75/100=0.75
+Q-Pain Accuracy: 75/100=0.75
+
+gpt5_qpain_insurance_private
+Overall Accuracy: 75/100=0.75
+Q-Pain Accuracy: 75/100=0.75
+
+gpt5_qpain_insurance_uninsured
+Overall Accuracy: 81/100=0.81
+Q-Pain Accuracy: 81/100=0.81
+
+gpt5_qpain_race_asian
+Overall Accuracy: 73/100=0.73
+Q-Pain Accuracy: 73/100=0.73
+
+gpt5_qpain_race_black
+Overall Accuracy: 74/100=0.74
+Q-Pain Accuracy: 74/100=0.74
+
+gpt5_qpain_race_pacific_islander
+Overall Accuracy: 74/100=0.74
+Q-Pain Accuracy: 74/100=0.74
+
+gpt5_qpain_race_white
+Overall Accuracy: 71/100=0.71
+Q-Pain Accuracy: 71/100=0.71
+

@@ -9,13 +9,13 @@ def overall_and_per_dataset_accuracy(results_df,
     per_dataset_correct_ct = {"mmlu": 0,
                               "jama": 0,
                               "medxpert": 0,
-                              "medbullets": 0}
-                            #   "Q-Pain": 0}
+                              "medbullets": 0,
+                              "Q-Pain": 0}
     per_dataset_total_ct = {"mmlu": 0,
                             "jama": 0,
                             "medxpert": 0,
-                            "medbullets": 0}
-                            # "Q-Pain": 0}
+                            "medbullets": 0,
+                            "Q-Pain": 0}
     
     for _, row in results_df.iterrows():
         total_ct += 1
@@ -33,21 +33,19 @@ def overall_and_per_dataset_accuracy(results_df,
             per_dataset_correct_ct[data_source] += 1
 
     overall_accuracy = correct_ct / total_ct
-    per_dataset_accuracy = {"mmlu": per_dataset_correct_ct["mmlu"] / per_dataset_total_ct["mmlu"],
-                            "jama": per_dataset_correct_ct["jama"] / per_dataset_total_ct["jama"],
-                            "medxpert": per_dataset_correct_ct["medxpert"] / per_dataset_total_ct["medxpert"],
-                            "medbullets": per_dataset_correct_ct["medbullets"] / per_dataset_total_ct["medbullets"]}
-                            # "Q-Pain": per_dataset_correct_ct["Q-Pain"] / per_dataset_total_ct["Q-Pain"]}
-    
+    per_dataset_accuracy = {
+        ds: per_dataset_correct_ct[ds] / per_dataset_total_ct[ds]
+        for ds in per_dataset_total_ct
+        if per_dataset_total_ct[ds] > 0
+    }
+
     try:
         with open(save_file, 'a') as file:
             file.write(experiment_name + '\n')
             file.write(f"Overall Accuracy: {correct_ct}/{total_ct}={overall_accuracy}" + '\n')
-            file.write(f"mmlu Accuracy: {per_dataset_correct_ct["mmlu"]}/{per_dataset_total_ct["mmlu"]}={per_dataset_accuracy["mmlu"]}" + '\n')
-            file.write(f"jama Accuracy: {per_dataset_correct_ct["jama"]}/{per_dataset_total_ct["jama"]}={per_dataset_accuracy["jama"]}" + '\n')
-            file.write(f"medxpert Accuracy: {per_dataset_correct_ct["medxpert"]}/{per_dataset_total_ct["medxpert"]}={per_dataset_accuracy["medxpert"]}" + '\n')
-            file.write(f"medbullets Accuracy: {per_dataset_correct_ct["medbullets"]}/{per_dataset_total_ct["medbullets"]}={per_dataset_accuracy["medbullets"]}" + '\n')
-            # file.write(f"Q-Pain Accuracy: {per_dataset_correct_ct["Q-Pain"]}/{per_dataset_total_ct["Q-Pain"]}={per_dataset_accuracy["Q-Pain"]}" + '\n')
+            for ds in ["mmlu", "jama", "medxpert", "medbullets", "Q-Pain"]:
+                if per_dataset_total_ct[ds] > 0:
+                    file.write(f"{ds} Accuracy: {per_dataset_correct_ct[ds]}/{per_dataset_total_ct[ds]}={per_dataset_accuracy[ds]}" + '\n')
             file.write('\n')
 
     except Exception as e:
