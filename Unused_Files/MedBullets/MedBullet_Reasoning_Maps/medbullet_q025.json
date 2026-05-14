@@ -1,0 +1,68 @@
+{
+  "patient_case": {
+    "prompt_question": "A 27-year-old man presents for a checkup. He has a past medical history of depression treated with fluoxetine and lithium. His exam is notable for the finding in Figure A. Which of the following represents the most likely risk factor for this patient's presenting condition?\nOptions:\nA. Alcohol consumption\nB. Antibiotic use\nC. Intravenous drug use\nD. Sexual intercourse",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question to determine which risk factor is associated with the lesion depicted in Figure A.",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and risk factors for skin/mucosal lesions in a young adult.",
+        "result": "Differential reasoning applied comparing typical risk factors for different conditions.",
+        "interpretation": "Considering a lesion seen on exam that is likely related to a sexually transmitted infection (such as HPV-induced lesions or syphilitic chancre if on genital exam), the risk factor would be linked to sexual behavior.",
+        "diagnostic_options": [
+          {
+            "option": "Alcohol consumption",
+            "description": "Common risk factor for liver pathology and certain skin conditions but not directly linked to most sexually transmitted lesions.",
+            "evidence_for": [
+              "Alcohol may predispose to poor hygiene or immunosuppression indirectly"
+            ],
+            "evidence_against": [
+              "Not a direct risk factor for lesions that are typically associated with sexual transmission"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Antibiotic use",
+            "description": "Typically associated with disruption of normal flora, leading to conditions like Clostridioides difficile colitis or candidiasis.",
+            "evidence_for": [
+              "Antibiotic use can predispose to overgrowth of certain organisms"
+            ],
+            "evidence_against": [
+              "Not linked to sexually transmitted lesions or findings seen in Figure A"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Intravenous drug use",
+            "description": "Risk factor for blood-borne infections and skin infections related to injection practices.",
+            "evidence_for": [
+              "Can lead to infections such as hepatitis or infective endocarditis"
+            ],
+            "evidence_against": [
+              "Not typically associated with the type of lesion implied by Figure A"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Sexual intercourse",
+            "description": "Direct risk factor for sexually transmitted infections (STIs) such as HPV-related lesions or syphilis.",
+            "evidence_for": [
+              "STIs are commonly transmitted through sexual contact and are a leading cause of specific mucocutaneous lesions",
+              "Lesions noted in exam (Figure A) in a young adult are suggestive of an STI-related finding"
+            ],
+            "evidence_against": [],
+            "final_verdict": "Most likely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The lesion observed in the patient is most consistent with an STI-related finding; therefore, sexual intercourse is the most likely risk factor for his presenting condition."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "patient_case": {
+    "prompt_question": "A 72-year-old man presents for a general checkup. His physical exam reveals a blood pressure of 177/108 mmHg and a murmur immediately after S2 over the left sternal border. Which of the following is another possible finding in this patient?\nA. Audible click heard at the cardiac apex\nB. Femoral artery murmur\nC. Murmur that radiates to the carotids during systole\nD. Wedge pressure lower than expected",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question. The patient has a diastolic murmur (heard after S2) along the left sternal border in an elderly patient with hypertension, suggesting aortic regurgitation.",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology and typical physical exam findings",
+        "result": "Differential reasoning applied to each option",
+        "interpretation": "Each option is compared against the expected findings in aortic regurgitation.",
+        "diagnostic_options": [
+          {
+            "option": "Audible click heard at the cardiac apex",
+            "description": "A click at the apex is typically associated with mitral valve prolapse.",
+            "evidence_for": [
+              "The presence of a murmur could be in MVP, but the click is key."
+            ],
+            "evidence_against": [
+              "Murmur in this case is diastolic (after S2) and best heard along the left sternal border, not consistent with MVP."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Femoral artery murmur",
+            "description": "A murmur in the femoral area may suggest peripheral vascular pathology, such as coarctation of the aorta.",
+            "evidence_for": [
+              "Vascular abnormalities can produce peripheral bruits."
+            ],
+            "evidence_against": [
+              "Coarctation is typically seen in younger patients and has different physical findings; the patient\u2019s murmur and profile match aortic regurgitation."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Murmur that radiates to the carotids during systole",
+            "description": "A systolic murmur radiating to the carotids is classically indicative of aortic stenosis.",
+            "evidence_for": [
+              "Aortic stenosis has systolic murmurs that radiate to the carotids."
+            ],
+            "evidence_against": [
+              "This patient's murmur is diastolic (post-S2) and does not fit with aortic stenosis."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Wedge pressure lower than expected",
+            "description": "In aortic regurgitation, the diastolic pressure in the aorta falls due to backflow, potentially leading to a wide pulse pressure, and the left heart filling pressures (approximated by pulmonary capillary wedge pressure) may be relatively lower than expected given the high stroke volume.",
+            "evidence_for": [
+              "Aortic regurgitation is associated with wide pulse pressure and can demonstrate lower diastolic pressures relative to systolic pressures."
+            ],
+            "evidence_against": [
+              "While left ventricular end-diastolic pressure can eventually be elevated due to volume overload, the specific finding of a lower-than-expected wedge pressure in context of the systemic pressures supports the altered hemodynamics."
+            ],
+            "final_verdict": "Most likely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Given the diastolic murmur heard after S2 along the left sternal border and associated hemodynamic changes in aortic regurgitation, the additional finding most consistent with this diagnosis is a lower-than-expected wedge pressure (option D)."
+  }
+}

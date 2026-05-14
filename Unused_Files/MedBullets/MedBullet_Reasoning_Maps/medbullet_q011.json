@@ -1,0 +1,74 @@
+{
+  "patient_case": {
+    "prompt_question": "A 57-year-old man presents with shortness of breath, tachycardia, and right lower extremity pain following prolonged travel. His exam shows a mildly inflamed right lower extremity with calf tenderness. His ECG and chest radiograph are provided (Figures A and B) and laboratory values are essentially unremarkable. Which of the following is the most appropriate next step in management?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare against the most likely diagnosis, which is pulmonary embolism secondary to deep venous thrombosis (DVT)",
+        "diagnostic_options": [
+          {
+            "option": "Aspirin",
+            "description": "Antiplatelet agent used in arterial thrombosis and management of acute coronary syndromes.",
+            "evidence_for": [
+              "Can reduce platelet aggregation"
+            ],
+            "evidence_against": [
+              "Not primary treatment for venous thromboembolism (PE/DVT) where anticoagulation is required",
+              "The patient\u2019s presentation is more consistent with venous thromboembolism rather than an arterial event"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Cardiac troponins",
+            "description": "Biomarker used in the diagnosis of myocardial infarction.",
+            "evidence_for": [
+              "Elevations can be seen in any acute stress event"
+            ],
+            "evidence_against": [
+              "No strong evidence of myocardial infarction in the scenario",
+              "The symptoms and exam point toward PE rather than ACS"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Heparin",
+            "description": "Anticoagulant therapy used as an initial management for suspected or confirmed pulmonary embolism.",
+            "evidence_for": [
+              "Patient has signs of DVT (inflamed and tender right calf)",
+              "Tachycardia and respiratory symptoms are consistent with PE",
+              "Immediate initiation of anticoagulation is standard in high clinical suspicion"
+            ],
+            "evidence_against": [
+              "Further confirmatory imaging might be considered later, but immediate anticoagulation is indicated"
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Ventilation perfusion scan",
+            "description": "Nuclear imaging test used to diagnose pulmonary embolism.",
+            "evidence_for": [
+              "Useful as a confirmatory test for PE"
+            ],
+            "evidence_against": [
+              "Delay in treatment if clinical suspicion is high",
+              "Initial management often includes empiric anticoagulation (heparin) in high-risk patients"
+            ],
+            "final_verdict": "Plausible but secondary to immediate anticoagulation"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Given the clinical suspicion for pulmonary embolism secondary to deep venous thrombosis, the most immediate and appropriate next step is to begin anticoagulation with heparin."
+  }
+}

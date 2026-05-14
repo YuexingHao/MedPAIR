@@ -1,0 +1,60 @@
+{
+  "patient_case": {
+    "age": "30s",
+    "sex": "male",
+    "setting": "clinical presentation in an immunocompromised patient",
+    "history": [
+      "AIDS",
+      "significant immunocompromise"
+    ],
+    "symptoms": [
+      "acute-onset painful scattered umbilicated papulopustules",
+      "ovoid ulcerated plaques with elevated, pink borders on face, trunk, and extremities",
+      "new-onset cough"
+    ],
+    "vitals": [
+      "afebrile"
+    ],
+    "physical_exam": [
+      "scattered skin lesions as described on the face, trunk, and extremities"
+    ]
+  },
+  "diagnostic_test": {
+    "name": "Tzanck smear",
+    "procedure": [
+      "scraped the base of an ulcerated lesion and the inner aspect of a pseudopustule using a #15 blade",
+      "placed the specimen on a glass slide",
+      "fixed and stained with Wright-Giemsa",
+      "performed Papanicolaou staining to further characterize the changes"
+    ],
+    "findings": [
+      "ballooning of keratinocytes",
+      "peripheralization of nuclear material"
+    ]
+  },
+  "reasoning_tree": {
+    "branch": [
+      {
+        "interpretation": "The patient\u2019s immunocompromised status combined with the acute onset of painful, umbilicated papulopustular lesions and ulcerated plaques raises suspicion for a viral etiology.",
+        "result": "Tzanck smear findings of ballooning of keratinocytes and peripheralization of nuclear material support a viral cytopathic effect.",
+        "diagnostic_options": [
+          {
+            "option": "Herpes simplex virus",
+            "description": "A viral infection that presents with painful vesiculopustular lesions and characteristic cytopathic changes seen on Tzanck smear.",
+            "evidence_for": [
+              "acute onset of painful lesions",
+              "Tzanck smear showing ballooning keratinocytes and nuclear peripheralization",
+              "immunocompromised state favoring reactivation or severe presentation"
+            ],
+            "evidence_against": [
+              "lack of systemic features that might suggest alternative diagnoses like Histoplasmosis",
+              "clinical morphology inconsistent with Molluscum contagiosum or Mpox"
+            ],
+            "final_verdict": "Most consistent with herpes simplex virus infection"
+          }
+        ]
+      }
+    ]
+  },
+  "conclusion": "Herpes simplex virus is the most likely diagnosis based on clinical presentation and supportive Tzanck smear findings."
+}

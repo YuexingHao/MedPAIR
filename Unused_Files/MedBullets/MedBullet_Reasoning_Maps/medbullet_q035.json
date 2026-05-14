@@ -1,0 +1,77 @@
+{
+  "patient_case": {
+    "prompt_question": "A 55-year-old man presents with chest pain, shortness of breath, and an inferior wall MI (ST elevation in leads II, III, and aVF). On the 2nd day of hospitalization, he develops abdominal pain, an elevated serum lipase (272 U/L), and increased creatinine (1.6 mg/dL). A physical exam shows a finding (as in Figure A) that is suggestive of a cutaneous manifestation. He is seeking pain relief. Which of the following is the most likely underlying diagnosis?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clinical clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare available evidence such as post-MI status, gastrointestinal symptoms, renal impairment, and cutaneous findings to determine the likely diagnosis",
+        "diagnostic_options": [
+          {
+            "option": "Cholesterol embolism",
+            "description": "Occurs after manipulation of atherosclerotic plaques (e.g., during cardiac catheterization), causing embolization to various organs including the skin, kidneys, and gastrointestinal tract.",
+            "evidence_for": [
+              "Post-MI patient with likely recent catheterization or vascular manipulation",
+              "Abdominal pain with elevated lipase due to pancreatic ischemia",
+              "Renal impairment (creatinine 1.6 mg/dL)",
+              "Cutaneous findings suggestive of embolic phenomena (livedo reticularis or blue toe syndrome)"
+            ],
+            "evidence_against": [
+              "Lipase elevation is modest, but fits with ischemic pancreatic injury rather than primary pancreatitis"
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Heart failure and reinfarction",
+            "description": "Reinfarction or acute heart failure post-MI could cause systemic symptoms.",
+            "evidence_for": [
+              "History of MI"
+            ],
+            "evidence_against": [
+              "Does not explain abdominal pain with lipase elevation",
+              "Cutaneous findings are atypical",
+              "Lack of signs specific to congestive heart failure"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Pancreatitis",
+            "description": "Inflammation of the pancreas typically presents with abdominal pain and elevated lipase.",
+            "evidence_for": [
+              "Abdominal pain",
+              "Elevated serum lipase"
+            ],
+            "evidence_against": [
+              "Degree of lipase elevation is not profoundly high; physical exam finding is atypical for pancreatitis",
+              "Renal impairment and skin findings point toward a systemic embolic process"
+            ],
+            "final_verdict": "Plausible but less likely"
+          },
+          {
+            "option": "Renal failure",
+            "description": "Renal impairment could produce systemic symptoms but usually lacks gastrointestinal and cutaneous manifestations.",
+            "evidence_for": [
+              "Elevated creatinine"
+            ],
+            "evidence_against": [
+              "Does not explain the abdominal pain or the skin findings",
+              "Renal failure typically is a consequence rather than the primary cause of these diverse findings"
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The clinical scenario, with a recent MI, abdominal pain, modestly elevated lipase, renal impairment, and distinct cutaneous findings, is most consistent with a cholesterol embolism syndrome."
+  }
+}

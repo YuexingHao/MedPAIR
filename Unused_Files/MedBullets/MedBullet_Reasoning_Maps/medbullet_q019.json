@@ -1,0 +1,69 @@
+{
+  "patient_case": {
+    "prompt_question": "A 15-year-old girl with primary amenorrhea, absent secondary sexual characteristics, and an elevated FSH level (38 mIU/mL) is evaluated. Her mother and older sister had menarche at ages 13 and 14, respectively. She is athletically active with a normal BMI. The question asks which diagnostic test should be done next.",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on pubertal development, hormone levels, and potential etiologies of primary amenorrhea",
+        "result": "Differential reasoning applied",
+        "interpretation": "Comparison of each option against the clinical scenario of hypergonadotropic hypogonadism",
+        "diagnostic_options": [
+          {
+            "option": "CYP17 gene work-up",
+            "description": "Evaluation for enzymatic defects related to steroid synthesis, often associated with congenital adrenal hyperplasia.",
+            "evidence_for": [
+              "Relevant in adrenal hyperplasia cases with ambiguous genitalia or virilization."
+            ],
+            "evidence_against": [
+              "Patient has no signs of virilization or adrenal dysfunction; the presentation is more consistent with gonadal dysgenesis leading to hypergonadotropic hypogonadism."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Gonadotrophin-releasing hormone stimulation test",
+            "description": "Assesses pituitary response and is more useful in cases of delayed puberty with low gonadotropins.",
+            "evidence_for": [
+              "Can help differentiate central from peripheral causes of amenorrhea."
+            ],
+            "evidence_against": [
+              "Elevated FSH already indicates a primary ovarian issue (hypergonadotropic hypogonadism), making this test unnecessary."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Karotype",
+            "description": "Chromosomal analysis to evaluate for genetic causes such as Turner syndrome or other gonadal dysgenesis.",
+            "evidence_for": [
+              "Elevated FSH and absent pubertal development point to primary ovarian failure; karyotyping is indicated to assess for chromosomal anomalies like Turner syndrome."
+            ],
+            "evidence_against": [
+              "None significant in this clinical context."
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Luteinizing hormone levels",
+            "description": "Measurement of LH can be useful to further classify reproductive hormonal status.",
+            "evidence_for": [
+              "May provide additional information on gonadotropin levels."
+            ],
+            "evidence_against": [
+              "Given the already elevated FSH, LH measurement would not alter the management or point to a specific diagnosis."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The most appropriate next diagnostic step is karyotyping to evaluate for chromosomal abnormalities, such as Turner syndrome, in a patient with primary amenorrhea and hypergonadotropic hypogonadism."
+  }
+}

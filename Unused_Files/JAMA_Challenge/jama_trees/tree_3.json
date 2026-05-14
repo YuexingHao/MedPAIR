@@ -1,0 +1,83 @@
+{
+  "patient_case": {
+    "age": "53",
+    "sex": "female",
+    "setting": "clinical",
+    "history": [
+      "Stage IVA1 (T4N1M0B2) mycosis fungoides"
+    ],
+    "symptoms": [
+      "1-month history of hyperpigmentation of the oral mucosa",
+      "Fatigue"
+    ],
+    "vitals": [],
+    "physical_exam": [
+      "Multiple coalescing painless nonpruritic black macules and patches on the tongue, roof of the mouth, and buccal mucosa",
+      "Erythematous and hyperpigmented patches covering 90% of the body surface area",
+      "1- to 2-cm lymphadenopathy in the bilateral inguinal folds and axillae"
+    ]
+  },
+  "diagnostic_test": {
+    "name": "Clinical Examination",
+    "procedure": [
+      "Oral cavity inspection",
+      "Skin examination"
+    ],
+    "findings": [
+      "Hyperpigmentation of the oral mucosa with coalescing black macules and patches",
+      "Widespread erythematous and hyperpigmented skin patches",
+      "Presence of lymphadenopathy"
+    ]
+  },
+  "reasoning_tree": {
+    "branch": [
+      {
+        "interpretation": "Evaluate differential diagnoses for oral hyperpigmentation in a patient with known mycosis fungoides.",
+        "result": "Findings and patient history favor the diagnosis of oral involvement of mycosis fungoides.",
+        "diagnostic_options": [
+          {
+            "option": "Laugier-Hunziker syndrome",
+            "description": "A benign condition characterized by mucocutaneous hyperpigmentation, typically without systemic involvement.",
+            "evidence_for": [],
+            "evidence_against": [
+              "Patient\u2019s history of mycosis fungoides",
+              "Widespread skin involvement and lymphadenopathy"
+            ],
+            "final_verdict": "Rejected"
+          },
+          {
+            "option": "Melanoma",
+            "description": "A malignancy that presents as pigmented lesions which could theoretically involve the oral mucosa.",
+            "evidence_for": [],
+            "evidence_against": [
+              "Lesion distribution is diffuse and correlates with existing mycosis fungoides",
+              "No classic melanoma features or solitary lesion presentation"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Medication adverse effect",
+            "description": "Some medications can induce hyperpigmentation; however, the pattern is inconsistent with drug-induced changes.",
+            "evidence_for": [],
+            "evidence_against": [
+              "Temporal profile and progression do not match medication-induced pigmentation",
+              "Patient had partial response to therapies rather than new drug exposure causing pigmentation"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Oral involvement of mycosis fungoides",
+            "description": "The extension of cutaneous lymphoma to the oral mucosa, consistent with the patient\u2019s history and clinical presentation.",
+            "evidence_for": [
+              "Known history of mycosis fungoides with extensive skin involvement",
+              "Lymphadenopathy and systemic signs support disease progression"
+            ],
+            "evidence_against": [],
+            "final_verdict": "Accepted"
+          }
+        ]
+      }
+    ]
+  },
+  "conclusion": "The most likely diagnosis is oral involvement of mycosis fungoides."
+}

@@ -1,0 +1,100 @@
+{
+  "patient_case": {
+    "age": "30s",
+    "sex": "male",
+    "condition": "AIDS",
+    "presentation": "acute-onset painful scattered umbilicated papulopustules and ovoid ulcerated plaques with elevated, pink borders",
+    "lesion_distribution": [
+      "face",
+      "trunk",
+      "extremities",
+      "elbows"
+    ],
+    "additional_symptoms": [
+      "new-onset cough"
+    ],
+    "absent_symptoms": [
+      "fever",
+      "other systemic symptoms"
+    ]
+  },
+  "clinical_context": {
+    "immunocompromised": true,
+    "suspicion": "highly suspicious for infection due to immunocompromise"
+  },
+  "diagnostic_test": {
+    "name": "Tzanck smear",
+    "procedure": [
+      "scraping the base of an ulcerated lesion and inner aspect of a pseudopustule with a #15 blade",
+      "contents placed on a glass slide",
+      "fixed and stained with Wright-Giemsa and Papanicolaou stains"
+    ],
+    "findings": [
+      "ballooning of keratinocytes",
+      "peripheralization of nuclear material"
+    ]
+  },
+  "reasoning_tree": {
+    "start": "Immunocompromised patient with umbilicated and ulcerated lesions",
+    "branch": [
+      {
+        "condition": "Perform Tzanck smear",
+        "result": "Ballooning keratinocytes + nuclear peripheralization",
+        "interpretation": "Suggests Herpesvirus family infection",
+        "diagnostic_options": [
+          {
+            "option": "Herpes simplex virus",
+            "description": "A viral infection known to cause painful ulcers in immunocompromised individuals.",
+            "evidence_for": [
+              "Classic cytopathic effects (ballooning keratinocytes, nuclear changes)",
+              "Painful mucocutaneous ulcers",
+              "Common opportunistic infection in patients with AIDS"
+            ],
+            "evidence_against": [],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Histoplasmosis",
+            "description": "A systemic fungal infection that may manifest with skin lesions in immunocompromised individuals.",
+            "evidence_for": [
+              "Seen in AIDS patients",
+              "May cause respiratory symptoms"
+            ],
+            "evidence_against": [
+              "No fever or systemic illness",
+              "Skin morphology not typical",
+              "No matching cytologic findings on Tzanck smear"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Molluscum contagiosum",
+            "description": "A viral infection causing umbilicated papules, especially in immunocompromised patients.",
+            "evidence_for": [
+              "Umbilicated papules seen",
+              "Common in AIDS"
+            ],
+            "evidence_against": [
+              "Typically painless",
+              "No cytologic match on Tzanck smear"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Mpox (Monkeypox)",
+            "description": "A zoonotic viral disease that may present with vesiculopustular rash and systemic symptoms.",
+            "evidence_for": [
+              "Possible umbilicated lesions"
+            ],
+            "evidence_against": [
+              "Afebrile, no prodrome",
+              "Cytologic findings not consistent with Mpox"
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Herpes simplex virus (HSV) is the most probable diagnosis based on clinical and cytologic evidence"
+  }
+}

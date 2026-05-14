@@ -1,0 +1,76 @@
+{
+  "patient_case": {
+    "prompt_question": "A 32-year-old man presents with a headache that started last night. He has associated nausea, vomiting, fever, and neck pain with pain on passive neck flexion. His exam is notable for discomfort but no focal neurologic deficits. A lumbar puncture reveals a CSF cell count of 175/mm\u00b3 (no RBCs), CSF chloride of 119 mEq/L, glucose of 49 mg/dL, opening pressure of 150 mmH2O, and total protein of 55 mg/dL. Based on these findings, which of the following is the most appropriate treatment regimen for this patient?\nOptions:\nA. Acyclovir\nB. Ceftriaxone and vancomycin\nC. Ceftriaxone, vancomycin and steroids\nD. Supportive care and monitoring",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "Lumbar puncture with CSF analysis",
+    "procedure": [],
+    "stains": [],
+    "findings": [
+      "Mildly elevated WBC count (175/mm\u00b3) likely lymphocytic",
+      "Normal to slightly low glucose (49 mg/dL)",
+      "Mildly elevated protein (55 mg/dL)",
+      "Normal chloride and opening pressure slightly increased (150 mmH2O)",
+      "No RBCs"
+    ]
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and CSF findings to determine whether the etiology is bacterial or viral.",
+    "branch": [
+      {
+        "condition": "Analyze each option based on pathophysiology, CSF analysis, and clinical presentation.",
+        "result": "Differential reasoning applied comparing viral vs bacterial meningitis.",
+        "interpretation": "CSF findings (moderate cell count, normal/slightly low glucose, mildly elevated protein) are consistent with viral meningitis. There are no signs of focal neurologic deficits or severe systemic illness typical of bacterial meningitis or herpes encephalitis.",
+        "diagnostic_options": [
+          {
+            "option": "Acyclovir",
+            "description": "Used for suspected herpes simplex virus encephalitis or meningitis.",
+            "evidence_for": [
+              "Could be considered if there were signs of temporal lobe involvement or altered mental status."
+            ],
+            "evidence_against": [
+              "The patient has no focal deficits or encephalitic features, and the CSF findings are not characteristic of HSV infection."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Ceftriaxone and vancomycin",
+            "description": "Empiric treatment for bacterial meningitis.",
+            "evidence_for": [
+              "Appropriate if CSF findings were indicative of bacterial meningitis with high protein, low glucose, and neutrophilic pleocytosis."
+            ],
+            "evidence_against": [
+              "The CSF profile here (moderate cell count, normal glucose, slightly elevated protein) does not support bacterial meningitis."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Ceftriaxone, vancomycin and steroids",
+            "description": "Standard empiric regimen for bacterial meningitis including adjunctive steroids for possible pneumococcal meningitis.",
+            "evidence_for": [
+              "Used for bacterial meningitis if bacterial etiology is highly suspected."
+            ],
+            "evidence_against": [
+              "CSF findings and clinical presentation do not support a bacterial etiology."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Supportive care and monitoring",
+            "description": "Management for viral meningitis which is largely supportive.",
+            "evidence_for": [
+              "CSF findings are consistent with viral meningitis.",
+              "Patient\u2019s clinical presentation (mild fever, neck stiffness without severe systemic signs) supports a viral process."
+            ],
+            "evidence_against": [
+              "No evidence against supportive care as there is no strong indication for antimicrobial therapy."
+            ],
+            "final_verdict": "Most likely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The CSF profile along with the clinical presentation is most consistent with viral meningitis. Therefore, the most appropriate treatment regimen is supportive care and monitoring."
+  }
+}

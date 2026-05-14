@@ -1,0 +1,74 @@
+{
+  "patient_case": {
+    "prompt_question": "An 84-year-old man presents with a 6-month history of numbness and tingling in the right hand that began in the middle finger and progressed to nearly constant symptoms. The thenar eminence, thumb, and other digits are spared. He has weakness (4/5) in elbow extension and wrist flexion on the right, diminished triceps reflex on the right, and neck pain that radiates down his arm reproduced on axial loading with neck extension and rotation. Which of the following is the most likely diagnosis in this patient? Options: A. Amyotrophic lateral sclerosis, B. Carpal tunnel syndrome, C. Cervical spondylosis, D. Syringomyelia.",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare clinical features and exam findings against classical presentations of each condition",
+        "diagnostic_options": [
+          {
+            "option": "Amyotrophic lateral sclerosis",
+            "description": "A neurodegenerative disease causing both upper and lower motor neuron signs without sensory deficits.",
+            "evidence_for": [
+              "Age may be consistent; weakness present."
+            ],
+            "evidence_against": [
+              "Presence of sensory symptoms (numbness and tingling) and focal radicular signs, which are atypical for ALS.",
+              "ALS does not cause diminished reflex in a focal distribution nor reproduce symptoms with neck movements."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Carpal tunnel syndrome",
+            "description": "Median nerve compression at the wrist causing sensory deficits typically involving the thumb, index, and middle fingers with thenar eminence weakness.",
+            "evidence_for": [
+              "Involvement of the middle finger might be seen."
+            ],
+            "evidence_against": [
+              "Thenar eminence and thumb are spared in this case.",
+              "Weakness in elbow extension and wrist flexion and diminished triceps reflex are not features of carpal tunnel syndrome."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Cervical spondylosis",
+            "description": "Degenerative changes in the cervical spine can cause nerve root compression leading to radicular pain, sensory changes, and motor deficits corresponding to the affected dermatome/myotome.",
+            "evidence_for": [
+              "Neck pain radiating down the right arm reproduced on provocative maneuvers.",
+              "Weakness in elbow extension (triceps, C7 nerve root) and decreased triceps reflex.",
+              "Progressive symptoms consistent with cervical radiculopathy."
+            ],
+            "evidence_against": [
+              "None significant given the clinical correlation."
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Syringomyelia",
+            "description": "A cystic cavity within the spinal cord, typically causing a 'cape-like' distribution of loss of pain and temperature bilaterally.",
+            "evidence_for": [
+              "Sensory disturbances in the upper extremities could be considered."
+            ],
+            "evidence_against": [
+              "Unilateral symptoms with focal motor deficits and a distraction in the triceps reflex are inconsistent.",
+              "No bilateral cape distribution is described."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The clinical presentation most closely aligns with cervical spondylosis causing radiculopathy, making it the most likely diagnosis in this patient."
+  }
+}

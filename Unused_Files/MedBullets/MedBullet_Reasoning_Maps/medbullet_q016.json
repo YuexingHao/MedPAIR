@@ -1,0 +1,70 @@
+{
+  "patient_case": {
+    "prompt_question": "A 70-year-old woman is brought to the emergency department by ambulance after being found on the floor of her apartment. She is confused, complains of generalized pain, and is unable to provide history. Vital signs: temperature 99.2\u00b0F, blood pressure 129/64 mmHg, pulse 63/min, respirations 13/min, oxygen saturation 99% on room air. Physical exam reveals an ill-appearing, confused woman with clear lung fields. An electrocardiogram is obtained (Figure A) and a dipstick urinalysis is notable for 4+ blood and dark-colored urine. Which of the following is the most appropriate next step in management?\nOptions:\nA. Albuterol and IV fluid resuscitation\nB. Calcium gluconate\nC. IV fluid resuscitation\nD. Sodium polystyrene sulfonate",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues suggesting hyperkalemia secondary to rhabdomyolysis (evidenced by dark urine with positive dipstick for blood without confirmed RBCs) and ECG changes.",
+        "result": "Differential reasoning applied comparing urgency and properties of each treatment option",
+        "interpretation": "EKG findings (likely peaked T waves or other hyperkalemic changes) necessitate immediate myocardial stabilization. Although IV fluids are indicated in rhabdomyolysis to prevent AKI, initial management of hyperkalemia with ECG changes requires calcium gluconate.",
+        "diagnostic_options": [
+          {
+            "option": "Albuterol and IV fluid resuscitation",
+            "description": "Albuterol can facilitate intracellular potassium shift and IV fluids help in managing rhabdomyolysis.",
+            "evidence_for": [
+              "Albuterol reduces serum potassium concentration",
+              "IV fluids aid in the renal clearance of myoglobin"
+            ],
+            "evidence_against": [
+              "Albuterol is not the primary therapy to immediately stabilize the myocardium in the presence of ECG changes",
+              "The immediate risk is arrhythmia due to hyperkalemia, which this combination does not adequately address"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Calcium gluconate",
+            "description": "Calcium gluconate serves to stabilize cardiac membranes in the setting of hyperkalemia with evidence of ECG changes.",
+            "evidence_for": [
+              "Directly stabilizes myocardial cells against the effects of hyperkalemia",
+              "First-line therapy when ECG changes are observed"
+            ],
+            "evidence_against": [],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "IV fluid resuscitation",
+            "description": "IV fluids are useful in treating rhabdomyolysis by preventing acute kidney injury but do not stabilize the myocardium in hyperkalemia.",
+            "evidence_for": [
+              "Helps with myoglobin clearance from the kidneys"
+            ],
+            "evidence_against": [
+              "Does not directly address the risk of arrhythmias associated with hyperkalemia seen on ECG"
+            ],
+            "final_verdict": "Plausible but not the immediate priority"
+          },
+          {
+            "option": "Sodium polystyrene sulfonate",
+            "description": "This agent removes potassium via the gastrointestinal tract over several hours.",
+            "evidence_for": [
+              "Can help lower serum potassium levels"
+            ],
+            "evidence_against": [
+              "Has a delayed onset and is not appropriate for emergent stabilization of hyperkalemic cardiac effects"
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The most appropriate next step is to administer calcium gluconate to stabilize the myocardium in the setting of hyperkalemia with ECG changes."
+  }
+}

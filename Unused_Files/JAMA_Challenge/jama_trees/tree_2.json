@@ -1,0 +1,113 @@
+{
+  "patient_case": {
+    "age": "31 years",
+    "sex": "Male",
+    "setting": "Preemployment evaluation",
+    "history": [
+      "2-year history of intermittent itching",
+      "Night sweats for 2 years",
+      "High white blood cell count reported 2 years ago"
+    ],
+    "symptoms": [
+      "Left cervical mass",
+      "Left inguinal mass",
+      "Intermittent itching",
+      "Night sweats"
+    ],
+    "vitals": [],
+    "physical_exam": [
+      "Left cervical lymphadenopathy",
+      "Left inguinal lymphadenopathy",
+      "No other organomegaly"
+    ]
+  },
+  "diagnostic_test": {
+    "name": "Hematologic and Imaging Workup with Biopsies",
+    "procedure": [
+      "Complete blood cell count and peripheral blood smear",
+      "Vitamin B12 measurement",
+      "Bone marrow biopsy",
+      "Positron emission tomographic\u2013computed tomographic (PET/CT) scan",
+      "Left inguinal lymph node biopsy",
+      "Immunohistochemical staining",
+      "Interphase fluorescence in situ hybridization (FISH) for FIP1L1::PDGFRA rearrangement"
+    ],
+    "findings": [
+      "Marked leukocytosis with WBC count 22,340/\u03bcL",
+      "Absolute neutrophil count of 5360/\u03bcL",
+      "55% eosinophils with absolute eosinophil count of 12,290/\u03bcL",
+      "Vitamin B12 markedly elevated (>4000 pg/mL)",
+      "Bone marrow biopsy showing hypercellular marrow (100% cellularity) with myeloid hyperplasia, increased eosinophils with dysplasia, and 2% blasts",
+      "PET/CT scan revealing a left upper cervical lymph node of 2.6 cm and a left inguinal lymph node of 3.1 \u00d7 2.3 cm with an SUV max of 5.7",
+      "Lymph node biopsy showing partial involvement by atypical cells with a high proliferation index (Ki-67 >95%) positive for CD3, CD4, CD8, BCL2, and TDT",
+      "FISH positive for FIP1L1::PDGFRA rearrangement"
+    ]
+  },
+  "reasoning_tree": {
+    "branch": [
+      {
+        "interpretation": "Integration of clinical history, laboratory data, imaging, and pathology findings to determine the neoplastic process.",
+        "result": "The presence of marked eosinophilia, myeloid hyperplasia, and the FIP1L1::PDGFRA rearrangement, along with a lymph node biopsy showing a T-cell immunophenotype, suggests a neoplasm that bridges myeloid and lymphoid features.",
+        "diagnostic_options": [
+          {
+            "option": "Kimura disease",
+            "description": "A benign inflammatory disorder typically presenting with painless lymphadenopathy and eosinophilia.",
+            "evidence_for": [
+              "Presence of lymphadenopathy",
+              "Eosinophilia"
+            ],
+            "evidence_against": [
+              "Marked leukocytosis and bone marrow changes",
+              "High proliferation index and T-cell marker positivity",
+              "FISH evidence of FIP1L1::PDGFRA rearrangement"
+            ],
+            "final_verdict": "Excluded"
+          },
+          {
+            "option": "Classic Hodgkin lymphoma",
+            "description": "A lymphoma characterized by Reed-Sternberg cells and a typical immunophenotypic profile.",
+            "evidence_for": [
+              "Lymphadenopathy"
+            ],
+            "evidence_against": [
+              "Absence of Reed-Sternberg cells",
+              "Immunohistochemical profile inconsistent with Hodgkin lymphoma",
+              "Marked eosinophilia and myeloid hyperplasia not typical for Hodgkin lymphoma"
+            ],
+            "final_verdict": "Excluded"
+          },
+          {
+            "option": "T-cell acute lymphoblastic lymphoma/leukemia",
+            "description": "A neoplasm of lymphoblasts with T-cell lineage markers and high proliferative index.",
+            "evidence_for": [
+              "Positive T-cell markers (CD3, CD4, CD8)",
+              "High Ki-67 proliferation index",
+              "TDT positivity"
+            ],
+            "evidence_against": [
+              "Bone marrow findings of myeloid hyperplasia and marked eosinophilia",
+              "Presence of significant FIP1L1::PDGFRA rearrangement which is not typical for isolated T-cell ALL"
+            ],
+            "final_verdict": "Less likely"
+          },
+          {
+            "option": "Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions",
+            "description": "A neoplasm characterized by features of both myeloid and lymphoid proliferation associated with genetic rearrangements such as FIP1L1::PDGFRA.",
+            "evidence_for": [
+              "Marked eosinophilia",
+              "Elevated vitamin B12",
+              "Bone marrow hypercellularity with myeloid hyperplasia",
+              "FISH positive for FIP1L1::PDGFRA rearrangement",
+              "Lymph node involvement with atypical T-cell phenotype suggesting a lymphoblastic component"
+            ],
+            "evidence_against": [
+              "T-cell markers might initially suggest a pure lymphoblastic process, but they can be part of the transformation in this neoplasm"
+            ],
+            "final_verdict": "Most likely diagnosis"
+          }
+        ]
+      }
+    ]
+  },
+  "conclusion": "The overall findings support the diagnosis of myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions."
+}

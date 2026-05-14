@@ -1,0 +1,63 @@
+{
+  "patient_case": {
+    "prompt_question": "A 29-year-old woman comes to the emergency department complaining of painful genital ulcers that have been present for 4 days as well as low-grade fever and malaise. She denies any recent travel, new sexual partners, or antibiotic use. Physical examination reveals multiple clustered vesicles and shallow ulcers in the vulvar region. A Tzanck smear shows multinucleated giant cells. Which of the following medications is most appropriate for treating her condition?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "Tzanck smear",
+    "procedure": [],
+    "stains": [],
+    "findings": [
+      "Multinucleated giant cells"
+    ]
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare each option against clinical findings of herpes simplex virus infection",
+        "diagnostic_options": [
+          {
+            "option": "Acyclovir",
+            "description": "Antiviral medication used to treat HSV infections.",
+            "evidence_for": [
+              "Patient's clustered vesicles and shallow ulcers, plus Tzanck smear showing multinucleated giant cells, are consistent with HSV infection."
+            ],
+            "evidence_against": [],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Amoxicillin",
+            "description": "Antibiotic primarily used for bacterial infections.",
+            "evidence_for": [],
+            "evidence_against": [
+              "Herpes lesions are viral and not bacterial; antibiotic is ineffective against viruses."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Fluconazole",
+            "description": "Antifungal agent used to treat candidiasis.",
+            "evidence_for": [],
+            "evidence_against": [
+              "The clinical findings do not suggest a fungal infection; candida causes thick, white discharge rather than vesicular lesions."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Trimethoprim-sulfamethoxazole",
+            "description": "Antibacterial agent typically used for urinary tract infections and some skin infections.",
+            "evidence_for": [],
+            "evidence_against": [
+              "Not indicated for viral infections such as HSV; does not target the causative agent described."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Acyclovir is the most appropriate treatment for genital herpes due to its antiviral activity against HSV."
+  }
+}

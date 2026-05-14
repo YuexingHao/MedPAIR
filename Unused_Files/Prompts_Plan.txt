@@ -1,0 +1,30 @@
+Prompt Plan:
+
+Prompt A. Direct Prediction: 
+    
+    "Given the following patient's EHR data, predict the most appropriate ICT code. On a scale of 0 to 1, how confident are you in this ICT code prediction? Provide a numerical score along with your reasoning."
+    
+    
+Propmt B. Chain-of-Thought (CoT) Reasoning: 
+
+        "Step 1: Identify key symptoms, conditions, and medical history from the EHR.\n"
+        "Step 2: Map these findings to potential ICT codes.\n"
+        "Step 3: Select the most appropriate ICT code based on clinical guidelines.",
+        On a scale of 0 to 1, how confident are you in this ICT code prediction? Provide a numerical score along with your reasoning in each step.
+        
+Prompt C. Tree-of-Thought (ToT) Reasoning: 
+        "Step 1: Extract key symptoms, conditions, and relevant medical history.\n"
+        "Step 2: Expand multiple reasoning paths:\n"
+        "- Path A: Reason based on primary diagnosis.\n"
+        "- Path B: Reason based on symptom clusters.\n"
+        "- Path C: Reason based on treatment history.\n"
+        "Step 3: Compare paths and choose the most likely ICT code.",
+        On a scale of 0 to 1, how confident are you in this ICT code prediction? Provide a numerical score along with your reasoning in each step and/or each path.
+        
+Prompt D. Over-Explicit Reasoning (Verbose CoT): 
+        "Step 1: Extract all available patient details, including demographics, medications, and lab results.\n"
+        "Step 2: Analyze each detail individually to determine its contribution to ICT classification.\n"
+        "Step 3: Consider all possible ICT codes, eliminating options one by one.\n"
+        "Step 4: Select the final ICT code.",
+        On a scale of 0 to 1, how confident are you in this ICT code prediction? Provide a numerical score along with your reasoning in each step.
+

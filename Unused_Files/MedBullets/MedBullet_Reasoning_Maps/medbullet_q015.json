@@ -1,0 +1,70 @@
+{
+  "patient_case": {
+    "prompt_question": "A 51-year-old man presents for his annual wellness visit. His wife has noticed a tremor while he is working on his car. The tremor, seen during activities such as pouring drinks, pointing the remote, or doing car repairs, is present during finger-to-nose testing. There is a family history of Parkinson disease, although his exam is otherwise benign. Which of the following is the most appropriate treatment for this patient's tremor? Options: A. Alcoholics anonymous, B. Aripiprazole, C. Phenobarbital, D. Propranolol.",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on clinical findings and standard treatment for essential tremor",
+        "result": "Differential reasoning applied",
+        "interpretation": "The patient exhibits an action tremor consistent with essential tremor. The first-line treatment for essential tremor is a nonselective beta-blocker.",
+        "diagnostic_options": [
+          {
+            "option": "Alcoholics anonymous",
+            "description": "Referral for management of alcohol use disorder.",
+            "evidence_for": [
+              "The patient consumes alcohol regularly."
+            ],
+            "evidence_against": [
+              "The tremor is characteristic of essential tremor; alcohol use disorder is not the primary cause and AA does not treat tremors directly."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Aripiprazole",
+            "description": "An atypical antipsychotic used primarily for schizophrenia and mood disorders.",
+            "evidence_for": [
+              "No supportive evidence in tremor management."
+            ],
+            "evidence_against": [
+              "The patient does not have psychotic or mood symptoms, and antipsychotics are not indicated for essential tremor."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Phenobarbital",
+            "description": "A barbiturate with sedative properties that is not a standard treatment for essential tremor.",
+            "evidence_for": [
+              "May reduce tremor indirectly by sedation."
+            ],
+            "evidence_against": [
+              "Not a first-line therapy; high side-effect profile and not indicated for this presentation."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Propranolol",
+            "description": "A nonselective beta-blocker and the first-line treatment for essential tremor.",
+            "evidence_for": [
+              "Directly improves essential tremor by reducing beta-adrenergic stimulation.",
+              "Supported by clinical guidelines."
+            ],
+            "evidence_against": [
+              "Potential contraindications exist but are not evident in this patient."
+            ],
+            "final_verdict": "Most likely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Propranolol is the most appropriate treatment for this patient's essential tremor."
+  }
+}

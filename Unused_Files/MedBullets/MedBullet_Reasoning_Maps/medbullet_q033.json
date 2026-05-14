@@ -1,0 +1,69 @@
+{
+  "patient_case": {
+    "prompt_question": "A 72-year-old man presents with morning weakness that improves slightly with exercise, weight loss, and a chronic cough. He has a heavy smoking history and a recent chest radiograph (Figure A). Which diagnostic test would most likely elucidate the cause of this patient's weakness? Options: A. CT scan of the chest, B. Electromyography, C. Lung biopsy, D. Muscle biopsy.",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question; suspect a paraneoplastic neuromuscular junction disorder (Lambert Eaton myasthenic syndrome) secondary to small cell lung cancer.",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clinical clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Each diagnostic option is evaluated in the context of confirming a paraneoplastic neuromuscular junction disorder versus alternative etiologies.",
+        "diagnostic_options": [
+          {
+            "option": "CT scan of the chest",
+            "description": "High-resolution imaging to evaluate for lung masses and further characterize abnormalities seen on chest radiograph.",
+            "evidence_for": [
+              "Relevant given the patient\u2019s smoking history, weight loss, and chronic cough suggesting possible lung cancer."
+            ],
+            "evidence_against": [
+              "Does not directly assess neuromuscular function which is responsible for the weakness."
+            ],
+            "final_verdict": "Plausible for cancer evaluation, but not the best for explaining the weakness mechanism."
+          },
+          {
+            "option": "Electromyography",
+            "description": "Electrophysiological study that assesses neuromuscular transmission; demonstrates an incremental response on repetitive stimulation in Lambert Eaton syndrome.",
+            "evidence_for": [
+              "Weakness that improves with exercise is characteristic of Lambert Eaton myasthenic syndrome, a paraneoplastic phenomenon associated with small cell lung cancer."
+            ],
+            "evidence_against": [
+              "Not indicated if primary muscle pathology were suspected, but clinical clues lean away from this."
+            ],
+            "final_verdict": "Most likely diagnostic test to elucidate the cause of the patient\u2019s weakness."
+          },
+          {
+            "option": "Lung biopsy",
+            "description": "Invasive procedure used to procure tissue for definitive diagnosis of lung masses.",
+            "evidence_for": [
+              "Could confirm small cell lung cancer if a mass is identified."
+            ],
+            "evidence_against": [
+              "Does not directly evaluate the neuromuscular junction, which is the cause of the weakness."
+            ],
+            "final_verdict": "Less likely to directly explain the neuromuscular weakness."
+          },
+          {
+            "option": "Muscle biopsy",
+            "description": "Procedure to assess for primary muscle diseases such as myopathies or inflammatory muscle conditions.",
+            "evidence_for": [
+              "Helpful if a primary myopathic process is suspected."
+            ],
+            "evidence_against": [
+              "The clinical pattern of improved strength with exercise is not typical for primary muscle disease."
+            ],
+            "final_verdict": "Unlikely to elucidate the cause of weakness in this scenario."
+          }
+        ]
+      }
+    ],
+    "conclusion": "Electromyography is the most appropriate diagnostic test because it would detect the neuromuscular transmission abnormalities indicative of Lambert Eaton myasthenic syndrome, a paraneoplastic syndrome likely secondary to small cell lung cancer in this patient."
+  }
+}

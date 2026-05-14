@@ -1,0 +1,73 @@
+{
+  "patient_case": {
+    "prompt_question": "A 31-year-old man with HIV, who previously had a right upper lobe infiltrate and very low CD4 count, was treated and now has immune reconstitution with improved CD4 count. He presents with fever, cough, hemoptysis, and a chest radiograph showing new nodules in the left upper lobe with hilar adenopathy. Which of the following is the most appropriate next step in management?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare against most likely diagnosis/answer, which is immune reconstitution inflammatory syndrome (IRIS) in the context of disseminated tuberculosis.",
+        "diagnostic_options": [
+          {
+            "option": "Continue current anti-retroviral treatment, antimicrobial, and anti-tuberculoid therapies",
+            "description": "Management of IRIS typically involves continuation of existing therapies without discontinuation.",
+            "evidence_for": [
+              "Patient's immune reconstitution (improved CD4 count) suggests IRIS.",
+              "New pulmonary findings are consistent with an inflammatory response rather than treatment failure.",
+              "Appropriate to continue anti-tubercular and ARV therapies to allow immune system stabilization."
+            ],
+            "evidence_against": [
+              "No evidence of drug resistance or treatment complication that would necessitate alteration."
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Determine drug sensitivities against the patient\u2019s pulmonary infection",
+            "description": "This is considered when there is suspicion of drug-resistant organisms.",
+            "evidence_for": [
+              "Drug resistance is a potential concern in recurrent infections."
+            ],
+            "evidence_against": [
+              "Rapid immune reconstitution points to IRIS rather than resistance.",
+              "The clinical scenario does not suggest treatment failure, but rather an inflammatory response."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Discontinue antimicrobial treatment",
+            "description": "This option would be chosen if treatment complications required cessation of therapy.",
+            "evidence_for": [
+              "None in this scenario suggest stopping treatment."
+            ],
+            "evidence_against": [
+              "Discontinuation could worsen the underlying infection and ignore IRIS management principles."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Obtain a D-dimer level",
+            "description": "Evaluates for thromboembolic disease such as pulmonary embolism.",
+            "evidence_for": [
+              "Fever and respiratory symptoms may sometimes prompt embolism workup."
+            ],
+            "evidence_against": [
+              "The radiographic findings of nodules and hilar adenopathy are not typical of pulmonary embolism.",
+              "The clinical context strongly supports IRIS due to immune reconstitution."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The most appropriate management is to continue the current anti-retroviral, antimicrobial, and anti-tuberculoid therapies as the clinical picture is consistent with immune reconstitution inflammatory syndrome (IRIS)."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "patient_case": {
+    "prompt_question": "A 23-year-old woman presents to her psychiatrist concerned about her mood. She has felt tired and unwilling to engage in any activities lately. She states that her limbs feel heavy all the time and that completing any activity takes tremendous effort. She no longer finds any happiness in activities that she previously enjoyed. She struggles to sleep and at times can't sleep for several days. The patient is started on appropriate first-line therapy and sent home. She returns 1 week later stating that her symptoms have not improved. She is requesting help as her performance at work and school is suffering. Her temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 115/72 mmHg, pulse is 60/min, respirations are 13/min, and oxygen saturation is 98% on room air. Which of the following is the most appropriate next step in management?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on treatment guidelines for depression and expected timeline of response",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare each option against the established expectation that SSRIs require 4-6 weeks for clinical improvement",
+        "diagnostic_options": [
+          {
+            "option": "Add lithium to treatment regimen",
+            "description": "Augmentation strategy sometimes used for treatment-resistant depression after an adequate trial period.",
+            "evidence_for": [
+              "Lithium augmentation is an option in refractory depression."
+            ],
+            "evidence_against": [
+              "Only one week has elapsed; insufficient time to assess first-line therapy efficacy.",
+              "Augmentation is premature in this scenario."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Change treatment to duloxetine",
+            "description": "Switching to a different class, SNRI, potentially for patients who fail initial therapy.",
+            "evidence_for": [
+              "SNRIs are an alternative option in depression treatment."
+            ],
+            "evidence_against": [
+              "One week is too early to switch treatment as SSRIs typically take several weeks to work.",
+              "No evidence of intolerance or adverse effects with the current regimen."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Change treatment to lithium",
+            "description": "Lithium, a mood stabilizer, is more commonly used in bipolar disorder rather than unipolar depression.",
+            "evidence_for": [
+              "Lithium can be used in mood disorders, especially bipolar depression."
+            ],
+            "evidence_against": [
+              "The patient presents with symptoms consistent with unipolar depression.",
+              "Lithium is not indicated as monotherapy for unipolar depression at this stage."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Continue current therapy",
+            "description": "Maintaining the initial SSRI regimen to allow adequate time (4-6 weeks) for the medication to take effect.",
+            "evidence_for": [
+              "SSRIs and first-line antidepressants typically require 4-6 weeks to show full clinical benefits.",
+              "No adverse side effects reported that necessitate change."
+            ],
+            "evidence_against": [
+              "Patient's dissatisfaction due to the early stage of treatment."
+            ],
+            "final_verdict": "Most likely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Since SSRIs and other first-line antidepressants require several weeks to reach therapeutic effects, the best course of action is to continue with the current therapy and allow sufficient time for improvement."
+  }
+}

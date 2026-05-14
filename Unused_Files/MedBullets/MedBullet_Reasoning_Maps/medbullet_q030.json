@@ -1,0 +1,70 @@
+{
+  "patient_case": {
+    "prompt_question": "A 51-year-old man presents with intermittent shaking of his hands, most noticeable during activities like brushing his teeth and preparing coffee, with improvement later in the day. Physical exam reveals a high-frequency bilateral hand tremor on finger-to-nose testing, with otherwise unremarkable neurological exam. Which of the following medications should be started: Alprazolam, Primidone, Propranolol, Topiramate?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "The patient\u2019s tremor is action/postural in nature, characteristic of essential tremor. Essential tremor is best managed with beta blockers or primidone.",
+        "diagnostic_options": [
+          {
+            "option": "Alprazolam",
+            "description": "A benzodiazepine that can reduce anxiety-related tremor.",
+            "evidence_for": [
+              "May reduce tremor if anxiety is a contributing factor"
+            ],
+            "evidence_against": [
+              "Not first-line for essential tremor; risk of dependency and sedation"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Primidone",
+            "description": "An anticonvulsant used as a first-line treatment for essential tremor.",
+            "evidence_for": [
+              "Effective in reducing tremor amplitude in essential tremor"
+            ],
+            "evidence_against": [
+              "Beta blockers are usually preferred; primidone is alternative if beta blockers contraindicated"
+            ],
+            "final_verdict": "Plausible but not first choice"
+          },
+          {
+            "option": "Propranolol",
+            "description": "A non-selective beta blocker which is first-line for essential tremor.",
+            "evidence_for": [
+              "Well-established as the first-line treatment for essential tremor",
+              "Improves tremor during action and posture"
+            ],
+            "evidence_against": [
+              "Contraindicated in asthma; but no contraindications noted in this case"
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Topiramate",
+            "description": "An anticonvulsant occasionally used in tremor management.",
+            "evidence_for": [
+              "Has some efficacy in essential tremor"
+            ],
+            "evidence_against": [
+              "Not first-line therapy; less evidence compared to propranolol or primidone"
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Based on the clinical presentation and evidence, propranolol is the most appropriate medication to start for this patient with essential tremor."
+  }
+}

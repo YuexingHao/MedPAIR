@@ -1,0 +1,70 @@
+{
+  "patient_case": {
+    "prompt_question": "A 37-year-old machinist presents with a chronic, firm, rubbery, painless nodule inside his left eyelid, persisting for the past month. His past medical history includes blepharitis and squamous cell carcinoma treated with Mohs surgery. Which of the following is the most likely diagnosis? Options: A. Chalazion, B. Foreign body, C. Hordeolum, D. Meibomian cell carcinoma.",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clinical clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare each option with the patient's presentation to assess likelihood",
+        "diagnostic_options": [
+          {
+            "option": "Chalazion",
+            "description": "A chronic granulomatous inflammation of a meibomian gland causing a painless, firm nodule on the eyelid.",
+            "evidence_for": [
+              "Presents as a painless, firm, and rubbery nodule inside the eyelid.",
+              "Chronic duration (1 month) fits the natural history."
+            ],
+            "evidence_against": [
+              "None significant in this clinical scenario."
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Foreign body",
+            "description": "An external object lodged in the eyelid or conjunctiva, usually causing acute irritation or inflammation.",
+            "evidence_for": [
+              "Can cause ocular discomfort if present."
+            ],
+            "evidence_against": [
+              "Typically presents with acute pain and signs of irritation rather than a painless, chronic mass."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Hordeolum",
+            "description": "An acute purulent infection of the eyelid\u2019s glands (usually staphylococcal), commonly presenting with pain and erythema.",
+            "evidence_for": [
+              "Involves the eyelid structures."
+            ],
+            "evidence_against": [
+              "Characteristically painful and acute, not matching the painless, chronic presentation."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Meibomian cell carcinoma",
+            "description": "A malignant tumor of the meibomian glands, potentially presenting as a nodular mass on the eyelid.",
+            "evidence_for": [
+              "Involvement of meibomian glands."
+            ],
+            "evidence_against": [
+              "Typically occurs in older patients and may show other malignant features; the patient is relatively young and the mass is benign in character."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The clinical description most closely matches a chalazion, given the chronic, painless, firm, and rubbery eyelid mass."
+  }
+}

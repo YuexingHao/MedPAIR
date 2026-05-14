@@ -1,0 +1,69 @@
+{
+  "patient_case": {
+    "prompt_question": "A 1-year-old girl is brought to a neurologist due to increasing seizure frequency over the past 2 months. EEG reveals hypsarrhythmia with slow waves, multifocal spikes, and asynchrony. The patient exhibits infantile spasms and physical exam shows innumerable hypopigmented macules and an irregular, thickened plaque on the lower back. Which of the following is most strongly associated with this patient's condition? Options: A. Cardiac rhabdomyoma, B. Glaucoma, C. Optic glioma, D. Polyostotic fibrous dysplasia",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Comparison against tuberous sclerosis features including infantile spasms, hypsarrhythmia, hypopigmented macules (ash leaf spots), and shagreen patch",
+        "diagnostic_options": [
+          {
+            "option": "Cardiac rhabdomyoma",
+            "description": "Benign cardiac tumors frequently associated with tuberous sclerosis",
+            "evidence_for": [
+              "Tuberous sclerosis is classically linked to cardiac rhabdomyomas in infancy"
+            ],
+            "evidence_against": [
+              "None relevant in this clinical context"
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Glaucoma",
+            "description": "An ocular condition involving increased intraocular pressure",
+            "evidence_for": [
+              "None specific for tuberous sclerosis"
+            ],
+            "evidence_against": [
+              "Glaucoma is not a typical feature of tuberous sclerosis; it is more associated with other phakomatoses"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Optic glioma",
+            "description": "Tumor of the optic pathway typically associated with neurofibromatosis type 1",
+            "evidence_for": [
+              "None specific for tuberous sclerosis"
+            ],
+            "evidence_against": [
+              "Optic gliomas are not characteristic of tuberous sclerosis"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Polyostotic fibrous dysplasia",
+            "description": "A bone disorder most commonly linked with McCune-Albright syndrome",
+            "evidence_for": [
+              "None relative to tuberous sclerosis"
+            ],
+            "evidence_against": [
+              "This condition is not associated with the dermatologic and neurologic findings seen here"
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The clinical features are indicative of tuberous sclerosis, making cardiac rhabdomyoma the most strongly associated finding with this condition."
+  }
+}

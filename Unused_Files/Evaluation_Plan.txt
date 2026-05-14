@@ -1,0 +1,3 @@
+Evaluation Plan
+
+useful information entropy 𝐻(𝑃)

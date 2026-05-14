@@ -1,0 +1,70 @@
+{
+  "patient_case": {
+    "prompt_question": "A 67-year-old man presents to the emergency room with difficulty speaking for the past 1 hour. He was having dinner at home with his wife when he suddenly noticed he had difficulty eating and speaking. He also noticed a new-onset weakness on his left side. His medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia. His current medications include metformin, atorvastatin, and lisinopril. His temperature is 98.6\u00b0F (37\u00b0C), blood pressure is 130/80 mmHg, pulse is 70/min, and respirations are 15/min. On examination, strength is 5/5 in the right upper and lower extremities and 3/5 in the left upper and lower extremities. On cranial nerve examination, his tongue deviates to the right side. There is also decreased sensation to light touch and vibration on the left side of his body. Which of the following arteries is most likely involved in this patient\u2019s presentation?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "The clinical picture suggests a medial medullary syndrome due to involvement of the anterior spinal artery, as evidenced by contralateral body weakness and decreased sensation with ipsilateral tongue deviation.",
+        "diagnostic_options": [
+          {
+            "option": "Anterior spinal artery",
+            "description": "Supplies the medial medulla; occlusion leads to medial medullary syndrome characterized by contralateral hemiparesis and impaired proprioception with ipsilateral hypoglossal nerve (tongue) dysfunction.",
+            "evidence_for": [
+              "Ipsilateral tongue deviation (right side) indicates hypoglossal nerve involvement.",
+              "Contralateral (left-sided) weakness and sensory deficits align with corticospinal and medial lemniscus involvement in the medial medulla."
+            ],
+            "evidence_against": [
+              "No significant contrary evidence in the clinical scenario."
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Lenticulostriate branches of the middle cerebral artery",
+            "description": "Supply deep subcortical structures such as the basal ganglia and internal capsule; occlusion typically causes pure motor deficits.",
+            "evidence_for": [
+              "May produce contralateral hemiparesis."
+            ],
+            "evidence_against": [
+              "Does not account for cranial nerve involvement, specifically tongue deviation related to hypoglossal nerve dysfunction."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Pontine perforators of the basilar artery",
+            "description": "Supply the pons; occlusion can result in motor deficits associated with pontine syndromes.",
+            "evidence_for": [
+              "Could explain motor weakness."
+            ],
+            "evidence_against": [
+              "Lesions in the pons would not typically present with ipsilateral tongue deviation, which is a medullary sign."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Posterior inferior cerebellar artery",
+            "description": "Supplies the lateral medulla and portions of the cerebellum; infarction leads to lateral medullary (Wallenberg) syndrome.",
+            "evidence_for": [
+              "May cause dysarthria and some sensory deficits."
+            ],
+            "evidence_against": [
+              "Typically presents with vertigo, ataxia, and loss of pain/temperature sensation in specific patterns rather than the described tongue deviation."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The clinical presentation is most consistent with a medial medullary syndrome due to occlusion of the anterior spinal artery."
+  }
+}

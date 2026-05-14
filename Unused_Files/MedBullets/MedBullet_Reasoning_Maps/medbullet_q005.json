@@ -1,0 +1,74 @@
+{
+  "patient_case": {
+    "prompt_question": "A 55-year-old woman with a history of subarachnoid hemorrhage managed surgically now presents on hospital day 3 with disorientation, nausea, and vomiting. Her exam reveals signs of hypovolemia (poor skin turgor, delayed capillary refill, low blood pressure, tachycardia). Laboratory studies show hyponatremia (Na+ 120 mEq/L), low serum osmolality (265 mOsm/kg), inappropriately high urine osmolality (340 mOsm/kg), and an elevated urine sodium (44 mEq/L). Which of the following is the most likely diagnosis? Options: A. Cerebral salt wasting, B. Diuretic overuse, C. Primary polydipsia, D. Syndrome of inappropriate anti-diuretic hormone.",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clues",
+        "result": "Differential reasoning applied",
+        "interpretation": "Compare clinical and laboratory findings to likely etiologies for hyponatremia post-neurosurgery",
+        "diagnostic_options": [
+          {
+            "option": "Cerebral salt wasting",
+            "description": "Occurs in patients with intracranial pathology leading to natriuresis and resultant hypovolemia and hyponatremia.",
+            "evidence_for": [
+              "History of subarachnoid hemorrhage",
+              "Hypovolemic signs on exam (poor skin turgor, tachycardia, low BP)",
+              "Hyponatremia with low serum osmolality and high urine sodium/osmolality"
+            ],
+            "evidence_against": [
+              "None significant in this context"
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Diuretic overuse",
+            "description": "Excessive diuretic use can cause hyponatremia but usually with a history of recent dosage increase or misuse.",
+            "evidence_for": [
+              "Patient is on furosemide"
+            ],
+            "evidence_against": [
+              "No indication of recent overuse or dosage change",
+              "Clinical scenario more suggestive of a neurogenic cause in the setting of SAH"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Primary polydipsia",
+            "description": "Excessive water intake leads to hyponatremia with dilute urine.",
+            "evidence_for": [
+              "Hyponatremia is present"
+            ],
+            "evidence_against": [
+              "Urine osmolality is high rather than dilute",
+              "Clinical context does not indicate excessive water intake"
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Syndrome of inappropriate anti-diuretic hormone",
+            "description": "SIADH is characterized by euvolemic hyponatremia with high urine osmolality and sodium.",
+            "evidence_for": [
+              "Inappropriate concentration of urine (high urine osmolality) and elevated urine sodium"
+            ],
+            "evidence_against": [
+              "Typically euvolemic, yet this patient shows signs of hypovolemia",
+              "Post-neurosurgical setting favors cerebral salt wasting over SIADH when hypovolemia is present"
+            ],
+            "final_verdict": "Less likely compared to cerebral salt wasting"
+          }
+        ]
+      }
+    ],
+    "conclusion": "Given the history of subarachnoid hemorrhage, the presence of hypovolemia, and laboratory features of hyponatremia with high urine osmolality and sodium, cerebral salt wasting is the most likely diagnosis."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "patient_case": {
+    "prompt_question": "A 55-year-old male bodybuilder presents to the emergency department with weakness of his right arm. The patient states he has experienced these symptoms for a few weeks; however, today his hand felt so weak he dropped his cup of tea. The patient has a medical history of diabetes. He drinks 2-7 alcoholic drinks per day and has smoked 2 packs of cigarettes per day since he was 25. The patient uses anabolic steroids. He has lost 17 pounds since he last came to the emergency department 1 month ago. His temperature is 99.5\u00b0F (37.5\u00b0C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air. Physical exam reveals decreased sensation in the right arm and 2/5 strength in the right arm and 5/5 strength in the left arm. The patient states that he is experiencing a dull aching and burning pain in his right arm during the exam. Symptoms are not changed with changes in head and neck position. Which of the following is the most likely diagnosis?",
+    "note": "This prompt originates from a clinical scenario; diagnosis or management is to be inferred."
+  },
+  "diagnostic_test": {
+    "name": "N/A",
+    "procedure": [],
+    "stains": [],
+    "findings": []
+  },
+  "reasoning_tree": {
+    "start": "Review clinical case and question",
+    "branch": [
+      {
+        "condition": "Analyze each option based on known pathophysiology, presentation, and clinical clues.",
+        "result": "Differential reasoning applied",
+        "interpretation": "Comparing patient risk factors, exam findings, and symptom chronicity to reach the most consistent diagnosis.",
+        "diagnostic_options": [
+          {
+            "option": "Apical lung tumor",
+            "description": "Pancoast tumor is an apical lung tumor that invades the brachial plexus leading to neuropathic pain, weakness, and sensory deficits in the upper extremity.",
+            "evidence_for": [
+              "Patient's heavy smoking history and significant weight loss are strong risk factors.",
+              "Presentation of progressive arm weakness, sensory loss, and burning pain corresponds with brachial plexus involvement.",
+              "Pain not changing with head and neck movement supports an intrinsic process rather than a positional nerve compression."
+            ],
+            "evidence_against": [
+              "Lack of classic signs such as Horner syndrome, although these may not always be present."
+            ],
+            "final_verdict": "Most likely"
+          },
+          {
+            "option": "Brachial plexopathy",
+            "description": "A broad term encompassing any pathology affecting the brachial plexus leading to upper extremity weakness and sensory deficits.",
+            "evidence_for": [
+              "The patient has focal neurological deficits in the right arm consistent with brachial plexus involvement."
+            ],
+            "evidence_against": [
+              "This option is a general descriptor; in the context of the patient's risk factors (smoking, weight loss), a specific etiology such as an apical lung tumor is more likely."
+            ],
+            "final_verdict": "Less likely (non-specific)"
+          },
+          {
+            "option": "Cerebral infarction",
+            "description": "A stroke typically causing sudden onset unilateral weakness, often with additional deficits.",
+            "evidence_for": [
+              "Unilateral weakness could be seen in a stroke."
+            ],
+            "evidence_against": [
+              "The subacute progressive course over weeks and isolated arm involvement make stroke less likely.",
+              "Absence of other typical brain signs (e.g., facial droop, speech deficits) argues against cerebral infarction."
+            ],
+            "final_verdict": "Unlikely"
+          },
+          {
+            "option": "Scalenus anticus syndrome",
+            "description": "A form of thoracic outlet syndrome caused by compression of the brachial plexus by the anterior scalene muscle.",
+            "evidence_for": [
+              "Can cause upper extremity neuropathic pain and weakness."
+            ],
+            "evidence_against": [
+              "Symptoms in this syndrome often change with head and neck position, which is not observed in this case."
+            ],
+            "final_verdict": "Unlikely"
+          }
+        ]
+      }
+    ],
+    "conclusion": "The clinical presentation, risk factors (heavy smoking and weight loss), and neurological findings most strongly support an apical lung tumor (Pancoast tumor) as the underlying cause for this patient\u2019s brachial plexus involvement."
+  }
+}
