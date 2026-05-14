@@ -1,197 +1,113 @@
-:root {
-  --bg: #f4f7fb;
-  --bg-soft: #eef4ff;
-  --surface: #ffffff;
-  --text: #12213a;
-  --muted: #4f5f7a;
-  --brand: #1d4ed8;
-  --brand-2: #0ea5a4;
-  --line: #d8e2f1;
-  --shadow: 0 18px 45px rgba(18, 33, 58, 0.08);
-}
-
-html {
-  scroll-behavior: smooth;
-}
-
 body {
-  font-family: "Noto Sans", sans-serif;
-  color: var(--text);
-  background:
-    radial-gradient(1200px 500px at 15% -10%, #dbeafe 0%, transparent 60%),
-    radial-gradient(900px 400px at 90% 0%, #ccfbf1 0%, transparent 55%),
-    var(--bg);
+  font-family: 'Noto Sans', sans-serif;
 }
 
-.hero,
-.section {
+
+.footer .icon-link {
+    font-size: 25px;
+    color: #000;
+}
+
+.link-block a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.dnerf {
+  font-variant: small-caps;
+}
+
+
+.teaser .hero-body {
+  padding-top: 0;
+  padding-bottom: 3rem;
+}
+
+.teaser {
+  font-family: 'Google Sans', sans-serif;
+}
+
+
+.publication-title {
+}
+
+.publication-banner {
+  max-height: parent;
+
+}
+
+.publication-banner video {
   position: relative;
+  left: auto;
+  top: auto;
+  transform: none;
+  object-fit: fit;
 }
 
-.hero::before,
-.section::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
+.publication-header .hero-body {
 }
 
 .publication-title {
-  font-family: "Castoro", serif;
-  color: #0b1730;
-  line-height: 1.15;
-  letter-spacing: 0.1px;
-  text-wrap: balance;
-  animation: lift-in 0.8s ease both;
+    font-family: 'Google Sans', sans-serif;
 }
 
 .publication-authors {
-  font-family: "Google Sans", sans-serif;
-  color: var(--muted);
+    font-family: 'Google Sans', sans-serif;
+}
+
+.publication-venue {
+    color: #555;
+    width: fit-content;
+    font-weight: bold;
+}
+
+.publication-awards {
+    color: #ff3860;
+    width: fit-content;
+    font-weight: bolder;
+}
+
+.publication-authors {
 }
 
 .publication-authors a {
-  color: var(--brand) !important;
-  font-weight: 600;
+   color: hsl(204, 86%, 53%) !important;
 }
 
 .publication-authors a:hover {
-  color: #1e40af !important;
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .author-block {
   display: inline-block;
-  margin: 0 2px;
 }
 
-.eql-cntrb {
-  font-size: 0.95rem;
-  color: var(--muted);
+.publication-banner img {
 }
 
-.publication-links {
-  margin-top: 1.2rem;
-}
-
-.link-block a {
-  margin: 6px 5px;
-  border: 1px solid transparent !important;
-  box-shadow: 0 6px 20px rgba(29, 78, 216, 0.16);
-  background: linear-gradient(135deg, #1d4ed8, #0ea5a4) !important;
-  color: #fff !important;
-  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
-}
-
-.link-block a:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 25px rgba(29, 78, 216, 0.25);
-  filter: brightness(1.04);
-}
-
-.section.hero.is-light,
-.hero.is-small.is-light {
-  background: transparent !important;
-}
-
-.section.hero.is-light .container,
-.hero.is-small.is-light .container,
-#BibTeX .container {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 20px;
-  box-shadow: var(--shadow);
-  padding: 2rem;
-}
-
-.title.is-3,
-.title.is-2,
-.title {
-  font-family: "Google Sans", sans-serif;
-  color: #0f2145;
-}
-
-.content p,
-.subtitle {
-  color: var(--muted);
-  line-height: 1.75;
-}
-
-.image-container {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 20px;
-  box-shadow: var(--shadow);
-  padding: 1.2rem;
-  margin: 1.4rem auto;
-  max-width: 1120px;
-  animation: fade-in 0.8s ease both;
-}
-
-.image-container img {
-  width: 100%;
-  height: auto;
-  border-radius: 14px;
-  border: 1px solid #e5edf9;
-  background: #f8fbff;
-}
-
-.image-container .subtitle {
-  margin-top: 1rem;
-  padding: 0 0.35rem;
-  font-size: 1rem;
-}
-
-.image-grid {
-  margin-top: 0.75rem;
+.publication-authors {
+  /*color: #4286f4;*/
 }
 
 .publication-video {
-  position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-  border-radius: 16px !important;
-  border: 1px solid var(--line);
-  box-shadow: var(--shadow);
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+
+    overflow: hidden;
+    border-radius: 10px !important;
 }
 
 .publication-video iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
-pre code {
-  display: block;
-  background: #0f172a;
-  color: #e2e8f0;
-  border-radius: 12px;
-  padding: 1.25rem;
-  overflow-x: auto;
-  border: 1px solid #1e293b;
-}
-
-.footer {
-  background: transparent;
-  padding-top: 2.5rem;
-  padding-bottom: 3rem;
-}
-
-.footer .content {
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 16px;
-  box-shadow: var(--shadow);
-  padding: 1.4rem;
-  color: var(--muted);
-}
-
-.footer a {
-  color: var(--brand);
+.publication-body img {
 }
 
 .results-carousel {
@@ -210,52 +126,12 @@ pre code {
 }
 
 .slider-pagination .slider-page {
-  background: #0f2145;
+  background: #000000;
 }
 
-@keyframes lift-in {
-  from {
-    opacity: 0;
-    transform: translateY(12px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+.eql-cntrb { 
+  font-size: smaller;
 }
 
-@keyframes fade-in {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@media (max-width: 768px) {
-  .publication-title {
-    font-size: 2rem !important;
-  }
-
-  .section.hero.is-light .container,
-  .hero.is-small.is-light .container,
-  #BibTeX .container {
-    padding: 1.25rem;
-    border-radius: 14px;
-  }
-
-  .image-container {
-    padding: 0.85rem;
-    border-radius: 14px;
-  }
-
-  .image-container .subtitle {
-    font-size: 0.95rem;
-    line-height: 1.65;
-  }
-}
 
 
