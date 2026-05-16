@@ -1,25 +1,25 @@
-model,source,n_source,r2_correct,r2_incorrect,r2_acc_pct
-Qwen-72B,mmlu,192,188,4,97.92
-Qwen-72B,jama,295,232,63,78.64
-Qwen-72B,medxpert,286,58,228,20.28
-Qwen-72B,medbullets,160,130,30,81.25
-Qwen-14B,mmlu,192,173,19,90.1
-Qwen-14B,jama,295,216,79,73.22
-Qwen-14B,medxpert,286,53,233,18.53
-Qwen-14B,medbullets,160,110,50,68.75
-Llama-70B,mmlu,192,192,0,100.0
-Llama-70B,jama,295,233,62,78.98
-Llama-70B,medxpert,286,60,226,20.98
-Llama-70B,medbullets,160,131,29,81.88
-MedGemma-27B,mmlu,192,55,137,28.65
-MedGemma-27B,jama,295,40,255,13.56
-MedGemma-27B,medxpert,286,31,255,10.84
-MedGemma-27B,medbullets,160,63,97,39.38
-GPT4o,mmlu,192,97,95,50.52
-GPT4o,jama,295,127,168,43.05
-GPT4o,medxpert,286,65,221,22.73
-GPT4o,medbullets,160,73,87,45.62
-GPT 5,mmlu,192,170,22,88.54
-GPT 5,jama,295,218,77,73.9
-GPT 5,medxpert,286,167,119,58.39
-GPT 5,medbullets,160,134,26,83.75
+model,source,r1_correct,r2_correct,r2_incorrect_spurious
+Qwen-72B,mmlu,164,160,4
+Qwen-72B,jama,176,155,21
+Qwen-72B,medxpert,74,61,13
+Qwen-72B,medbullets,113,107,6
+Qwen-14B,mmlu,167,155,12
+Qwen-14B,jama,203,171,32
+Qwen-14B,medxpert,65,50,15
+Qwen-14B,medbullets,99,88,11
+Llama-70B,mmlu,153,147,6
+Llama-70B,jama,186,160,26
+Llama-70B,medxpert,73,53,20
+Llama-70B,medbullets,95,88,7
+MedGemma-27B,mmlu,104,41,63
+MedGemma-27B,jama,39,7,32
+MedGemma-27B,medxpert,38,7,31
+MedGemma-27B,medbullets,69,31,38
+GPT4o,mmlu,185,97,88
+GPT4o,jama,242,127,115
+GPT4o,medxpert,124,65,59
+GPT4o,medbullets,139,73,66
+GPT 5,mmlu,189,162,27
+GPT 5,jama,259,222,37
+GPT 5,medxpert,205,175,30
+GPT 5,medbullets,152,130,22
