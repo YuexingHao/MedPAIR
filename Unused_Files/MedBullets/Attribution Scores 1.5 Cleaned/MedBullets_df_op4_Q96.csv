@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+104.2940772717662,"His temperature is 98.5°F (36.9°C), blood pressure is 123/79 mmHg, pulse is 90/min, respirations are 11/min, and oxygen saturation is 97% on room air.",95,MedBullets df_op4 Q96,A
+96.27661150090192,A 33-year-old man presents to the emergency department after slamming his finger in the car door 5 hours ago.,95,MedBullets df_op4 Q96,A
+39.990876659979385,A radiograph of the affected digits shows a smooth cortex without disruption of the bone.,95,MedBullets df_op4 Q96,A
+25.58494944914615,He initially experienced pain which is currently well controlled with acetaminophen.,95,MedBullets df_op4 Q96,A
+19.843275919556618,The patient is otherwise healthy and does not take any medications.,95,MedBullets df_op4 Q96,A

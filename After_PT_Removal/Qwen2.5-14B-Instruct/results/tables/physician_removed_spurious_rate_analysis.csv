@@ -1,0 +1,6 @@
+Model,Data Source,Spurious Rate (%),Spurious Count,Total Original Correct
+Physician_Removed,Overall,15.300546448087433,112,732
+Physician_Removed,jama,18.133333333333333,68,375
+Physician_Removed,medbullets,7.5,9,120
+Physician_Removed,medxpert,27.536231884057973,19,69
+Physician_Removed,mmlu,9.523809523809524,16,168

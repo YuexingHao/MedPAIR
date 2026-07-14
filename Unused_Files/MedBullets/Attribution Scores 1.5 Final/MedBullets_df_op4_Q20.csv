@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.43065560483205,The patient has a medical history of blepharitis treated with eye cleansing and squamous cell carcinoma of the skin treated with Mohs surgery.,19,MedBullets_df_op4_Q20,A
+61.32551881670952,Physical exam is notable for a firm and rubbery nodule palpable inside the patient's left eyelid.,19,MedBullets_df_op4_Q20,A
+45.669986147637545,A 37-year-old machinist presents to his primary care physician with eye problems.,19,MedBullets_df_op4_Q20,A
+17.358728041386705,He has felt a mass in his eye that has persisted for the past month.,19,MedBullets_df_op4_Q20,A
+9.64787386359965,"His temperature is 99.5°F (37.5°C), blood pressure is 157/102 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air.",19,MedBullets_df_op4_Q20,A
+7.565251396822239,Physical exam does not elicit any pain.,19,MedBullets_df_op4_Q20,A

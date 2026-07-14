@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+105.93872332026343,Sensation to pinprick is diminished over the posterolateral legs and lateral aspects of both feet.,62,MedBullets df_op4 Q63,A
+70.49487539775653,"Physical examination reveals 3/5 strength to hip extension, knee flexion and extension, and plantar flexion bilaterally.",62,MedBullets df_op4 Q63,A
+56.95655286312103,The pain is rated as 10/10 in severity and radiates down the posterior aspect of the right thigh.,62,MedBullets df_op4 Q63,A
+44.65908795323327,The patient’s underwear is wet and a bladder scan reveals 800 mL of urine.,62,MedBullets df_op4 Q63,A
+42.558362449900585,His only medical problem is hypertension for which he takes amlodipine.,62,MedBullets df_op4 Q63,A
+20.473845058719757,The pain started 6 hours ago when he was gardening and carrying a heavy bag.,62,MedBullets df_op4 Q63,A
+17.60141300382332,A 65-year-old man presents to the emergency department with low back pain.,62,MedBullets df_op4 Q63,A
+16.69916034512771,Ankle and knee reflexes are absent bilaterally.,62,MedBullets df_op4 Q63,A
+6.902935833444083,He reports no fevers or chills.,62,MedBullets df_op4 Q63,A

@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.59622362401376,Strength is 5/5 to knee flexion/extension and ankle dorsiflexion/plantarflexion.,303,MedBullets df_op4 Q304,A
+57.41348555966536,Patellar and Achilles reflexes are 2+ bilaterally.,303,MedBullets df_op4 Q304,A
+55.377315821275296,"The patient’s temperature is 98.4°F (36.9°C), blood pressure is 124/80 mmHg, pulse is 90/min, and respirations are 16/min.",303,MedBullets df_op4 Q304,A
+44.37403046345996,He drinks 3 alcoholic beverages weekly and denies illicit drug use.,303,MedBullets df_op4 Q304,A
+35.48322178558694,He was working on a home improvement project the day prior to presentation when the pain started.,303,MedBullets df_op4 Q304,A
+32.87225499532271,Perineal and dermatomal sensation is symmetric and intact.,303,MedBullets df_op4 Q304,A
+31.580819037603405,He has a history of a distal radius fracture 2 years ago from falling off a ladder.,303,MedBullets df_op4 Q304,A
+25.97629147792734,"He denies fevers, chills, paresthesias, and bowel or bladder incontinence.",303,MedBullets df_op4 Q304,A
+22.91457974695192,A 42-year-old man presents to the urgent care clinic with low back pain.,303,MedBullets df_op4 Q304,A
+22.531302832067013,"He describes the pain as ""achy and sore.""",303,MedBullets df_op4 Q304,A
+13.217546986483454,It is not positional and does not radiate.,303,MedBullets df_op4 Q304,A
+8.586935374360127,His body mass index (BMI) is 22.4 kg/m^2.,303,MedBullets df_op4 Q304,A
+2.282812416381249,There is tenderness to palpation of his paravertebral lumbar region bilaterally.,303,MedBullets df_op4 Q304,A

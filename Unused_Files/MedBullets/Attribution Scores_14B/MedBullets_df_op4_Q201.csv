@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+37.60555860845521,Physical exam is notable for diffuse abdominal tenderness without rigidity or guarding.,200,MedBullets df_op4 Q201,B
+32.24774443917758,"During evaluation, the patient becomes diaphoretic and pale and reports that he feels fatigued.",200,MedBullets df_op4 Q201,B
+24.636764258146286,He denies any diarrhea or hematochezia and says the pain is not affected by movement.,200,MedBullets df_op4 Q201,B
+23.283404155755274,A 67-year-old man presents to the emergency room reporting sudden-onset abdominal and back pain that began 3 hours ago.,200,MedBullets df_op4 Q201,B
+11.5270034177846,Repeat blood pressure is 87/50 and pulse is 127.,200,MedBullets df_op4 Q201,B
+9.607705038964426,"He has a 45-pack-year smoking history, but he does not drink alcohol or use any illicit drugs.",200,MedBullets df_op4 Q201,B
+3.974641613008271,"His temperature is 98.6°F (37°C), his blood pressure is 110/64 mmHg, pulse is 97/min, and respirations are 15/min.",200,MedBullets df_op4 Q201,B
+3.636209352156098,"He has a history of hypertension, hyperlipidemia, and depression.",200,MedBullets df_op4 Q201,B
+0.5031662706715998,He currently takes amlodipine and atorvastatin and is compliant with his medications.,200,MedBullets df_op4 Q201,B
+-0.0,Intravenous fluid boluses are administered.,200,MedBullets df_op4 Q201,B
+-0.0,He was eating dinner when he started feeling severe pain in his abdomen that made him lose his appetite.,200,MedBullets df_op4 Q201,B

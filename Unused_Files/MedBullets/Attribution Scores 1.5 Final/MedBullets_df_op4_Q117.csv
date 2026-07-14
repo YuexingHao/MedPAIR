@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+81.83433180122043,"She has had nausea and vomiting for about 2 months, tender and swollen breasts, and cravings for foods she typically does not eat.",116,MedBullets_df_op4_Q117,D
+50.67559312283993,She took a pregnancy test about 10 weeks ago and was too nervous to read the result immediately.,116,MedBullets_df_op4_Q117,D
+32.76668462398139,She also had an appendectomy at age 15 for appendicitis.,116,MedBullets_df_op4_Q117,D
+30.689744719508038,The patient has a past medical history of bulimia nervosa but has not been symptomatic in 2 years.,116,MedBullets_df_op4_Q117,D
+8.387504690421588,A 27-year-old woman presents for her first prenatal visit at an estimated gestational age of 16 weeks and 4 days by last menstrual period.,116,MedBullets_df_op4_Q117,D
+3.5594090671971093,The patient’s affect is normal and she is pleasant and excited about her pregnancy.,116,MedBullets_df_op4_Q117,D
+0.0,"She is presenting late to prenatal care due to significant anxiety about her pregnancy, as she and her husband had struggled with infertility for several years prior to conceiving.",116,MedBullets_df_op4_Q117,D
+0.0,"Ultrasound is shown in Figure A, and urine human chorionic gonadotropin is negative in the office.",116,MedBullets_df_op4_Q117,D
+0.0,"Her temperature is 98.5°F (36.9°C), pulse is 75/min, blood pressure is 122/76 mmHg, and respirations are 13/min.",116,MedBullets_df_op4_Q117,D

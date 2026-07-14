@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.43017623912976,A 32-year-old G1P0 woman at 12 weeks gestation presents to her obstetrician for a follow-up appointment.,247,MedBullets df_op4 Q248,C
+48.57910417020321,"At that time, she was found to have a thyroid-stimulating hormone (TSH) concentration <0.01 mU/L and an elevated free T4.",247,MedBullets df_op4 Q248,C
+46.38036071087472,She reports mild improvement in her symptoms but continues to experience sweating and palpitations.,247,MedBullets df_op4 Q248,C
+34.09295622754485,She was started on propranolol and propylthiouracil.,247,MedBullets df_op4 Q248,C
+18.481862275077525,She has a past medical history of polycystic ovary syndrome.,247,MedBullets df_op4 Q248,C
+16.055081523500082,She first presented 4 weeks ago with bilateral hand tremors.,247,MedBullets df_op4 Q248,C
+14.346145919405211,Her family history is notable for hypothyroidism in her mother.,247,MedBullets df_op4 Q248,C
+4.928791616725828,"She does not smoke cigarettes, stopped drinking alcohol prior to pregnancy, and does not use drugs.",247,MedBullets df_op4 Q248,C

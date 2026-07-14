@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.77745910218128,"His temperature is 99.5°F (37.5°C), blood pressure is 177/108 mmHg, pulse is 93/min, respirations are 17/min, and oxygen saturation is 92% on room air.",32,MedBullets df_op4 Q33,D
+61.12667942047119,He notes minor improvement when he rides his bike but otherwise has not noticed any change in his symptoms with rest or ibuprofen use.,32,MedBullets df_op4 Q33,D
+51.789350882783246,The patient lives alone and drinks 7 alcoholic beverages per day and smokes 1-2 packs of cigarettes per day for the past 40 years.,32,MedBullets df_op4 Q33,D
+24.477651566563956,He has felt very weak every morning with his symptoms persisting throughout the day.,32,MedBullets df_op4 Q33,D
+23.28468399748116,The patient has lost 12 pounds recently and has had a chronic cough.,32,MedBullets df_op4 Q33,D
+18.852036392964447,A 72-year-old man presents to his primary care physician with weakness.,32,MedBullets df_op4 Q33,D

@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+40.9180153576071,"Her home medications include levothyroxine, oral contraceptive pills, and topical trans-retinoin.",194,MedBullets df_op4 Q195,B
+35.90979498370497,"Her medical history is significant for acne, hypothyroidism, obesity, and endometriosis.",194,MedBullets df_op4 Q195,B
+22.382563143968582,The episodes began several years ago and are accompanied by nausea and bright spots in her vision.,194,MedBullets df_op4 Q195,B
+16.295040946583153,"The patient denies any weakness, numbness, or tingling during these episodes.",194,MedBullets df_op4 Q195,B
+10.640610676817051,"Every few weeks she has an episode of a right-sided, throbbing headache.",194,MedBullets df_op4 Q195,B
+9.186822336341521,"The headache usually subsides if she lies still in a dark, quiet room for several hours.",194,MedBullets df_op4 Q195,B
+5.817630707881148,She has 2 glasses of wine with dinner several nights a week and has never smoked.,194,MedBullets df_op4 Q195,B
+1.1486855942536451,A 28-year-old woman presents to her primary care provider with a headache.,194,MedBullets df_op4 Q195,B
+0.0,She works as a receptionist at a marketing company.,194,MedBullets df_op4 Q195,B
+0.0,"On physical exam, the patient has no focal neurologic deficits.",194,MedBullets df_op4 Q195,B
+0.0,A CT of the head is performed and shows no acute abnormalities.,194,MedBullets df_op4 Q195,B
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 125/81 mmHg, pulse is 64/min, and respirations are 11/min.",194,MedBullets df_op4 Q195,B

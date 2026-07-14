@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+58.67657503600056,He was seen 4 days ago for a new lesion on his arm that had been present for 1 week prior to that visit.,226,MedBullets_df_op4_Q227,A
+50.08544883131981,"On exam, there is a blistering erythematous rash on the arms and shoulders.",226,MedBullets_df_op4_Q227,A
+46.44782181068084,"Today, he reports that he became sunburned this morning within an hour of beginning his workday, despite wearing appropriate sunscreen.",226,MedBullets_df_op4_Q227,A
+39.75146461585219,"His temperature is 98.6°F (37.0°C), blood pressure is 125/70 mmHg, pulse is 65/min, and respirations are 12/min.",226,MedBullets_df_op4_Q227,A
+29.43419847705439,He smokes 1 pack of cigarettes per day and denies alcohol or illicit drug use.,226,MedBullets_df_op4_Q227,A
+28.365357771889684,A photograph of the lesion is shown in Figure A.,226,MedBullets_df_op4_Q227,A
+16.54313087667031,A 46-year-old farmer presents to the office for a follow-up visit.,226,MedBullets_df_op4_Q227,A
+11.369390840494319,He has a medical history significant for type 2 diabetes mellitus that is controlled with metformin.,226,MedBullets_df_op4_Q227,A
+4.7511122968760064,"At that time, he was prescribed treatment for the lesion and instructed to follow up as necessary.",226,MedBullets_df_op4_Q227,A

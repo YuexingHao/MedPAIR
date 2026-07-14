@@ -1,0 +1,16 @@
+Sentence_x,sentence_ID,Original_Position,Score,Source,row_index,QA_ID,Extracted_Answer,Sentence_y,sentence_ID_x,sentence_ID_y
+"A 71-year-old man arrives to the emergency room appearing cyanotic and having weak, shallow respirations.",0,1.0,34.10706747139624,"A 71-year-old man arrives to the emergency room appearing cyanotic and having weak, shallow respirations.",159.0,MedBullets df_op4 Q160,B,"He is brought in by his home care nurse, who reports that the patient has a history of myasthenia gravis and frequent urinary tract infections.",1.0,1.0
+"He is brought in by his home care nurse, who reports that the patient has a history of myasthenia gravis and frequent urinary tract infections.",1,0.0,39.95442964408345,"He is brought in by his home care nurse, who reports that the patient has a history of myasthenia gravis and frequent urinary tract infections.",159.0,MedBullets df_op4 Q160,B,"A 71-year-old man arrives to the emergency room appearing cyanotic and having weak, shallow respirations.",0.0,0.0
+The patient was in his normal state of health until 5 days ago when he developed a urinary tract infection.,2,12.0,0.0,The patient was in his normal state of health until 5 days ago when he developed a urinary tract infection.,159.0,MedBullets df_op4 Q160,B,,,
+He was receiving gentamicin infusions for his infections.,3,4.0,21.73177203697525,He was receiving gentamicin infusions for his infections.,159.0,MedBullets df_op4 Q160,B,"This morning, he experienced poor grip strength and progressive difficulty breathing.",4.0,4.0
+"This morning, he experienced poor grip strength and progressive difficulty breathing.",4,7.0,8.580567170811234,"This morning, he experienced poor grip strength and progressive difficulty breathing.",159.0,MedBullets df_op4 Q160,B,"The patient has gray-blue skin, hypophonia, weak upper extremities, and normal leg strength.",7.0,7.0
+"The patient’s medications include pyridostigmine and aspirin, both of which he takes as prescribed.",5,2.0,33.14387785558456,"The patient’s medications include pyridostigmine and aspirin, both of which he takes as prescribed.",159.0,MedBullets df_op4 Q160,B,The patient was in his normal state of health until 5 days ago when he developed a urinary tract infection.,2.0,2.0
+"His temperature is 99.0°F (37.2°C), blood pressure is 128/78 mmHg, pulse is 92/min, and respirations are 28/min with an oxygen saturation of 86% O2 on room air.",6,3.0,22.162859749624698,"His temperature is 99.0°F (37.2°C), blood pressure is 128/78 mmHg, pulse is 92/min, and respirations are 28/min with an oxygen saturation of 86% O2 on room air.",159.0,MedBullets df_op4 Q160,B,He was receiving gentamicin infusions for his infections.,3.0,3.0
+"The patient has gray-blue skin, hypophonia, weak upper extremities, and normal leg strength.",7,11.0,0.0,"The patient has gray-blue skin, hypophonia, weak upper extremities, and normal leg strength.",159.0,MedBullets df_op4 Q160,B,,,
+"An arterial blood gas is drawn with results as shown below:
+
+PO2: 55 mmHg
+PCO2: 60 mmHg
+pH: 7.30
+
+The patient is intubated.",8,,,,,,,,,

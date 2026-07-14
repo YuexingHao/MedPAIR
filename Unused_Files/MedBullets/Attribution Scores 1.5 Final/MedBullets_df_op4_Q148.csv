@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+16.403597447747707,"In addition, he complains of a cut on his scalp that is not seeming to heal.",147,MedBullets_df_op4_Q148,
+12.242730756751618,"His temperature is 98.8°F (37.1°C), blood pressure is 134/86 mmHg, pulse is 80/min, and respirations are 13/min.",147,MedBullets_df_op4_Q148,
+10.537021758275369,He has a medical history of poorly managed type 2 diabetes mellitus and irritable bowel syndrome.,147,MedBullets_df_op4_Q148,
+3.855788688314052,A 69-year-old man presents to his primary care physician for a general checkup.,147,MedBullets_df_op4_Q148,
+-0.0,"On inspection of the patient's scalp, the finding in Figure B is noted.",147,MedBullets_df_op4_Q148,
+0.0,"Three months later, the patient returns with his glucose journal.",147,MedBullets_df_op4_Q148,
+0.0,The patient's glucose journal reveals an average blood glucose of 175 mg/dL.,147,MedBullets_df_op4_Q148,
+0.0,"On physical exam, there is a calm, obese gentleman.",147,MedBullets_df_op4_Q148,
+0.0,The patient works as a farmer and gardens in his spare time.,147,MedBullets_df_op4_Q148,
+0.0,Inspection of the patient's scalp reveals the finding shown in Figure A.,147,MedBullets_df_op4_Q148,
+0.0,"His current medications include lisinopril, metformin, insulin, fiber supplements, and a multivitamin.",147,MedBullets_df_op4_Q148,

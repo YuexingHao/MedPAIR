@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.34295984457778,"His temperature is 98.6°F (37°C), blood pressure is 125/83 mmHg, pulse is 87/min, and respirations are 11/min.",148,MedBullets df_op4 Q149,D
+38.29707908630371,"When the patient retired, his goal was to finally be able to go out with his wife; however, he finds that he is unable to stay awake past 6 pm in the evening.",148,MedBullets df_op4 Q149,D
+36.41655572015976,A 69-year-old man presents to his primary care physician for trouble sleeping.,148,MedBullets df_op4 Q149,D
+27.407436318899286,He recently retired from working the day shift at a cemetery.,148,MedBullets df_op4 Q149,D
+20.58366336872048,His wife is disappointed that they cannot do any activities in the evening together.,148,MedBullets df_op4 Q149,D
+19.302006427780967,"The patient’s wife claims that the patient seems to sleep peacefully, and the patient states he feels rested when he awakes.",148,MedBullets df_op4 Q149,D
+18.84548310860479,The patient has a medical history of irritable bowel syndrome which is managed with fiber supplements.,148,MedBullets df_op4 Q149,D
+13.25442204164693,The patient has tried drinking caffeine but finds that it does not help.,148,MedBullets df_op4 Q149,D
+0.0,The patient’s neurological exam is within normal limits.,148,MedBullets df_op4 Q149,D

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.70965064900491,"The patient has a medical history of IV drug use, diabetes mellitus, oral cold sores, hypertension, renal failure, and dyslipidemia.",104,MedBullets_df_op4_Q105,A
+59.83391254127791,"The patient's current medications include lisinopril, atorvastain, insulin, and aspirin.",104,MedBullets_df_op4_Q105,A
+20.54421527311206,"The previous day, the patient had a renal transplant from a matched donor.",104,MedBullets_df_op4_Q105,A
+17.092398732426073,The patient is started on cyclosporine.,104,MedBullets_df_op4_Q105,A
+9.603122677199295,He is currently recovering and doing well.,104,MedBullets_df_op4_Q105,A
+5.57552697010234,"Prior to the procedure, he was also on dialysis.",104,MedBullets_df_op4_Q105,A
+0.0,A 67-year-old man is seen on the surgical floor after a transplant procedure.,104,MedBullets_df_op4_Q105,A
+0.0,The patient successfully recovers over the next few days.,104,MedBullets_df_op4_Q105,A

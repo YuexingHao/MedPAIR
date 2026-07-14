@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+60.54396377832833,"As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather.",277,MedBullets_df_op4_Q278,
+57.538238525390625,"His temperature is 99.0°F (37.2°C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min.",277,MedBullets_df_op4_Q278,
+34.37605747273698,"Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses.",277,MedBullets_df_op4_Q278,
+14.880948183749258,He uses intravenous drugs and is unable to offer a history.,277,MedBullets_df_op4_Q278,
+0.0,The patient is given 4 liters of Ringer lactate and intravenous antibiotics.,277,MedBullets_df_op4_Q278,

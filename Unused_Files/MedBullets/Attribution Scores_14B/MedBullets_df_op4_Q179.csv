@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.5172166108033,"The patient has never been pregnant and previously used a copper intrauterine device (IUD) for contraception, but she had the IUD removed 1 year ago because it worsened her menorrhagia.",178,MedBullets df_op4 Q179,D
+24.969710724412085,"A pelvic ultrasound shows no abnormalities, and a urine pregnancy test is negative.",178,MedBullets df_op4 Q179,D
+21.283254618606815,The patient reports improvement in her menorrhagia on the OCPs but denies any improvement in her pain.,178,MedBullets df_op4 Q179,D
+15.856828854775712,"She denies dysuria, vaginal discharge, or vaginal pruritus.",178,MedBullets df_op4 Q179,D
+10.986966830516305,"She reports that for the last several years, she has had chronic pain that is worse just before her menstrual period.",178,MedBullets df_op4 Q179,D
+5.913358703255653,"Over the past 2 months, she has also had worsening pain during intercourse.",178,MedBullets df_op4 Q179,D
+0.0,The patient has pain with lateral displacement of the cervix on pelvic exam.,178,MedBullets df_op4 Q179,D
+0.0,"Her temperature is 98.0°F (36.7°C), blood pressure is 124/73 mmHg, pulse is 68/min, and respirations are 12/min.",178,MedBullets df_op4 Q179,D
+-0.0,Her medical history is otherwise unremarkable.,178,MedBullets df_op4 Q179,D
+0.0,She has now been using combined oral contraceptive pills (OCPs) for nearly 1 year.,178,MedBullets df_op4 Q179,D
+0.0,A 32-year-old woman presents to her primary care provider with pelvic pain.,178,MedBullets df_op4 Q179,D

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.83536349245021,"Physical exam is notable for slowed movements and difficulty with balance at rest, which were not present at her wellness visit 1 year ago.",74,MedBullets df_op4 Q75,B
+46.403628915548325,"She also frequently sees ""small people"" and animals on the dining room table, which is disturbing to her.",74,MedBullets df_op4 Q75,B
+36.62970868205586,She was formerly an executive at a software company but had to retire due to frequent memory lapses.,74,MedBullets df_op4 Q75,B
+34.80589205106958,A 62-year-old woman is brought to a physician by her husband for fluctuating changes in behavior and hallucinations over the past 2 years.,74,MedBullets df_op4 Q75,B
+27.298444887639384,"Her medical problems include hypertension and chronic obstructive pulmonary disease for which she takes amlodipine, albuterol, ipratropium, and a fluticasone inhaler.",74,MedBullets df_op4 Q75,B
+9.776543870656932,"On occasion, she becomes difficult to understand and her speech becomes disorganized.",74,MedBullets df_op4 Q75,B
+-0.0,"Her temperature is 98.6°F (37°C), blood pressure is 120/80 mmHg, pulse is 80/min, and respirations are 12/min.",74,MedBullets df_op4 Q75,B

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+34.541221513136755,"Two months ago, he was started on citalopram after several weeks of depressed mood, loss of interest in activities, depressed appetite, and inability to sleep.",78,MedBullets df_op4 Q79,D
+9.169725179672241,"Today, he reports minimal improvement in his symptoms.",78,MedBullets df_op4 Q79,D
+1.4755994737997884,"Exam reveals a depressed, tired appearing man.",78,MedBullets df_op4 Q79,D
+0.0,He denies thoughts of suicide or self-harm.,78,MedBullets df_op4 Q79,D
+0.0,"His temperature is 98.6°F (37.0°C), pulse is 80/min, blood pressure is 120/80 mmHg, respirations are 22/min, and oxygen saturation is 97% on room air.",78,MedBullets df_op4 Q79,D
+0.0,"He had some nausea after starting the medication, but this has resolved.",78,MedBullets df_op4 Q79,D
+0.0,A 36-year-old man presents to the office for follow up after initiating antidepressant therapy.,78,MedBullets df_op4 Q79,D

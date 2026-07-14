@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.73468967690756,A 4-year-old boy comes to the pediatrician with his mother with a 3-day history of cough and runny nose with decreased oral intake over the past 24 hours.,209,MedBullets df_op4 Q210,B
+33.7636396959424,"He has no medical history or known allergies, but he has not received any of the recommended vaccines due to parental refusal.",209,MedBullets df_op4 Q210,B
+28.888539487122234,"His temperature is 100.3°F (37.9°C), blood pressure is 98/62 mmHg, pulse is 85/min, respirations are 22/min, and oxygen saturation is 98% on room air.",209,MedBullets df_op4 Q210,B
+21.43700447941667,"Bilateral conjunctivae are injected, and there is redness on and around the tonsils.",209,MedBullets df_op4 Q210,B
+15.037879661922421,His activity level has been normal and he has been attending school until this morning.,209,MedBullets df_op4 Q210,B
+10.560580590303896,Faint rhonchi are heard at the lung bases bilaterally.,209,MedBullets df_op4 Q210,B
+0.0,"On examination, the child is fussy.",209,MedBullets df_op4 Q210,B
+0.0,There is no lymphadenopathy.,209,MedBullets df_op4 Q210,B

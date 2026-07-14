@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.524121843415514,The patient cries out in pain with passive motion of the foot at the ankle.,91,MedBullets df_op4 Q92,D
+40.50536193924012,A 27-year-old man presents to the emergency department after he developed pain in his right leg after landing off a ski jump.,91,MedBullets df_op4 Q92,D
+25.43664210369319,"His temperature is 98.7°F (37.1°C), blood pressure is 149/85 mmHg, pulse is 103/min, respirations are 15/min, and oxygen saturation is 99% on room air.",91,MedBullets df_op4 Q92,D
+24.024551218748265,Physical exam reveals swelling over his right leg and knee.,91,MedBullets df_op4 Q92,D
+17.303739150133474,He is requesting medications and is crying out in pain.,91,MedBullets df_op4 Q92,D
+9.350945947691798,He states his pain is 10/10.,91,MedBullets df_op4 Q92,D
+8.173585591510014,The patient is otherwise healthy and does not take any medications.,91,MedBullets df_op4 Q92,D
+8.108543064943776,A radiograph is performed as seen in Figure A.,91,MedBullets df_op4 Q92,D

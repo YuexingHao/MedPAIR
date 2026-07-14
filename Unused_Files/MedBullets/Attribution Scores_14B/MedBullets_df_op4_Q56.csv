@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+21.745234494636268,He attributes this to intravenous drug use in prison.,55,MedBullets df_op4 Q56,A
+14.872525355667582,"His temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 100/min, respirations are 18/min, and oxygen saturation is 98% on room air.",55,MedBullets df_op4 Q56,A
+10.155518176503707,QuantiFERON gold testing is positive.,55,MedBullets df_op4 Q56,A
+6.367625812097204,The patient is started on appropriate treatment.,55,MedBullets df_op4 Q56,A
+3.2398486572094574,A 27-year-old man presents for an appointment to establish care.,55,MedBullets df_op4 Q56,A
+2.041724939477917,He has lost roughly 15 pounds over the past 3 weeks.,55,MedBullets df_op4 Q56,A
+0.0,He has felt very fatigued and has had a cough.,55,MedBullets df_op4 Q56,A
+0.0,He recently was released from prison.,55,MedBullets df_op4 Q56,A

@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+23.77016375456281,"Her temperature is 98.6°F (37.0°C), blood pressure is 118/70 mmHg, pulse is 80/min, and respirations are 18/min.",132,MedBullets df_op4 Q133,B
+13.632936793579088,She has no known medical problems and takes only a prenatal multivitamin.,132,MedBullets df_op4 Q133,B
+12.824392572045326,She has mild morning sickness but no other symptoms.,132,MedBullets df_op4 Q133,B
+8.506440671275412,A 25-year-old G1P0 woman presents to her physician for a prenatal visit.,132,MedBullets df_op4 Q133,B
+4.228207169846455,She has unprotected sexual intercourse with 3 male partners.,132,MedBullets df_op4 Q133,B
+0.11207297263054532,Cardiopulmonary exam is unremarkable.,132,MedBullets df_op4 Q133,B
+0.0,The patient is started on an appropriate treatment regimen.,132,MedBullets df_op4 Q133,B
+0.0,An antibody test for human immunodeficiency virus (HIV)-1/2 is positive.,132,MedBullets df_op4 Q133,B
+0.0,Physical exam reveals a well-appearing woman in no acute distress.,132,MedBullets df_op4 Q133,B
+0.0,There are no lesions appreciated on skin exam.,132,MedBullets df_op4 Q133,B
+0.0,She is at 12 weeks gestational age and has not received prior prenatal care.,132,MedBullets df_op4 Q133,B

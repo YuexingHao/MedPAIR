@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+31.74689223223285,"On physical exam, she appears anxious, mildly diaphoretic and has a non-tender prominence on her neck which is shown in Figure A.",247,MedBullets df_op4 Q248,C
+21.24180361877031,The dosage of both medications has been titrated to the maximum dose.,247,MedBullets df_op4 Q248,C
+13.247829920352093,She reports mild improvement in her symptoms but continues to experience sweating and palpitations.,247,MedBullets df_op4 Q248,C
+10.933853805065155,"At that time, she was found to have a thyroid-stimulating hormone (TSH) concentration <0.01 mU/L and an elevated free T4.",247,MedBullets df_op4 Q248,C
+7.775088661705942,A 32-year-old G1P0 woman at 12 weeks gestation presents to her obstetrician for a follow-up appointment.,247,MedBullets df_op4 Q248,C
+1.2667277082145716,"She does not smoke cigarettes, stopped drinking alcohol prior to pregnancy, and does not use drugs.",247,MedBullets df_op4 Q248,C
+-0.0,"Her temperature is 97.6°F (36.4°C), blood pressure is 113/70 mmHg, pulse is 126/min, and respirations are 18/min.",247,MedBullets df_op4 Q248,C
+-0.0,Her family history is notable for hypothyroidism in her mother.,247,MedBullets df_op4 Q248,C
+0.0,She has a past medical history of polycystic ovary syndrome.,247,MedBullets df_op4 Q248,C
+0.0,She was started on propranolol and propylthiouracil.,247,MedBullets df_op4 Q248,C
+0.0,She first presented 4 weeks ago with bilateral hand tremors.,247,MedBullets df_op4 Q248,C

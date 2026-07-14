@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+77.39487586059813,The patient has sparse facial hair and a moderate amount of coarse pubic hair that extends across the pubis and spares the medial thighs.,165,MedBullets df_op4 Q166,D
+35.308248978950694,An 18-year-old man presents to his primary care provider with his parents for a sports physical.,165,MedBullets df_op4 Q166,D
+12.84675382504374,He hopes to play baseball in college and has begun lifting weights daily in preparation for baseball season.,165,MedBullets df_op4 Q166,D
+9.68760198926008,His parents have no concerns and are pleased with the recent improvement in his grades.,165,MedBullets df_op4 Q166,D
+4.527932602912188,He was started on methylphenidate at that time and the patient now reports improvement in his ability to concentrate in school and at home.,165,MedBullets df_op4 Q166,D
+0.0,He has no dysmorphic features.,165,MedBullets df_op4 Q166,D
+0.0,His testes are small and firm.,165,MedBullets df_op4 Q166,D
+0.0,His chest has a normal appearance other than mild gynecomastia.,165,MedBullets df_op4 Q166,D
+-0.0,The patient has a healthy diet to fuel his exercise regimen.,165,MedBullets df_op4 Q166,D
+-0.0,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",165,MedBullets df_op4 Q166,D
+0.0,"On physical exam, the patient has tall stature with average muscle mass for his age.",165,MedBullets df_op4 Q166,D
+0.0,He was last seen in the clinic several months ago when he was diagnosed with attention deficit hyperactivity disorder (ADHD).,165,MedBullets df_op4 Q166,D

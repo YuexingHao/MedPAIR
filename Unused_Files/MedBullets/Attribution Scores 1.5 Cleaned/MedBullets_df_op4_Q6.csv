@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+96.33507474832004,"His temperature is 99.5°F (37.5°C), blood pressure is 60/38 mmHg, pulse is 150/min, respirations are 24/min, and oxygen saturation is 98% on room air.",5,MedBullets df_op4 Q6,B
+45.796950344422335,A musculoskeletal exam reveals the findings shown in Figure A.,5,MedBullets df_op4 Q6,B
+45.38403669503396,A cardiopulmonary exam is notable for a benign flow murmur.,5,MedBullets df_op4 Q6,B
+44.38736156374216,The patient has been breastfeeding and producing 5 stools/day.,5,MedBullets df_op4 Q6,B
+25.88433397717373,The patient was born at 39 weeks via vaginal delivery to a G1P1 29-year-old woman.,5,MedBullets df_op4 Q6,B
+12.605896717609289,A 2-week-old boy is evaluated by his pediatrician for abnormal feet.,5,MedBullets df_op4 Q6,B

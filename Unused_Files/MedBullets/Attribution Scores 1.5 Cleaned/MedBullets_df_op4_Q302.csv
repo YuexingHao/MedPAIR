@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+80.33232893292107,"His temperature is 98.7°F (37.1°C), blood pressure is 149/82 mmHg, pulse is 86/min, respirations are 15/min, and oxygen saturation is 99% on room air.",301,MedBullets df_op4 Q302,B
+67.34018510822145,"He states that he has been working in a hot, humid attic all day and forgot his water bottle.",301,MedBullets df_op4 Q302,B
+46.03064797998857,Physical exam reveals a diaphoretic man.,301,MedBullets df_op4 Q302,B
+44.7590851217344,A 55-year-old man presents to the emergency department after fainting while moving furniture.,301,MedBullets df_op4 Q302,B
+35.40192050493332,He awoke at his neurologic baseline afterwards.,301,MedBullets df_op4 Q302,B
+24.743766732513905,He felt dizzy when standing up and then fainted and was unconscious for roughly 1 minute.,301,MedBullets df_op4 Q302,B
+20.454293527265648,The patient has a history of hypertension being managed by his primary care doctor.,301,MedBullets df_op4 Q302,B

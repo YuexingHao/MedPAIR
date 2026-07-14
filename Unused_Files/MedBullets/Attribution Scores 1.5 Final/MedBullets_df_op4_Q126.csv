@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+112.92083510358216,Her basic metabolic panel is shown below: Na+: 139 mEq/L Cl-: 100 mEq/L K+: 4.9 mEq/L HCO3-: 25 mEq/L BUN: 10 mg/dL Glucose: 110 mg/dL Creatinine: 0.8 mg/dL Thyroid-stimulating hormone: 1.5 µU/mL Ca2+: 7.0 mEq/L Phosphorus: 6.5 mEq/L Albumin: 3.6 mg/dL The patient's ECG is shown in Figure A.,125,MedBullets_df_op4_Q126,
+10.312056376189668,She enjoys a diverse diet and takes levothyroxine.,125,MedBullets_df_op4_Q126,
+8.909126145151482,Her visual acuity is decreased bilaterally.,125,MedBullets_df_op4_Q126,
+6.0122833251953125,"Her blood pressure is 110/70 mmHg, pulse is 80/min, and respirations are 12/min.",125,MedBullets_df_op4_Q126,
+0.0,Her vision has been steadily declining over the past 2 years and she thinks she needs a prescription for glasses.,125,MedBullets_df_op4_Q126,
+0.0,She further complains that her lips and feet feel numb.,125,MedBullets_df_op4_Q126,
+0.0,A 46-year-old woman presents to her primary care doctor to request a referral to ophthalmology.,125,MedBullets_df_op4_Q126,
+0.0,Her medical history is notable for medullary thyroid cancer status post total thyroidectomy.,125,MedBullets_df_op4_Q126,
+0.0,"Her pupils are equal, round, and reactive to light, but appear opacified.",125,MedBullets_df_op4_Q126,

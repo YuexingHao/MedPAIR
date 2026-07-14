@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+36.26138531128608,"A 57-year-old immigrant from Nigeria presents to the emergency department for sudden, severe pain and swelling in her lower extremity.",207,MedBullets df_op4 Q208,
+15.934543330496863,"Her current medications include metformin, insulin, lisinopril, and valproic acid.",207,MedBullets df_op4 Q208,
+10.892456981358578,"Based on the results of a doppler ultrasound of her swollen lower extremity, heparin is started.",207,MedBullets df_op4 Q208,
+10.422451639924946,"Her temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",207,MedBullets df_op4 Q208,
+9.474281311035156,"The patient has a medical history of obesity, diabetes, bipolar disorder, and tonic-clonic seizures.",207,MedBullets df_op4 Q208,
+4.245014737062252,The patient is then transferred to the general medicine floor for continued management.,207,MedBullets df_op4 Q208,
+1.8270634855494403,The patient has IV drug and alcohol use disorder and has presented to the ED many times for intoxication.,207,MedBullets df_op4 Q208,
+-0.0,Laboratory studies are shown below.,207,MedBullets df_op4 Q208,
+0.0,Physical exam reveals anasarca and asymmetric lower extremity swelling.,207,MedBullets df_op4 Q208,
+0.0,She was at a rehabilitation hospital when her symptoms started.,207,MedBullets df_op4 Q208,

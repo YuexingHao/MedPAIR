@@ -1,0 +1,421 @@
+\begin{thebibliography}{10}
+\urlstyle{rm}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname doiprefix\endcsname\relax\def\doiprefix{DOI: }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{de2025we}
+\bibinfo{author}{de~Paula, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Are we better together? investigating the value of human--ai collaboration for online health communities}.
+\newblock In \emph{\bibinfo{booktitle}{International Conference on Information Systems, ICIS 2025}} (\bibinfo{year}{2025}).
+
+\bibitem{openai_gpt-4_2024}
+\bibinfo{author}{OpenAI} \emph{et~al.}
+\newblock \bibinfo{title}{{GPT}-4 {Technical} {Report}}, \doiprefix\url{10.48550/arXiv.2303.08774} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{ArXiv:2303.08774 [cs]}.
+
+\bibitem{singhal2023large}
+\bibinfo{author}{Singhal, K.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Large language models encode clinical knowledge}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{620}}, \bibinfo{pages}{172--180} (\bibinfo{year}{2023}).
+
+\bibitem{cabral_clinical_2024}
+\bibinfo{author}{Cabral, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Clinical {Reasoning} of a {Generative} {Artificial} {Intelligence} {Model} {Compared} {With} {Physicians}}}.
+\newblock {\emph{\JournalTitle{JAMA Internal Medicine}}} \textbf{\bibinfo{volume}{184}}, \bibinfo{pages}{581--583}, \doiprefix\url{10.1001/jamainternmed.2024.0295} (\bibinfo{year}{2024}).
+
+\bibitem{mcduff_towards_2025}
+\bibinfo{author}{McDuff, D.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Towards accurate differential diagnosis with large language models}}.
+\newblock {\emph{\JournalTitle{Nature}}} \bibinfo{pages}{1--7}, \doiprefix\url{10.1038/s41586-025-08869-4} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{liu2025generalist}
+\bibinfo{author}{Liu, X.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A generalist medical language model for disease diagnosis assistance}}.
+\newblock {\emph{\JournalTitle{Nature medicine}}} \textbf{\bibinfo{volume}{31}}, \bibinfo{pages}{932--942} (\bibinfo{year}{2025}).
+
+\bibitem{holmes2025radonc}
+\bibinfo{author}{Holmes, J.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Radonc-gpt: An autonomous llm agent for real-time patient outcomes labeling at scale}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2509.25540}}}  (\bibinfo{year}{2025}).
+
+\bibitem{van2024adapted}
+\bibinfo{author}{Van~Veen, D.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Adapted large language models can outperform medical experts in clinical text summarization}}.
+\newblock {\emph{\JournalTitle{Nature medicine}}} \textbf{\bibinfo{volume}{30}}, \bibinfo{pages}{1134--1142} (\bibinfo{year}{2024}).
+
+\bibitem{li_mediq_2024}
+\bibinfo{author}{Li, S.~S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{MediQ}: {Question}-{Asking} {LLMs} and a {Benchmark} for {Reliable} {Interactive} {Clinical} {Reasoning}}}.
+\newblock {\emph{\JournalTitle{Advances in Neural Information Processing Systems}}} \textbf{\bibinfo{volume}{37}}, \bibinfo{pages}{28858--28888} (\bibinfo{year}{2024}).
+
+\bibitem{hao2025large}
+\bibinfo{author}{Hao, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Large language model integrations in cancer decision-making: a systematic review and meta-analysis}}.
+\newblock {\emph{\JournalTitle{npj Digital Medicine}}} \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{450} (\bibinfo{year}{2025}).
+
+\bibitem{deng-etal-2024-investigating}
+\bibinfo{author}{Deng, C.}, \bibinfo{author}{Zhao, Y.}, \bibinfo{author}{Tang, X.}, \bibinfo{author}{Gerstein, M.} \& \bibinfo{author}{Cohan, A.}
+\newblock \bibinfo{title}{Investigating data contamination in modern benchmarks for large language models}.
+\newblock In \bibinfo{editor}{Duh, K.}, \bibinfo{editor}{Gomez, H.} \& \bibinfo{editor}{Bethard, S.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)}}, \bibinfo{pages}{8706--8719}, \doiprefix\url{10.18653/v1/2024.naacl-long.482} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Mexico City, Mexico}, \bibinfo{year}{2024}).
+
+\bibitem{xia_cares_2024}
+\bibinfo{author}{Xia, P.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{CARES}: {A} {Comprehensive} {Benchmark} of {Trustworthiness} in {Medical} {Vision} {Language} {Models}}}.
+\newblock {\emph{\JournalTitle{Advances in Neural Information Processing Systems}}} \textbf{\bibinfo{volume}{37}}, \bibinfo{pages}{140334--140365} (\bibinfo{year}{2024}).
+
+\bibitem{park_does_2015}
+\bibinfo{author}{Park, W.~B.}, \bibinfo{author}{Kang, S.~H.}, \bibinfo{author}{Lee, Y.-S.} \& \bibinfo{author}{Myung, S.~J.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Does {Objective} {Structured} {Clinical} {Examinations} {Score} {Reflect} the {Clinical} {Reasoning} {Ability} of {Medical} {Students}?}}
+\newblock {\emph{\JournalTitle{The American Journal of the Medical Sciences}}} \textbf{\bibinfo{volume}{350}}, \bibinfo{pages}{64--67}, \doiprefix\url{10.1097/MAJ.0000000000000420} (\bibinfo{year}{2015}).
+
+\bibitem{KonopaskyArtinoBattistaOhmerHemmerTorreRamanivanMerrienboerTeunissenMcBeeRatcliffeDurning+2020+257+264}
+\bibinfo{author}{Konopasky, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Understanding context specificity: the effect of contextual factors on clinical reasoning}}.
+\newblock {\emph{\JournalTitle{Diagnosis}}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{257--264}, \doiprefix\url{doi:10.1515/dx-2020-0016} (\bibinfo{year}{2020}).
+
+\bibitem{sayres2025towards}
+\bibinfo{author}{Sayres, R.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Towards better health conversations: The benefits of context-seeking}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2510.18880}}}  (\bibinfo{year}{2025}).
+
+\bibitem{hao2024outcome}
+\bibinfo{author}{Hao, Y.}
+\newblock \bibinfo{title}{Outcome first or overview first? optimizing patient-oriented framework for evidence-based healthcare treatment selections with xai tools}.
+\newblock In \emph{\bibinfo{booktitle}{Companion Publication of the 2024 Conference on Computer-Supported Cooperative Work and Social Computing}}, \bibinfo{pages}{248--254} (\bibinfo{year}{2024}).
+
+\bibitem{farquhar_detecting_2024}
+\bibinfo{author}{Farquhar, S.}, \bibinfo{author}{Kossen, J.}, \bibinfo{author}{Kuhn, L.} \& \bibinfo{author}{Gal, Y.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Detecting hallucinations in large language models using semantic entropy}}.
+\newblock {\emph{\JournalTitle{Nature}}} \textbf{\bibinfo{volume}{630}}, \bibinfo{pages}{625--630}, \doiprefix\url{10.1038/s41586-024-07421-0} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{choe_what_2024}
+\bibinfo{author}{Choe, S.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{What is {Your} {Data} {Worth} to {GPT}? {LLM}-{Scale} {Data} {Valuation} with {Influence} {Functions}}, \doiprefix\url{10.48550/arXiv.2405.13954} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{ArXiv:2405.13954 [cs]}.
+
+\bibitem{cohen-wang_learning_2025}
+\bibinfo{author}{Cohen-Wang, B.}, \bibinfo{author}{Chuang, Y.-S.} \& \bibinfo{author}{Madry, A.}
+\newblock \bibinfo{title}{Learning to {Attribute} with {Attention}}, \doiprefix\url{10.48550/arXiv.2504.13752} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2504.13752 [cs]}.
+
+\bibitem{liuattribot2024}
+\bibinfo{author}{Liu, F.}, \bibinfo{author}{Kandpal, N.} \& \bibinfo{author}{Raffel, C.}
+\newblock \bibinfo{title}{Attribot: A bag of tricks for efficiently approximating leave-one-out context attribution}.
+\newblock In \emph{\bibinfo{booktitle}{The Thirteenth International Conference on Learning Representations}}.
+
+\bibitem{deyoung_eraser_2020}
+\bibinfo{author}{DeYoung, J.} \emph{et~al.}
+\newblock \bibinfo{title}{{ERASER}: {A} {Benchmark} to {Evaluate} {Rationalized} {NLP} {Models}}.
+\newblock In \bibinfo{editor}{Jurafsky, D.}, \bibinfo{editor}{Chai, J.}, \bibinfo{editor}{Schluter, N.} \& \bibinfo{editor}{Tetreault, J.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 58th {Annual} {Meeting} of the {Association} for {Computational} {Linguistics}}}, \bibinfo{pages}{4443--4458}, \doiprefix\url{10.18653/v1/2020.acl-main.408} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Online}, \bibinfo{year}{2020}).
+
+\bibitem{es_ragas_2024}
+\bibinfo{author}{Es, S.}, \bibinfo{author}{James, J.}, \bibinfo{author}{Espinosa~Anke, L.} \& \bibinfo{author}{Schockaert, S.}
+\newblock \bibinfo{title}{{RAGAs}: {Automated} {Evaluation} of {Retrieval} {Augmented} {Generation}}.
+\newblock In \bibinfo{editor}{Aletras, N.} \& \bibinfo{editor}{De~Clercq, O.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 18th {Conference} of the {European} {Chapter} of the {Association} for {Computational} {Linguistics}: {System} {Demonstrations}}}, \bibinfo{pages}{150--158} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{St. Julians, Malta}, \bibinfo{year}{2024}).
+
+\bibitem{zhao_moverscore_2019}
+\bibinfo{author}{Zhao, W.} \emph{et~al.}
+\newblock \bibinfo{title}{{MoverScore}: {Text} {Generation} {Evaluating} with {Contextualized} {Embeddings} and {Earth} {Mover} {Distance}}.
+\newblock In \bibinfo{editor}{Inui, K.}, \bibinfo{editor}{Jiang, J.}, \bibinfo{editor}{Ng, V.} \& \bibinfo{editor}{Wan, X.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 2019 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing} and the 9th {International} {Joint} {Conference} on {Natural} {Language} {Processing} ({EMNLP}-{IJCNLP})}}, \bibinfo{pages}{563--578}, \doiprefix\url{10.18653/v1/D19-1053} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Hong Kong, China}, \bibinfo{year}{2019}).
+
+\bibitem{schuler_context_2025}
+\bibinfo{author}{Schuler, K.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Context factors in clinical decision-making: a scoping review}}.
+\newblock {\emph{\JournalTitle{BMC Medical Informatics and Decision Making}}} \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{133}, \doiprefix\url{10.1186/s12911-025-02965-1} (\bibinfo{year}{2025}).
+
+\bibitem{adam2022mitigating}
+\bibinfo{author}{Adam, H.}, \bibinfo{author}{Balagopalan, A.}, \bibinfo{author}{Alsentzer, E.}, \bibinfo{author}{Christia, F.} \& \bibinfo{author}{Ghassemi, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Mitigating the impact of biased artificial intelligence in emergency decision-making}}.
+\newblock {\emph{\JournalTitle{Communications Medicine}}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{149} (\bibinfo{year}{2022}).
+
+\bibitem{khattab_baleen_2021}
+\bibinfo{author}{Khattab, O.}, \bibinfo{author}{Potts, C.} \& \bibinfo{author}{Zaharia, M.}
+\newblock \bibinfo{title}{Baleen: robust multi-hop reasoning at scale via condensed retrieval}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 35th {International} {Conference} on {Neural} {Information} {Processing} {Systems}}}, {NIPS} '21, \bibinfo{pages}{27670--27682} (\bibinfo{publisher}{Curran Associates Inc.}, \bibinfo{address}{Red Hook, NY, USA}, \bibinfo{year}{2021}).
+
+\bibitem{chuang_selfcite_2025}
+\bibinfo{author}{Chuang, Y.-S.} \emph{et~al.}
+\newblock \bibinfo{title}{{SelfCite}: {Self}-{Supervised} {Alignment} for {Context} {Attribution} in {Large} {Language} {Models}}, \doiprefix\url{10.48550/arXiv.2502.09604} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2502.09604 [cs]}.
+
+\bibitem{lu_learn_2022}
+\bibinfo{author}{Lu, P.} \emph{et~al.}
+\newblock \bibinfo{title}{Learn to {Explain}: {Multimodal} {Reasoning} via {Thought} {Chains} for {Science} {Question} {Answering}} (\bibinfo{year}{2022}).
+
+\bibitem{bucinca_trust_2021}
+\bibinfo{author}{Buçinca, Z.}, \bibinfo{author}{Malaya, M.~B.} \& \bibinfo{author}{Gajos, K.~Z.}
+\newblock \bibinfo{journal}{\bibinfo{title}{To {Trust} or to {Think}: {Cognitive} {Forcing} {Functions} {Can} {Reduce} {Overreliance} on {AI} in {AI}-assisted {Decision}-making}}.
+\newblock {\emph{\JournalTitle{Proc. ACM Hum.-Comput. Interact.}}} \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{188:1--188:21}, \doiprefix\url{10.1145/3449287} (\bibinfo{year}{2021}).
+
+\bibitem{gourabathina2025medium}
+\bibinfo{author}{Gourabathina, A.}, \bibinfo{author}{Gerych, W.}, \bibinfo{author}{Pan, E.} \& \bibinfo{author}{Ghassemi, M.}
+\newblock \bibinfo{title}{The medium is the message: How non-clinical information shapes clinical decisions in llms}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency}}, \bibinfo{pages}{1805--1828} (\bibinfo{year}{2025}).
+
+\bibitem{strong_chatbot_2023}
+\bibinfo{author}{Strong, E.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Chatbot vs {Medical} {Student} {Performance} on {Free}-{Response} {Clinical} {Reasoning} {Examinations}}}.
+\newblock {\emph{\JournalTitle{JAMA internal medicine}}} \textbf{\bibinfo{volume}{183}}, \bibinfo{pages}{1028--1030}, \doiprefix\url{10.1001/jamainternmed.2023.2909} (\bibinfo{year}{2023}).
+
+\bibitem{katz_gpt_2024}
+\bibinfo{author}{Katz, U.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{GPT} versus {Resident} {Physicians} — {A} {Benchmark} {Based} on {Official} {Board} {Scores}}}.
+\newblock {\emph{\JournalTitle{NEJM AI}}} \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{AIdbp2300192}, \doiprefix\url{10.1056/AIdbp2300192} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{Publisher: Massachusetts Medical Society}.
+
+\bibitem{chiang_can_2023}
+\bibinfo{author}{Chiang, C.-H.} \& \bibinfo{author}{Lee, H.-y.}
+\newblock \bibinfo{title}{Can {Large} {Language} {Models} {Be} an {Alternative} to {Human} {Evaluations}?}
+\newblock In \bibinfo{editor}{Rogers, A.}, \bibinfo{editor}{Boyd-Graber, J.} \& \bibinfo{editor}{Okazaki, N.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 61st {Annual} {Meeting} of the {Association} for {Computational} {Linguistics} ({Volume} 1: {Long} {Papers})}}, \bibinfo{pages}{15607--15631}, \doiprefix\url{10.18653/v1/2023.acl-long.870} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Toronto, Canada}, \bibinfo{year}{2023}).
+
+\bibitem{McCoy_NEJM_SCTBenchmark}
+\bibinfo{author}{McCoy, L.~G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Assessment of large language models in clinical reasoning: A novel benchmarking study}}.
+\newblock {\emph{\JournalTitle{NEJM AI}}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{AIdbp2500120}, \doiprefix\url{10.1056/AIdbp2500120} (\bibinfo{year}{2025}).
+\newblock \eprint{https://ai.nejm.org/doi/pdf/10.1056/AIdbp2500120}.
+
+\bibitem{huang2025trustworthiness}
+\bibinfo{author}{Huang, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{On the trustworthiness of generative foundation models: Guideline, assessment, and perspective}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2502.14296}}}  (\bibinfo{year}{2025}).
+
+\bibitem{huang2026probellm}
+\bibinfo{author}{Huang, Y.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Probellm: Automating principled diagnosis of llm failures}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2602.12966}}}  (\bibinfo{year}{2026}).
+
+\bibitem{zhou_explainable_2025}
+\bibinfo{author}{Zhou, S.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Explainable differential diagnosis with dual-inference large language models}}.
+\newblock {\emph{\JournalTitle{npj Health Systems}}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{1--9}, \doiprefix\url{10.1038/s44401-025-00015-6} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{wu_medreason_2025}
+\bibinfo{author}{Wu, J.} \emph{et~al.}
+\newblock \bibinfo{title}{{MedReason}: {Eliciting} {Factual} {Medical} {Reasoning} {Steps} in {LLMs} via {Knowledge} {Graphs}}, \doiprefix\url{10.48550/arXiv.2504.00993} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2504.00993 [cs]}.
+
+\bibitem{bansal_does_2021}
+\bibinfo{author}{Bansal, G.} \emph{et~al.}
+\newblock \bibinfo{title}{Does the {Whole} {Exceed} its {Parts}? {The} {Effect} of {AI} {Explanations} on {Complementary} {Team} {Performance}}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 2021 {CHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}}, {CHI} '21, \bibinfo{pages}{1--16}, \doiprefix\url{10.1145/3411764.3445717} (\bibinfo{publisher}{Association for Computing Machinery}, \bibinfo{address}{New York, NY, USA}, \bibinfo{year}{2021}).
+
+\bibitem{pal_medmcqa_2022}
+\bibinfo{author}{Pal, A.}, \bibinfo{author}{Umapathi, L.~K.} \& \bibinfo{author}{Sankarasubbu, M.}
+\newblock \bibinfo{title}{{MedMCQA}: {A} {Large}-scale {Multi}-{Subject} {Multi}-{Choice} {Dataset} for {Medical} domain {Question} {Answering}}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the {Conference} on {Health}, {Inference}, and {Learning}}}, \bibinfo{pages}{248--260} (\bibinfo{publisher}{PMLR}, \bibinfo{year}{2022}).
+\newblock \bibinfo{note}{ISSN: 2640-3498}.
+
+\bibitem{zhang_survey_2024}
+\bibinfo{author}{Zhang, D.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{A survey of datasets in medicine for large language models}}.
+\newblock {\emph{\JournalTitle{Intelligence \& Robotics}}} \textbf{\bibinfo{volume}{4}}, \bibinfo{pages}{457--478}, \doiprefix\url{10.20517/ir.2024.27} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{Publisher: OAE Publishing Inc.}
+
+\bibitem{jin_rjua-meddqa_2024}
+\bibinfo{author}{Jin, C.} \emph{et~al.}
+\newblock \bibinfo{title}{{RJUA}-{MedDQA}: {A} {Multimodal} {Benchmark} for {Medical} {Document} {Question} {Answering} and {Clinical} {Reasoning}}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 30th {ACM} {SIGKDD} {Conference} on {Knowledge} {Discovery} and {Data} {Mining}}}, {KDD} '24, \bibinfo{pages}{5218--5229}, \doiprefix\url{10.1145/3637528.3671644} (\bibinfo{publisher}{Association for Computing Machinery}, \bibinfo{address}{New York, NY, USA}, \bibinfo{year}{2024}).
+
+\bibitem{soni_radqa_2022}
+\bibinfo{author}{Soni, S.}, \bibinfo{author}{Gudala, M.}, \bibinfo{author}{Pajouhi, A.} \& \bibinfo{author}{Roberts, K.}
+\newblock \bibinfo{title}{{RadQA}: {A} {Question} {Answering} {Dataset} to {Improve} {Comprehension} of {Radiology} {Reports}}.
+\newblock In \bibinfo{editor}{Calzolari, N.} \emph{et~al.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the {Thirteenth} {Language} {Resources} and {Evaluation} {Conference}}}, \bibinfo{pages}{6250--6259} (\bibinfo{publisher}{European Language Resources Association}, \bibinfo{address}{Marseille, France}, \bibinfo{year}{2022}).
+
+\bibitem{toma_clinical_2023}
+\bibinfo{author}{Toma, A.} \emph{et~al.}
+\newblock \bibinfo{title}{Clinical {Camel}: {An} {Open} {Expert}-{Level} {Medical} {Language} {Model} with {Dialogue}-{Based} {Knowledge} {Encoding}}, \doiprefix\url{10.48550/arXiv.2305.12031} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{ArXiv:2305.12031 [cs]}.
+
+\bibitem{adlakha_evaluating_2024}
+\bibinfo{author}{Adlakha, V.}, \bibinfo{author}{BehnamGhader, P.}, \bibinfo{author}{Lu, X.~H.}, \bibinfo{author}{Meade, N.} \& \bibinfo{author}{Reddy, S.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Evaluating {Correctness} and {Faithfulness} of {Instruction}-{Following} {Models} for {Question} {Answering}}}.
+\newblock {\emph{\JournalTitle{Transactions of the Association for Computational Linguistics}}} \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{681--699}, \doiprefix\url{10.1162/tacl_a_00667} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{Place: Cambridge, MA Publisher: MIT Press}.
+
+\bibitem{bedi2026medhelm}
+\bibinfo{author}{Bedi, S.}, \bibinfo{author}{Cui, H.}, \bibinfo{author}{Fuentes, M.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Holistic evaluation of large language models for medical tasks with medhelm}}.
+\newblock {\emph{\JournalTitle{Nature Medicine}}} \doiprefix\url{10.1038/s41591-025-04151-2} (\bibinfo{year}{2026}).
+
+\bibitem{khandekar2024medcalc}
+\bibinfo{author}{Khandekar, N.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Medcalc-bench: Evaluating large language models for medical calculations}}.
+\newblock {\emph{\JournalTitle{Advances in Neural Information Processing Systems}}} \textbf{\bibinfo{volume}{37}}, \bibinfo{pages}{84730--84745} (\bibinfo{year}{2024}).
+
+\bibitem{hendrycks_measuring_2021}
+\bibinfo{author}{Hendrycks, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Measuring {Massive} {Multitask} {Language} {Understanding}}, \doiprefix\url{10.48550/arXiv.2009.03300} (\bibinfo{year}{2021}).
+\newblock \bibinfo{note}{ArXiv:2009.03300 [cs]}.
+
+\bibitem{chen_benchmarking_2025}
+\bibinfo{author}{Chen, H.}, \bibinfo{author}{Fang, Z.}, \bibinfo{author}{Singla, Y.} \& \bibinfo{author}{Dredze, M.}
+\newblock \bibinfo{title}{Benchmarking {Large} {Language} {Models} on {Answering} and {Explaining} {Challenging} {Medical} {Questions}}.
+\newblock In \bibinfo{editor}{Chiruzzo, L.}, \bibinfo{editor}{Ritter, A.} \& \bibinfo{editor}{Wang, L.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 2025 {Conference} of the {Nations} of the {Americas} {Chapter} of the {Association} for {Computational} {Linguistics}: {Human} {Language} {Technologies} ({Volume} 1: {Long} {Papers})}}, \bibinfo{pages}{3563--3599} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Albuquerque, New Mexico}, \bibinfo{year}{2025}).
+
+\bibitem{zuo_medxpertqa_2025}
+\bibinfo{author}{Zuo, Y.} \emph{et~al.}
+\newblock \bibinfo{title}{{MedXpertQA}: {Benchmarking} {Expert}-{Level} {Medical} {Reasoning} and {Understanding}}, \doiprefix\url{10.48550/arXiv.2501.18362} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2501.18362 [cs]}.
+
+\bibitem{hurst2024gpt}
+\bibinfo{author}{Hurst, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Gpt-4o system card}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2410.21276}}}  (\bibinfo{year}{2024}).
+
+\bibitem{singh2025openai}
+\bibinfo{author}{Singh, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Openai gpt-5 system card}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2601.03267}}}  (\bibinfo{year}{2025}).
+
+\bibitem{sellergren2025medgemma}
+\bibinfo{author}{Sellergren, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Medgemma technical report}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2507.05201}}}  (\bibinfo{year}{2025}).
+
+\bibitem{qwen_qwen25_2025}
+\bibinfo{author}{Qwen} \emph{et~al.}
+\newblock \bibinfo{title}{Qwen2.5 {Technical} {Report}}, \doiprefix\url{10.48550/arXiv.2412.15115} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2412.15115 [cs]}.
+
+\bibitem{grattafiori_llama_2024}
+\bibinfo{author}{Grattafiori, A.} \emph{et~al.}
+\newblock \bibinfo{title}{The {Llama} 3 {Herd} of {Models}}, \doiprefix\url{10.48550/arXiv.2407.21783} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{ArXiv:2407.21783 [cs]}.
+
+\bibitem{choi_identifying_2024}
+\bibinfo{author}{Choi, J.}
+\newblock \bibinfo{title}{Identifying {Key} {Terms} in {Prompts} for {Relevance} {Evaluation} with {GPT} {Models}}, \doiprefix\url{10.48550/arXiv.2405.06931} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{ArXiv:2405.06931 [cs]}.
+
+\bibitem{wang-etal-2025-medcite}
+\bibinfo{author}{Wang, X.} \emph{et~al.}
+\newblock \bibinfo{title}{{M}ed{C}ite: Can language models generate verifiable text for medicine?}
+\newblock In \bibinfo{editor}{Che, W.}, \bibinfo{editor}{Nabende, J.}, \bibinfo{editor}{Shutova, E.} \& \bibinfo{editor}{Pilehvar, M.~T.} (eds.) \emph{\bibinfo{booktitle}{Findings of the Association for Computational Linguistics: ACL 2025}}, \bibinfo{pages}{18891--18913}, \doiprefix\url{10.18653/v1/2025.findings-acl.967} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Vienna, Austria}, \bibinfo{year}{2025}).
+
+\bibitem{cohen-wang_contextcite_2024}
+\bibinfo{author}{Cohen-Wang, B.}, \bibinfo{author}{Shah, H.}, \bibinfo{author}{Georgiev, K.} \& \bibinfo{author}{Madry, A.}
+\newblock \bibinfo{title}{{ContextCite}: {Attributing} {Model} {Generation} to {Context}} (\bibinfo{year}{2024}).
+
+\bibitem{cutler_physician_2019}
+\bibinfo{author}{Cutler, D.}, \bibinfo{author}{Skinner, J.~S.}, \bibinfo{author}{Stern, A.~D.} \& \bibinfo{author}{Wennberg, D.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Physician {Beliefs} and {Patient} {Preferences}: {A} {New} {Look} at {Regional} {Variation} in {Health} {Care} {Spending}}}.
+\newblock {\emph{\JournalTitle{American Economic Journal: Economic Policy}}} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{192--221}, \doiprefix\url{10.1257/pol.20150421} (\bibinfo{year}{2019}).
+
+\bibitem{hao_alhamoud_jeong_puri_torr_kalantari_schaekermann_stern_ghassemi_2025}
+\bibinfo{author}{Hao, Y.} \emph{et~al.}
+\newblock \bibinfo{title}{Measuring physicians and ai relevance alignment in medical question answering}, \doiprefix\url{10.17605/OSF.IO/T72J5} (\bibinfo{year}{2025}).
+
+\bibitem{bao_llms_2024}
+\bibinfo{author}{Bao, G.}, \bibinfo{author}{Zhang, H.}, \bibinfo{author}{Yang, L.}, \bibinfo{author}{Wang, C.} \& \bibinfo{author}{Zhang, Y.}
+\newblock \bibinfo{journal}{\bibinfo{title}{{LLMs} with {Chain}-of-{Thought} {Are} {Non}-{Causal} {Reasoners}}}.
+\newblock {\emph{\JournalTitle{CoRR}}}  (\bibinfo{year}{2024}).
+
+\bibitem{ishii_analysis_2024}
+\bibinfo{author}{Ishii, A.}, \bibinfo{author}{Inoue, N.}, \bibinfo{author}{Suzuki, H.} \& \bibinfo{author}{Sekine, S.}
+\newblock \bibinfo{title}{Analysis of {LLM}`s “{Spurious}” {Correct} {Answers} {Using} {Evidence} {Information} of {Multi}-hop {QA} {Datasets}}.
+\newblock In \bibinfo{editor}{Biswas, R.} \emph{et~al.} (eds.) \emph{\bibinfo{booktitle}{Proceedings of the 1st {Workshop} on {Knowledge} {Graphs} and {Large} {Language} {Models} ({KaLLM} 2024)}}, \bibinfo{pages}{24--34}, \doiprefix\url{10.18653/v1/2024.kallm-1.3} (\bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Bangkok, Thailand}, \bibinfo{year}{2024}).
+
+\bibitem{de2024text}
+\bibinfo{author}{de~Hond, A.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{From text to treatment: the crucial role of validation for generative large language models in health care}}.
+\newblock {\emph{\JournalTitle{The Lancet Digital Health}}} \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{e441--e443} (\bibinfo{year}{2024}).
+
+\bibitem{gourabathina2025medperturb}
+\bibinfo{author}{Gourabathina, A.}, \bibinfo{author}{Hao, Y.}, \bibinfo{author}{Gerych, W.} \& \bibinfo{author}{Ghassemi, M.}
+\newblock \bibinfo{journal}{\bibinfo{title}{The medperturb dataset: What non-content perturbations reveal about human and clinical llm decision making}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2506.17163}}}  (\bibinfo{year}{2025}).
+
+\bibitem{yang_harnessing_2023}
+\bibinfo{author}{Yang, Q.} \emph{et~al.}
+\newblock \bibinfo{title}{Harnessing {Biomedical} {Literature} to {Calibrate} {Clinicians}’ {Trust} in {AI} {Decision} {Support} {Systems}}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the 2023 {CHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}}, {CHI} '23, \bibinfo{pages}{1--14}, \doiprefix\url{10.1145/3544548.3581393} (\bibinfo{publisher}{Association for Computing Machinery}, \bibinfo{address}{New York, NY, USA}, \bibinfo{year}{2023}).
+
+\bibitem{mckechnie_context_2025}
+\bibinfo{author}{McKechnie, J.}, \bibinfo{author}{McDonald, G.} \& \bibinfo{author}{Macdonald, C.}
+\newblock \bibinfo{title}{Context {Example} {Selection} for {LLM} {Generated} {Relevance} {Assessments}}.
+\newblock In \emph{\bibinfo{booktitle}{Advances in {Information} {Retrieval}: 47th {European} {Conference} on {Information} {Retrieval}, {ECIR} 2025, {Lucca}, {Italy}, {April} 6–10, 2025, {Proceedings}, {Part} {I}}}, \bibinfo{pages}{293--309}, \doiprefix\url{10.1007/978-3-031-88708-6_19} (\bibinfo{publisher}{Springer-Verlag}, \bibinfo{address}{Berlin, Heidelberg}, \bibinfo{year}{2025}).
+
+\bibitem{kabongo_effective_2024}
+\bibinfo{author}{Kabongo, S.}, \bibinfo{author}{D’Souza, J.} \& \bibinfo{author}{Auer, S.}
+\newblock \bibinfo{title}{Effective {Context} {Selection} in {LLM}-{Based} {Leaderboard} {Generation}: {An} {Empirical} {Study}}.
+\newblock In \bibinfo{editor}{Rapp, A.}, \bibinfo{editor}{Di~Caro, L.}, \bibinfo{editor}{Meziane, F.} \& \bibinfo{editor}{Sugumaran, V.} (eds.) \emph{\bibinfo{booktitle}{Natural {Language} {Processing} and {Information} {Systems}}}, \bibinfo{pages}{150--160}, \doiprefix\url{10.1007/978-3-031-70242-6_15} (\bibinfo{publisher}{Springer Nature Switzerland}, \bibinfo{address}{Cham}, \bibinfo{year}{2024}).
+
+\bibitem{shi_judging_2025}
+\bibinfo{author}{Shi, L.} \emph{et~al.}
+\newblock \bibinfo{title}{Judging the {Judges}: {A} {Systematic} {Study} of {Position} {Bias} in {LLM}-as-a-{Judge}}, \doiprefix\url{10.48550/arXiv.2406.07791} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2406.07791 [cs]}.
+
+\bibitem{zheng_judging_2023}
+\bibinfo{author}{Zheng, L.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Judging {LLM}-as-a-{Judge} with {MT}-{Bench} and {Chatbot} {Arena}}}.
+\newblock {\emph{\JournalTitle{Advances in Neural Information Processing Systems}}} \textbf{\bibinfo{volume}{36}}, \bibinfo{pages}{46595--46623} (\bibinfo{year}{2023}).
+
+\bibitem{soboroff_dont_2025}
+\bibinfo{author}{Soboroff, I.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Don't {Use} {LLMs} to {Make} {Relevance} {Judgments}}}.
+\newblock {\emph{\JournalTitle{Information Retrieval Research}}} \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{29--46}, \doiprefix\url{10.54195/irrj.19625} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{Number: 1}.
+
+\bibitem{qiu2025quantifying}
+\bibinfo{author}{Qiu, P.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Quantifying the reasoning abilities of llms on clinical cases}}.
+\newblock {\emph{\JournalTitle{Nature Communications}}} \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{9799} (\bibinfo{year}{2025}).
+
+\bibitem{li2025medguide}
+\bibinfo{author}{Li, X.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Medguide: Benchmarking clinical decision-making in large language models}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2505.11613}}}  (\bibinfo{year}{2025}).
+
+\bibitem{abbasiantaeb_can_2024}
+\bibinfo{author}{Abbasiantaeb, Z.}, \bibinfo{author}{Meng, C.}, \bibinfo{author}{Azzopardi, L.} \& \bibinfo{author}{Aliannejadi, M.}
+\newblock \bibinfo{title}{Can {We} {Use} {Large} {Language} {Models} to {Fill} {Relevance} {Judgment} {Holes}?}, \doiprefix\url{10.48550/arXiv.2405.05600} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{ArXiv:2405.05600 [cs]}.
+
+\bibitem{gu_survey_2025}
+\bibinfo{author}{Gu, J.} \emph{et~al.}
+\newblock \bibinfo{title}{A {Survey} on {LLM}-as-a-{Judge}}, \doiprefix\url{10.48550/arXiv.2411.15594} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{ArXiv:2411.15594 [cs]}.
+
+\bibitem{panickssery_llm_2024}
+\bibinfo{author}{Panickssery, A.}, \bibinfo{author}{Bowman, S.~R.} \& \bibinfo{author}{Feng, S.}
+\newblock \bibinfo{title}{{LLM} {Evaluators} {Recognize} and {Favor} {Their} {Own} {Generations}} (\bibinfo{year}{2024}).
+
+\bibitem{radevski2025synthesizing}
+\bibinfo{author}{Radevski, G.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{On synthesizing data for context attribution in question answering}}.
+\newblock {\emph{\JournalTitle{arXiv preprint arXiv:2504.05317}}}  (\bibinfo{year}{2025}).
+
+\bibitem{zuccon2023chatgpt}
+\bibinfo{author}{Zuccon, G.}, \bibinfo{author}{Koopman, B.} \& \bibinfo{author}{Shaik, R.}
+\newblock \bibinfo{title}{Chatgpt hallucinates when attributing answers}.
+\newblock In \emph{\bibinfo{booktitle}{Proceedings of the Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region}}, \bibinfo{pages}{46--51} (\bibinfo{year}{2023}).
+
+\bibitem{croxford_current_2025}
+\bibinfo{author}{Croxford, E.} \emph{et~al.}
+\newblock \bibinfo{journal}{\bibinfo{title}{Current and future state of evaluation of large language models for medical summarization tasks}}.
+\newblock {\emph{\JournalTitle{npj Health Systems}}} \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{1--13}, \doiprefix\url{10.1038/s44401-024-00011-2} (\bibinfo{year}{2025}).
+\newblock \bibinfo{note}{Publisher: Nature Publishing Group}.
+
+\bibitem{sharma_relevance_2017}
+\bibinfo{author}{Sharma, S.}, \bibinfo{author}{Asri, L.~E.}, \bibinfo{author}{Schulz, H.} \& \bibinfo{author}{Zumer, J.}
+\newblock \bibinfo{title}{Relevance of {Unsupervised} {Metrics} in {Task}-{Oriented} {Dialogue} for {Evaluating} {Natural} {Language} {Generation}}, \doiprefix\url{10.48550/arXiv.1706.09799} (\bibinfo{year}{2017}).
+\newblock \bibinfo{note}{ArXiv:1706.09799 [cs]}.
+
+\bibitem{bohnet_attributed_2023}
+\bibinfo{author}{Bohnet, B.} \emph{et~al.}
+\newblock \bibinfo{title}{Attributed {Question} {Answering}: {Evaluation} and {Modeling} for {Attributed} {Large} {Language} {Models}}, \doiprefix\url{10.48550/arXiv.2212.08037} (\bibinfo{year}{2023}).
+\newblock \bibinfo{note}{ArXiv:2212.08037 [cs]}.
+
+\bibitem{openai_gpt-4o_2024}
+\bibinfo{author}{OpenAI} \emph{et~al.}
+\newblock \bibinfo{title}{{GPT}-4o {System} {Card}}, \doiprefix\url{10.48550/arXiv.2410.21276} (\bibinfo{year}{2024}).
+\newblock \bibinfo{note}{ArXiv:2410.21276 [cs]}.
+
+\end{thebibliography}

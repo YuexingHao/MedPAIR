@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+50.44780996441841,He has been sick the past week with diarrhea and has been staying home from work.,300,MedBullets_df_op4_Q301,C
+39.98718120333377,A 44-year-old man presents to the emergency department acutely confused.,300,MedBullets_df_op4_Q301,C
+18.468684445451544,He is otherwise healthy and does not take any medications.,300,MedBullets_df_op4_Q301,C
+0.0,He is able to drink oral fluids and protect his airway.,300,MedBullets_df_op4_Q301,C
+0.0,"The patient is given 3L of ringer lactate and subsequently appears less confused, with a blood pressure of 100/70 mmHg.",300,MedBullets_df_op4_Q301,C

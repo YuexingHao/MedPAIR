@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+91.5043830871582,A 23-year-old woman presents to labor and delivery at 40 weeks gestation with abdominal contractions and leakage of fluid from her vagina.,275,MedBullets_df_op4_Q276,A
+49.21446581437122,Her cranial nerve exam is unremarkable and she has normal strength and sensation.,275,MedBullets_df_op4_Q276,A
+22.033219957058687,She subsequently undergoes an uncomplicated vaginal delivery.,275,MedBullets_df_op4_Q276,A
+18.390907253625123,There is blood in her vagina and her uterus is contracted.,275,MedBullets_df_op4_Q276,A
+7.160763352310607,"While holding her newborn, the mother endorses a headache, blurry vision, and abdominal pain.",275,MedBullets_df_op4_Q276,A
+0.0,Physical exam reveals an uncomfortable woman.,275,MedBullets_df_op4_Q276,A
+0.0,"Her temperature is 98.0°F (36.7°C), blood pressure is 194/104 mmHg, pulse is 100/min, respirations are 18/min, and oxygen saturation is 98% on room air.",275,MedBullets_df_op4_Q276,A

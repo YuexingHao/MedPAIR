@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.59666415282322,A 4-day-old girl is brought in by her mother for bilateral purulent eye discharge.,187,MedBullets df_op4 Q188,A
+20.460514139693874,"Then 1 day ago, the patient developed eyelid edema and eye redness.",187,MedBullets df_op4 Q188,A
+15.823674719750535,"This morning, the newborn developed a thick yellow-white eye discharge.",187,MedBullets df_op4 Q188,A
+11.196989702920806,"The patient’s rectal temperature is 99°F (37.2°C), blood pressure is 80/50 mmHg, pulse is 134/min, and respirations are 34/min with an oxygen saturation of 98% O2 on room air.",187,MedBullets df_op4 Q188,A
+5.678273597732186,The newborn had been sleeping regularly and feeding well.,187,MedBullets df_op4 Q188,A
+4.814811536811756,The family has a cat at home.,187,MedBullets df_op4 Q188,A
+2.413687662210853,The mother denies that anyone in the house smokes.,187,MedBullets df_op4 Q188,A
+0.30211517716881997,Pregnancy and delivery were uncomplicated.,187,MedBullets df_op4 Q188,A
+0.0,Figure A shows a photograph of one of the patient's eyes.,187,MedBullets df_op4 Q188,A
+-0.0,The patient's physical exam is otherwise unrevealing.,187,MedBullets df_op4 Q188,A

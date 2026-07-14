@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+133.7330239752032,"Physical exam reveals innumerable hypopigmented macules on the skin and an irregularly shaped, thickened, and elevated plaque on the lower back.",2,MedBullets_df_op4_Q3,D
+57.355941474437714,A 1-year-old girl is brought to a neurologist due to increasing seizure frequency over the past 2 months.,2,MedBullets_df_op4_Q3,D
+33.23156467658706,Her medications consist of lamotrigine and valproic acid.,2,MedBullets_df_op4_Q3,D
+0.0,Her parents have noticed the patient occasionally stiffens and spreads her arms at home.,2,MedBullets_df_op4_Q3,D
+0.0,"She recently underwent a neurology evaluation which revealed hypsarrhythmia on electroencephalography (EEG) with a mix of slow waves, multifocal spikes, and asynchrony.",2,MedBullets_df_op4_Q3,D

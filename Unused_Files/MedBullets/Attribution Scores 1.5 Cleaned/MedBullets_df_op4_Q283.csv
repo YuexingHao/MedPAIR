@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.21926104024253,Physical exam is notable for diffuse non-tender lymphadenopathy.,282,MedBullets df_op4 Q283,A
+33.781965551473505,"Over the past several weeks, the child has been more fatigued and his parents state that “he always seems to be sick.” They state that sometimes he complains about his bones hurting and they note that he is less playful.",282,MedBullets df_op4 Q283,A
+29.57655369847454,"A 5-year-old boy presents to his primary care physician for recurrent colds, fatigue, and fussiness.",282,MedBullets df_op4 Q283,A
+21.771789550195724,Abdominal exam reveals hepatosplenomegaly.,282,MedBullets df_op4 Q283,A

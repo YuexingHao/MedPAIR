@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+55.229972598649965,"The patient was discharged 1 week ago for pneumonia which was treated with azithromycin; however, he feels that his symptoms may be returning.",92,MedBullets df_op4 Q93,A
+38.24674207308658,The patient drinks 1-2 beers per day and smokes 1 pack of cigarettes per day.,92,MedBullets df_op4 Q93,A
+37.32073017954826,He recently went camping and hiking in the woods.,92,MedBullets df_op4 Q93,A
+33.78335965061021,The skin lesions are thick and do not break when pressure is applied.,92,MedBullets df_op4 Q93,A
+32.92423895718875,He is currently sexually active with multiple partners and does not use condoms.,92,MedBullets df_op4 Q93,A
+28.07696678233546,"He felt itchy recently, then noticed skin lesions that broke out prompting him to come to the emergency department.",92,MedBullets df_op4 Q93,A
+24.638173157121237,A 62-year-old man presents to the emergency department with skin lesions.,92,MedBullets df_op4 Q93,A

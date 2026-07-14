@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+71.41211913385266,"On physical exam, he is found to have limited flexion and extension of his spine as well as tenderness to palpation over the insertion of his patellar tendons bilaterally.",144,MedBullets df_op4 Q145,A
+43.42648188084163,A 26-year-old man presents to his primary care physician with a 6-month history of increasing lower back pain.,144,MedBullets df_op4 Q145,A
+20.262786696742637,He first felt the pain while lifting boxes at work but thought that he had just strained a muscle.,144,MedBullets df_op4 Q145,A
+16.744325786828995,The pain appears to be worse in the mornings and after rest.,144,MedBullets df_op4 Q145,A
+4.2872772985390055,Exercise and physical activity appear to temporarily make the pain better.,144,MedBullets df_op4 Q145,A
+2.716600877425219,He has taken acetaminophen and ibuprofen for the pain.,144,MedBullets df_op4 Q145,A

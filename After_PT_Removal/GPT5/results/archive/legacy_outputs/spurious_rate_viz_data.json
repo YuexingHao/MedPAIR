@@ -1,0 +1,222 @@
+{
+  "Overall": [
+    {
+      "name": "MedGemma-27B",
+      "spuriousRate": 39.0,
+      "spuriousCount": 436,
+      "totalCorrect": 1118
+    },
+    {
+      "name": "GPT-5 Removal",
+      "spuriousRate": 6.53,
+      "spuriousCount": 73,
+      "totalCorrect": 1118
+    },
+    {
+      "name": "Qwen-14B Removed",
+      "spuriousRate": 5.46,
+      "spuriousCount": 61,
+      "totalCorrect": 1118
+    },
+    {
+      "name": "Llama-70B",
+      "spuriousRate": 70.66,
+      "spuriousCount": 790,
+      "totalCorrect": 1118
+    },
+    {
+      "name": "Qwen-72B",
+      "spuriousRate": 70.75,
+      "spuriousCount": 791,
+      "totalCorrect": 1118
+    },
+    {
+      "name": "GPT-4o Removed",
+      "spuriousRate": 5.9,
+      "spuriousCount": 66,
+      "totalCorrect": 1118
+    },
+    {
+      "name": "Trainee Removal",
+      "spuriousRate": 79.43,
+      "spuriousCount": 888,
+      "totalCorrect": 1118
+    }
+  ],
+  "JAMA": [
+    {
+      "name": "MedGemma-27B",
+      "spuriousRate": 35.21,
+      "spuriousCount": 181,
+      "totalCorrect": 514
+    },
+    {
+      "name": "GPT-5 Removal",
+      "spuriousRate": 6.61,
+      "spuriousCount": 34,
+      "totalCorrect": 514
+    },
+    {
+      "name": "Qwen-14B Removed",
+      "spuriousRate": 5.25,
+      "spuriousCount": 27,
+      "totalCorrect": 514
+    },
+    {
+      "name": "Llama-70B",
+      "spuriousRate": 67.7,
+      "spuriousCount": 348,
+      "totalCorrect": 514
+    },
+    {
+      "name": "Qwen-72B",
+      "spuriousRate": 67.32,
+      "spuriousCount": 346,
+      "totalCorrect": 514
+    },
+    {
+      "name": "GPT-4o Removed",
+      "spuriousRate": 5.84,
+      "spuriousCount": 30,
+      "totalCorrect": 514
+    },
+    {
+      "name": "Trainee Removal",
+      "spuriousRate": 75.88,
+      "spuriousCount": 390,
+      "totalCorrect": 514
+    }
+  ],
+  "MedBullets": [
+    {
+      "name": "MedGemma-27B",
+      "spuriousRate": 40.72,
+      "spuriousCount": 79,
+      "totalCorrect": 194
+    },
+    {
+      "name": "GPT-5 Removal",
+      "spuriousRate": 4.64,
+      "spuriousCount": 9,
+      "totalCorrect": 194
+    },
+    {
+      "name": "Qwen-14B Removed",
+      "spuriousRate": 3.61,
+      "spuriousCount": 7,
+      "totalCorrect": 194
+    },
+    {
+      "name": "Llama-70B",
+      "spuriousRate": 68.56,
+      "spuriousCount": 133,
+      "totalCorrect": 194
+    },
+    {
+      "name": "Qwen-72B",
+      "spuriousRate": 68.56,
+      "spuriousCount": 133,
+      "totalCorrect": 194
+    },
+    {
+      "name": "GPT-4o Removed",
+      "spuriousRate": 2.06,
+      "spuriousCount": 4,
+      "totalCorrect": 194
+    },
+    {
+      "name": "Trainee Removal",
+      "spuriousRate": 79.38,
+      "spuriousCount": 154,
+      "totalCorrect": 194
+    }
+  ],
+  "MedXpertQA": [
+    {
+      "name": "MedGemma-27B",
+      "spuriousRate": 61.82,
+      "spuriousCount": 136,
+      "totalCorrect": 220
+    },
+    {
+      "name": "GPT-5 Removal",
+      "spuriousRate": 12.73,
+      "spuriousCount": 28,
+      "totalCorrect": 220
+    },
+    {
+      "name": "Qwen-14B Removed",
+      "spuriousRate": 11.36,
+      "spuriousCount": 25,
+      "totalCorrect": 220
+    },
+    {
+      "name": "Llama-70B",
+      "spuriousRate": 77.73,
+      "spuriousCount": 171,
+      "totalCorrect": 220
+    },
+    {
+      "name": "Qwen-72B",
+      "spuriousRate": 78.18,
+      "spuriousCount": 172,
+      "totalCorrect": 220
+    },
+    {
+      "name": "GPT-4o Removed",
+      "spuriousRate": 12.73,
+      "spuriousCount": 28,
+      "totalCorrect": 220
+    },
+    {
+      "name": "Trainee Removal",
+      "spuriousRate": 87.27,
+      "spuriousCount": 192,
+      "totalCorrect": 220
+    }
+  ],
+  "MMLU": [
+    {
+      "name": "MedGemma-27B",
+      "spuriousRate": 21.05,
+      "spuriousCount": 40,
+      "totalCorrect": 190
+    },
+    {
+      "name": "GPT-5 Removal",
+      "spuriousRate": 1.05,
+      "spuriousCount": 2,
+      "totalCorrect": 190
+    },
+    {
+      "name": "Qwen-14B Removed",
+      "spuriousRate": 1.05,
+      "spuriousCount": 2,
+      "totalCorrect": 190
+    },
+    {
+      "name": "Llama-70B",
+      "spuriousRate": 72.63,
+      "spuriousCount": 138,
+      "totalCorrect": 190
+    },
+    {
+      "name": "Qwen-72B",
+      "spuriousRate": 73.68,
+      "spuriousCount": 140,
+      "totalCorrect": 190
+    },
+    {
+      "name": "GPT-4o Removed",
+      "spuriousRate": 2.11,
+      "spuriousCount": 4,
+      "totalCorrect": 190
+    },
+    {
+      "name": "Trainee Removal",
+      "spuriousRate": 80.0,
+      "spuriousCount": 152,
+      "totalCorrect": 190
+    }
+  ]
+}

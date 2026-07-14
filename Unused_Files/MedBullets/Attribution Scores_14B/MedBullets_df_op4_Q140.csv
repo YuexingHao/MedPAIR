@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+44.82634034765821,Her skin exam reveals hirsutism along the jawline and acanthosis nigricans in the axillary folds.,139,MedBullets df_op4 Q140,A
+39.21876603258812,"A 25-year-old woman presents to her primary care physician complaining of recent hair growth along her jawline, now requiring her to shave every 2 days.",139,MedBullets df_op4 Q140,A
+23.200136859816325,"Her temperature is 98.6°F (37.0°C), pulse is 72/min, blood pressure is 136/86 mmHg, and respirations are 13/min.",139,MedBullets df_op4 Q140,A
+20.66921763918124,She has not shaved in about a week.,139,MedBullets df_op4 Q140,A
+17.58617987471088,Transvaginal ultrasound is performed and shown in Figure A.,139,MedBullets df_op4 Q140,A
+14.349242337048054,"She has also gained about 10 pounds in the last several months, and her periods have become irregular over the last year.",139,MedBullets df_op4 Q140,A
+0.0,"A pelvic exam reveals normal external genitalia, a mobile and non-tender 6-week-sized uterus, and no adnexal masses or tenderness.",139,MedBullets df_op4 Q140,A
+0.0,Cardiopulmonary and abdominal exams are unremarkable.,139,MedBullets df_op4 Q140,A
+0.0,Her BMI is 26 kg/m^2.,139,MedBullets df_op4 Q140,A
+0.0,Her last menstrual period was 3 months ago.,139,MedBullets df_op4 Q140,A

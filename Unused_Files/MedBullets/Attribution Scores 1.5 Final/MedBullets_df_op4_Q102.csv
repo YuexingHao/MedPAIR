@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+91.4028737089924,A 6-week-old boy is referred to a pediatric hematologist-oncologist for further evaluation following an abnormal newborn hemoglobinopathy screening.,101,MedBullets_df_op4_Q102,B
+68.1146624801718,"The patient's temperature is 98.6°F (37.0°C), blood pressure is 80/45 mmHg, pulse is 130/min, and respirations are 25/min.",101,MedBullets_df_op4_Q102,B
+32.14198857545853,The father’s brother died of sickle cell anemia at an early age.,101,MedBullets_df_op4_Q102,B
+13.195667105228285,The physician begins counseling the family.,101,MedBullets_df_op4_Q102,B
+11.708273665758727,The results are shown in Figure A. Parental studies reveal that both mother and father are carriers of the sickle cell gene.,101,MedBullets_df_op4_Q102,B
+0.270955537989205,The physician decides to repeat testing for the patient and his 3-year-old sister.,101,MedBullets_df_op4_Q102,B

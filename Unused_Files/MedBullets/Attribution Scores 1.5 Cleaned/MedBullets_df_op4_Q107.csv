@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.20449437091239,He has no tenderness to palpation and bowel sounds are present.,106,MedBullets df_op4 Q107,D
+36.14986996768948,A 40-year-old south asian man presents to a primary care provider with a chronic cough that is worse at night.,106,MedBullets df_op4 Q107,D
+33.96637284496502,He denies any difficulty swallowing or feeling of food getting stuck in his throat.,106,MedBullets df_op4 Q107,D
+30.368868555850643,He drinks alcohol 1-2 times per week and has never smoked.,106,MedBullets df_op4 Q107,D
+28.38228313215056,"On physical exam, his lungs are clear to auscultation bilaterally without wheezing.",106,MedBullets df_op4 Q107,D
+25.230316411703825,He recently moved to the United States to work in construction.,106,MedBullets df_op4 Q107,D
+21.403843863406102,He has lost 10 pounds in the last 3 months along with darker stools which he believes is caused by a Western diet.,106,MedBullets df_op4 Q107,D
+17.698487594353765,"His temperature is 98.6°F (37°C), blood pressure is 114/72 mmHg, pulse is 82/min, and respirations are 12/min.",106,MedBullets df_op4 Q107,D
+6.231420325612863,He has had the cough for several years but it has been getting worse over the last few months.,106,MedBullets df_op4 Q107,D
+6.125693296672088,His abdomen is soft and non-distended.,106,MedBullets df_op4 Q107,D

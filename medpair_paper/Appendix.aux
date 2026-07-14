@@ -1,0 +1,178 @@
+\relax 
+\providecommand\zref@newlabel[2]{}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand*\HyPL@Entry[1]{}
+\bibstyle{plain}
+\citation{hendrycks_measuring_2021}
+\citation{chen_benchmarking_2025}
+\citation{chen_benchmarking_2025}
+\citation{zuo_medxpertqa_2025}
+\HyPL@Entry{0<</S/D>>}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Dataset Explanation}{1}{section.1}\protected@file@percent }
+\newlabel{dataset_explanation}{{1}{1}{Dataset Explanation}{section.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces \textbf  {Comparative Analysis of Physician Trainee--Annotated \emph  {MedPair} Dataset Characteristics.} Values in parentheses represent standard deviations.}}{1}{table.caption.1}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{tab:comparison_1}{{1}{1}{\textbf {Comparative Analysis of Physician Trainee--Annotated \emph {MedPair} Dataset Characteristics.} Values in parentheses represent standard deviations}{table.caption.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Evaluation Set-Up}{2}{subsection.1.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces \textbf  {Aligning Physician Trainee Annotations with LLM ContextCite Raw Scores Using an Identical Input Context Budget.}}}{2}{figure.caption.2}\protected@file@percent }
+\newlabel{evaluation_Benchmark}{{1}{2}{\textbf {Aligning Physician Trainee Annotations with LLM ContextCite Raw Scores Using an Identical Input Context Budget.}}{figure.caption.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}NLP Analysis}{2}{subsection.1.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces \textbf  {Sentence Position Analysis.} Plot (a) Distribution of physician trainees’ majority‐vote relevance labels by sentence position. Plot (b) Distribution of GPT-4o self-reported relevance labels by sentence position. Plot (c) ContextCite scores across the context for three open-source models (Qwen-14B, Llama-70B, Qwen-72B).}}{2}{figure.caption.3}\protected@file@percent }
+\newlabel{fig:sentence_position}{{2}{2}{\textbf {Sentence Position Analysis.} Plot (a) Distribution of physician trainees’ majority‐vote relevance labels by sentence position. Plot (b) Distribution of GPT-4o self-reported relevance labels by sentence position. Plot (c) ContextCite scores across the context for three open-source models (Qwen-14B, Llama-70B, Qwen-72B)}{figure.caption.3}{}}
+\citation{zhang2024min}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces \textbf  {MedPAIR Dataset Curation.} We curated a 933 annotated QA dataset MedPAIR. Data are structured into patient profile and query components. In the first step, 52 physician trainees and 6 LLMs independently select the most appropriate answer. In the second step, physician trainees annotate the relevance of each sentence within the patient profile, excluding annotations link to incorrect answers. Majority voting is used to produce binary relevance labels for physician trainees. Concurrently, we prompt close-source LLMs (GPT-4o, GPT-5) to follow the physician annotation instructions and employ ContextCite with open-source LLMs (Qwen-14B, Qwen-72B, Llama-70B, MedGemma-27B) to generate both relevance scores and self-reported labels.}}{3}{figure.caption.4}\protected@file@percent }
+\newlabel{Self_Report_Vs_Centaur_Lab}{{3}{3}{\textbf {MedPAIR Dataset Curation.} We curated a 933 annotated QA dataset MedPAIR. Data are structured into patient profile and query components. In the first step, 52 physician trainees and 6 LLMs independently select the most appropriate answer. In the second step, physician trainees annotate the relevance of each sentence within the patient profile, excluding annotations link to incorrect answers. Majority voting is used to produce binary relevance labels for physician trainees. Concurrently, we prompt close-source LLMs (GPT-4o, GPT-5) to follow the physician annotation instructions and employ ContextCite with open-source LLMs (Qwen-14B, Qwen-72B, Llama-70B, MedGemma-27B) to generate both relevance scores and self-reported labels}{figure.caption.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3}Model Memorizations}{3}{subsection.1.3}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces \textbf  {Model Memorization Metrics across Different Datasets}. All resulting scores are negative. Values that are less negative (i.e., closer to 0) indicate that the model considers the text more predictable, which provides a stronger indication that the text appeared in its training data. Values presented as mean ± standard deviation.}}{4}{table.caption.5}\protected@file@percent }
+\newlabel{model_memorization}{{2}{4}{\textbf {Model Memorization Metrics across Different Datasets}. All resulting scores are negative. Values that are less negative (i.e., closer to 0) indicate that the model considers the text more predictable, which provides a stronger indication that the text appeared in its training data. Values presented as mean ± standard deviation}{table.caption.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Expert Annotation Dataset Interpretation}{4}{section.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces \textbf  {Distribution of High and Low or irrelevant Sentences QA Pairs Across Datasets.} Mean and standard deviation represent the average number of high and low/irrelevant annotations per question.}}{4}{table.caption.6}\protected@file@percent }
+\newlabel{tab:high_low_sentence_dist}{{3}{4}{\textbf {Distribution of High and Low or irrelevant Sentences QA Pairs Across Datasets.} Mean and standard deviation represent the average number of high and low/irrelevant annotations per question}{table.caption.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces \textbf  {Confusion matrix of prediction accuracy and relevance agreement.} In our MedPAIR benchmark, we evaluated relevance labels from both physician trainee labelers and LLMs.}}{4}{table.caption.7}\protected@file@percent }
+\newlabel{Confusion_Matrix}{{4}{4}{\textbf {Confusion matrix of prediction accuracy and relevance agreement.} In our MedPAIR benchmark, we evaluated relevance labels from both physician trainee labelers and LLMs}{table.caption.7}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Labeler Instructions \& Prompts}{5}{section.3}\protected@file@percent }
+\newlabel{LLM_Self_Report_Prompt}{{3}{5}{Labeler Instructions \& Prompts}{section.3}{}}
+\newlabel{Context_Cite_Prompt}{{3}{6}{Labeler Instructions \& Prompts}{section.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces \textbf  {Centaur Labs Labeling Interface.} The physician labelers first answer the classification question, then provide "high relevance", "low relevance", and "not relevant" labels to each sentence. Physician labelers can also add comments or flag cases during labeling.}}{6}{figure.caption.8}\protected@file@percent }
+\newlabel{Interface}{{4}{6}{\textbf {Centaur Labs Labeling Interface.} The physician labelers first answer the classification question, then provide "high relevance", "low relevance", and "not relevant" labels to each sentence. Physician labelers can also add comments or flag cases during labeling}{figure.caption.8}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces \textbf  {Relevance Label Concordance (\%)} with Physician Trainee Labels. Standard deviations presented in parentheses. "CC" denotes ContextCite score; "SR" denotes Self-Reported labels.}}{6}{table.caption.9}\protected@file@percent }
+\newlabel{concordance}{{5}{6}{\textbf {Relevance Label Concordance (\%)} with Physician Trainee Labels. Standard deviations presented in parentheses. "CC" denotes ContextCite score; "SR" denotes Self-Reported labels}{table.caption.9}{}}
+\gdef \LT@i {\LT@entry 
+    {3}{88.63826pt}\LT@entry 
+    {3}{133.0184pt}\LT@entry 
+    {1}{47.88287pt}\LT@entry 
+    {1}{37.38213pt}\LT@entry 
+    {1}{60.6503pt}\LT@entry 
+    {1}{64.0993pt}\LT@entry 
+    {1}{49.71126pt}\LT@entry 
+    {1}{0.0pt}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces \textbf  {Centaur Labs Labeling Interface.} The physician labelers first answer the classification question, then provide "high relevance", "low relevance", and "not relevant" labels to each sentence. Physician labelers can also add comments or flag cases during labeling.}}{7}{figure.caption.10}\protected@file@percent }
+\newlabel{Interface}{{5}{7}{\textbf {Centaur Labs Labeling Interface.} The physician labelers first answer the classification question, then provide "high relevance", "low relevance", and "not relevant" labels to each sentence. Physician labelers can also add comments or flag cases during labeling}{figure.caption.10}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {6}{\ignorespaces \textbf  {Comparison of accuracy (\%) across datasets} before and after removing sentences that physician trainees or LLMs labeled as low relevance or irrelevant.}}{9}{table.6}\protected@file@percent }
+\newlabel{tab:comparison}{{6}{9}{\textbf {Comparison of accuracy (\%) across datasets} before and after removing sentences that physician trainees or LLMs labeled as low relevance or irrelevant}{table.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {7}{\ignorespaces \textbf  {Comparison of dataset characteristics focusing on Readability and Top Keywords Frequency.} Values in parentheses represent standard deviations. The readability is calculated through Flesch Reading Ease score, which typically ranges from 0 to 100, where a higher score indicates that the text is easier to read, and a lower score suggests the text is more difficult. We highlighted each clinical term using different colors based on the type of information it conveys: \textcolor {red}{symptoms, severity}, \textcolor {blue}{description on findings}, \textcolor {brown}{demographics / history}, \textcolor {teal}{medicine}, \textcolor {orange}{medical test}, \textcolor {green}{anatomical structure/term}, \textcolor {gray}{negative findings or suggestive of good patient status}, \textcolor {violet}{timeline, comparative}.}}{9}{table.caption.11}\protected@file@percent }
+\newlabel{tab:keyword_readability}{{7}{9}{\textbf {Comparison of dataset characteristics focusing on Readability and Top Keywords Frequency.} Values in parentheses represent standard deviations. The readability is calculated through Flesch Reading Ease score, which typically ranges from 0 to 100, where a higher score indicates that the text is easier to read, and a lower score suggests the text is more difficult. We highlighted each clinical term using different colors based on the type of information it conveys: \textcolor {red}{symptoms, severity}, \textcolor {blue}{description on findings}, \textcolor {brown}{demographics / history}, \textcolor {teal}{medicine}, \textcolor {orange}{medical test}, \textcolor {green}{anatomical structure/term}, \textcolor {gray}{negative findings or suggestive of good patient status}, \textcolor {violet}{timeline, comparative}}{table.caption.11}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {8}{\ignorespaces \textbf  {Model-level concordance ranking on the shared 623-origin subset.} We report each model's average pairwise Jaccard agreement with all other labelers and Jaccard agreement with human trainee majority-vote high-sentence sets. SR = self-reported labels; CC = ContextCite top-$K$ labels.}}{10}{table.caption.12}\protected@file@percent }
+\newlabel{tab:appendix_concordance_model_ranking}{{8}{10}{\textbf {Model-level concordance ranking on the shared 623-origin subset.} We report each model's average pairwise Jaccard agreement with all other labelers and Jaccard agreement with human trainee majority-vote high-sentence sets. SR = self-reported labels; CC = ContextCite top-$K$ labels}{table.caption.12}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Sample QA Case Study}{11}{section.4}\protected@file@percent }
+\newlabel{sample}{{4}{11}{Sample QA Case Study}{section.4}{}}
+\newlabel{tab:label_landscape_comparison}{{4}{11}{Sample QA Case Study}{Item.14}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Sample QA Case Study}{13}{section.5}\protected@file@percent }
+\newlabel{sample}{{5}{13}{Sample QA Case Study}{section.5}{}}
+\newlabel{tab:label_landscape_comparison}{{5}{13}{Sample QA Case Study}{Item.30}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Spurious case: GPT-5 on Medbullets ID0102}{15}{subsection.5.1}\protected@file@percent }
+\newlabel{sample:gpt5_spurious}{{5.1}{15}{Spurious case: GPT-5 on Medbullets ID0102}{subsection.5.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Spurious case: JAMA ID0973}{16}{subsection.5.2}\protected@file@percent }
+\newlabel{sample:jama_id0973}{{5.2}{16}{Spurious case: JAMA ID0973}{subsection.5.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3}Long-context case: JAMA ID1076}{18}{subsection.5.3}\protected@file@percent }
+\newlabel{sample:jama_id1076}{{5.3}{18}{Long-context case: JAMA ID1076}{subsection.5.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4}Spurious case: JAMA ID1266}{19}{subsection.5.4}\protected@file@percent }
+\newlabel{sample:jama_id1266}{{5.4}{19}{Spurious case: JAMA ID1266}{subsection.5.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Qualitative Survey Analysis}{21}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Pre-Study Survey}{21}{subsection.6.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Post-Study Survey}{22}{subsection.6.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.2.1}Physician Survey Analysis}{22}{subsubsection.6.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.2.2}Trainee Survey Analysis}{22}{subsubsection.6.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Physician and Physician Trainee Labeler Information}{23}{subsection.6.3}\protected@file@percent }
+\gdef \LT@ii {\LT@entry 
+    {1}{20.8879pt}\LT@entry 
+    {1}{25.32793pt}\LT@entry 
+    {1}{37.7757pt}\LT@entry 
+    {1}{57.16772pt}\LT@entry 
+    {5}{45.10371pt}\LT@entry 
+    {5}{99.9513pt}\LT@entry 
+    {1}{77.55911pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {1}{67.57541pt}\LT@entry 
+    {1}{61.32764pt}\LT@entry 
+    {1}{67.57541pt}\LT@entry 
+    {5}{82.20726pt}}
+\gdef \LT@iii {\LT@entry 
+    {1}{47.55957pt}\LT@entry 
+    {1}{86.25552pt}\LT@entry 
+    {1}{79.3194pt}\LT@entry 
+    {1}{104.83122pt}\LT@entry 
+    {1}{119.71909pt}\LT@entry 
+    {1}{116.76701pt}\LT@entry 
+    {1}{81.31136pt}\LT@entry 
+    {1}{92.12732pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {9}{\ignorespaces \textbf  {Pre-Survey Demographics and Educational Background of Physician Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} ``N/A'' denotes that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material.}}{24}{table.9}\protected@file@percent }
+\newlabel{physician_demographic}{{9}{24}{\textbf {Pre-Survey Demographics and Educational Background of Physician Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} ``N/A'' denotes that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material}{table.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {10}{\ignorespaces \textbf  {Post-Survey of Physician Participants.}}}{24}{table.10}\protected@file@percent }
+\newlabel{physician_post}{{10}{24}{\textbf {Post-Survey of Physician Participants.}}{table.10}{}}
+\gdef \LT@iv {\LT@entry 
+    {1}{20.8879pt}\LT@entry 
+    {1}{25.32793pt}\LT@entry 
+    {5}{53.53577pt}\LT@entry 
+    {5}{65.54356pt}\LT@entry 
+    {1}{40.44777pt}\LT@entry 
+    {5}{148.7426pt}\LT@entry 
+    {1}{73.55911pt}\LT@entry 
+    {1}{69.71936pt}\LT@entry 
+    {1}{68.22328pt}\LT@entry 
+    {1}{61.32764pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {1}{72.22348pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {11}{\ignorespaces \textbf  {Pre-Survey Demographics and Educational Background of Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denotes that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material.}}{25}{table.11}\protected@file@percent }
+\newlabel{trainee_demographic}{{11}{25}{\textbf {Pre-Survey Demographics and Educational Background of Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denotes that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material}{table.11}{}}
+\newlabel{demographic}{{11}{26}{Physician and Physician Trainee Labeler Information}{table.11}{}}
+\gdef \LT@v {\LT@entry 
+    {1}{20.8879pt}\LT@entry 
+    {5}{25.77586pt}\LT@entry 
+    {5}{35.55167pt}\LT@entry 
+    {1}{27.9919pt}\LT@entry 
+    {1}{40.44777pt}\LT@entry 
+    {1}{27.72804pt}\LT@entry 
+    {1}{27.72804pt}\LT@entry 
+    {5}{201.07054pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {5}{53.76749pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {5}{53.76749pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {5}{82.20726pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {12}{\ignorespaces \textbf  {Round 2 Physician-Trainee Highly Relevant Labeled Sentences: Medical Student Participants Demographics.} Empty cells denote that the labeler chose not to disclose this information.}}{27}{table.12}\protected@file@percent }
+\newlabel{trainee_demographic_r2}{{12}{27}{\textbf {Round 2 Physician-Trainee Highly Relevant Labeled Sentences: Medical Student Participants Demographics.} Empty cells denote that the labeler chose not to disclose this information}{table.12}{}}
+\gdef \LT@vi {\LT@entry 
+    {1}{20.8879pt}\LT@entry 
+    {5}{25.77586pt}\LT@entry 
+    {1}{37.7757pt}\LT@entry 
+    {1}{61.99945pt}\LT@entry 
+    {1}{40.44777pt}\LT@entry 
+    {5}{93.99132pt}\LT@entry 
+    {1}{73.55911pt}\LT@entry 
+    {1}{69.71936pt}\LT@entry 
+    {1}{68.22328pt}\LT@entry 
+    {1}{61.32764pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {5}{82.20726pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {13}{\ignorespaces \textbf  {Pre-Survey Demographics and Educational Background of Round 3 (GPT-5) Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denote that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material.}}{28}{table.13}\protected@file@percent }
+\newlabel{trainee_demographic_r3}{{13}{28}{\textbf {Pre-Survey Demographics and Educational Background of Round 3 (GPT-5) Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denote that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material}{table.13}{}}
+\gdef \LT@vii {\LT@entry 
+    {1}{20.8879pt}\LT@entry 
+    {1}{25.32793pt}\LT@entry 
+    {1}{37.7757pt}\LT@entry 
+    {1}{61.99945pt}\LT@entry 
+    {1}{40.44777pt}\LT@entry 
+    {5}{139.43878pt}\LT@entry 
+    {1}{73.55911pt}\LT@entry 
+    {1}{69.71936pt}\LT@entry 
+    {1}{68.22328pt}\LT@entry 
+    {1}{61.32764pt}\LT@entry 
+    {5}{65.91924pt}\LT@entry 
+    {1}{72.22348pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {14}{\ignorespaces \textbf  {Pre-Survey Demographics and Educational Background of Round 4 (Qwen-72B) Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denote that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material.}}{29}{table.14}\protected@file@percent }
+\newlabel{trainee_demographic_r4}{{14}{29}{\textbf {Pre-Survey Demographics and Educational Background of Round 4 (Qwen-72B) Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denote that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material}{table.14}{}}
+\gdef \LT@viii {\LT@entry 
+    {1}{56.03156pt}\LT@entry 
+    {1}{58.3517pt}\LT@entry 
+    {1}{57.98373pt}\LT@entry 
+    {1}{57.98373pt}\LT@entry 
+    {5}{82.43938pt}\LT@entry 
+    {5}{85.80724pt}\LT@entry 
+    {5}{74.43137pt}\LT@entry 
+    {1}{40.01566pt}}
+\@writefile{lot}{\contentsline {table}{\numberline {15}{\ignorespaces \textbf  {Post-Survey Exit Feedback from All Study Participants.} Column Appendix ID corresponds to labeler ID in Tables 10-14. The complete list of pre-survey questions is available in the supplementary material.}}{30}{table.15}\protected@file@percent }
+\newlabel{exit_survey}{{15}{30}{\textbf {Post-Survey Exit Feedback from All Study Participants.} Column Appendix ID corresponds to labeler ID in Tables 10-14. The complete list of pre-survey questions is available in the supplementary material}{table.15}{}}
+\bibdata{references}
+\gdef \@abspage@last{30}

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.852335050702095,"She states that when these symptoms occur, she gets into frequent arguments at work, is unable to concentrate, and sleeps longer than usual.",298,MedBullets df_op4 Q299,D
+41.418867913638586,"She states that she has had recurrent bouts of mood swings, bloating, and abdominal pain that occur together approximately every 4 weeks.",298,MedBullets df_op4 Q299,D
+29.532647174915024,Physical exam reveals a nontender abdomen.,298,MedBullets df_op4 Q299,D
+21.96151462368172,"Furthermore, she has episodes of extreme anxiety during these periods, leading her to take off time from work.",298,MedBullets df_op4 Q299,D
+15.766178734498864,Pelvic exam reveals a closed cervix with no cervical motion or adnexal tenderness.,298,MedBullets df_op4 Q299,D
+15.625303764223794,She has no past medical history and takes no medications.,298,MedBullets df_op4 Q299,D
+10.037743957865192,A 21-year-old woman presents to her primary care physician due to a history of abdominal pain.,298,MedBullets df_op4 Q299,D
+2.8111350197342246,"Her temperature is 98.2°F (36.8°C), blood pressure is 100/70 mmHg, pulse is 75/min, and respirations are 12/min.",298,MedBullets df_op4 Q299,D

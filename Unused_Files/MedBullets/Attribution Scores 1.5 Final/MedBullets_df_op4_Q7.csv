@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+72.01439666748047,The patient’s family history is significant for an older brother with glucose-6-phosphate dehydrogenase (G6PD) deficiency and a maternal uncle with cirrhosis secondary to chronic hepatitis B.,6,MedBullets_df_op4_Q7,
+66.00190852301907,The patient’s mother endorses decreased appetite during the aforementioned illness which has now returned to baseline.,6,MedBullets_df_op4_Q7,
+11.27826336413579,The patient was born at 38 weeks gestation via Caesarean section for cervical incompetence.,6,MedBullets_df_op4_Q7,
+1.2296090539222153,A 1-month-old girl presents to her pediatrician with her mother.,6,MedBullets_df_op4_Q7,
+0.0,The patient’s mother has no complaints.,6,MedBullets_df_op4_Q7,
+0.0,The child had a runny nose and cough for a few days last week.,6,MedBullets_df_op4_Q7,
+0.0,"On physical exam, the patient has scleral icterus and dark urine staining her diaper.",6,MedBullets_df_op4_Q7,

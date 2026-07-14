@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+33.1889542534103,"His temperature is 98.0°F (36.6°C), blood pressure is 128/89 mmHg, pulse is 130/min, and respirations are 18/min.",120,MedBullets_df_op4_Q121,
+12.454162768258119,He had sudden weakness in his left leg and was unable to grasp a handrail with his left hand.,120,MedBullets_df_op4_Q121,
+11.475183817552157,A 65-year-old man presents to the emergency department for evaluation of left arm and leg weakness.,120,MedBullets_df_op4_Q121,
+6.828019095587924,He was walking in the park about 45 minutes prior to arrival when the patient stumbled and fell.,120,MedBullets_df_op4_Q121,
+1.8117926086158247,"A non-contrast CT scan of the head is performed, which suggests parenchymal ischemia in the distribution of the right middle cerebral artery.",120,MedBullets_df_op4_Q121,
+0.0,He currently takes no medications.,120,MedBullets_df_op4_Q121,
+0.0,"On exam, he has 3/5 strength in the left upper and lower extremities and a left-sided facial droop.",120,MedBullets_df_op4_Q121,
+0.0,He is given intravenous alteplase with rapid improvement in his strength deficits and facial asymmetry.,120,MedBullets_df_op4_Q121,

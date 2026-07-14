@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.07776743118605,"His temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 100/min, respirations are 18/min, and oxygen saturation is 98% on room air.",55,MedBullets df_op4 Q56,
+19.21220514722857,QuantiFERON gold testing is positive.,55,MedBullets df_op4 Q56,
+11.029690180671214,He attributes this to intravenous drug use in prison.,55,MedBullets df_op4 Q56,
+1.706878662109375,He has felt very fatigued and has had a cough.,55,MedBullets df_op4 Q56,

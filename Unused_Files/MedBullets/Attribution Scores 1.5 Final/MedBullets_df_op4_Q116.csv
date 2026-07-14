@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+101.46385346356753,A 3-day-old boy is evaluated in the hospital nursery for the delayed passage of meconium.,115,MedBullets_df_op4_Q116,A
+83.19286982057312,"The patient’s temperature is 98.2°F (36.8°C), blood pressure is 48/32 mmHg, pulse is 164/min, and respirations are 48/min.",115,MedBullets_df_op4_Q116,A
+72.15573638677597,The pregnancy was uncomplicated until the patient’s mother had a spontaneous rupture of membranes at 35 weeks of gestation.,115,MedBullets_df_op4_Q116,A
+72.05582621755818,"The patient is breastfed, has been feeding well every 2 hours, and is urinating over 8 times per day.",115,MedBullets_df_op4_Q116,A
+49.49923059269894,He was born at 35 weeks gestation to a 27-year-old G4P4 mother.,115,MedBullets_df_op4_Q116,A
+37.684742666016525,"He has no dysmorphic features, and his abdomen is distended and non-tender.",115,MedBullets_df_op4_Q116,A

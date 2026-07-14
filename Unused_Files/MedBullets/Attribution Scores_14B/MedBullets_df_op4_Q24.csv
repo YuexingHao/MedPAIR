@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+26.842682905984866,Dermatologic exam reveals scarring in the antecubital fossa.,23,MedBullets df_op4 Q24,A
+23.816736615484952,A 37-year-old man presents to the emergency department for a persistent fever.,23,MedBullets df_op4 Q24,A
+15.110051648786266,Cardiopulmonary exam is notable for a systolic murmur heard best along the left sternal border.,23,MedBullets df_op4 Q24,A
+14.721044968112606,"His temperature is 103°F (39.4°C), blood pressure is 92/59 mmHg, pulse is 110/min, respirations are 20/min, and oxygen saturation is 96% on room air.",23,MedBullets df_op4 Q24,A
+11.233670122921467,The patient has a medical history of a suicide attempt and alcohol abuse.,23,MedBullets df_op4 Q24,A
+9.663878457514745,The patient admits to using heroin and cocaine and drinking 5-8 alcoholic drinks per day.,23,MedBullets df_op4 Q24,A
+-0.0,IV fluids are administered and the blood pressure is subsequently 120/70 mmHg.,23,MedBullets df_op4 Q24,A
+0.0,He is not currently taking any medications.,23,MedBullets df_op4 Q24,A
+0.0,The patient has felt unwell for the past week and has felt subjectively febrile.,23,MedBullets df_op4 Q24,A

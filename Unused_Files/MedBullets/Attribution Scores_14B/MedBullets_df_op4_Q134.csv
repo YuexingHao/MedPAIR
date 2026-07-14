@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.29039924884333,"Her temperature is 98.2°F (36.8°C), blood pressure 100/65 mmHg, pulse 87/min, and respiratory rate 14/min.",133,MedBullets df_op4 Q134,A
+45.19786309953135,Skin examination is notable for the findings in Figure A.,133,MedBullets df_op4 Q134,A
+45.14803336997003,She started treatment for a skin condition with a new oral medication 2 months prior.,133,MedBullets df_op4 Q134,A
+23.708556678091725,"A 19-year-old woman presents to her primary care physician with headaches, blurry vision, and tinnitus over the past month.",133,MedBullets df_op4 Q134,A
+17.64865243434906,She has not noticed any changes in her complexion as of yet.,133,MedBullets df_op4 Q134,A
+11.55824593772097,"She is oriented to person, place, and time.",133,MedBullets df_op4 Q134,A
+0.0,Neurological exam reveals papilledema upon examination of both eyes.,133,MedBullets df_op4 Q134,A

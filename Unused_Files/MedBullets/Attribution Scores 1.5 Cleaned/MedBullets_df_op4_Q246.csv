@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.01958998938618,Physical exam is notable for a laterally displaced point of maximal impulse as well as a 2/6 diastolic murmur radiating to the axilla.,245,MedBullets df_op4 Q246,
+40.08280125335677,A 24-year-old woman with no significant medical history presents to the emergency department for progressive shortness of breath.,245,MedBullets df_op4 Q246,
+12.220378668772025,A blood smear is shown in Figure A.,245,MedBullets df_op4 Q246,
+8.584952532108202,She endorses decreased exercise tolerance as well as intermittent palpitations.,245,MedBullets df_op4 Q246,

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.692462672375626,"The patient has a medical history of alcoholism and has been admitted to the hospital multiple times for withdrawal, abdominal pain, and traumatic injuries from his drinking.",239,MedBullets df_op4 Q240,
+37.92357407826511,A 59-year-old man presents to his primary care physician for abdominal pain and foul-smelling diarrhea that has persisted for the past 2 years.,239,MedBullets df_op4 Q240,
+14.729789733886719,The patient states that his last drink was more than 1 year ago.,239,MedBullets df_op4 Q240,
+4.405779492890972,A computed tomography (CT) scan of the abdomen is performed as seen in Figure A.,239,MedBullets df_op4 Q240,
+1.0933085292500282,Laboratory studies are notable for a serum calcium of 7.0 mg/dL.,239,MedBullets df_op4 Q240,
+0.0,A Sudan Black stain of the patient’s stool is positive.,239,MedBullets df_op4 Q240,
+0.0,"Physical exam reveals a non-tender, non-distended abdomen.",239,MedBullets df_op4 Q240,
+0.0,"His temperature is 99.3°F (37.4°C), blood pressure is 115/78 mmHg, pulse is 78/min, respirations are 15/min, and oxygen saturation is 99% on room air.",239,MedBullets df_op4 Q240,

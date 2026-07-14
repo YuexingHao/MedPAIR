@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+44.637928201395304,The patient is acutely intoxicated and is attempting to attack the nurses.,238,MedBullets_df_op4_Q239,
+31.814235025769634,He was the driver in a head-on collision and was not wearing a seatbelt.,238,MedBullets_df_op4_Q239,
+21.415328979492188,"Soon after presentation, he is sedated, paralyzed, and intubated.",238,MedBullets_df_op4_Q239,
+0.0,His medical history is unknown.,238,MedBullets_df_op4_Q239,
+0.0,A 24-year-old man presents to the emergency room after a motor vehicle collision.,238,MedBullets_df_op4_Q239,
+0.0,Physical exam is notable for jugular venous distension.,238,MedBullets_df_op4_Q239,

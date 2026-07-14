@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+33.38035541394096,She often feels lightheaded and like she may “pass out” but never actually loses consciousness.,88,MedBullets df_op4 Q89,C
+18.58114060069554,Her current ECG can be seen in Figure A.,88,MedBullets df_op4 Q89,C
+12.56305704728468,"Her home medications include methotrexate, atorvastatin, clopidogrel, and aspirin.",88,MedBullets df_op4 Q89,C
+11.385862121892156,"The patient had a myocardial infarction 6 months ago, and she now has multiple drug-eluting stents.",88,MedBullets df_op4 Q89,C
+10.375547053076088,"On physical exam, she has an irregular heartbeat with normal cardiac sounds.",88,MedBullets df_op4 Q89,C
+0.0,Her abdomen is non-distended and she has mild lower extremity edema.,88,MedBullets df_op4 Q89,C
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 118/75 mmHg, pulse is 92/min, and respirations are 12/min.",88,MedBullets df_op4 Q89,C
+0.0,Her medical history is otherwise significant for rheumatoid arthritis and migraines.,88,MedBullets df_op4 Q89,C
+0.0,Her ECG upon discharge from that hospitalization was normal.,88,MedBullets df_op4 Q89,C
+0.0,The patient has been taking all of her medications as instructed.,88,MedBullets df_op4 Q89,C
+0.0,She denies dyspnea on exertion or orthopnea.,88,MedBullets df_op4 Q89,C
+0.0,A 68-year-old woman presents to her primary care provider for dizziness.,88,MedBullets df_op4 Q89,C

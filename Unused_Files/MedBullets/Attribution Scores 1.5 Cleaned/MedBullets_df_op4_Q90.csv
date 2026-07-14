@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.8962550476313,HEENT exam reveals non-tender posterior and anterior chain lymphadenopathy.,89,MedBullets df_op4 Q90,D
+61.6209059268352,"His temperature is 99.5°F (37.5°C), blood pressure is 157/98 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air.",89,MedBullets df_op4 Q90,D
+37.58355493461247,A 62-year-old man presents to the emergency department with increased fatigue and changes in his vision.,89,MedBullets df_op4 Q90,D
+36.024155765771866,The patient also endorses increased sweating at night and new-onset headaches.,89,MedBullets df_op4 Q90,D
+28.67172280686029,"His current medications include insulin, metformin, and lisinopril.",89,MedBullets df_op4 Q90,D
+25.30723698939892,Abdominal exam reveals splenomegaly and hepatomegaly.,89,MedBullets df_op4 Q90,D
+16.620170127765384,A neurological exam is notable for decreased sensation in the patient's hands and feet.,89,MedBullets df_op4 Q90,D
+9.97854191692892,He also complains of numbness and tingling pain in his extremities that has been persistent during this time.,89,MedBullets df_op4 Q90,D
+9.2659409773574,A cardiopulmonary exam is within normal limits.,89,MedBullets df_op4 Q90,D
+1.4833579595805104,The patient has a medical history of diabetes and hypertension.,89,MedBullets df_op4 Q90,D

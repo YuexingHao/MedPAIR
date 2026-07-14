@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+17.165174123856065,A 44-year-old man presents to the emergency department with palpitations.,270,MedBullets df_op4 Q271,A
+15.361475522689075,"His temperature is 98.7°F (37.1°C), blood pressure is 120/72 mmHg, pulse is 183/min, respirations are 25/min, and oxygen saturation is 99% on room air.",270,MedBullets df_op4 Q271,A
+0.9135241553359067,An ECG is performed as seen in Figure A.,270,MedBullets df_op4 Q271,A
+-0.0,"During the exam, the patient states that he feels lightheaded and appears occasionally somnolent.",270,MedBullets df_op4 Q271,A
+0.0,Physical exam reveals a somnolent and uncomfortable man.,270,MedBullets df_op4 Q271,A
+0.0,His pulse is rapid and regular.,270,MedBullets df_op4 Q271,A
+0.0,He says that he feels lightheaded and can’t walk.,270,MedBullets df_op4 Q271,A
+0.0,"Today, his symptoms have been persistent despite taking his medications.",270,MedBullets df_op4 Q271,A
+0.0,He also has hypertension but does not take any medications.,270,MedBullets df_op4 Q271,A
+0.0,He has a history of anxiety managed with fluoxetine and lorazepam.,270,MedBullets df_op4 Q271,A

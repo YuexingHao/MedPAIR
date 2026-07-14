@@ -1,0 +1,21 @@
+Sentence_x,sentence_ID,Original_Position,Score,Source,row_index,QA_ID,Extracted_Answer,Sentence_y,sentence_ID_x,sentence_ID_y
+A 27-year-old woman presents to her primary care physician with new hair growth on her face and lower abdomen over the last month.,0,2.0,62.28853737331049,A 27-year-old woman presents to her primary care physician with new hair growth on her face and lower abdomen over the last month.,82.0,MedBullets df_op4 Q83,A,Her last menstrual period was over 3 months ago and her periods have been irregular over the last year.,2.0,2.0
+She has started to develop pimples on her face and back over the last several months.,1,16.0,0.0,She has started to develop pimples on her face and back over the last several months.,82.0,MedBullets df_op4 Q83,A,,,
+Her last menstrual period was over 3 months ago and her periods have been irregular over the last year.,2,15.0,0.0,Her last menstrual period was over 3 months ago and her periods have been irregular over the last year.,82.0,MedBullets df_op4 Q83,A,,,
+She has been gaining weight recently.,3,11.0,0.928669657865988,She has been gaining weight recently.,82.0,MedBullets df_op4 Q83,A,,,
+The patient has a medical history of obesity and prediabetes with a hemoglobin A1c of 6.0% last year.,4,5.0,29.98614863420321,The patient has a medical history of obesity and prediabetes with a hemoglobin A1c of 6.0% last year.,82.0,MedBullets df_op4 Q83,A,"Her temperature is 98.5°F (36.9°C), pulse is 80/min, blood pressure is 139/88 mmHg, and respirations are 13/min.",5.0,5.0
+"Her temperature is 98.5°F (36.9°C), pulse is 80/min, blood pressure is 139/88 mmHg, and respirations are 13/min.",5,3.0,57.1696794802936,"Her temperature is 98.5°F (36.9°C), pulse is 80/min, blood pressure is 139/88 mmHg, and respirations are 13/min.",82.0,MedBullets df_op4 Q83,A,She has been gaining weight recently.,3.0,3.0
+"Cardiopulmonary exam is unremarkable, and the patient’s abdomen appears slightly distended but exhibits no tenderness to palpation.",6,14.0,-0.0,"Cardiopulmonary exam is unremarkable, and the patient’s abdomen appears slightly distended but exhibits no tenderness to palpation.",82.0,MedBullets df_op4 Q83,A,,,
+"The patient’s face has coarse stubble along the jawline and on the upper lip, and there is similar hair along the midline of her lower abdomen.",7,1.0,69.74959582306586,"The patient’s face has coarse stubble along the jawline and on the upper lip, and there is similar hair along the midline of her lower abdomen.",82.0,MedBullets df_op4 Q83,A,She has started to develop pimples on her face and back over the last several months.,1.0,1.0
+"A pelvic exam reveals mild clitoromegaly, a normal anteverted uterus, and a large left adnexal mass that is mildly tender.",8,0.0,100.34227903344949,"A pelvic exam reveals mild clitoromegaly, a normal anteverted uterus, and a large left adnexal mass that is mildly tender.",82.0,MedBullets df_op4 Q83,A,A 27-year-old woman presents to her primary care physician with new hair growth on her face and lower abdomen over the last month.,0.0,0.0
+"Her laboratory test results are shown below:
+
+Hemoglobin: 13.9 g/dL
+Leukocyte count: 8,000 cells/mm^3
+Platelet count: 142,000/mm^3
+
+DHEAS: 73 ug/dL (Normal: 145-395 ug/dL)
+Testosterone: 256 ng/dL
+17-hydroxyprogesterone: 214 ng/dL (Normal: < 200 ng/dL)
+
+Ultrasound findings are shown in Figure A.",9,,,,,,,,,

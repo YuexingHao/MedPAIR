@@ -1,0 +1,6 @@
+Model,Data Source,Spurious Rate (%),Spurious Count,Total Original Correct
+70B_prediction,Overall,70.6618962432916,790,1118
+70B_prediction,jama,67.70428015564202,348,514
+70B_prediction,medbullets,68.55670103092784,133,194
+70B_prediction,medxpert,77.72727272727272,171,220
+70B_prediction,mmlu,72.63157894736842,138,190

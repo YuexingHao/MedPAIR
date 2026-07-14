@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+61.031517803668976,A 55-year-old man presents to the emergency department after feeling lightheaded then fainting while he was carrying boxes upstairs.,254,MedBullets_df_op4_Q255,D
+42.29023333209174,He has a history of hypertension but does not take medications routinely.,254,MedBullets_df_op4_Q255,D
+11.897494741255143,He smokes cigarettes occasionally.,254,MedBullets_df_op4_Q255,D
+0.0,Physical exam is unremarkable and the patient walks with a stable gait and no focal weakness.,254,MedBullets_df_op4_Q255,D

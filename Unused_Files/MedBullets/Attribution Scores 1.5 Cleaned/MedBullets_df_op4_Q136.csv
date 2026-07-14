@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.38070389084928,"She has also noticed increasing difficulty combing her hair, standing from a seated position, and experiences muscle aches.",135,MedBullets df_op4 Q136,C
+52.603513764634044,She has 3/5 strength to shoulder abduction and hip flexion bilaterally.,135,MedBullets df_op4 Q136,C
+46.189394472045855,Her medical history is significant for hypertension treated with lifestyle modification and gastroesophageal reflux disease (GERD).,135,MedBullets df_op4 Q136,C
+42.92111792806912,Her strength is 5/5 to wrist extension and ankle plantar flexion.,135,MedBullets df_op4 Q136,C
+27.621222776927706,She noticed the weakness approximately 3 months ago.,135,MedBullets df_op4 Q136,C
+15.460932732994673,A 53-year-old African-American woman presents to her primary care doctor with increasing difficulty climbing the stairs.,135,MedBullets df_op4 Q136,C
+12.529558992598696,No skin rashes are noted.,135,MedBullets df_op4 Q136,C
+6.525532208383083,It has gotten progressively worse since that time.,135,MedBullets df_op4 Q136,C
+1.685272061618161,"Her temperature is 98.6°F (37.0°C), blood pressure is 130/65 mmHg, pulse is 80/min, and respirations are 16/min.",135,MedBullets df_op4 Q136,C

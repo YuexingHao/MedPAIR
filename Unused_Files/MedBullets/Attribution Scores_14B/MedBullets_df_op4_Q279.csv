@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+65.32175204270737,"The patient is a software engineer and enjoys hiking, going to nightclubs, and dancing.",278,MedBullets df_op4 Q279,D
+54.19327977219639,"His temperature is 98.1°F (36.7°C), blood pressure is 112/83 mmHg, pulse is 83/min, respirations are 13/min, and oxygen saturation is 98% on room air.",278,MedBullets df_op4 Q279,D
+43.53697152766291,"Physical exam reveals a small, superficial fissure that is lateral to the anus and lateral to the midline.",278,MedBullets df_op4 Q279,D
+21.984921926243363,He has to strain to have bowel movements and has trouble defecating secondary to pain.,278,MedBullets df_op4 Q279,D
+11.766929200551955,A 32-year-old man presents to the emergency department with pain upon defecation.,278,MedBullets df_op4 Q279,D
+0.6126954630017281,Sometimes he notes blood on the toilet paper.,278,MedBullets df_op4 Q279,D
+0.0,He is generally healthy and does not smoke.,278,MedBullets df_op4 Q279,D
+0.0,His symptoms started a few weeks ago but have been worsening.,278,MedBullets df_op4 Q279,D

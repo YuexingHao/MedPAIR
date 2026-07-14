@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+100.34227903344949,"A pelvic exam reveals mild clitoromegaly, a normal anteverted uterus, and a large left adnexal mass that is mildly tender.",82,MedBullets df_op4 Q83,A
+69.74959582306586,"The patient’s face has coarse stubble along the jawline and on the upper lip, and there is similar hair along the midline of her lower abdomen.",82,MedBullets df_op4 Q83,A
+62.28853737331049,A 27-year-old woman presents to her primary care physician with new hair growth on her face and lower abdomen over the last month.,82,MedBullets df_op4 Q83,A
+57.1696794802936,"Her temperature is 98.5°F (36.9°C), pulse is 80/min, blood pressure is 139/88 mmHg, and respirations are 13/min.",82,MedBullets df_op4 Q83,A
+39.34001193456195,DHEAS: 73 ug/dL (Normal: 145-395 ug/dL),82,MedBullets df_op4 Q83,A
+29.98614863420321,The patient has a medical history of obesity and prediabetes with a hemoglobin A1c of 6.0% last year.,82,MedBullets df_op4 Q83,A
+14.87202288582921,17-hydroxyprogesterone: 214 ng/dL (Normal: < 200 ng/dL),82,MedBullets df_op4 Q83,A
+13.317268330011188,"Platelet count: 142,000/mm^3",82,MedBullets df_op4 Q83,A
+12.326600252808127,"Leukocyte count: 8,000 cells/mm^3",82,MedBullets df_op4 Q83,A
+5.1409158781170845,Testosterone: 256 ng/dL,82,MedBullets df_op4 Q83,A
+5.117553183424008,Hemoglobin: 13.9 g/dL,82,MedBullets df_op4 Q83,A
+0.928669657865988,She has been gaining weight recently.,82,MedBullets df_op4 Q83,A

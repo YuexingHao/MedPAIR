@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.85770124248256,The patient surpassed his birth weight by 2 weeks of age but has fallen 1 standard deviation on the growth curve since then.,136,MedBullets df_op4 Q137,C
+32.91996773418029,His face and back have the physical exam finding seen in Figure A.,136,MedBullets df_op4 Q137,C
+13.945173341444196,The patient does not seem to be in any distress when he passes these bloody stools.,136,MedBullets df_op4 Q137,C
+9.206419587135315,"One week ago, he began vomiting and regurgitating breastmilk through his nose after most feedings.",136,MedBullets df_op4 Q137,C
+2.7488042556751044,"His temperature is 98.6°F (37°C), blood pressure is 78/47 mmHg, pulse is 115/min, and respirations are 28/min.",136,MedBullets df_op4 Q137,C
+0.18909427482762625,His stools over the past week have also become blood-streaked.,136,MedBullets df_op4 Q137,C
+0.0,A digital rectal exam reveals a small amount of blood in the rectal vault.,136,MedBullets df_op4 Q137,C
+0.0,"The patient’s abdomen is soft, non-tender, and non-distended.",136,MedBullets df_op4 Q137,C
+0.0,"On physical exam, the patient is well-appearing.",136,MedBullets df_op4 Q137,C
+0.0,The patient is breastfed and typically feeds for 20-30 minutes every 2 hours.,136,MedBullets df_op4 Q137,C
+0.0,A 4-week-old boy presents to the pediatrician for vomiting.,136,MedBullets df_op4 Q137,C

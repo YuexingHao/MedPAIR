@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+91.10941434668476,"He last received a diphtheria, tetanus, and acellular pertussis (DTaP) vaccine 14 years ago at age 5, the second dose of a meningococcal vaccine 3 years ago, and an influenza vaccine 2 months ago.",235,MedBullets df_op4 Q236,D
+32.140247009694576,He was born in the United States but moved to El Salvador at age 11 and has only recently moved back to the United States in the past year.,235,MedBullets df_op4 Q236,D
+27.41255707828085,"He is asymptomatic and has no acute complaints, has no medical problems, and takes no medications.",235,MedBullets df_op4 Q236,D
+16.440440090293507,He was up to date on his vaccinations prior to his move to El Salvador.,235,MedBullets df_op4 Q236,D
+10.110912610758097,A 19-year-old man presents to his primary care physician.,235,MedBullets df_op4 Q236,D
+0.0,"The patient’s temperature is 98.2°F (36.8°C), blood pressure is 120/76 mmHg, pulse is 82/min, and respirations are 16/min.",235,MedBullets df_op4 Q236,D
+0.0,There are no rashes noted on physical exam.,235,MedBullets df_op4 Q236,D

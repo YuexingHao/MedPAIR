@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.08199029319688,"The patient has a medical history of poorly managed diabetes, constipation, anxiety, dyslipidemia, and hypertension.",50,MedBullets df_op4 Q51,A
+44.75639536604285,He feels that his symptoms are exacerbated with large fatty meals and when he drinks alcohol.,50,MedBullets df_op4 Q51,A
+37.46313660224727,"Abdominal exam reveals an obese, tympanitic and distended abdomen with a 3 cm scar in the right lower quadrant.",50,MedBullets df_op4 Q51,A
+35.00681055210731,"His temperature is 99.5°F (37.5°C), blood pressure is 197/128 mmHg, pulse is 100/min, respirations are 17/min, and oxygen saturation is 95% on room air.",50,MedBullets df_op4 Q51,A
+17.69539655296681,Physical exam reveals a systolic murmur heard loudest along the left upper sternal border.,50,MedBullets df_op4 Q51,A
+15.240354899348945,His wife recently returned from a cruise with symptoms of vomiting and diarrhea.,50,MedBullets df_op4 Q51,A
+0.0,Vascular exam reveals weak pulses in the lower extremities.,50,MedBullets df_op4 Q51,A
+0.0,He decided to come in when his symptoms worsened.,50,MedBullets df_op4 Q51,A
+0.0,A 55-year-old man presents to the emergency department with nausea and vomiting for the past week.,50,MedBullets df_op4 Q51,A

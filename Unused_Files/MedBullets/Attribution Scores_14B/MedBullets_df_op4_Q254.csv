@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+28.189804004133435,"For 2 months, she has experienced intermittent palpitations along with menstrual irregularity and hair loss.",253,MedBullets df_op4 Q254,A
+27.59936360140344,"The patient is diaphoretic with tremulous hands, demonstrates thyromegaly, and protrusion of her eyes is noted.",253,MedBullets df_op4 Q254,A
+23.11623777449131,"At home, the air conditioner is at its coldest setting, but the patient still feels overheated.",253,MedBullets df_op4 Q254,A
+14.65738736701708,"Her temperature is 99.5°F (37.5°C), blood pressure is 135/90 mmHg, pulse is 120/min, and respirations are 22/min.",253,MedBullets df_op4 Q254,A
+6.547786395938508,She is given atenolol in the emergency department with improvement of her palpitations and is instructed to follow up with her primary doctor for further management.,253,MedBullets df_op4 Q254,A
+0.0,A 30-year-old woman presents to the emergency department for palpitations.,253,MedBullets df_op4 Q254,A

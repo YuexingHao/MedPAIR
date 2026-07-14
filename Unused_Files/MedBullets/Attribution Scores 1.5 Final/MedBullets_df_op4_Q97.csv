@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+80.30793286738299,"His temperature is 99.5°F (37.7°C), blood pressure is 140/60 mmHg, pulse is 97/min, and respirations are 13/min.",96,MedBullets_df_op4_Q97,C
+73.41851615268568,"A 69-year-old man presents to clinic due to shortness of breath, worsening pain in his right shoulder, and episodes of hemoptysis.",96,MedBullets_df_op4_Q97,C
+38.1575130969286,He has a history of coronary artery disease and underwent an uncomplicated coronary angioplasty with stent placement 2 years ago.,96,MedBullets_df_op4_Q97,C
+14.907128588134631,He has also lost 18 pounds.,96,MedBullets_df_op4_Q97,C
+4.807764653120913,He has not smoke or drank alcohol in over 7 years.,96,MedBullets_df_op4_Q97,C
+3.1863036027771994,He routinely travels both domestically and internationally as a senior shipyard worker and has a 30-pack-year smoking history.,96,MedBullets_df_op4_Q97,C
+0.0,He used to drink 4 cocktails a week.,96,MedBullets_df_op4_Q97,C
+-0.0,His chest imaging is shown in Figure A.,96,MedBullets_df_op4_Q97,C
+0.0,There is no pain with active shoulder rotation.,96,MedBullets_df_op4_Q97,C

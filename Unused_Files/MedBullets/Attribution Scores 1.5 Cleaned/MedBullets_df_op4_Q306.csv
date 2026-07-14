@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+88.7416814008187,"On pelvic examination, the vagina is dry and atrophic with a 2-cm tender, palpable anterior vaginal mass.",305,MedBullets df_op4 Q306,A
+81.87500029096795,"Her temperature is 99.5°F (37.5°C), blood pressure is 120/80 mmHg, pulse is 92/min, and respirations are 15/min.",305,MedBullets df_op4 Q306,A
+68.06997585133986,"She has had frequent, involuntary loss of urine over the last 2 years but presented today because of 10 days of dysuria.",305,MedBullets df_op4 Q306,A
+42.86091270138825,The mass does not change with Valsava maneuver.,305,MedBullets df_op4 Q306,A
+39.16230856595381,A 52-year-old G3P3 woman presents to clinic with a 2-year history of urinary incontinence.,305,MedBullets df_op4 Q306,A
+37.6433355435729,She has been treated for 2 urinary tract infections over the past 6 months.,305,MedBullets df_op4 Q306,A
+25.50842961323813,Her postvoid residual volume is 60 mL.,305,MedBullets df_op4 Q306,A
+23.063408664667268,She has no chronic medical illnesses and no surgical history.,305,MedBullets df_op4 Q306,A
+22.8639223781768,She does not endorse any loss of urine with coughing or laughter.,305,MedBullets df_op4 Q306,A

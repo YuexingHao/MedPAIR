@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.38973966937346,"She has a history of obesity, hypertension, and depression for which she takes losartan and sertraline.",227,MedBullets df_op4 Q228,C
+40.719052843452836,"Physical exam is unremarkable, including no costovertebral or suprapubic tenderness to palpation.",227,MedBullets df_op4 Q228,C
+30.603669699246897,A 47-year-old woman presents to the clinic with 3 weeks of increased thirst and urination.,227,MedBullets df_op4 Q228,C
+29.0666963848095,"Her temperature is 99.5°F (37.5°C), blood pressure is 148/90 mmHg, pulse is 84/min, and respirations are 15/min.",227,MedBullets df_op4 Q228,C
+7.0714471489191055,She has smoked 1 pack of cigarettes per day for 30 years.,227,MedBullets df_op4 Q228,C

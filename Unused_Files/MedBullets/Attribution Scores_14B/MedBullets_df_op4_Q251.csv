@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+13.19576033949852,He has fainted several times during basketball practices.,250,MedBullets df_op4 Q251,C
+5.492538665389223,"His temperature is 97.6°F (36.4°C), blood pressure is 104/54 mmHg, pulse is 100/min, respirations are 19/min, and oxygen saturation is 98% on room air.",250,MedBullets df_op4 Q251,C
+0.0,An echocardiogram is ordered and pending.,250,MedBullets df_op4 Q251,C
+0.0,Physical exam reveals a well-appearing and playful boy.,250,MedBullets df_op4 Q251,C
+0.0,An ECG is performed as seen in Figure A.,250,MedBullets df_op4 Q251,C
+0.0,He is otherwise healthy and has met all developmental milestones.,250,MedBullets df_op4 Q251,C
+0.0,He does not currently take any medications.,250,MedBullets df_op4 Q251,C
+0.0,He is usually unconscious for less than a minute.,250,MedBullets df_op4 Q251,C
+0.0,He did not sustain any injuries or have any prodromes prior to these episodes.,250,MedBullets df_op4 Q251,C
+0.0,He just switched from being home-schooled to public school and joined the basketball team.,250,MedBullets df_op4 Q251,C
+0.0,A 7-year-old adopted boy presents to the emergency department after fainting.,250,MedBullets df_op4 Q251,C

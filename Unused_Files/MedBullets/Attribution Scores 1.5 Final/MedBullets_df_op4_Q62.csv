@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.54789733886719,A 14-year-old boy presents to his pediatrician with a 2-month history of intermittent arm and leg spasms.,61,MedBullets_df_op4_Q62,A
+60.126513087533596,"His temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",61,MedBullets_df_op4_Q62,A
+30.77869796906906,Physical exam reveals a healthy child.,61,MedBullets_df_op4_Q62,A
+26.323025663553118,He has also noticed that they occur when he stays up late to cram last minute for exams.,61,MedBullets_df_op4_Q62,A
+10.308857221076092,He recently started experimenting with alcohol and marijuana that one of his friends has been stealing from their parents.,61,MedBullets_df_op4_Q62,A
+7.848872045589157,"He says that the spasms usually occur after he wakes up as he is getting ready for school, and consist of disorganized jerking motions that stop after a few minutes.",61,MedBullets_df_op4_Q62,A

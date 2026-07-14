@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+44.860150824916055,A 59-year-old woman comes to the clinic due to a 3-month history of “always feeling the urge to urinate” as well as vaginal pruritis.,214,MedBullets df_op4 Q215,C
+39.41169688034946,"On physical examination, the vulvar skin is pale and atrophic with reduced elasticity and multiple areas of petechiae.",214,MedBullets df_op4 Q215,C
+36.72026678404813,She has a history of chlamydial infection in her 20's and has had 3 urinary tract infections over the past year.,214,MedBullets df_op4 Q215,C
+33.37186125096951,The patient has not been sexually active with her husband due to pain with intercourse.,214,MedBullets df_op4 Q215,C
+31.87288628396668,She states that she has had involuntary loss of urine about 4 times each day over the past 3 months.,214,MedBullets df_op4 Q215,C
+23.94291504141214,"Pelvic ultrasound reveals a small, retroverted uterus.",214,MedBullets df_op4 Q215,C
+23.19310879468774,The vaginal mucosa also has a loss of rugae and several areas of friable irritation.,214,MedBullets df_op4 Q215,C
+17.43134017288685,It is not associated with coughing or sneezing.,214,MedBullets df_op4 Q215,C
+6.20955376456029,Menopause occurred at age 52.,214,MedBullets df_op4 Q215,C
+0.0,Urinalysis is normal and fecal occult blood test is negative.,214,MedBullets df_op4 Q215,C
+0.0,There is minimal clear vaginal discharge.,214,MedBullets df_op4 Q215,C
+0.0,"Her temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",214,MedBullets df_op4 Q215,C
+-0.0,She has no other significant medical history and does not take any medications.,214,MedBullets df_op4 Q215,C

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.02111031548561,"His temperature is 103°F (39.4°C), blood pressure is 92/59 mmHg, pulse is 110/min, respirations are 20/min, and oxygen saturation is 96% on room air.",23,MedBullets_df_op4_Q24,D
+70.64788212197371,The patient admits to using heroin and cocaine and drinking 5-8 alcoholic drinks per day.,23,MedBullets_df_op4_Q24,D
+31.801448059059197,Dermatologic exam reveals scarring in the antecubital fossa.,23,MedBullets_df_op4_Q24,D
+29.85517025096702,The patient has felt unwell for the past week and has felt subjectively febrile.,23,MedBullets_df_op4_Q24,D
+7.047964904850974,A 37-year-old man presents to the emergency department for a persistent fever.,23,MedBullets_df_op4_Q24,D
+0.7478004235229884,He is not currently taking any medications.,23,MedBullets_df_op4_Q24,D
+0.0,The patient has a medical history of a suicide attempt and alcohol abuse.,23,MedBullets_df_op4_Q24,D
+-0.0,IV fluids are administered and the blood pressure is subsequently 120/70 mmHg.,23,MedBullets_df_op4_Q24,D
+0.0,Cardiopulmonary exam is notable for a systolic murmur heard best along the left sternal border.,23,MedBullets_df_op4_Q24,D

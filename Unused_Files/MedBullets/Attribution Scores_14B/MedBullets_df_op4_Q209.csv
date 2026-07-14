@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+34.063758850097656,She also has abdominal pain and trouble focusing that has been worsening and has lost 5 pounds recently.,208,MedBullets df_op4 Q209,
+6.123629834924319,Her gastroesophageal reflux disease (GERD) has been poorly controlled recently.,208,MedBullets df_op4 Q209,
+3.9234381708522643,"Her temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",208,MedBullets df_op4 Q209,
+0.051401138368611696,The patient is a non-smoker and has a history of GERD for which she takes antacids.,208,MedBullets df_op4 Q209,
+0.0,A physical exam is within normal limits.,208,MedBullets df_op4 Q209,
+0.0,She states she has had a cough for the past week.,208,MedBullets df_op4 Q209,
+0.0,A 45-year-old African American woman presents to her primary care physician for not feeling well.,208,MedBullets df_op4 Q209,

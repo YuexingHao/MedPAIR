@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+117.4270109665528,"She attributes her palpitations to recently drinking more caffeine, but would like to obtain an electrocardiogram since her symptoms are worrisome and affecting her ability to concentrate on her career as a fitness instructor.",295,MedBullets df_op4 Q296,
+27.053851392619105,Her electrocardiogram is shown in Figure A.,295,MedBullets df_op4 Q296,
+0.0,"Her temperature is 36.9°C (98.4°F), blood pressure is 116/76 mmHg, pulse is 55/min, respirations are 12/min, and oxygen saturation is 98% on room air.",295,MedBullets df_op4 Q296,
+0.0,"She denies drinking alcohol, smoking cigarettes, or using recreational drugs.",295,MedBullets df_op4 Q296,
+0.0,Her past medical history is unremarkable and she is not currently taking any medications.,295,MedBullets df_op4 Q296,
+0.0,"She has generally been feeling well, but notes feeling intermittent palpitations over the past few months.",295,MedBullets df_op4 Q296,
+0.0,A 24-year-old woman presents to clinic for a routine annual exam.,295,MedBullets df_op4 Q296,

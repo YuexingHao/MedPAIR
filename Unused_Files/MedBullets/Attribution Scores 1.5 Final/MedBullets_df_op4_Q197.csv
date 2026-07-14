@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.19987110666003,"Her medical history is significant for hyperlipidemia, mild intermittent asthma, and type 2 diabetes mellitus.",196,MedBullets_df_op4_Q197,A
+39.22818863753954,Thick exudate is draining from an opening in the skin.,196,MedBullets_df_op4_Q197,A
+37.7666424250612,She has never smoked and has 10-15 alcoholic drinks per week.,196,MedBullets_df_op4_Q197,A
+35.82887927545945,A 38-year-old woman presents to the emergency department with difficulty eating.,196,MedBullets_df_op4_Q197,A
+34.6499916985631,"Two months ago, the patient had a root canal on a left molar.",196,MedBullets_df_op4_Q197,A
+29.04645043349989,"Over the past week, she has had increasing difficulty chewing her food and progressive pain in the left side of her jaw.",196,MedBullets_df_op4_Q197,A
+-0.0,"On physical exam, there is a bluish hue to the skin on the lower left side of the patient’s face.",196,MedBullets_df_op4_Q197,A
+0.0,A 3x4 cm non-tender mass can be palpated inferior to the angle of the left mandible.,196,MedBullets_df_op4_Q197,A
+0.0,"This morning, she was unable to close her mouth for several minutes after taking a bite of her breakfast.",196,MedBullets_df_op4_Q197,A
+0.0,The gram stain of the exudate can be seen in Figure A.,196,MedBullets_df_op4_Q197,A
+0.0,"Her temperature is 100.8°F (38.2°C), blood pressure is 133/74 mmHg, pulse is 105/min, and respirations are 14/min.",196,MedBullets_df_op4_Q197,A

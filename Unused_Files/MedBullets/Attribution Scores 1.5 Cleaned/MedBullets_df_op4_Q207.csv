@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.68193313929208,"Her temperature is 98.6°F (37°C), blood pressure is 112/74 mmHg, pulse is 63/min, and respirations are 11/min.",206,MedBullets df_op4 Q207,C
+58.47838780095358,"The only other concern that the patient's mother has is that, upon awakening, she notices that sometimes the patient's arm will jerk back and forth.",206,MedBullets df_op4 Q207,C
+49.88010284295006,"The patient's teacher describes her as occasionally ""daydreaming"" for periods of time during where the patient does not respond or participate in school activities.",206,MedBullets df_op4 Q207,C
+48.04454538226128,"Nothing has helped the patient change her behavior, including parent-teacher conferences or punishment.",206,MedBullets df_op4 Q207,C
+46.970865834984174,A 16-year-old girl who recently immigrated to the United States from Bolivia presents to her primary care physician with a chief complaint of inattentiveness in school.,206,MedBullets df_op4 Q207,C
+13.8173238750208,She is not sexually active and does not intend to become pregnant in the near future.,206,MedBullets df_op4 Q207,C
+10.684801032962149,The patient states she is not doing this intentionally.,206,MedBullets df_op4 Q207,C
+9.722779213854846,The patient has an unknown medical history and is currently not on any medications.,206,MedBullets df_op4 Q207,C
+1.0049243787057347,"On physical exam, you note a young, healthy girl whose neurological exam is within normal limits.",206,MedBullets df_op4 Q207,C

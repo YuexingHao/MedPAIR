@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+91.85722295451399,He was normal until around 3 months ago when he started forgetting important meetings and misplacing items around the house.,49,MedBullets_df_op4_Q50,A
+86.64570808410645,"During the examination, the patient’s cell phone rings unexpectedly causing the patient to suddenly jerk his arms and legs.",49,MedBullets_df_op4_Q50,A
+74.41077503168378,Further diagnostic investigation is performed which reveals an elevated 14-3-3 protein on cerebrospinal fluid analysis.,49,MedBullets_df_op4_Q50,A
+69.57080446275057,"One month ago, the patient was fired from his job as a software engineer after attempting to grope a coworker.",49,MedBullets_df_op4_Q50,A
+49.58047347318865,The patient expresses frustration that he is no longer able to concentrate enough to enjoy his hobby of solving puzzles.,49,MedBullets_df_op4_Q50,A
+34.40319221354839,A 57-year-old man is brought to a neurologist by his wife for abnormal behavior.,49,MedBullets_df_op4_Q50,A
+17.855207067296476,He has no family history of neurologic disease.,49,MedBullets_df_op4_Q50,A
+9.765182907479167,"His temperature is 98.6°F (37.0°C), blood pressure is 120/75 mmHg, pulse is 70/min, and respirations are 16/min.",49,MedBullets_df_op4_Q50,A
+0.0,His medical history is significant for gastroesophageal reflux disease for which he takes omeprazole.,49,MedBullets_df_op4_Q50,A

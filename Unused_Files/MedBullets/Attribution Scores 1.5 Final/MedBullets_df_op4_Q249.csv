@@ -1,0 +1,3 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.78301664853727,"He has a regular rate and rhythm, normal S1 and S2, and no murmurs, rubs, or gallops.",248,MedBullets_df_op4_Q249,A
+68.90253545002975,His electrocardiogram is shown in Figure A. Troponin I level is < 0.017 ng/mL.,248,MedBullets_df_op4_Q249,A

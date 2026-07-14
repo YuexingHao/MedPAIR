@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.22773273853179,"She is noted to have papilledema on fundoscopy, but physical exam is otherwise normal.",73,MedBullets_df_op4_Q74,A
+58.28948664665222,Her medical history is significant for type 2 diabetes mellitus and hypertension for which she takes metformin and losartan.,73,MedBullets_df_op4_Q74,A
+56.85001832877025,"Her temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",73,MedBullets_df_op4_Q74,A
+50.24001974003651,"The headaches are constant and dull, and they typically worsen when she sneezes or laughs.",73,MedBullets_df_op4_Q74,A
+42.558957806713764,She has been having worsening headaches and intermittent nausea over the past 5 months.,73,MedBullets_df_op4_Q74,A
+41.73424322880976,A 66-year-old woman presents to the emergency room after experiencing a tonic-clonic seizure.,73,MedBullets_df_op4_Q74,A
+29.37783812131107,"Recently, she has become increasingly nauseous and has vomited twice in the past 10 days.",73,MedBullets_df_op4_Q74,A

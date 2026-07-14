@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+60.932984450074535,"The patient’s temperature is 98.4°F (36.9°C), blood pressure is 96/52 mmHg, pulse is 102/min, and respirations are 25/min.",90,MedBullets df_op4 Q91,D
+59.06959430025533,Fundoscopic exam shows the finding in Figure A.,90,MedBullets df_op4 Q91,D
+53.704019499080665,The parents have no concerns at this time and note he is starting to run around and speak in 3-word sentences.,90,MedBullets df_op4 Q91,D
+42.0917491708177,"His pediatrician continues the ocular examination and further notes that the pupils are equal, round, and reactive, extraocular movements are full, and ocular alignment appears normal.",90,MedBullets df_op4 Q91,D
+39.9033764898777,He has no remarkable medical history and his mother had an uncomplicated full-term pregnancy and delivery.,90,MedBullets df_op4 Q91,D
+16.743548709152396,"He is in the 55th percentile for height and 62nd percentile for weight, which is consistent with his documented growth curves.",90,MedBullets df_op4 Q91,D
+9.763881132098273,A 2-year-old boy is brought to the pediatrician’s office for a well-child visit.,90,MedBullets df_op4 Q91,D
+0.0,He is appropriately meeting the developmental milestones for his age.,90,MedBullets df_op4 Q91,D

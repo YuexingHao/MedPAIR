@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.367926671358056,"Her temperature is 99.5°F (37.5°C), blood pressure is 148/90 mmHg, pulse is 84/min, and respirations are 15/min.",227,MedBullets df_op4 Q228,A
+46.77464635034583,"She has a history of obesity, hypertension, and depression for which she takes losartan and sertraline.",227,MedBullets df_op4 Q228,A
+0.1582836387440396,"Physical exam is unremarkable, including no costovertebral or suprapubic tenderness to palpation.",227,MedBullets df_op4 Q228,A

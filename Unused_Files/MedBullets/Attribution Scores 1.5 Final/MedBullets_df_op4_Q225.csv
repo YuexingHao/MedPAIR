@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+84.47887255625132,"He has a history of hypertension, major depressive disorder, Raynaud disease, and chronic obstructive pulmonary disease (COPD) on 2 liters of oxygen at home.",224,MedBullets_df_op4_Q225,A
+53.75381428057206,"His temperature is 98.9° F (37.2° C), blood pressure is 130/85 mmHg, pulse is 125/min, and respirations are 16/min.",224,MedBullets_df_op4_Q225,A
+26.90667290009569,He drinks 4 beers a day and has smoked 1 pack of cigarettes a day for 40 years.,224,MedBullets_df_op4_Q225,A
+-0.0,Physical exam is notable for an irregular pulse and scattered end-expiratory wheezes.,224,MedBullets_df_op4_Q225,A
+0.0,"Current medications include lisinopril, inhaled umeclidinium-vilanterol, and as-needed albuterol.",224,MedBullets_df_op4_Q225,A

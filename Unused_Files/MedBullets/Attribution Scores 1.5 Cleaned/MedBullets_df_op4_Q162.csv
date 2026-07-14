@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.52252108785661,A 2-day-old boy has an episode of vomiting in the hospital nursery.,161,MedBullets df_op4 Q162,
+42.17968650577338,"On physical exam, the patient has upslanting palpebral fissures, epicanthal folds, and a single transverse palmar crease.",161,MedBullets df_op4 Q162,
+34.66485473094389,He was born at 37 weeks of gestation to a 38-year-old G3P3 woman.,161,MedBullets df_op4 Q162,
+29.376981139821726,Digital rectal exam evacuates a small amount of stool and flatulence.,161,MedBullets df_op4 Q162,
+26.207747533917427,The patient has urinated several times since he was born but has not passed any stool.,161,MedBullets df_op4 Q162,
+1.788605850808845,"His abdomen is non-tender, firm, and distended.",161,MedBullets df_op4 Q162,

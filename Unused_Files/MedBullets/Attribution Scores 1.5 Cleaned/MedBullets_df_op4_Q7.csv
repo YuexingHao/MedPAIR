@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.94108578155038,The patient’s mother endorses decreased appetite during the aforementioned illness which has now returned to baseline.,6,MedBullets df_op4 Q7,C
+72.25253866935863,"On physical exam, the patient has scleral icterus and dark urine staining her diaper.",6,MedBullets df_op4 Q7,C
+71.33426403008345,The patient’s family history is significant for an older brother with glucose-6-phosphate dehydrogenase (G6PD) deficiency and a maternal uncle with cirrhosis secondary to chronic hepatitis B.,6,MedBullets df_op4 Q7,C
+35.94323076134465,The patient was born at 38 weeks gestation via Caesarean section for cervical incompetence.,6,MedBullets df_op4 Q7,C
+15.833397191462952,The child had a runny nose and cough for a few days last week.,6,MedBullets df_op4 Q7,C
+15.137832880020142,The patient’s mother has no complaints.,6,MedBullets df_op4 Q7,C
+12.93530976419733,A 1-month-old girl presents to her pediatrician with her mother.,6,MedBullets df_op4 Q7,C

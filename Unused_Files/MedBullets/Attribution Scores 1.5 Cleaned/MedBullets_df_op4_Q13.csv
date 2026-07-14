@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.8707012165664,He reports these symptoms started intermittently in the middle finger after returning from a golfing trip but has progressed to being nearly constant.,12,MedBullets df_op4 Q13,A
+75.93348521467551,"His neck pain, which radiates down his right arm, is reproduced with axial loading during neck extension with simultaneous rightward rotation and lateral bending.",12,MedBullets df_op4 Q13,A
+71.16641596140624,"His medical problems include hypertension, hyperlipidemia, hypothyroidism, and chronic neck pain for which he takes amlodipine, hydrochlorothiazide, atorvastatin, levothyroxine, and duloxetine.",12,MedBullets df_op4 Q13,A
+66.23165096342564,"The thenar eminence, thumb, and other digits are spared.",12,MedBullets df_op4 Q13,A
+49.444972116871774,Physical exam reveals 4/5 strength in elbow extension and wrist flexion on the right.,12,MedBullets df_op4 Q13,A
+41.78000625071192,An 84-year-old man presents to the physician with numbness and tingling in the right hand for the last 6 months.,12,MedBullets df_op4 Q13,A
+39.32570425493477,The triceps reflex is 1+ on the right compared to 2+ on the left.,12,MedBullets df_op4 Q13,A
+26.830243443365795,He has a 90-pack-year smoking history and quit 10 years ago.,12,MedBullets df_op4 Q13,A
+21.909733460733296,He has 5/5 strength in the remainder of the motor exam on the right upper extremity and on the left upper extremity.,12,MedBullets df_op4 Q13,A
+0.8550233095487317,There is no spasticity.,12,MedBullets df_op4 Q13,A

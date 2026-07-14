@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.34022589897962,The pain is present in the morning but is nearly unbearable by the end of the day.,75,MedBullets_df_op4_Q76,A
+47.593853652477264,"Her current medications include losartan, metformin, insulin, and ibuprofen.",75,MedBullets_df_op4_Q76,A
+42.413386660538656,"There is pain, decreased range of motion, and crepitus on exam of her right hip.",75,MedBullets_df_op4_Q76,A
+38.9864145714682,"On exam, an obese woman in no distress is noted.",75,MedBullets_df_op4_Q76,A
+30.366238756693825,A 69-year-old woman presents with pain in her hip and groin.,75,MedBullets_df_op4_Q76,A
+22.359707878870278,"Her medical history is notable for a treated episode of acute renal failure, diabetes mellitus, obesity, and hypertension.",75,MedBullets_df_op4_Q76,A
+12.261986862859258,The patient recently started taking high doses of vitamin D as she believes that it could help her symptoms.,75,MedBullets_df_op4_Q76,A
+10.524042879120879,The patient points to the areas that cause her pain stating that it is mostly over the groin.,75,MedBullets_df_op4_Q76,A
+0.0,She also recently fell off the treadmill while exercising at the gym.,75,MedBullets_df_op4_Q76,A

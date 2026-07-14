@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+103.94155098345452,"His temperature is 98.3°F (36.8°C), blood pressure is 107/75 mmHg, pulse is 110/min, respirations are 22/min, and oxygen saturation is 99% on room air.",181,MedBullets df_op4 Q182,C
+64.25870943636886,Physical exam reveals a confused man with a garlic odor on his breath and the finding in Figure A. Cardiopulmonary exam reveals a rapid heart rate with no murmurs and clear breath sounds.,181,MedBullets df_op4 Q182,C
+55.43581491995483,He works in a large industrial compound that manufactures semiconductors.,181,MedBullets df_op4 Q182,C
+50.3434033612914,He takes fluoxetine as well as over-the-counter pain medications for a recent muscle strain.,181,MedBullets df_op4 Q182,C
+24.260478554163488,He has become gradually more confused over the past several days.,181,MedBullets df_op4 Q182,C
+20.727332683459647,A 27-year-old man presents to the emergency department with altered mental status.,181,MedBullets df_op4 Q182,C
+20.686245395571333,He exercises regularly and recently has started making his own beer at home.,181,MedBullets df_op4 Q182,C
+19.427499562501907,"His wife also notes he has had diarrhea, nausea and vomiting, and abdominal pain for the past week.",181,MedBullets df_op4 Q182,C
+14.089695199932972,The patient has a history of depression and multiple suicide attempts.,181,MedBullets df_op4 Q182,C

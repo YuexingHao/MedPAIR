@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.435537695884705,"The patient states that he is able to complete his activities of daily living without assistance, but has some weakness of his left upper and lower extremities that began 3 months prior.",220,MedBullets df_op4 Q221,B
+52.894718174346195,"His wife has noticed that he has a worsening ability to organize, plan, and exhibit impulse control over the last month.",220,MedBullets df_op4 Q221,B
+33.421749081499705,A mini-mental status exam reveals he is able to remember 2 out of 3 words after 4 minutes.,220,MedBullets df_op4 Q221,B
+31.468579331632647,A magnetic resonance imaging study of the brain is shown in Figure A.,220,MedBullets df_op4 Q221,B
+27.986371657652256,"A 72-year-old man with a history of type 2 diabetes mellitus, hypertension, and hyperlipidemia presents to his primary care provider for concerns about his cognitive decline.",220,MedBullets df_op4 Q221,B
+19.67636793926052,He has 4/5 left-sided weakness of the upper and lower extremities and associated pronator drift of the left upper extremity.,220,MedBullets df_op4 Q221,B
+12.47796442655012,He is able to appropriately draw a clock.,220,MedBullets df_op4 Q221,B
+3.836408486752091,He needs reminders from his wife about daily tasks to complete.,220,MedBullets df_op4 Q221,B
+0.0,"He enjoys spending time with his spouse, playing cards with his friends, and taking daily walks around his neighborhood.",220,MedBullets df_op4 Q221,B
+-0.0,"Physical exam reveals an elderly man who is oriented to person, place, and time.",220,MedBullets df_op4 Q221,B
+0.0,"His temperature is 98.2°F (36.8°C), blood pressure is 149/87 mmHg, pulse is 87/min, and respirations are 12/min.",220,MedBullets df_op4 Q221,B

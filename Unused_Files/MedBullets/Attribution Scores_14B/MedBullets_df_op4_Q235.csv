@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+51.841223874244285,"Her temperature is 98.2°F (36.8°C), blood pressure is 142/84 mmHg, pulse is 82/min, and respirations are 16/min.",234,MedBullets df_op4 Q235,B
+34.003865783360446,"On physical exam, a solid, immobile neck mass is palpated inferior to the cricoid cartilage to the left of midline.",234,MedBullets df_op4 Q235,B
+12.023877405070522,Serum thyroid-stimulating hormone (TSH) concentration is 7.2 µU/mL.,234,MedBullets df_op4 Q235,B
+11.887774724318437,She is a non-smoker and drinks 3-4 standard drinks per week.,234,MedBullets df_op4 Q235,B
+9.619793709155887,There is no family history of malignancy.,234,MedBullets df_op4 Q235,B
+9.145648765772352,An ultrasound is obtained and shows a 1.2 cm hypoechoic mass with microcalcifications.,234,MedBullets df_op4 Q235,B
+7.891151033346987,"Her medications are lisinopril, amlodipine, atorvastatin, and metformin.",234,MedBullets df_op4 Q235,B
+0.0,"She has a history of hypertension, hyperlipidemia, and diabetes.",234,MedBullets df_op4 Q235,B
+0.0,She has no complaints and is asymptomatic.,234,MedBullets df_op4 Q235,B
+0.0,A 55-year-old woman presents to the primary care clinic for her annual visit.,234,MedBullets df_op4 Q235,B

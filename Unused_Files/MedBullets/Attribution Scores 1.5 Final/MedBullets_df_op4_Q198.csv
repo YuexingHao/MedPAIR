@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+71.3511366697031,"On exam, the patient is an obese girl who is clutching her head with the light in the room turned off.",197,MedBullets_df_op4_Q198,C
+70.24596935758338,"Her temperature is 98.6°F (37°C), blood pressure is 123/74 mmHg, pulse is 85/min, and respirations are 13/min.",197,MedBullets_df_op4_Q198,C
+56.07066838892617,A lumbar puncture reveals an increased opening pressure with a normal glucose level.,197,MedBullets_df_op4_Q198,C
+41.20295834541321,Fundoscopic exam reveals mild bilateral papilledema.,197,MedBullets_df_op4_Q198,C
+33.41646922871195,There has been a recent outbreak of measles at the patient’s school and the patient’s mother has been trying to give her daughter medicine to prevent her from getting sick.,197,MedBullets_df_op4_Q198,C
+29.26314207885352,The patient has had headaches in the past but this is the worst headache of her life.,197,MedBullets_df_op4_Q198,C
+29.199320545504307,The patient states that the pain is mostly on the left side of her head.,197,MedBullets_df_op4_Q198,C
+19.502155314666336,Her neurological exam is within normal limits.,197,MedBullets_df_op4_Q198,C
+18.347612514629592,An MRI of the head is obtained and reveals cerebral edema.,197,MedBullets_df_op4_Q198,C
+18.20183594351166,Her mother fears that her daughter may have caught measles.,197,MedBullets_df_op4_Q198,C
+0.0,A 17-year-old girl presents to the emergency department with a headache.,197,MedBullets_df_op4_Q198,C
+0.0,Her symptoms started yesterday and have been getting progressively worse.,197,MedBullets_df_op4_Q198,C

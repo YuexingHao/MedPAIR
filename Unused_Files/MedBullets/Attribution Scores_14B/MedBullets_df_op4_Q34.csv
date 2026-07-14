@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+65.95920838415623,"Since birth, the patient has had repeated episodes of pain/pressure over her frontal sinuses and a chronic cough that produces mucus.",33,MedBullets df_op4 Q34,C
+43.25050122519682,"Her temperature is 99.5°F (37.5°C), blood pressure is 90/58 mmHg, pulse is 120/min, respirations are 18/min, and oxygen saturation is 94% on room air.",33,MedBullets df_op4 Q34,C
+31.753532508959076,She also recently had magnetic resonance imaging (MRI) of her chest which demonstrated dilation of her airways.,33,MedBullets df_op4 Q34,C
+21.69954391706881,Physical exam is notable for bruises along the patient's shins which the guardians state are from playing soccer.,33,MedBullets df_op4 Q34,C
+20.506482585686463,Her guardians state that the patient has normal bowel movements and has been gaining weight appropriately.,33,MedBullets df_op4 Q34,C
+14.421634444164699,The patient has a history of tricuspid stenosis.,33,MedBullets df_op4 Q34,C
+8.37554928828021,The patient is in the 25th percentile for height and weight which has been constant since birth.,33,MedBullets df_op4 Q34,C
+7.854778265478174,A 10-year-old girl is admitted to the medical floor for a respiratory infection.,33,MedBullets df_op4 Q34,C
+3.322048081693999,The patient lives in a foster home and has been admitted many times.,33,MedBullets df_op4 Q34,C
+0.0,The rest of the exam is deferred because the patient starts crying.,33,MedBullets df_op4 Q34,C
+0.0,She was recently treated with amoxicillin for an infection.,33,MedBullets df_op4 Q34,C

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.15237253904343,"On physical exam, the patient has a flat affect, with moist oral mucosa and nasal polyps.",122,MedBullets_df_op4_Q123,B
+62.13802400680193,Her neck is thick with a posterior cervical fat pad.,122,MedBullets_df_op4_Q123,B
+59.94591508130746,She feels that her co-workers also disrespect her for her weight and constant sweat stains around her armpits and chest.,122,MedBullets_df_op4_Q123,B
+58.65097133859663,"She has been compliant with her medications, which include albuterol, metformin, glyburide, and atorvastatin.",122,MedBullets_df_op4_Q123,B
+55.48127274048068,She has noticed that the sweat stains get itchy and induce a burning sensation unless she showers or changes her shirt.,122,MedBullets_df_op4_Q123,B
+54.85392866622069,A 45-year-old morbidly obese woman with a history of asthma and type 2 diabetes mellitus presents to her primary care physician for advice on weight loss.,122,MedBullets_df_op4_Q123,B
+17.178369151295183,She thinks that her husband is having sex with other women because they have not had sex over the past year.,122,MedBullets_df_op4_Q123,B
+-0.0,"Her temperature is 98.6°F (37°C), blood pressure is 128/85 mmHg, pulse is 91/min, and respirations are 11/min.",122,MedBullets_df_op4_Q123,B

@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+73.36002935222,"His temperature is 99.5°F (37.5°C), pulse is 100/min, blood pressure is 130/90 mmHg, respirations are 18/min, and oxygen saturation is 96% on room air.",163,MedBullets df_op4 Q164,
+33.26906160429501,"On physical exam, he appears fatigued and the cardiovascular exam reveals an additional heart sound after S2.",163,MedBullets df_op4 Q164,
+10.893931215147813,A pulmonary exam is notable for bilateral crackles and an abdominal exam reveals an obese abdomen without pain in any of the quadrants.,163,MedBullets df_op4 Q164,
+0.1777314931749845,He does not see a primary care physician and is not currently taking any medications.,163,MedBullets df_op4 Q164,

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+120.79814640460481,"She typically swims or uses an exercise bike for 45 minutes, 5 days a week, and plays in an office soccer league for 1 hour on 1 day per week.",255,MedBullets_df_op4_Q256,A
+82.03072354197502,A 28-year-old G1P0 woman presents to initiate prenatal care after a positive home pregnancy test.,255,MedBullets_df_op4_Q256,A
+33.11002528307579,Pelvic exam reveals a closed cervix with no adnexal or uterine tenderness.,255,MedBullets_df_op4_Q256,A
+25.37470156629005,The first day of her last menstrual period was 7 weeks prior to presentation.,255,MedBullets_df_op4_Q256,A
+15.326355859159166,Physical exam is notable for a nontender abdomen.,255,MedBullets_df_op4_Q256,A
+10.036179927314087,"A urine pregnancy test is positive, and an intrauterine singleton pregnancy measuring approximately 9 weeks gestational age is visualized on transvaginal ultrasound.",255,MedBullets_df_op4_Q256,A
+7.46698788284653,The patient asks if she should modify her current exercise regimen due to her pregnancy.,255,MedBullets_df_op4_Q256,A

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.38030293216092,His serum lipase is 272 U/L and his creatinine is 1.6 mg/dL.,34,MedBullets df_op4 Q35,C
+43.66579280349662,A physical exam is notable for the finding in Figure A.,34,MedBullets df_op4 Q35,C
+26.008049973655357,The patient is treated appropriately and transferred to the medical floor.,34,MedBullets df_op4 Q35,C
+20.180274937301874,"His temperature is 98.6°F (37.0°C), blood pressure is 177/118 mmHg, pulse is 127/min, respirations are 11/min, and oxygen saturation is 98% on room air.",34,MedBullets df_op4 Q35,C
+20.16360291411985,"On the 2nd day of his hospitalization, the patient has abdominal pain.",34,MedBullets df_op4 Q35,C
+0.0,He is requesting pain medication for his abdominal pain.,34,MedBullets df_op4 Q35,C
+0.0,"An ECG is performed and notable for ST elevation in leads II, III, and aVF.",34,MedBullets df_op4 Q35,C
+0.0,"He has a medical history of hypertension, diabetes, and obesity.",34,MedBullets df_op4 Q35,C
+0.0,A 55-year-old man presents to the emergency department with chest pain and shortness of breath.,34,MedBullets df_op4 Q35,C

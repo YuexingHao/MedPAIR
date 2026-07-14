@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+38.44514233817935,The patient has a negative Murphy sign and his abdomen is non-tender.,43,MedBullets_df_op4_Q44,D
+31.41181822976516,The patient has a 50 pack-year smoking history.,43,MedBullets_df_op4_Q44,D
+24.927737315439007,Cardiopulmonary exam is within normal limits.,43,MedBullets_df_op4_Q44,D
+24.523809761662974,"For the past several months, he has felt progressively weaker and has lost 25 pounds with intermittent abdominal pain.",43,MedBullets_df_op4_Q44,D
+24.28561312747884,"A few years ago, he went to the emergency department due to abdominal pain and was found to have increased liver enzymes due to excessive alcohol use and incidental gallstones.",43,MedBullets_df_op4_Q44,D
+21.70500578223196,A 55-year-old man presents to urgent care for weakness and weight loss.,43,MedBullets_df_op4_Q44,D
+18.817198909819126,The patient has not seen a physician in 30 years and recalls being current on most of his vaccinations.,43,MedBullets_df_op4_Q44,D
+0.0,Physical exam reveals an emaciated man.,43,MedBullets_df_op4_Q44,D
+-0.0,"His temperature is 99.5°F (37.5°C), blood pressure is 161/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 95% on room air.",43,MedBullets_df_op4_Q44,D

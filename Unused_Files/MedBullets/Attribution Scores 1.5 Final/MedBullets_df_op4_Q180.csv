@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+80.88096730262704,"His most recent viral load is 1,800,000 copies/mL, and he was started on HAART 3 days ago.",179,MedBullets_df_op4_Q180,D
+67.33350777626038,A 26-year-old medical student presents to occupational health after sustaining a needlestick injury.,179,MedBullets_df_op4_Q180,D
+49.13051323850268,She is monogamous with one male partner and denies any intravenous drug use.,179,MedBullets_df_op4_Q180,D
+45.04542617803042,The source patient was recently diagnosed with HIV and has a CD4 count of 550 cells/µL.,179,MedBullets_df_op4_Q180,D
+44.0595531595518,She was drawing blood from an HIV-positive patient when she stuck herself percutaneously while capping the needle.,179,MedBullets_df_op4_Q180,D
+35.5594144079577,The medical student has had a negative HIV serology from the beginning of medical school 2 years ago.,179,MedBullets_df_op4_Q180,D
+23.208517370360408,She immediately washed the puncture wound with saline.,179,MedBullets_df_op4_Q180,D

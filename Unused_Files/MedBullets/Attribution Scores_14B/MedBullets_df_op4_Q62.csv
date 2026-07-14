@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.91124885646421,He recently started experimenting with alcohol and marijuana that one of his friends has been stealing from their parents.,61,MedBullets df_op4 Q62,C
+53.06355330691626,A 14-year-old boy presents to his pediatrician with a 2-month history of intermittent arm and leg spasms.,61,MedBullets df_op4 Q62,C
+19.359812296556083,"He says that the spasms usually occur after he wakes up as he is getting ready for school, and consist of disorganized jerking motions that stop after a few minutes.",61,MedBullets df_op4 Q62,C
+19.159784372895956,He has also noticed that they occur when he stays up late to cram last minute for exams.,61,MedBullets df_op4 Q62,C
+8.706900734639657,"His temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",61,MedBullets df_op4 Q62,C
+0.0,Physical exam reveals a healthy child.,61,MedBullets df_op4 Q62,C
+0.0,He has no medical history and takes no medications.,61,MedBullets df_op4 Q62,C
+0.0,He has not noticed any other symptoms.,61,MedBullets df_op4 Q62,C

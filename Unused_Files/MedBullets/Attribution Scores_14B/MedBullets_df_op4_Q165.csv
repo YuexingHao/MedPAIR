@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.175088657715634,"His temperature is 99.5°F (37.5°C), pulse is 112/min, blood pressure is 100/70 mmHg, respirations are 18/min, and oxygen saturation is 95% on room air.",164,MedBullets df_op4 Q165,C
+48.34567938262836,A 62-year-old man presents to the emergency department with chest pain and shortness of breath that he experienced while barbecuing.,164,MedBullets df_op4 Q165,C
+19.403641961192434,The patient is appropriately managed and is admitted to the step-down unit.,164,MedBullets df_op4 Q165,C
+18.745780782947552,The pain is over his chest and in his left arm.,164,MedBullets df_op4 Q165,C
+16.70441859499861,"2 days later, he complains of chest pain.",164,MedBullets df_op4 Q165,C
+12.863998864780665,"His current medications include insulin, metformin, lisinopril, and hydrochlorothiazide.",164,MedBullets df_op4 Q165,C
+9.115154821959937,A repeat ECG is performed and is seen in Figure B.,164,MedBullets df_op4 Q165,C
+5.2314136005441405,An ECG is performed and is seen in Figure A.,164,MedBullets df_op4 Q165,C
+0.0,"The patient has a medical history of obesity, type 2 diabetes mellitus, and hypertension.",164,MedBullets df_op4 Q165,C

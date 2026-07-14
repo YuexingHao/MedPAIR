@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.30898537075208,A 27-year-old nurse presents to the emergency department with a 30-minute history of palpitations and chest pain.,223,MedBullets df_op4 Q224,A
+32.03146314728726,"Her temperature is 98.6°F (37.0°C), blood pressure is 110/72 mmHg, pulse is 110/min, and respirations are 11/min.",223,MedBullets df_op4 Q224,A
+30.760064459083587,"She has been experiencing nausea, vomiting, and diarrhea after eating leftovers 2 days ago.",223,MedBullets df_op4 Q224,A
+28.878053436622384,Venous blood gas shows a pH of 7.52.,223,MedBullets df_op4 Q224,A
+25.33329219565675,Physical examination is notable for dry mucous membranes and tachycardia with regular rhythm.,223,MedBullets df_op4 Q224,A
+18.6676828492759,She has a history of major depressive disorder for which she takes escitalopram.,223,MedBullets df_op4 Q224,A
+15.095619801431894,Her husband tells the physician that he is concerned that the patient has been increasingly obsessed about her weight recently.,223,MedBullets df_op4 Q224,A
+4.857754975115306,K+: 2.9 mEq/L,223,MedBullets df_op4 Q224,A
+4.176916441017342,HCO3-: 36 mEq/L,223,MedBullets df_op4 Q224,A

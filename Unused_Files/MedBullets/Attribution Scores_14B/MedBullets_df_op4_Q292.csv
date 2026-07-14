@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+34.62696658952042,"He does not endorse fatigue, fever, constipation, diarrhea, nausea, vomiting, abdominal pain, weight loss, or dyspnea.",291,MedBullets df_op4 Q292,B
+31.949561305938232,"The anus is patent without fissures, hemorrhoids, or skin tags.",291,MedBullets df_op4 Q292,B
+31.270820057815747,He describes the blood as bright red wisps that float on the surface of the stool.,291,MedBullets df_op4 Q292,B
+31.015083931567784,A 66-year-old man presents to the clinic with a 6-week history of bloody stools.,291,MedBullets df_op4 Q292,B
+16.11521183639422,His last colonoscopy was 3 years prior to presentation and was benign.,291,MedBullets df_op4 Q292,B
+15.516274586319923,He has no pain with bowel movements but notes on occasion he may strain.,291,MedBullets df_op4 Q292,B
+0.0,"On physical exam, the patient's abdomen is soft, non-distended, and non-tender with normal bowel sounds and without organomegaly or masses.",291,MedBullets df_op4 Q292,B
+0.0,"His temperature is 98.6°F (37.0°C), blood pressure is 140/90 mmHg, pulse is 76/min, and respirations are 16/min.",291,MedBullets df_op4 Q292,B
+0.0,He has a medical history significant for hypertension that is well-controlled with lisinopril.,291,MedBullets df_op4 Q292,B
+0.0,He has no family history of gastrointestinal malignancy.,291,MedBullets df_op4 Q292,B
+0.0,He had an uncomplicated appendectomy when he was 23 years old.,291,MedBullets df_op4 Q292,B

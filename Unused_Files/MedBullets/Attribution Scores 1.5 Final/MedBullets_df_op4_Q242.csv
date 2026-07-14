@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+84.16691787882706,"His temperature is 98.1°F (36.7°C), blood pressure is 132/84 mmHg, pulse is 103/min, respirations are 17/min, and oxygen saturation is 98% on room air.",241,MedBullets_df_op4_Q242,A
+72.74385162537894,A fluorescein stain is unremarkable and tonometry reveals a pressure of 45 mmHg in the left eye.,241,MedBullets_df_op4_Q242,A
+38.09884840250015,His left pupil is sluggish to constrict when compared to the right.,241,MedBullets_df_op4_Q242,A
+27.101766110619508,He was punched in the eye and is having pain and blurry vision.,241,MedBullets_df_op4_Q242,A
+25.436680669695424,Visual acuity reveals 20/20 vision in his right eye and 20/40 vision in his left.,241,MedBullets_df_op4_Q242,A
+19.46692027446356,Physical exam is notable for conjunctival injection of the patient’s left eye as shown in Figure A.,241,MedBullets_df_op4_Q242,A
+15.088546533610463,A 27-year-old man presents to the emergency department after a bar fight.,241,MedBullets_df_op4_Q242,A
+9.388191058875337,The patient is otherwise healthy and does not take any medications.,241,MedBullets_df_op4_Q242,A

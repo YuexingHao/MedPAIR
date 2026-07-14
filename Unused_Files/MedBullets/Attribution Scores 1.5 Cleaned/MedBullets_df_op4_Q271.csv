@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.02117142052299,He has a history of anxiety managed with fluoxetine and lorazepam.,270,MedBullets df_op4 Q271,A
+37.86380109190941,He also has hypertension but does not take any medications.,270,MedBullets df_op4 Q271,A
+33.182832598962364,"His temperature is 98.7°F (37.1°C), blood pressure is 120/72 mmHg, pulse is 183/min, respirations are 25/min, and oxygen saturation is 99% on room air.",270,MedBullets df_op4 Q271,A
+24.09811858357508,Physical exam reveals a somnolent and uncomfortable man.,270,MedBullets df_op4 Q271,A
+19.479881625334556,"Today, his symptoms have been persistent despite taking his medications.",270,MedBullets df_op4 Q271,A
+17.639757314145044,He says that he feels lightheaded and can’t walk.,270,MedBullets df_op4 Q271,A

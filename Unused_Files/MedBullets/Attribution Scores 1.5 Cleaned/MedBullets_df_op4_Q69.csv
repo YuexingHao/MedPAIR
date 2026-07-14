@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+58.29549875212698,"He has a history of human immunodeficiency virus (HIV) infection being treated with bictegravir, emtricitabine, and tenofovir.",68,MedBullets df_op4 Q69,
+32.73849480252118,"His temperature is 104.2°F (40.1°C), blood pressure is 110/70 mmHg, pulse is 110/min, and respirations are 22/min.",68,MedBullets df_op4 Q69,
+17.57196674407376,He was found by his roommate to be disoriented this morning.,68,MedBullets df_op4 Q69,
+16.269036456941123,He does not smoke tobacco and drinks alcohol socially.,68,MedBullets df_op4 Q69,
+13.909912109375,He had complained of a right-sided headache for the past 5 days.,68,MedBullets df_op4 Q69,
+3.3949915506889696,A 35-year-old man presents to the emergency department with altered mental status.,68,MedBullets df_op4 Q69,

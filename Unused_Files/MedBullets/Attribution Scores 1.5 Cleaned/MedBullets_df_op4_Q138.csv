@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.75079241637667,His parents have already tried repositioning him during mealtimes and switching his formula to eliminate cow’s milk and soy.,137,MedBullets df_op4 Q138,A
+77.03482228517532,The vomitus appears to be normal stomach contents without streaks of red or green.,137,MedBullets df_op4 Q138,A
+58.020953822863696,The patient is voiding about 4 times per day and his urine appears dark yellow.,137,MedBullets df_op4 Q138,A
+38.42100928410212,"The patient's mother reports that the pregnancy was uncomplicated other than an episode of sinusitis in the 3rd trimester, for which she was treated with azithromycin.",137,MedBullets df_op4 Q138,A
+36.56594424970767,He has fallen 1 standard deviation off of the growth curve.,137,MedBullets df_op4 Q138,A
+35.37240859422597,A 7-week-old boy presents to the pediatrician for vomiting.,137,MedBullets df_op4 Q138,A
+32.93255285566066,"His abdomen is soft, non-tender, and non-distended.",137,MedBullets df_op4 Q138,A
+30.24862528368897,"Despite these adjustments, the vomiting has become more frequent and forceful.",137,MedBullets df_op4 Q138,A
+18.876359516370155,"Three weeks ago, the patient began vomiting after meals.",137,MedBullets df_op4 Q138,A
+9.210935992956228,"On physical exam, the patient looks small for his age.",137,MedBullets df_op4 Q138,A
+2.552395159568709,"The patient's temperature is 98.7°F (37.1°C), blood pressure is 58/41 mmHg, pulse is 166/min, and respirations are 16/min.",137,MedBullets df_op4 Q138,A

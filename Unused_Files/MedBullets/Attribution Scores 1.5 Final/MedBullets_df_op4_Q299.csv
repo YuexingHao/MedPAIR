@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+68.97608151597818,Pelvic exam reveals a closed cervix with no cervical motion or adnexal tenderness.,298,MedBullets_df_op4_Q299,B
+59.386260095349265,"She states that she has had recurrent bouts of mood swings, bloating, and abdominal pain that occur together approximately every 4 weeks.",298,MedBullets_df_op4_Q299,B
+49.522585109737435,A 21-year-old woman presents to her primary care physician due to a history of abdominal pain.,298,MedBullets_df_op4_Q299,B
+31.23936414718628,Physical exam reveals a nontender abdomen.,298,MedBullets_df_op4_Q299,B
+29.13380343178606,"Furthermore, she has episodes of extreme anxiety during these periods, leading her to take off time from work.",298,MedBullets_df_op4_Q299,B
+6.960491912217749,"She states that when these symptoms occur, she gets into frequent arguments at work, is unable to concentrate, and sleeps longer than usual.",298,MedBullets_df_op4_Q299,B
+0.0,She has no past medical history and takes no medications.,298,MedBullets_df_op4_Q299,B
+-0.0,"Her temperature is 98.2°F (36.8°C), blood pressure is 100/70 mmHg, pulse is 75/min, and respirations are 12/min.",298,MedBullets_df_op4_Q299,B

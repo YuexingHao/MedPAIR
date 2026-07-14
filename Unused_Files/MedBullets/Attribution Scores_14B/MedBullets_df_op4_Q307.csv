@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+39.06310528446743,He states that he has not passed gas or had a bowel movement in 4 days and his pain has worsened and become constant over the past 2 hours.,306,MedBullets df_op4 Q307,B
+23.027985697099325,"His temperature is 38.5°C (101.3°F), blood pressure is 92/60 mmHg, pulse is 138/min, and respirations are 25/min.",306,MedBullets df_op4 Q307,B
+6.523269962098819,"A 48-year-old man presents to the emergency room with a 2-hour history of severe abdominal pain, nausea, and vomiting.",306,MedBullets df_op4 Q307,B
+0.0,His pulse oximetry is 99% on room air.There are no cardiopulmonary abnormalities on auscultation.,306,MedBullets df_op4 Q307,B
+0.0,"His abdomen is distended and tender in all quadrants, with guarding and rebound present.",306,MedBullets df_op4 Q307,B
+0.0,He also has increased bowel sounds throughout.,306,MedBullets df_op4 Q307,B
+0.0,"His only medical history includes an appendectomy that he underwent as a child, and he takes no daily medications.",306,MedBullets df_op4 Q307,B

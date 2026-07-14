@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+66.86287404345187,"On examination, strength is 5/5 in the right upper and lower extremities and 3/5 in the left upper and lower extremities.",21,MedBullets_df_op4_Q22,B
+61.730364079093,"His temperature is 98.6°F (37°C), blood pressure is 130/80 mmHg, pulse is 70/min, and respirations are 15/min.",21,MedBullets_df_op4_Q22,B
+52.66992783061048,There is also decreased sensation to light touch and vibration on the left side of his body.,21,MedBullets_df_op4_Q22,B
+36.618134435266256,"On cranial nerve examination, his tongue deviates to the right side.",21,MedBullets_df_op4_Q22,B
+35.7485534185266,A 67-year-old man presents to the emergency room with difficulty speaking for the past 1 hour.,21,MedBullets_df_op4_Q22,B
+13.59530108223248,"His medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia.",21,MedBullets_df_op4_Q22,B
+12.108563011971112,"His current medications include metformin, atorvastatin, and lisinopril.",21,MedBullets_df_op4_Q22,B

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+34.768199308014154,A 52-year-old man presents to the clinic with a left foot ulcer that he noticed 6 days ago.,219,MedBullets df_op4 Q220,B
+33.77797968904103,"On physical exam, he has a 1.2 x 1.7 cm ulcer on the plantar surface of his left metatarsal head.",219,MedBullets df_op4 Q220,B
+32.72093961015344,"His current medications include metformin, aspirin, rosuvastatin, lisinopril, and fluoxetine.",219,MedBullets df_op4 Q220,B
+20.04867367088883,"He has a history of obesity, hypertension, type 2 diabetes mellitus, and depression.",219,MedBullets df_op4 Q220,B
+7.188558764471716,He has a 25-pack-year smoking history and drinks 1 glass of wine a day.,219,MedBullets df_op4 Q220,B
+-0.0,"His temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",219,MedBullets df_op4 Q220,B

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+85.10084612306261,"His temperature is 98.6°F (37.0°C), blood pressure is 120/75 mmHg, pulse is 70/min, and respirations are 16/min.",49,MedBullets df_op4 Q50,D
+83.47094797033863,He was normal until around 3 months ago when he started forgetting important meetings and misplacing items around the house.,49,MedBullets df_op4 Q50,D
+64.02974971308994,"During the examination, the patient’s cell phone rings unexpectedly causing the patient to suddenly jerk his arms and legs.",49,MedBullets df_op4 Q50,D
+59.7555198520422,"One month ago, the patient was fired from his job as a software engineer after attempting to grope a coworker.",49,MedBullets df_op4 Q50,D
+55.61372012046968,The patient expresses frustration that he is no longer able to concentrate enough to enjoy his hobby of solving puzzles.,49,MedBullets df_op4 Q50,D
+42.79919265078772,Further diagnostic investigation is performed which reveals an elevated 14-3-3 protein on cerebrospinal fluid analysis.,49,MedBullets df_op4 Q50,D
+38.64498598907085,His medical history is significant for gastroesophageal reflux disease for which he takes omeprazole.,49,MedBullets df_op4 Q50,D
+19.945121126144954,A 57-year-old man is brought to a neurologist by his wife for abnormal behavior.,49,MedBullets df_op4 Q50,D
+14.084975611007945,He has no family history of neurologic disease.,49,MedBullets df_op4 Q50,D

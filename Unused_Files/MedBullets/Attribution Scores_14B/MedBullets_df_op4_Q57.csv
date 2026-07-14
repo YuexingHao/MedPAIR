@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+85.83560051865038,"The patient has a medical history of a suicide attempt in college, constipation, anxiety, depression, and a sunburn associated with surfing which was treated with aloe vera gel.",56,MedBullets df_op4 Q57,A
+36.46222486738197,"Her temperature is 99.5°F (37.5°C), blood pressure is 137/78 mmHg, pulse is 92/min, respirations are 14/min, and oxygen saturation is 98% on room air.",56,MedBullets df_op4 Q57,A
+33.7062051700413,"A 27-year-old woman presents to her primary care physician with pain in her hands, shoulders, and knees.",56,MedBullets df_op4 Q57,A
+6.634895383374143,The pain has lasted for several months but seems to have worsened recently.,56,MedBullets df_op4 Q57,A
+0.0,Laboratory values are obtained and shown below.,56,MedBullets df_op4 Q57,A
+0.0,"Any activity such as opening jars, walking, or brushing her teeth is painful.",56,MedBullets df_op4 Q57,A

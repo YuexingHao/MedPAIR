@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+66.57150943053811,"Her temperature is 98.5°F (36.9°C), blood pressure is 122/82 mmHg, pulse is 84/min, and respirations are 14/min.",172,MedBullets df_op4 Q173,A
+60.1198376920095,The patient has a 15-pack-year smoking history but quit smoking in her 1st month of pregnancy.,172,MedBullets df_op4 Q173,A
+60.00698667484504,The patient was diagnosed with gestational diabetes after routine screening in the 2nd trimester and has been started on insulin after unsuccessful attempts at lifestyle management.,172,MedBullets df_op4 Q173,A
+41.42084515116206,Yesterday she had several episodes of diarrhea and vomited once after attending a company picnic 2 days ago.,172,MedBullets df_op4 Q173,A
+34.46194781888483,She is worried that she is dehydrated but otherwise feels well and has recovered from her gastrointestinal illness.,172,MedBullets df_op4 Q173,A
+31.43790699996775,A representative portion of the NST is shown in Figure A.,172,MedBullets df_op4 Q173,A
+28.50972974461253,She also has migraines and gastroesophageal reflux disorder.,172,MedBullets df_op4 Q173,A
+21.583556700497866,She took loperamide with symptomatic relief.,172,MedBullets df_op4 Q173,A
+12.297782091854664,A 32-year-old G1P0 presents to the antenatal testing unit at 32 weeks of gestation for a non-stress test (NST).,172,MedBullets df_op4 Q173,A

@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.16953576778423,Physical exam is unremarkable and the patient walks with a stable gait and no focal weakness.,254,MedBullets df_op4 Q255,A
+24.87456083297729,He has a history of hypertension but does not take medications routinely.,254,MedBullets df_op4 Q255,A
+18.34197124870628,A 55-year-old man presents to the emergency department after feeling lightheaded then fainting while he was carrying boxes upstairs.,254,MedBullets df_op4 Q255,A
+5.471033376730662,He smokes cigarettes occasionally.,254,MedBullets df_op4 Q255,A

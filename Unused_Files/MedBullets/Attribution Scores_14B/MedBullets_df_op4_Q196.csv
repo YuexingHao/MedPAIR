@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+36.48763100166878,The patient initially denied medical treatment but his wife convinced him to be taken by ambulance to the emergency department for evaluation.,195,MedBullets df_op4 Q196,C
+34.88839649958468,The paramedics report that at the scene the patient had a Glasgow Coma Score (GCS) of 15.,195,MedBullets df_op4 Q196,C
+19.603198617913165,A 54-year-old man is brought to the emergency department following a skiing accident.,195,MedBullets df_op4 Q196,C
+16.869099134185518,"His medical history is significant for hypertension, hyperlipidemia, coronary artery disease, and a prior transient ischemic attack.",195,MedBullets df_op4 Q196,C
+14.640226544214073,"When he woke up, he was mildly confused but able to ski down the rest of the mountain.",195,MedBullets df_op4 Q196,C
+14.091844215283967,"In the emergency department, his temperature is 97.8°F (36.6°C), blood pressure is 141/84 mmHg, pulse is 71/min, and respirations are 16/min.",195,MedBullets df_op4 Q196,C
+10.147119659809363,"During the ride, he became gradually more somnolent.",195,MedBullets df_op4 Q196,C
+6.1333082791159255,He is difficult to arouse with a GCS of 7.,195,MedBullets df_op4 Q196,C
+1.8628263728700702,His medications include atorvastatin and lisinopril.,195,MedBullets df_op4 Q196,C
+1.8018614995412794,A head CT is performed and can be seen in Figure A.,195,MedBullets df_op4 Q196,C
+0.0,He lost consciousness for about 30 seconds.,195,MedBullets df_op4 Q196,C
+0.0,The patient lost control of his skis and collided with a tree.,195,MedBullets df_op4 Q196,C

@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+50.98697682140447,"Her temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 91/min, respirations are 14/min, and oxygen saturation is 98% on room air.",53,MedBullets df_op4 Q54,D
+41.992547236419895,The patient presents to the emergency department 3 days later with a complaint of a rash.,53,MedBullets df_op4 Q54,D
+36.02774068713188,"She has a medical history of asthma, IV drug abuse, and depression.",53,MedBullets df_op4 Q54,D
+33.11236877347314,She feels ashamed of her behavior and is requesting treatment for her condition and advice for safe sex.,53,MedBullets df_op4 Q54,D
+27.359529887898617,She states that every time she has sex a rash has emerged on her skin.,53,MedBullets df_op4 Q54,D
+24.102553796473515,A physical exam is notable for the finding in Figure A.,53,MedBullets df_op4 Q54,D
+23.79858226217695,A 27-year-old woman presents to her primary care physician for an abnormal vaginal discharge.,53,MedBullets df_op4 Q54,D
+19.29999318633762,The patient has engaged in unprotected intercourse with 12 different partners.,53,MedBullets df_op4 Q54,D
+17.505595025287878,The patient is given antibiotics and is advised on safe sex practices.,53,MedBullets df_op4 Q54,D
+10.54874428087788,She has 1 to 2 alcoholic drinks per day.,53,MedBullets df_op4 Q54,D

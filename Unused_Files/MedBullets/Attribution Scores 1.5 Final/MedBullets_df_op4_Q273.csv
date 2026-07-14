@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+92.72960708982382,"His temperature is 99.2°F (37.3°C), blood pressure is 150/85 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air.",272,MedBullets_df_op4_Q273,A
+64.51328511536121,A bedside echocardiogram demonstrates impaired diastolic filling with normal ventricular contractility.,272,MedBullets_df_op4_Q273,A
+32.80613899839226,A 55-year-old man presents to the emergency department with worsening dyspnea over the past 48 hours.,272,MedBullets_df_op4_Q273,A
+21.562301141625657,He had his Achilles tendon repaired 4 weeks ago and he has been less mobile.,272,MedBullets_df_op4_Q273,A
+16.02487670850982,"He has a past medical history of diabetes, obesity, and hypertension.",272,MedBullets_df_op4_Q273,A
+11.18652860216868,He recently had a cold that kept him home from work for the past week.,272,MedBullets_df_op4_Q273,A
+9.08406240455592,Jugular venous distension is noted on exam.,272,MedBullets_df_op4_Q273,A
+4.505179859465009,The patient’s blood pressure is 130/70 mmHg during inspiration.,272,MedBullets_df_op4_Q273,A
+0.0,Physical exam is notable for dyspnea provoked by walking short distances.,272,MedBullets_df_op4_Q273,A

@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+95.41540091541263,His mother denies seeing blood or streaks of red in his stool and she denies any family history of food allergies or dermatological problems.,138,MedBullets_df_op4_Q139,A
+63.56180566549301,"On physical exam, the patient smiles reciprocally and can lift his head and chest when in the prone position.",138,MedBullets_df_op4_Q139,A
+60.351522158076385,He regurgitates a moderate amount of formula through his nose and mouth after most feeds.,138,MedBullets_df_op4_Q139,A
+48.06734852741069,The patient’s weight was in the 62nd percentile 4 weeks ago and he is now in the 48th percentile.,138,MedBullets_df_op4_Q139,A
+38.73562730797672,A 3-month-old boy presents to the pediatrician with his mother for a well-child visit.,138,MedBullets_df_op4_Q139,A
+37.93153596179104,He does not seem interested in additional feeding after these episodes of regurgitation and he has become progressively more irritable around meal times.,138,MedBullets_df_op4_Q139,A
+26.96413744888109,The patient drinks 4 ounces of cow’s milk formula every 3 hours.,138,MedBullets_df_op4_Q139,A
+9.114481467794976,"His temperature is 98.2°F (36.8°C), blood pressure is 72/47 mmHg, pulse is 125/min, and respirations are 27/min.",138,MedBullets_df_op4_Q139,A
+0.0,His height and head circumference have followed similar trends.,138,MedBullets_df_op4_Q139,A
+-0.0,"His abdomen is soft, non-tender, and non-distended.",138,MedBullets_df_op4_Q139,A
+0.0,He usually stools 1 time per day and urinates up to 6 times per day.,138,MedBullets_df_op4_Q139,A

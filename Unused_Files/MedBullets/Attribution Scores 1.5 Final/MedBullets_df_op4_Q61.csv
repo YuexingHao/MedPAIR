@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.64170898328354,His medical history is significant for hypertension but he does not take any medications.,60,MedBullets_df_op4_Q61,C
+32.75549774263435,"One week later, the patient’s GCS score is now 3.",60,MedBullets_df_op4_Q61,C
+31.003262903541327,His Glasgow coma score (GCS) on presentation is 6.,60,MedBullets_df_op4_Q61,C

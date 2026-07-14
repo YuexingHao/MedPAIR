@@ -1,0 +1,433 @@
+Origin,QA_ID,Score,Source_preview
+ID0589,Merge Q10,0.2523608879244933,.
+ID0021,Merge Q1000,-0.0,.
+ID1148,Merge Q101,0.0809045881032943,.
+ID0395,Merge Q1012,-0.0,.
+ID0199,Merge Q1020,-0.0,"C, Magnetic resonance imaging of the brain showing a very small amount of residual tumor (arrowhead) in the right cavern"
+ID0199,Merge Q1020,0.0,.
+ID0199,Merge Q1020,0.0,"This modal can be closed by pressing the Escape key or activating the close button.A, Right eye esotropia after voluntar"
+ID0199,Merge Q1020,0.0,Escape will cancel and close the window.This is a modal window.
+ID0199,Merge Q1020,-0.1596145650429092,"B, Right upper eyelid retraction after downward gaze."
+ID1032,Merge Q1023,0.0,.
+ID0278,Merge Q1033,0.0,.
+ID0321,Merge Q11,0.030127573964743,.
+ID1193,Merge Q136,0.0,.
+ID1070,Merge Q137,-0.0,.
+ID1204,Merge Q138,-2.883295949338222,.
+ID0698,Merge Q1401,-0.0,"The patient is alert and oriented, though has moderate discomfort with deep breaths."
+ID0698,Merge Q1401,-0.0,| Heart rate | 68/min |
+ID0698,Merge Q1401,-0.0,| Respiratory rate | 14/min |
+ID0698,Merge Q1401,0.0,| Blood pressure | 128/76 mm Hg |
+ID0698,Merge Q1401,-0.0,| --- | --- |
+ID0698,Merge Q1401,-0.0295702946328093,| Temperature | 37.3°C (99.1°F) |
+ID1713,Merge Q145,-0.0,.
+ID0492,Merge Q146,0.0,.
+ID1909,Merge Q154,0.0,Escape will cancel and close the window.This is a modal window.
+ID1909,Merge Q154,-0.0,.
+ID1909,Merge Q154,-0.1008042485984194,This modal can be closed by pressing the Escape key or activating the close button.
+ID1416,Merge Q156,-0.0,.
+ID1021,Merge Q159,-0.0675187401035058,.
+ID0577,Merge Q164,0.0,.
+ID1773,Merge Q1647,0.1149366050958633,| Calcium (mg/dL) | 14.4 | 9.0–10.5 |
+ID1773,Merge Q1647,0.0,| Albumin (g/dL) | 3.6 | 3.5–5.5 |
+ID1773,Merge Q1647,0.0,| Parathyroid hormone (pg/mL) | 3 | 10–60 |
+ID1773,Merge Q1647,-0.0,Head MRI shows no ischemia or tumors.
+ID1773,Merge Q1647,-0.0,| Blood urea nitrogen (mg/dL) | 13 | 10–20 |
+ID1773,Merge Q1647,-0.0,| Ionized calcium (mg/dL) | 7.0 | 4.5–5.6 |
+ID1773,Merge Q1647,-0.0,| Glucose (mg/dL) | 102 | 70–100 |
+ID1773,Merge Q1647,0.0,| Creatinine (mg/dL) | 0.7 | 0.6–1.1 |
+ID1773,Merge Q1647,0.0,| --- | --- | --- |
+ID1773,Merge Q1647,0.0,| Sodium (mEq/liter) | 139 | 136–145 |
+ID1773,Merge Q1647,-0.0174543979206947,|  | Patient value | Reference range |
+ID1841,Merge Q165,0.0,.
+ID1074,Merge Q1651,1.31723186480579,Gram stain results of the cerebrospinal fluid are pending.
+ID1074,Merge Q1651,0.0,| Glucose | 22 mg/dL |
+ID1074,Merge Q1651,-0.0,| Lymphocytes | 5% |
+ID1074,Merge Q1651,0.0,| Protein | 86 mg/dL |
+ID1074,Merge Q1651,0.0,| Leukocyte count | 710/mm3 |
+ID1074,Merge Q1651,-0.0,| Erythrocytes | 2/mm3 |
+ID1074,Merge Q1651,-0.0,| --- | --- |
+ID1074,Merge Q1651,-0.0,| Segmented neutrophils | 95% |
+ID1074,Merge Q1651,-0.0,| Pressure | 255 mm H2O |
+ID0702,Merge Q1706,0.1624601554851028,"On physical examination, the patient appears mildly uncomfortable."
+ID0702,Merge Q1706,0.0850537353837909,| Blood pressure | 112/72 mm Hg |
+ID0702,Merge Q1706,0.0692701922506991,| Respiratory rate | 12/min |
+ID0702,Merge Q1706,0.0578695960867847,| Heart rate | 72/min |
+ID0702,Merge Q1706,0.0,| Temperature | 37.3°C (99.2°F) |
+ID0702,Merge Q1706,-0.0,| --- | --- |
+ID0116,Merge Q173,0.3677637174334781,This modal can be closed by pressing the Escape key or activating the close button.
+ID0116,Merge Q173,-0.0,.
+ID0116,Merge Q173,0.0,Escape will cancel and close the window.This is a modal window.
+ID0407,Merge Q1750,1.4973226357168825,"His symptoms resolve after oral administration of 20g glucose, with glucose rising to 78 mg/dL."
+ID0407,Merge Q1750,0.7388939351920955,| Glucose (mg/dL) | 55 | 70–100 |
+ID0407,Merge Q1750,0.0710508678738126,|  | Patient value | Reference range |
+ID0407,Merge Q1750,-0.0,| Insulin (μU/mL) | 25 | 2–20 |
+ID0407,Merge Q1750,-0.0,| --- | --- | --- |
+ID0407,Merge Q1750,-0.0121912090405729,| C-peptide (ng/mL) | 2.9 | 0.5–2.0 |
+ID1558,Merge Q189,0.0,.
+ID0965,Merge Q2002,0.7127393476340703,| **Finger-stick glucose** | **630 mg/dL** |
+ID0965,Merge Q2002,0.5741211300513804,| Glucose | Positive |
+ID0965,Merge Q2002,0.5260140394898402,| PO2 | 90 mm Hg |
+ID0965,Merge Q2002,0.4509642244157508,| Ketones | Positive |
+ID0965,Merge Q2002,0.364608453921901,| **Urinalysis** | |
+ID0965,Merge Q2002,0.2995842099189758,| Sodium | 135 mEq/L |
+ID0965,Merge Q2002,0.1959468614657364,| Leukocytes | Negative |
+ID0965,Merge Q2002,-0.0,| Nitrite | Negative |
+ID0965,Merge Q2002,-0.0,| RBCs | Negative |
+ID0965,Merge Q2002,-0.0,| Casts | Negative |
+ID0965,Merge Q2002,0.0,The patient is started on an intravenous bolus of normal saline (0.9% NaCl).
+ID0965,Merge Q2002,-0.0,| Blood urea nitrogen | 20 mg/dL |
+ID0965,Merge Q2002,0.0,| Potassium | 3.1 mEq/L |
+ID0965,Merge Q2002,0.0,| Creatinine | 1.2 mg/dL |
+ID0965,Merge Q2002,-0.0,| --- | --- |
+ID0965,Merge Q2002,0.0,| **Arterial blood gas** | |
+ID0965,Merge Q2002,0.0,| PCO2 | 33 mm Hg |
+ID0965,Merge Q2002,-0.0229716512401526,| --- | --- |
+ID0965,Merge Q2002,-0.0661099350706995,| Chloride | 136 mEq/L |
+ID0965,Merge Q2002,-0.0792865367754563,| HCO3 | 8 mEq/L |
+ID0965,Merge Q2002,-0.2621930221169946,| pH | 7.1 |
+ID0965,Merge Q2002,-0.3283941149711609,| **Serum chemistry** | |
+ID1171,Merge Q210,0.0,.
+ID1925,Merge Q214,0.2560877767277562,.
+ID1098,Merge Q216,-0.0,.
+ID0150,Merge Q219,0.567986786365509,.
+ID0627,Merge Q2197,38.71479266526982,"After initiating 0.9% saline through two large-bore IVs and performing an unremarkable esophagogastroduodenoscopy, his c"
+ID0627,Merge Q2197,0.122183316608758,| Leukocyte count | 7800/mm3 |
+ID0627,Merge Q2197,0.0278135238520883,| Prothrombin time | 14 seconds (INR = 0.9) |
+ID0627,Merge Q2197,-0.0,| Creatinine | 0.7 mg/dL |
+ID0627,Merge Q2197,0.0,| Glucose | 96 mg/dL |
+ID0627,Merge Q2197,-0.0,| Urea nitrogen | 16 mg/dL |
+ID0627,Merge Q2197,-0.0,| Cl- | 101 mEq/L |
+ID0627,Merge Q2197,-0.0,"| Platelet count | 280,000/mm3 |"
+ID0627,Merge Q2197,-0.0,| Serum |  |
+ID0627,Merge Q2197,-0.0,| K+ | 4.1 mEq/L |
+ID0627,Merge Q2197,0.0,| Na+ | 135 mEq/L |
+ID0627,Merge Q2197,-0.0,| Hemoglobin | 9.8 g/dL |
+ID0627,Merge Q2197,0.0,| --- | --- |
+ID0723,Merge Q221,0.0,.
+ID0345,Merge Q223,0.3709174273658714,.
+ID0345,Merge Q223,0.0,"B, Peripheral blood smear showing small, bluish-purple punctate inclusions in erythrocytes (Giemsa stain, original magni"
+ID1550,Merge Q224,0.0,.
+ID0161,Merge Q226,0.0,.
+ID0002,Merge Q229,-0.0,Margin-to-reflex distance 1 was 3.5 mm on the right and 0.5 mm on the left.
+ID0002,Merge Q229,-0.0,.
+ID0399,Merge Q236,0.3015331420303875,.
+ID1588,Merge Q238,-0.0,.
+ID0594,Merge Q2384,0.2833693939219168,| Total cholesterol | 196 mg/dL |
+ID0594,Merge Q2384,0.0,| --- | --- |
+ID0594,Merge Q2384,-0.0,| LDL | 110 mg/dL |
+ID0594,Merge Q2384,-0.0,| HDL | 50 mg/dL |
+ID0594,Merge Q2384,-0.3023030569677793,A resting ECG shows no abnormalities.
+ID1037,Merge Q239,-0.0448621106802381,.
+ID1761,Merge Q240,0.4335858205953683,.
+ID0262,Merge Q2405,0.2341246758155781,| Thyroid-stimulating hormone (μU/mL) | 0.03 | 0.5–4.7 |
+ID0262,Merge Q2405,0.1000475774292923,| Albumin (g/dL) | 3.8 | 3.5–5.5 |
+ID0262,Merge Q2405,0.0972430322925698,| Phosphorus (mg/dL) | 3.6 | 3.0–4.5 |
+ID0262,Merge Q2405,0.0,| --- | --- | --- |
+ID0262,Merge Q2405,0.0,| Calcium (mg/dL) | 9.4 | 9.0–10.5 |
+ID0262,Merge Q2405,-0.1586924960877132,|  | Patient value | Reference range |
+ID0262,Merge Q2405,-0.1821215599775314,The complete blood count is within normal limits.
+ID1975,Merge Q2435,0.0955303793020217,| Temperature | 37°C (98.8°F) |
+ID1975,Merge Q2435,-0.0,| Body mass index | 40 kg/m2 |
+ID1975,Merge Q2435,-0.0,| Blood pressure | 152/90 mm Hg |
+ID1975,Merge Q2435,-0.0095849502345934,| Heart rate | 86/min |
+ID1975,Merge Q2435,-0.1643621227088815,| --- | --- |
+ID1975,Merge Q2435,-0.1805393438523537,"On physical examination, there is exquisite tenderness to palpation in the paravertebral musculature of the lower lumbar"
+ID0047,Merge Q249,0.0,.
+ID0870,Merge Q2495,15.7371573744931,Schistocytes are present on peripheral blood smear.
+ID0870,Merge Q2495,8.756713385688577,| Antinuclear antibodies | positive |
+ID0870,Merge Q2495,4.821633047158447,| Lactate dehydrogenase | 290 U/L |
+ID0870,Merge Q2495,4.671482283622026,| Urea nitrogen | 42 mg/dL |
+ID0870,Merge Q2495,1.4203141257166862,| Serum |  |
+ID0870,Merge Q2495,0.0,| Creatinine | 3.0 mg/dL |
+ID0870,Merge Q2495,-0.0,| Total bilirubin | 1.8 mg/dL |
+ID0870,Merge Q2495,0.0,| RBC | 10–13/hpf |
+ID0870,Merge Q2495,0.0,| Blood | 3+ |
+ID0870,Merge Q2495,-0.0,| Casts | none |
+ID0870,Merge Q2495,0.0,| Haptoglobin | 25 mg/dL (N = 41–165) |
+ID0870,Merge Q2495,-0.0,| Hematocrit | 23% |
+ID0870,Merge Q2495,0.0,| Leukocyte count | 9000/mm3 |
+ID0870,Merge Q2495,0.0,"| Platelet count | 185,000/mm3 |"
+ID0870,Merge Q2495,-0.9763876622294422,| Protein | 1+ |
+ID0870,Merge Q2495,-1.7357453352432883,| --- | --- |
+ID1540,Merge Q258,0.479546869249059,.
+ID1392,Merge Q2594,0.050996806654316,- Hemoglobin: 6.0 g/dL (normal: 12.0-16.0)
+ID1392,Merge Q2594,-0.0,"After initial stabilization with fluids and blood products, an urgent upper endoscopy is performed and is negative."
+ID1392,Merge Q2594,-0.0,- Creatinine: 0.7 mg/dL (normal: 0.6-1.1)
+ID1392,Merge Q2594,-0.0069126018643459,- BUN: 7 mg/dL (normal: 10-20)
+ID1434,Merge Q2609,25.933909124731294,"Endoscopy reveals diffuse gastric mucosal erythema and a 1 cm lesion with a smooth, flat base in the proximal duodenum."
+ID1434,Merge Q2609,0.0650573195011245,"- Leukocyte count: 11,000/mm^3"
+ID1434,Merge Q2609,0.0,  - Basophils: 0.8%
+ID1434,Merge Q2609,0.0,  - Eosinophils: 1%
+ID1434,Merge Q2609,-0.0,  - Lymphocytes: 35%
+ID1434,Merge Q2609,0.0,- Hemoglobin: 7.2 g/dL
+ID1434,Merge Q2609,0.0,"- Platelets: 176,000/mm^3"
+ID1434,Merge Q2609,-0.0,  - Segmented neutrophils: 56%
+ID1434,Merge Q2609,0.0,  - Bands: 2%
+ID1434,Merge Q2609,-0.4087981383999639,  - Monocytes: 5%
+ID1434,Merge Q2609,-0.6066994260522123,- Positive heme occult stool test
+ID0935,Merge Q266,-0.0,.
+ID0094,Merge Q267,0.0,.
+ID1820,Merge Q275,-0.462924135742016,.
+ID1020,Merge Q276,-0.0,.
+ID1858,Merge Q2820,-0.0,| Glucose (mg/dL) | 125 | 115 | 70–100 |
+ID1858,Merge Q2820,-0.0,| Magnesium (mg/dL) | 2.0 | 2.2 | 1.8–3.0 |
+ID1858,Merge Q2820,0.0,An electrocardiogram shows normal sinus rhythm with no abnormalities.
+ID1858,Merge Q2820,-0.0,| Creatinine (mg/dL) | 1.4 | 1.5 | 0.6–1.1 |
+ID1858,Merge Q2820,-0.0,| Carbon dioxide (mEq/liter) | 23 | 24 | 21–30 |
+ID1858,Merge Q2820,-0.0,| Potassium (mEq/liter) | 5.7 | 5.4 | 3.5–5.0 |
+ID1858,Merge Q2820,-0.0,| Chloride (mEq/liter) | 101 | 102 | 98–106 |
+ID1858,Merge Q2820,-0.0,| Sodium (mEq/liter) | 136 | 134 | 136–145 |
+ID1858,Merge Q2820,0.0,| --- | --- | --- | --- |
+ID1858,Merge Q2820,0.0,|  | 2 weeks ago | Today | Reference range |
+ID1858,Merge Q2820,-0.3268166407942772,| Blood urea nitrogen (mg/dL) | 26 | 22 | 10–20 |
+ID1840,Merge Q2838,1.1655213676899998,| Serum creatinine | 1.4 mg/dL | Serum creatinine | 1.6 mg/dL |
+ID1840,Merge Q2838,0.5631674588812267,| Serum blood urea nitrogen | 64 mg/dL | Serum blood urea nitrogen | 62 mg/dL |
+ID1840,Merge Q2838,0.3593394068482369,| Serum potassium | 4.2 mmol/L | Serum potassium | 4.0 mmol/L |
+ID1840,Merge Q2838,0.2920554390824664,The patient weighs 84 kg and is 175 centimeters tall.
+ID1840,Merge Q2838,0.2062811359481303,| Serum sodium | 140 mmol/L | Serum sodium | 142 mmol/L |
+ID1840,Merge Q2838,0.1811881178142387,| Serum chloride | 102 mmol/L | Serum chloride | 110 mmol/L |
+ID1840,Merge Q2838,0.0391965919825782,| **Initial** | | **After 8 hours** | |
+ID1840,Merge Q2838,0.0,| --- | --- | --- | --- |
+ID1840,Merge Q2838,-1.1706315371966172,| Urine output | (drained 700 ml) | Urine output | 260 mL |
+ID0254,Merge Q286,-0.0,.
+ID0514,Merge Q2896,1.2339237928390503,A peripheral blood smear shows reticulocytosis and microspherocytes.
+ID0514,Merge Q2896,0.2284380915230395,Haptoglobin: 10 mg/dL (Normal: 41-165 mg/dL)
+ID0514,Merge Q2896,0.2161837374577329,Mean corpuscular volume: 90 µm³
+ID0514,Merge Q2896,0.1329900903063966,Lactate dehydrogenase: 480 U/L (Normal: 140-280 U/L)
+ID0514,Merge Q2896,0.0,"Leukocyte count: 7,000/mm³"
+ID0514,Merge Q2896,-0.055528929971583,Indirect bilirubin: 2.7 mg/dL
+ID0514,Merge Q2896,-0.0793887972831726,D-dimer: <250 ng/mL (Normal: <250 ng/mL)
+ID0514,Merge Q2896,-0.1661672366198947,Reticulocyte count: 9%
+ID0514,Merge Q2896,-0.2630803722389032,"Platelet count: 300,000/mm³"
+ID1029,Merge Q2898,11.541455591655144,| Alkaline phosphatase | 79 U/L |
+ID1029,Merge Q2898,3.058316027791511,| --- | --- |
+ID1029,Merge Q2898,1.739827714280008,| Direct | 0.3 mg/dL |
+ID1029,Merge Q2898,1.4527270048856735,| Urea nitrogen | 20 mg/dL |
+ID1029,Merge Q2898,0.555576088421465,"| Leukocyte count | 17,000/mm3 |"
+ID1029,Merge Q2898,-0.0,Urinalysis demonstrates mild pyuria.
+ID1029,Merge Q2898,0.0,| Bilirubin |  |
+ID1029,Merge Q2898,0.0,| Total | 1 mg/dL |
+ID1029,Merge Q2898,-0.0,| Creatinine | 0.8 mg/dL |
+ID1029,Merge Q2898,-0.0,| Serum |  |
+ID1029,Merge Q2898,0.0,| Hemoglobin | 13.1 g/dL |
+ID1538,Merge Q29,-0.0,.
+ID1652,Merge Q290,-0.0,.
+ID1353,Merge Q292,-0.0,.
+ID1551,Merge Q293,0.0,.
+ID1346,Merge Q298,-0.0,.
+ID1691,Merge Q3003,0.7112718224525452,| Gamma-glutamyltransferase (U/liter) | 22 | 5–24 |
+ID1691,Merge Q3003,0.3051751294322936,| Direct bilirubin (mg/dL) | 0.1 | 0.2 |
+ID1691,Merge Q3003,0.2625340223312378,"| Leukocyte count (per mm3) | 9000 | 4500–13,500 |"
+ID1691,Merge Q3003,0.2346665681736005,| Erythrocyte sedimentation rate (mm/hour) | 4 | 0–20 |
+ID1691,Merge Q3003,0.1789291438805937,| Aspartate aminotransferase (U/liter) | 334 | 13–35 |
+ID1691,Merge Q3003,0.1211059709450394,| Alanine aminotransferase (U/liter) | 255 | 5–30 |
+ID1691,Merge Q3003,0.1206112921657502,| International normalized ratio | 1.1 | — |
+ID1691,Merge Q3003,0.0990634248137309,| Total immunoglobulin G (mg/dL) | 1100 | 509–1580 |
+ID1691,Merge Q3003,0.0974095865635565,| C-reactive protein (mg/liter) | 1 | 0–5 |
+ID1691,Merge Q3003,0.0967591378560023,|  | Patient value | Reference range |
+ID1691,Merge Q3003,0.0535835623741149,"Testing is negative for anti-smooth muscle antibodies, anti-liver-kidney microsomal antibodies, hepatitis B antibodies, "
+ID1691,Merge Q3003,0.0270636308494631,"| Platelet count (per mm3) | 220,000 | 150,000–450,000 |"
+ID1691,Merge Q3003,-0.0,| Ferritin (ng/mL) | 110 | 7–140 |
+ID1691,Merge Q3003,-0.0,| Alkaline phosphatase (U/liter) | 160 | 100–320 |
+ID1691,Merge Q3003,0.0,| Total protein (g/dL) | 7.0 | 6–8 |
+ID1691,Merge Q3003,0.0,| Mean corpuscular volume (μm3) | 85 | 78–102 |
+ID1691,Merge Q3003,0.0,| Hemoglobin (g/dL) | 13 | 12–16 |
+ID1691,Merge Q3003,-0.0,| Albumin (g/dL) | 4.5 | 3.6–5.2 |
+ID1691,Merge Q3003,-0.0504678098753614,| Serum ceruloplasmin (mg/dL) | 19 | 20.8–43.2 |
+ID1691,Merge Q3003,-0.0776152631935822,| Total bilirubin (mg/dL) | 0.9 | <1.5 |
+ID1691,Merge Q3003,-0.0869379135768776,| Hematocrit (%) | 38.5 | 36.0–46.0 |
+ID1691,Merge Q3003,-0.1003660410642623,| --- | --- | --- |
+ID1691,Merge Q3003,-0.4070069799179528,| Prothrombin time | 13 | 11–14 |
+ID1113,Merge Q303,-0.0,.
+ID1113,Merge Q303,-0.0,Escape will cancel and close the window.This is a modal window.
+ID1113,Merge Q303,0.0,This modal can be closed by pressing the Escape key or activating the close button.
+ID0292,Merge Q3070,-0.0,"A nonstress test is reactive with a baseline heart rate of 140 beats per minute with moderate variability, adequate acce"
+ID0292,Merge Q3070,0.0,| Urine protein-to-creatinine ratio (mg/mg) | 0.35 | <0.20 |
+ID0292,Merge Q3070,0.0,| 24-hour protein excretion (mg) | 325 | 0–254 |
+ID0292,Merge Q3070,0.0,| Aspartate aminotransferase (U/liter) | 14 | 4–32 |
+ID0292,Merge Q3070,0.0,| Creatinine (mg/dL) | 0.7 | 0.4–0.9 |
+ID0292,Merge Q3070,0.0,| Alanine aminotransferase (U/liter) | 10 | 2–25 |
+ID0292,Merge Q3070,-0.1125884322716246,| Hematocrit (%) | 37 | 28–40 |
+ID0292,Merge Q3070,-0.2464783600229504,"| Platelet count (per mm3) | 350,000 | 146,000–429,000 |"
+ID0292,Merge Q3070,-0.2487294861587163,| --- | --- | --- |
+ID0292,Merge Q3070,-0.2951144407561321,|  | Patient value | Reference range |
+ID1164,Merge Q310,0.0,.
+ID1585,Merge Q324,-0.0,.
+ID0458,Merge Q3284,38.1428888656395,Abdominal radiography demonstrates several radiopaque objects in the stomach.
+ID0458,Merge Q3284,-0.0,  - Creatinine: 1.0 mg/dL
+ID0458,Merge Q3284,0.0,  - Glucose: 99 mg/dL
+ID0458,Merge Q3284,0.0,  - BUN: 20 mg/dL
+ID0458,Merge Q3284,0.0,  - HCO3-: 11 mEq/L
+ID0458,Merge Q3284,-0.0,  - Na+: 140 mEq/L
+ID0458,Merge Q3284,0.0,  - K+: 3.9 mEq/L
+ID0458,Merge Q3284,-2.2945337412696105,  - Cl-: 101 mEq/L
+ID1031,Merge Q3289,0.3851258456707001,  - HCO₃⁻: 23 mEq/L
+ID1031,Merge Q3289,0.2807166624225203,- Serum:
+ID1031,Merge Q3289,0.1602044681053281,  - Protein: Positive
+ID1031,Merge Q3289,0.0,  - Creatinine: 2.2 mg/dL (baseline 1.9 mg/dL)
+ID1031,Merge Q3289,0.0,"The patient is admitted and treated appropriately, leading to resolution of her symptoms."
+ID1031,Merge Q3289,0.0,  - Blood: Negative
+ID1031,Merge Q3289,0.0,- Urine:
+ID1031,Merge Q3289,-0.0,  - Ca²⁺: 9.8 mg/dL
+ID1031,Merge Q3289,-0.0,  - Glucose: 156 mg/dL
+ID1031,Merge Q3289,0.0,- Hematocrit: 36%
+ID1031,Merge Q3289,0.0,"- Leukocyte count: 5,500/mm³ with normal differential"
+ID1031,Merge Q3289,-0.0,"- Platelet count: 117,000/mm³"
+ID1031,Merge Q3289,-0.0340320278495307,  - Cl⁻: 101 mEq/L
+ID1031,Merge Q3289,-0.1462476091416009,  - Na⁺: 141 mEq/L
+ID1031,Merge Q3289,-0.2182789519429206,  - BUN: 29 mg/dL
+ID1031,Merge Q3289,-0.255180011941655,  - Color: Amber
+ID1031,Merge Q3289,-0.3286135932175019,  - K⁺: 5.0 mEq/L
+ID1031,Merge Q3289,-0.5183273264584591,- Hemoglobin: 12 g/dL
+ID1742,Merge Q3295,0.0,"Despite bimanual uterine massage and administration of oxytocin, the bleeding persists."
+ID1742,Merge Q3295,-0.0,"| Platelet count | 140,000/mm³ |"
+ID1742,Merge Q3295,-0.0,"| Leukocyte count | 9,000/mm³ |"
+ID1742,Merge Q3295,0.0,| Partial thromboplastin time | 38 seconds |
+ID1742,Merge Q3295,0.0,| Prothrombin time | 14 seconds |
+ID1742,Merge Q3295,0.0,| --- | --- |
+ID1742,Merge Q3295,-0.0,| Hematocrit | 32.3% |
+ID1742,Merge Q3295,-0.0,| Hemoglobin | 10.8 g/dL |
+ID0541,Merge Q335,0.0,.
+ID1654,Merge Q3350,0.9438300011768088,- Temperature: 39.1°C (102.4°F)
+ID1654,Merge Q3350,0.3773720651995971,The patient is oriented to person and place but not time.
+ID1654,Merge Q3350,0.139270547057315,- Blood pressure: 90/60 mmHg
+ID1654,Merge Q3350,0.0007287994930896,- Pulse: 120/min
+ID1654,Merge Q3350,0.0,- Respirations: 20/min
+ID1357,Merge Q3369,5.9884067785854045,- White blood cells: 2+
+ID1357,Merge Q3369,4.354853811668458,- Nitrites: 1+
+ID1357,Merge Q3369,-0.0,A urine culture has been ordered.
+ID1357,Merge Q3369,-0.0,- Blood: trace
+ID1357,Merge Q3369,0.0,- pH: 5
+ID0466,Merge Q34,0.0,.
+ID1789,Merge Q3415,0.8019546996112019,- Follicle-Stimulating Hormone (FSH): 16.2 mIU/mL (normal: 4.7–21.5 mIU/mL)
+ID1789,Merge Q3415,0.6439752252845099,- ALT: 11 U/L
+ID1789,Merge Q3415,0.6383025796390346,- K⁺: 4.1 mEq/L
+ID1789,Merge Q3415,0.3288271889916173,- Cl⁻: 100 mEq/L
+ID1789,Merge Q3415,0.2729704678058624,- Urea nitrogen: 12 mg/dL
+ID1789,Merge Q3415,0.2704974861674459,- AST: 11 U/L
+ID1789,Merge Q3415,0.1118752476276949,- Na⁺: 139 mEq/L
+ID1789,Merge Q3415,0.0,- Ca²⁺: 9.7 mg/dL
+ID1789,Merge Q3415,-0.0,- Glucose: 73 mg/dL
+ID1789,Merge Q3415,-0.0,- Creatinine: 0.9 mg/dL
+ID1789,Merge Q3415,0.0,- HCO₃⁻: 24 mEq/L
+ID1789,Merge Q3415,-0.2204207966291584,- Estrogen: 240 pg/mL (normal: 64–357 pg/mL)
+ID1789,Merge Q3415,-0.2303799304099708,- Mg²⁺: 1.7 mEq/L
+ID1789,Merge Q3415,-2.1712758205053158,An abdominal ultrasound reveals a normal uterus and ovaries.
+ID1674,Merge Q343,0.3297650561368416,.
+ID1084,Merge Q345,0.0,.
+ID0422,Merge Q353,-0.0,.
+ID0488,Merge Q360,0.7321837127018951,.
+ID1859,Merge Q364,-0.0,.
+ID1981,Merge Q406,0.0,.
+ID0660,Merge Q413,-0.0226186249487987,.
+ID1247,Merge Q415,-0.0,.
+ID1015,Merge Q421,0.206702494339616,"D, Hematoxylin and eosin stain (original magnification × 200)."
+ID1015,Merge Q421,0.0,.
+ID1015,Merge Q421,0.0,"B, Hematoxylin and eosin stain (original magnification × 5)."
+ID1015,Merge Q421,0.0,"C, Hematoxylin and eosin stain (original magnification × 200)."
+ID0683,Merge Q422,-0.0,.
+ID0494,Merge Q427,-0.0,.
+ID0904,Merge Q431,-0.2386777105563997,.
+ID0859,Merge Q434,-0.0,.
+ID0669,Merge Q437,0.0,.
+ID0669,Merge Q437,0.0,"B, Axial T2-weighted magnetic resonance image showing dysgenesis of the left cerebellar hemisphere (arrowhead) and vermi"
+ID0472,Merge Q444,-0.0,.
+ID0093,Merge Q446,0.0960067564763413,.
+ID0364,Merge Q448,0.0,.
+ID1734,Merge Q454,-0.0,.
+ID1005,Merge Q457,-0.0,.
+ID1791,Merge Q470,-0.0,.
+ID1485,Merge Q478,0.3685236260016267,.
+ID1110,Merge Q481,0.0,.
+ID1121,Merge Q486,0.0,.
+ID0522,Merge Q491,1.0631957614179963,.
+ID1505,Merge Q492,0.4553283176025119,.
+ID1321,Merge Q508,0.0,.
+ID1573,Merge Q51,2.56095337813294,.
+ID1893,Merge Q52,0.0796339936732307,Intraocular pressures were 4 mm Hg ODand 13 mm Hg OS.
+ID1215,Merge Q523,0.6632353580175498,"A, Papules on the back with white atrophic center and an erythematous rim."
+ID1215,Merge Q523,0.2049074786690404,"B, Lesions on the thigh similar to those of the back, alongside atrophic white scars."
+ID1215,Merge Q523,-0.2761960213962978,.
+ID1366,Merge Q528,0.0,.
+ID1464,Merge Q532,-0.0,.
+ID0710,Merge Q533,0.0,.
+ID0747,Merge Q537,-0.0,.
+ID0302,Merge Q539,0.4806328415870666,.
+ID0302,Merge Q539,0.4372845268176084,Nothing proximal to the midtransverse colon was visualized because of a large fecal burden.
+ID0703,Merge Q544,0.2412273972498645,.
+ID1014,Merge Q546,-0.2357453107833862,.
+ID1807,Merge Q550,-0.0,.
+ID0324,Merge Q552,-0.0,.
+ID1002,Merge Q560,0.8036087179958085,.
+ID1132,Merge Q569,0.0,.
+ID1747,Merge Q57,-0.0,.
+ID1747,Merge Q57,-0.0,"B, Orbital computed tomography on presentation, demonstrating preseptal and periorbital soft tissue swelling and edema w"
+ID1747,Merge Q57,0.0,There was no substantial proptosis or orbital masses.
+ID0837,Merge Q588,0.1227404552760106,.
+ID1679,Merge Q600,0.0716016931098738,.
+ID1349,Merge Q606,-0.0,.
+ID1430,Merge Q618,-0.0,.
+ID1842,Merge Q619,0.0,.
+ID1001,Merge Q622,0.0,.
+ID1048,Merge Q623,0.0,.
+ID1162,Merge Q634,0.0,.
+ID1162,Merge Q634,0.0,"Right, Immunohistochemical staining of biopsy sample (immunohistochemical stain for CD138, original magnification ×400)."
+ID0718,Merge Q636,0.0,.
+ID0453,Merge Q639,-0.0,.
+ID0296,Merge Q654,-0.0,.
+ID1347,Merge Q659,0.0,.
+ID1229,Merge Q662,0.1094044148921966,.
+ID1197,Merge Q674,-0.0,"A 28-year-old man presented with abdominal pain and diarrhea (10-12 Bristol type 7 stools per day; Bristol scale range, "
+ID1197,Merge Q674,-0.2350461020911346,.
+ID1090,Merge Q683,-0.3992699304898013,.
+ID1855,Merge Q690,-0.394767117112749,.
+ID1076,Merge Q694,-0.0,.
+ID1354,Merge Q701,-0.0,.
+ID0400,Merge Q722,0.0236391792631684,.
+ID1068,Merge Q724,-0.0,.
+ID0332,Merge Q731,1.2348474599468444,.
+ID1663,Merge Q732,0.0,.
+ID0894,Merge Q74,0.0,.
+ID1450,Merge Q740,-0.0,.
+ID0352,Merge Q747,0.0,.
+ID1387,Merge Q759,-0.0521270905755609,.
+ID1401,Merge Q761,0.0484224526106668,Escape will cancel and close the window.This is a modal window.
+ID0490,Merge Q771,0.1111853303137562,Left-heart catheterization demonstrated nonocclusive coronary artery disease.
+ID0490,Merge Q771,-0.0,.
+ID1802,Merge Q779,0.0,.
+ID1266,Merge Q782,0.8894430713275706,"Magnetic resonance imaging (MRI) of the brain was reported to have normal results, but on review, we noted thickening an"
+ID1266,Merge Q782,0.2313716990033713,"A, Thickening and enlargement of both optic nerves (with greater intensity in the right eye than the left eye)."
+ID1966,Merge Q785,0.0,.
+ID0421,Merge Q788,0.1915718208388128,.
+ID0534,Merge Q790,0.0,.
+ID0834,Merge Q794,0.2822425812482834,.
+ID0834,Merge Q794,-0.0,"seen.Dome-shaped, red-brown papules and nodules affecting the shoulder (A) and upper extremities (B)"
+ID0834,Merge Q794,0.0,of the patient.
+ID1244,Merge Q80,0.1853440544672567,.
+ID0826,Merge Q812,-0.3154773022950096,.
+ID1513,Merge Q82,0.0,.
+ID1531,Merge Q827,-0.0,.
+ID1022,Merge Q833,-0.0332994015325768,.
+ID1797,Merge Q848,0.0,.
+ID0602,Merge Q860,0.0,.
+ID0726,Merge Q865,-0.0,.
+ID1017,Merge Q875,-0.0,.
+ID1459,Merge Q885,-0.154089351842011,.
+ID1986,Merge Q89,0.0,.
+ID1918,Merge Q890,0.0,.
+ID1769,Merge Q903,0.0,.
+ID0471,Merge Q905,-0.2494120909616918,.
+ID0334,Merge Q908,6.837854766168335,"Right, Pigmented, macular rash on plantar surface of left foot."
+ID0334,Merge Q908,-0.0,.
+ID1887,Merge Q913,-0.1099501677174398,.
+ID1970,Merge Q917,0.0,.
+ID1077,Merge Q921,1.7146299621653822,This modal can be closed by pressing the Escape key or activating the close button.Obtain a whole-body fluorodeoxyglucos
+ID1077,Merge Q921,-0.0147315114736557,Escape will cancel and close the window.This is a modal window.
+ID1959,Merge Q930,0.0093057751655578,.
+ID0731,Merge Q942,-0.0,Escape will cancel and close the window.This is a modal window.
+ID0731,Merge Q942,-0.4243745654821396,This modal can be closed by pressing the Escape key or activating the close button.Perform magnetic resonance imaging of
+ID1672,Merge Q983,2.399058380191071,.
+ID1574,Merge Q985,0.0,.
+ID0467,Merge Q990,-0.0,.
+ID1651,Merge Q995,-1.812057575813113,.

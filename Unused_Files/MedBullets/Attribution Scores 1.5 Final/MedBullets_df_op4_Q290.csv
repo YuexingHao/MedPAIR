@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.92414139211178,"He says that he notes numbness, vertigo, and sometimes even trouble with speaking immediately prior to fainting.",289,MedBullets_df_op4_Q290,A
+44.86183464031696,"His temperature is 98.5°F (36.9°C), blood pressure is 153/89 mmHg, pulse is 90/min, respirations are 11/min, and oxygen saturation is 97% on room air.",289,MedBullets_df_op4_Q290,A
+43.21299404286165,A 67-year-old man presents with a recurrent episode of syncope.,289,MedBullets_df_op4_Q290,A
+34.15196322154732,"However, when he is asked to stand up and start walking, he experiences the same numbness and tingling and feels like he may faint.",289,MedBullets_df_op4_Q290,A
+21.68617245939952,"The patient has a past medical history of diabetes, dyslipidemia, and hypertension.",289,MedBullets_df_op4_Q290,A
+8.649554297855067,The episodes usually last 1-5 minutes.,289,MedBullets_df_op4_Q290,A
+7.96064757788978,"When he wakes up, he is mildly confused but typically returns to baseline within a minute.",289,MedBullets_df_op4_Q290,A
+0.0,"He states that this has happened to him multiple times, particularly when he changes body position from sitting to standing, exerts himself, or turns his head quickly.",289,MedBullets_df_op4_Q290,A

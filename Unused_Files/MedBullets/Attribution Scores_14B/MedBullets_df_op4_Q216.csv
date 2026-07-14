@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+25.73999977482697,"His temperature is 99.5°F (37.5°C), blood pressure is 148/90 mmHg, pulse is 84/min, and respirations are 15/min.",215,MedBullets df_op4 Q216,C
+16.796298071742058,"He exercises twice a day, often with heavy weightlifting, and eats a high-protein diet.",215,MedBullets df_op4 Q216,C
+15.478294668377183,He also has palpable tissue underneath his nipples bilaterally.,215,MedBullets df_op4 Q216,C
+12.924866610533261,Physical exam reveals small testes and a receding hairline.,215,MedBullets df_op4 Q216,C
+11.046308261793323,A 31-year-old man presents to clinic for evaluation of a 3-year history of infertility.,215,MedBullets df_op4 Q216,C
+8.611212169501698,His muscle tone is normal in his upper and lower extremities bilaterally.,215,MedBullets df_op4 Q216,C
+5.551071287712216,He reports occasional alcohol use and remote marijuana use.,215,MedBullets df_op4 Q216,C
+0.0,He is sexually active with his wife and has no history of sexually transmitted infections.,215,MedBullets df_op4 Q216,C
+0.0,He has no significant medical history and takes no medications.,215,MedBullets df_op4 Q216,C

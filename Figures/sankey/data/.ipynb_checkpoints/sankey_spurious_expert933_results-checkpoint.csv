@@ -1,0 +1,36 @@
+row_type,model,model_index_json,sankey_subplot_row,sankey_subplot_col,medpair_source,n_expert_qa_in_source,round1_correct,round2_incorrect_spurious,round2_still_correct,pct_spurious_among_round1_correct,eval_n_correct_round1,eval_n_correct_round2,eval_n_spurious_r1c_r2w,eval_n_recovered_r1w_r2c,eval_net_drop_in_correct_answers
+physicians_by_medpair_source,Physicians,,1,2,MMLU,192,192,5,187,2.6042,,,,,
+physicians_by_medpair_source,Physicians,,1,2,JAMA,295,295,85,210,28.8136,,,,,
+physicians_by_medpair_source,Physicians,,1,2,MedXpert,286,286,162,124,56.6434,,,,,
+physicians_by_medpair_source,Physicians,,1,2,MedBullets,160,160,21,139,13.125,,,,,
+physicians_pooled_over_sources,Physicians,,1,2,ALL_SOURCES_SUM,933,933,273,660,29.2605,,,,,
+by_medpair_source,GPT4o,0,3,2,MMLU,192,187,4,183,2.139,,,,,
+by_medpair_source,GPT4o,0,3,2,JAMA,295,244,17,227,6.9672,,,,,
+by_medpair_source,GPT4o,0,3,2,MedXpert,286,76,13,63,17.1053,,,,,
+by_medpair_source,GPT4o,0,3,2,MedBullets,160,135,5,130,3.7037,,,,,
+by_medpair_source,GPT 5,1,3,3,MMLU,192,189,2,187,1.0582,,,,,
+by_medpair_source,GPT 5,1,3,3,JAMA,295,259,19,240,7.3359,,,,,
+by_medpair_source,GPT 5,1,3,3,MedXpert,286,205,21,184,10.2439,,,,,
+by_medpair_source,GPT 5,1,3,3,MedBullets,160,152,5,147,3.2895,,,,,
+by_medpair_source,Qwen-14B,2,2,3,MMLU,192,167,15,152,8.982,,,,,
+by_medpair_source,Qwen-14B,2,2,3,JAMA,295,203,39,164,19.2118,,,,,
+by_medpair_source,Qwen-14B,2,2,3,MedXpert,286,65,18,47,27.6923,,,,,
+by_medpair_source,Qwen-14B,2,2,3,MedBullets,160,99,6,93,6.0606,,,,,
+by_medpair_source,Qwen 72B,3,2,1,MMLU,192,164,27,137,16.4634,,,,,
+by_medpair_source,Qwen 72B,3,2,1,JAMA,295,176,38,138,21.5909,,,,,
+by_medpair_source,Qwen 72B,3,2,1,MedXpert,286,74,26,48,35.1351,,,,,
+by_medpair_source,Qwen 72B,3,2,1,MedBullets,160,113,18,95,15.9292,,,,,
+by_medpair_source,Llama-70B,4,2,2,MMLU,192,153,9,144,5.8824,,,,,
+by_medpair_source,Llama-70B,4,2,2,JAMA,295,186,26,160,13.9785,,,,,
+by_medpair_source,Llama-70B,4,2,2,MedXpert,286,73,31,42,42.4658,,,,,
+by_medpair_source,Llama-70B,4,2,2,MedBullets,160,95,13,82,13.6842,,,,,
+by_medpair_source,MedGemma-27B,5,3,1,MMLU,192,104,17,87,16.3462,,,,,
+by_medpair_source,MedGemma-27B,5,3,1,JAMA,295,39,8,31,20.5128,,,,,
+by_medpair_source,MedGemma-27B,5,3,1,MedXpert,286,38,21,17,55.2632,,,,,
+by_medpair_source,MedGemma-27B,5,3,1,MedBullets,160,69,16,53,23.1884,,,,,
+model_pooled_over_sources,GPT4o,0,3,2,ALL_SOURCES_SUM,933,642,39,603,6.0748,642,690,39,87,-48
+model_pooled_over_sources,GPT 5,1,3,3,ALL_SOURCES_SUM,933,805,47,758,5.8385,805,800,47,42,5
+model_pooled_over_sources,Qwen-14B,2,2,3,ALL_SOURCES_SUM,933,534,78,456,14.6067,534,530,78,74,4
+model_pooled_over_sources,Qwen 72B,3,2,1,ALL_SOURCES_SUM,933,527,109,418,20.6831,527,516,109,98,11
+model_pooled_over_sources,Llama-70B,4,2,2,ALL_SOURCES_SUM,933,507,79,428,15.5819,507,605,79,177,-98
+model_pooled_over_sources,MedGemma-27B,5,3,1,ALL_SOURCES_SUM,933,250,62,188,24.8,250,504,62,316,-254

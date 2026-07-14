@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+38.46907749706584,Her grand-aunt underwent bilateral mastectomies after being diagnosed with breast cancer at age 60.,112,MedBullets df_op4 Q113,C
+28.510186536332363,"Her mother has diabetes and coronary artery disease, and her father passed away at age 45 after being diagnosed with colon cancer at age 40.",112,MedBullets df_op4 Q113,C
+9.669348423289641,"She is sexually active with 2 partners, who use condoms routinely.",112,MedBullets df_op4 Q113,C
+-0.0,"Her temperature is 36.7°C (98°F), blood pressure is 115/80 mmHg, pulse is 65/min, respirations are 12/min, and oxygen saturation is 100% on room air.",112,MedBullets df_op4 Q113,C
+-0.0,Her physical exam is within normal limits.,112,MedBullets df_op4 Q113,C
+0.0,Her prior pap smear was performed last year and was normal.,112,MedBullets df_op4 Q113,C
+0.0,"Her periods have been regular, occurring once every 28 to 30 days with normal flow.",112,MedBullets df_op4 Q113,C
+0.0,All of her age appropriate immunizations are up to date.,112,MedBullets df_op4 Q113,C
+0.0,She takes oral contraceptive pills and a multivitamin daily.,112,MedBullets df_op4 Q113,C
+0.0,"Aside from occasional shin splints, she has a relatively unremarkable medical history.",112,MedBullets df_op4 Q113,C
+0.0,A 25-year-old woman presents for a new patient physical exam.,112,MedBullets df_op4 Q113,C

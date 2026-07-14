@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+110.42883865992691,"On physical exam, the patient has upslanting palpebral fissures, epicanthal folds, and a single transverse palmar crease.",161,MedBullets_df_op4_Q162,C
+65.6736670191126,A 2-day-old boy has an episode of vomiting in the hospital nursery.,161,MedBullets_df_op4_Q162,C
+62.65745210647583,He was born at 37 weeks of gestation to a 38-year-old G3P3 woman.,161,MedBullets_df_op4_Q162,C
+53.593954227301204,Digital rectal exam evacuates a small amount of stool and flatulence.,161,MedBullets_df_op4_Q162,C
+48.71674527300951,The patient has urinated several times since he was born but has not passed any stool.,161,MedBullets_df_op4_Q162,C
+40.4103119299521,"His abdomen is non-tender, firm, and distended.",161,MedBullets_df_op4_Q162,C

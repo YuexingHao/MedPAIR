@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+54.86905984666443,The patient has multiple loose bowel movements and on day 6 the patient’s surgical wound does not appear to be healing.,111,MedBullets df_op4 Q112,B
+45.030900686979294,"His temperature is 97.5°F (36.4°C), blood pressure is 92/52 mmHg, pulse is 145/min, respirations are 33/min, and oxygen saturation is 90% on room air.",111,MedBullets df_op4 Q112,B
+41.509542091396945,A 44-year-old homeless man presents to the emergency department after being stabbed multiple times in the abdomen.,111,MedBullets df_op4 Q112,B
+40.28544853285598,It is held together only by the sutures with minimal underlying healing.,111,MedBullets df_op4 Q112,B
+19.974326973508138,"He is intubated to protect his airway, given 2 units of packed red blood cells, and sent to the operating room for an exploratory laparotomy.",111,MedBullets df_op4 Q112,B
+16.57617157675872,He is extubated the next day and appears well.,111,MedBullets df_op4 Q112,B
+16.15471634679795,Physical exam reveals sparse hair that is falling out throughout the patient’s body.,111,MedBullets df_op4 Q112,B
+14.984935011798726,He has a rash by the corners of his mouth.,111,MedBullets df_op4 Q112,B
+-0.0,His vitals are within normal limits.,111,MedBullets df_op4 Q112,B
+0.0,The patient is subsequently admitted to the intensive care unit.,111,MedBullets df_op4 Q112,B
+0.0,The patient is intoxicated and is unable to offer further history.,111,MedBullets df_op4 Q112,B

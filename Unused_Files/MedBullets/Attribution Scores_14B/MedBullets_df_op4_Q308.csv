@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+61.452507967372746,"A 26-year-old woman presents to the emergency department because she feels as though her heart is ""beating out of her chest.""",307,MedBullets df_op4 Q308,C
+57.405893951654434,"Her temperature is 97.9°F (36.6°C), blood pressure is 124/84 mmHg, pulse is 180/min, respirations are 22/min, and oxygen saturation is 98% on room air.",307,MedBullets df_op4 Q308,C
+46.13776512833936,"After unsuccessful attempts at vagal maneuvers, the emergency physician administers an IV medication.",307,MedBullets df_op4 Q308,C
+45.656128190151534,The effect of the medication wears off in seconds.,307,MedBullets df_op4 Q308,C
+25.59584786382967,An ECG is obtained as seen in Figure A.,307,MedBullets df_op4 Q308,C
+3.7552172421406427,She states that she feels well apart from the discomfort of that sensation.,307,MedBullets df_op4 Q308,C

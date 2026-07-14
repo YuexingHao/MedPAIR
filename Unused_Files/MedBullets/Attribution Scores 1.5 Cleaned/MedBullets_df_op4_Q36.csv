@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.7792332779124,"Approximately 5 weeks ago, he presented with similar symptoms and was found to have a right upper lobe lung infiltrate, a CD4 count of 40/mm^3, and an HIV viral load of 115,000 copies/mL.",35,MedBullets df_op4 Q36,
+36.49741291804006,"Four weeks after initiation of treatment, his CD4 count was over 400/mm^3 and HIV viral load was negligible.",35,MedBullets df_op4 Q36,
+19.653958622927284,"His temperature today is 102°F (38.9°C), blood pressure is 130/90 mmHg, pulse is 100/min, and respirations are 20/min.",35,MedBullets df_op4 Q36,
+17.308277130126953,He denies any recent travel or sick contacts and infrequently smokes cigarettes.,35,MedBullets df_op4 Q36,
+0.3906586931492555,A radiograph of the chest demonstrates new nodules in the left upper lobe and hilar adenopathy.,35,MedBullets df_op4 Q36,

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+21.690798430700486,"He has never had any serious injuries but that he always seems to bruise easily, especially after he started playing soccer this fall.",174,MedBullets df_op4 Q175,B
+11.332524273914165,"He has dull, aching pain along his left side where he hit the ground.",174,MedBullets df_op4 Q175,B
+10.097437033588887,A 6-year-old boy presents to the emergency department after falling from his scooter.,174,MedBullets df_op4 Q175,B
+4.041794780641794,He fell sideways off the scooter as he rounded a curve in the road.,174,MedBullets df_op4 Q175,B
+2.1242620568891937,His mother notes that her brother has had similar problems.,174,MedBullets df_op4 Q175,B
+0.0,"On physical exam, the patient has extensive bruising of the lateral left thigh and tenderness to palpation.",174,MedBullets df_op4 Q175,B
+0.0,His parents deny that he has an abnormal number of nosebleeds or bleeding from the gums.,174,MedBullets df_op4 Q175,B
+-0.0,"His temperature is 98.6°F (37°C), blood pressure is 112/74 mmHg, pulse is 82/min, and respirations are 11/min.",174,MedBullets df_op4 Q175,B
+0.0,They have never seen blood in his stool or urine.,174,MedBullets df_op4 Q175,B

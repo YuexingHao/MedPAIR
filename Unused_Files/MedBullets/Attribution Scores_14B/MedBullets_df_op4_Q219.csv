@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.164034829907465,"When focusing on the pediatrician's penlight, the patient's left eye wanders.",218,MedBullets df_op4 Q219,D
+28.753695760870173,"The rest of his neurological exam, including extraocular movements, is within normal limits.",218,MedBullets df_op4 Q219,D
+26.726911025842984,"He is able to walk alone, speak 3 words, and scribble with a crayon.",218,MedBullets df_op4 Q219,D
+20.55893311914127,"His mother is concerned about his vision, as she noticed him squinting while watching television.",218,MedBullets df_op4 Q219,D
+8.700465388044211,"His temperature is 98.6°F (37.0°C), blood pressure is 80/55 mmHg, pulse is 105/min, and respirations are 25/min.",218,MedBullets df_op4 Q219,D
+5.126867540180683,The patient was born at 39 weeks of gestation via spontaneous vaginal delivery.,218,MedBullets df_op4 Q219,D
+5.104302114226189,"On exam, his pupils are round and reactive to light.",218,MedBullets df_op4 Q219,D
+0.0,"However, when the right eye is covered, the left eye refocuses on the light.",218,MedBullets df_op4 Q219,D
+-0.0,A photograph of his eyes is shown in Figure A.,218,MedBullets df_op4 Q219,D
+0.0,He is up to date with routine vaccinations.,218,MedBullets df_op4 Q219,D
+0.0,A 15-month-old boy presents with his mother for his well-child exam.,218,MedBullets df_op4 Q219,D

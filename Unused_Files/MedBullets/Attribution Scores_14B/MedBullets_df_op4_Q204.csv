@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+36.49195657687481,A 25-year-old man presents to his primary care physician for trouble with focus and concentration.,203,MedBullets df_op4 Q204,D
+24.062239041331704,He has tried going to bed early for the past month but is unable to fall asleep until 2 hours prior to his alarm.,203,MedBullets df_op4 Q204,D
+19.524214366295176,The patient fears that if this continues he will lose his job.,203,MedBullets df_op4 Q204,D
+15.708160622900504,The patient states that he feels fatigued all the time and sometimes will suddenly fall asleep while operating equipment.,203,MedBullets df_op4 Q204,D
+14.902623909634977,His boss will have to yell at him to startle him back to work.,203,MedBullets df_op4 Q204,D
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 112/68 mmHg, pulse is 81/min, and respirations are 12/min.",203,MedBullets df_op4 Q204,D
+0.0,A physical exam is within normal limits.,203,MedBullets df_op4 Q204,D
+0.0,"His boss often observes him ""daydreaming"" with a blank stare off into space.",203,MedBullets df_op4 Q204,D
+0.0,He is unable to stay focused on any task.,203,MedBullets df_op4 Q204,D
+0.0,"Ever since the patient started working, he has had trouble focusing on his job.",203,MedBullets df_op4 Q204,D
+0.0,He states that he lives at home with his parents his entire life and recently was able to get a job at a local factory.,203,MedBullets df_op4 Q204,D

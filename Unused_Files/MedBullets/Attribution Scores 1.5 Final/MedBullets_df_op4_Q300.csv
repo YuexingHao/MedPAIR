@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+95.6708801707986,"A 48-year-old woman, gravida 3 para 3, presents to the clinic with a 5-month history of intermittent loss of urine.",299,MedBullets_df_op4_Q300,A
+95.4318369179964,"Her urinary leaking occurs throughout the day and night, and she often has to get up to use the bathroom while asleep.",299,MedBullets_df_op4_Q300,A
+77.42029014930195,"Her urinalysis is unremarkable, and her postvoid residual volume is 40 mL.",299,MedBullets_df_op4_Q300,A
+67.18682408098577,She states that she often cannot make it to the bathroom in time once she senses a need to void.,299,MedBullets_df_op4_Q300,A
+41.3485406050163,"On pelvic examination, there is no dribbling of urine when the patient coughs.",299,MedBullets_df_op4_Q300,A
+33.414092733354,Exercising does not affect the loss of urine.,299,MedBullets_df_op4_Q300,A
+-0.0,Her last menstrual period was 2 weeks ago.,299,MedBullets_df_op4_Q300,A
+0.0,Physical exam is otherwise unremarkable.,299,MedBullets_df_op4_Q300,A

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+89.54005797639807,"His medical history is significant for chronic renal failure for which he received a renal transplant 5 years prior, as well as multiple surgeries for skin cancer.",236,MedBullets_df_op4_Q237,A
+74.28641325121096,"His current medications include aspirin, atorvastatin, prednisone, tacrolimus, and mycophenolate mofetil.",236,MedBullets_df_op4_Q237,A
+37.01050089299679,He endorses trauma to the area when he accidentally scraped his hand against a window and notes that there was some bleeding.,236,MedBullets_df_op4_Q237,A
+29.396523350706932,A 66-year-old man presents to the clinic for evaluation of a skin lesion on his hand.,236,MedBullets_df_op4_Q237,A
+18.82289905993877,Physical exam is notable for a 2 x 2.5 cm nodular lesion of the dorsal hand as seen in Figure A.,236,MedBullets_df_op4_Q237,A
+10.890399794979825,The lesion has grown rapidly over the previous 2 weeks.,236,MedBullets_df_op4_Q237,A
+9.34207081843337,"His temperature is 98.6°F (37°C), blood pressure is 136/91 mmHg, pulse is 82/min, and respirations are 11/min.",236,MedBullets_df_op4_Q237,A

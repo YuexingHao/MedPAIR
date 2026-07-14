@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.41998931369611,"His current medications include metformin, insulin, buspirone, vitamin D, calcium, and sodium docusate.",20,MedBullets df_op4 Q21,C
+47.99766716733575,"He has a medical history of anxiety, diabetes, a fracture of his foot sustained when he tripped, and a recent cold that caused him to miss work for 1 week.",20,MedBullets df_op4 Q21,C
+22.87134302102539,"His temperature is 99.5°F (37.5°C), blood pressure is 150/100 mmHg, pulse is 90/min, respirations are 18/min, and oxygen saturation is 98% on room air.",20,MedBullets df_op4 Q21,C
+4.7891643167821165,"In general, he has been in good health; however, he recently has experienced weight loss, abdominal pain, and general fatigue.",20,MedBullets df_op4 Q21,C
+3.5436413403961597,A 59-year-old man presents to his primary care physician for fatigue.,20,MedBullets df_op4 Q21,C
+0.0,Laboratory values are ordered as seen below.,20,MedBullets df_op4 Q21,C
+0.0,Physical exam reveals a calm gentleman.,20,MedBullets df_op4 Q21,C
+0.0,The rest of the physical exam is within normal limits.,20,MedBullets df_op4 Q21,C
+0.0,A mild systolic murmur is heard in the left upper sternal region.,20,MedBullets df_op4 Q21,C

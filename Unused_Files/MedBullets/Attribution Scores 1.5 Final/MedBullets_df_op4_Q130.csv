@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.54412297155187,A 3-day-old boy is evaluated in the neonatal intensive care unit for failure to pass meconium.,129,MedBullets_df_op4_Q130,D
+79.3596693277359,"His abdomen is firm, non-tender, and distended with hypoactive bowel sounds.",129,MedBullets_df_op4_Q130,D
+78.96509194154042,He was born at 39 weeks gestation to a 38-year-old G3P3 mother.,129,MedBullets_df_op4_Q130,D
+53.273933528013735,"The patient's temperature is 98.2°F (36.8°C), blood pressure is 48/32 mmHg, pulse is 164/min, and respirations are 48/min.",129,MedBullets_df_op4_Q130,D
+39.31229021062218,The patient has had 2 episodes of vomiting that were described as green in color.,129,MedBullets_df_op4_Q130,D
+30.609952737083763,A digital rectal exam fails to relieve the obstruction.,129,MedBullets_df_op4_Q130,D
+16.860187177531607,The patient is otherwise doing well and feeding every 2 hours.,129,MedBullets_df_op4_Q130,D
+11.969114598603186,"The pregnancy was uncomplicated, and the patient’s mother received routine prenatal care.",129,MedBullets_df_op4_Q130,D
+10.960083674570273,One of the patient’s older siblings has Down syndrome.,129,MedBullets_df_op4_Q130,D
+6.0347241588262674,She declined prenatal testing.,129,MedBullets_df_op4_Q130,D
+4.274029050235814,He is urinating 8-10 times per day.,129,MedBullets_df_op4_Q130,D
+-0.0,An abdominal radiograph is performed and the result can be seen in Figure A.,129,MedBullets_df_op4_Q130,D
+-0.0,"On physical exam, the patient is in no acute distress.",129,MedBullets_df_op4_Q130,D

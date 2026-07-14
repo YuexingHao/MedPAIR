@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.9395305760757,"Her temperature is 98°F (36.7°C), blood pressure is 111/72 mmHg, pulse is 65/min, and respirations are 14/min with an oxygen saturation of 99% on room air.",18,MedBullets df_op4 Q19,B
+49.39048227131328,A 15-year-old girl is brought to the clinic because her mother is worried the patient has not yet had her period.,18,MedBullets df_op4 Q19,B
+43.64949875829805,Her medications include albuterol and topical triamcinolone.,18,MedBullets df_op4 Q19,B
+33.384372352755285,Serum follicle-stimulating hormone (FSH) level is measured to be 38 mIU/mL.,18,MedBullets df_op4 Q19,B
+25.825583361587597,The patient reports she is doing well in school and is on the varsity basketball team.,18,MedBullets df_op4 Q19,B
+23.47136518363285,Her medical history is significant for asthma and atopic dermatitis.,18,MedBullets df_op4 Q19,B
+23.31971454732785,Physical exam shows absent breast development and external genitalia at Tanner stage 1.,18,MedBullets df_op4 Q19,B
+5.62873178751991,The patient’s older sister had her first period at age 14.,18,MedBullets df_op4 Q19,B
+2.597834297248055,Her body mass index (BMI) is 19 kg/m^2.,18,MedBullets df_op4 Q19,B
+2.308948189020157,The mother had her first period at age 13.,18,MedBullets df_op4 Q19,B

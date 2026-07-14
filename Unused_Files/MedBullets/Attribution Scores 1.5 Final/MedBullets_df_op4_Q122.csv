@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+95.47255656411956,"Her temperature is 98.6°F (37°C), blood pressure is 92/56 mmHg, pulse is 106/min, and respirations are 23/min.",121,MedBullets_df_op4_Q122,B
+44.93071778139162,"On physical exam, she appears well developed and well nourished, and she is following along her growth curves.",121,MedBullets_df_op4_Q122,B
+26.992791995383968,A girl presents to her pediatrician for a well-child visit.,121,MedBullets_df_op4_Q122,B
+0.0,The child is assessed as developmentally normal.,121,MedBullets_df_op4_Q122,B
+0.0,Her mother reports that she is eating well at home and sleeping well throughout the night.,121,MedBullets_df_op4_Q122,B
+0.0,She seems to have a vocabulary of over 50 words that she uses in 2-word sentences.,121,MedBullets_df_op4_Q122,B
+0.0,She can jump and walk up and down stairs with both feet on each step.,121,MedBullets_df_op4_Q122,B
+0.0,The patient enjoys playing near other children and sometimes argues over toys with her older brother.,121,MedBullets_df_op4_Q122,B

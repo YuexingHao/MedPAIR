@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.525384293820586,"He has a history of hypertension, major depressive disorder, Raynaud disease, and chronic obstructive pulmonary disease (COPD) on 2 liters of oxygen at home.",224,MedBullets df_op4 Q225,C
+33.98669062785596,A 65-year-old man presents to the emergency department with anxiety and intermittent palpitations.,224,MedBullets df_op4 Q225,C
+18.645529438756913,Physical exam is notable for an irregular pulse and scattered end-expiratory wheezes.,224,MedBullets df_op4 Q225,C
+17.9432050514453,"Current medications include lisinopril, inhaled umeclidinium-vilanterol, and as-needed albuterol.",224,MedBullets df_op4 Q225,C
+10.833441331092235,He drinks 4 beers a day and has smoked 1 pack of cigarettes a day for 40 years.,224,MedBullets df_op4 Q225,C
+4.436474055599177,An echocardiogram performed 1 month ago showed a left ventricular ejection fraction of 60-65%.,224,MedBullets df_op4 Q225,C
+1.9638569948733111,An ECG is performed as seen in Figure A.,224,MedBullets df_op4 Q225,C
+0.0,The patient requires 3 liters of oxygen today.,224,MedBullets df_op4 Q225,C
+0.0,"His temperature is 98.9° F (37.2° C), blood pressure is 130/85 mmHg, pulse is 125/min, and respirations are 16/min.",224,MedBullets df_op4 Q225,C
+0.0,"He denies chest pain, shortness of breath, or loss of consciousness.",224,MedBullets df_op4 Q225,C
+0.0,He began feeling the palpitations 3 days ago while eating dinner.,224,MedBullets df_op4 Q225,C

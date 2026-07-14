@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+30.51115753231251,"A 36-year-old woman, G1P1001, presents to her gynecologist for an annual visit.",189,MedBullets df_op4 Q190,C
+26.011676713824272,"The patient’s mother had breast cancer at age 68, and her sister has endometriosis.",189,MedBullets df_op4 Q190,C
+22.978765251562763,"A pelvic exam reveals a non-tender, 12-week-size uterus with an irregular contour.",189,MedBullets df_op4 Q190,C
+20.744768704215076,A transvaginal ultrasound is performed and demonstrates two intramural leiomyomas.,189,MedBullets df_op4 Q190,C
+11.863910147558265,"Her temperature is 98.6°F (37.0°C), blood pressure is 138/74 mmHg, pulse is 80/min, and respirations are 13/min.",189,MedBullets df_op4 Q190,C
+0.0,Her BMI is 32.4 kg/m^2.,189,MedBullets df_op4 Q190,C
+0.0,She states that she feels well and has no complaints.,189,MedBullets df_op4 Q190,C
+0.0,She has a medical history of hypertension for which she takes hydrochlorothiazide.,189,MedBullets df_op4 Q190,C

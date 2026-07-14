@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+118.6605233069615,"Her temperature is 99.5°F (37.5°C), blood pressure is 115/72 mmHg, pulse is 60/min, respirations are 13/min, and oxygen saturation is 98% on room air.",26,MedBullets_df_op4_Q27,C
+50.393516063690186,The patient is started on appropriate first-line therapy and sent home.,26,MedBullets_df_op4_Q27,C
+24.697115920643427,She struggles to sleep and at times can't sleep for several days.,26,MedBullets_df_op4_Q27,C
+19.04487589359454,She states that her limbs feel heavy all the time and that completing any activity takes tremendous effort.,26,MedBullets_df_op4_Q27,C
+8.975908987801512,She is requesting help as her performance at work and school is suffering.,26,MedBullets_df_op4_Q27,C
+8.502132383618838,She has felt tired and unwilling to engage in any activities lately.,26,MedBullets_df_op4_Q27,C
+0.0,A 23-year-old woman presents to her psychiatrist concerned about her mood.,26,MedBullets_df_op4_Q27,C
+0.0,She returns 1 week later stating that her symptoms have not improved.,26,MedBullets_df_op4_Q27,C

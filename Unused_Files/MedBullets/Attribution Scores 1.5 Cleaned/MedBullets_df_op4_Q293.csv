@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+92.59504474043464,"His temperature is 97.9°F (36.6°C), blood pressure is 155/99 mmHg, pulse is 110/min, respirations are 22/min, and oxygen saturation is 98% on room air.",292,MedBullets df_op4 Q293,A
+42.92596282311205,"He is given aspirin and an ECG is performed in triage, as seen in Figure A.",292,MedBullets df_op4 Q293,A
+42.42490850339727,"He is given nitroglycerin, with minimal improvement in his symptoms.",292,MedBullets df_op4 Q293,A
+36.550178247618085,"The patient’s chest pain is worse when the ECG in the emergency department is taken, compared to the one taken in triage.",292,MedBullets df_op4 Q293,A
+31.01625836093697,A troponin level is drawn.,292,MedBullets df_op4 Q293,A
+27.76023631712846,A 55-year-old man presents to the emergency department with chest pressure and diaphoresis.,292,MedBullets df_op4 Q293,A
+27.16200518440185,His symptoms started at work when he was lifting boxes.,292,MedBullets df_op4 Q293,A
+26.50810667872429,He states that he currently feels crushing pressure over his chest.,292,MedBullets df_op4 Q293,A
+19.058791809146456,"A repeat ECG in the emergency department is performed, also seen in Figure A.",292,MedBullets df_op4 Q293,A
+18.64844557000294,His heart and breath sounds are unremarkable.,292,MedBullets df_op4 Q293,A
+13.074910426009666,His past medical history is notable for diabetes and obesity.,292,MedBullets df_op4 Q293,A
+11.84298106124406,He has smoked 1 pack of cigarettes per day for the past 30 years.,292,MedBullets df_op4 Q293,A
+6.792291245596374,"Physical exam reveals an uncomfortable, diaphoretic man.",292,MedBullets df_op4 Q293,A

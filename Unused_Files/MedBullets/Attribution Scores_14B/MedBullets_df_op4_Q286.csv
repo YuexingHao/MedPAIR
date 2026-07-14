@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+58.945753673460175,"The patient is placed under a warm air circulator, and his extremities are bathed in warm water.",285,MedBullets df_op4 Q286,A
+55.20560011267662,"His temperature is 91°F (32.8°C), blood pressure is 103/61 mmHg, pulse is 60/min, respirations are 11/min, and oxygen saturation is 97% on room air.",285,MedBullets df_op4 Q286,A
+45.95199862558449,Dark bullae are noted on the patient's extremities.,285,MedBullets df_op4 Q286,A
+40.527266977144016,A 23-year-old man presents to the emergency department after he was rescued while hiking in Alaska.,285,MedBullets df_op4 Q286,A
+17.837937711151014,The patient was found on a mountain trail non-responsive.,285,MedBullets df_op4 Q286,A
+0.0,An ECG is performed as seen in Figure A.,285,MedBullets df_op4 Q286,A
+-0.0,Laboratory studies are ordered and are pending.,285,MedBullets df_op4 Q286,A
+0.0,His mental status rapidly improves with warming.,285,MedBullets df_op4 Q286,A

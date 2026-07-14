@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+86.39390961218582,"He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted.",259,MedBullets_df_op4_Q260,C
+84.43390247102695,"His temperature is 99.3°F (37.4°C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air.",259,MedBullets_df_op4_Q260,C
+46.88448737561703,He recently used a friend's prescription for ondansetron for nausea.,259,MedBullets_df_op4_Q260,C
+37.931730421832484,"Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait.",259,MedBullets_df_op4_Q260,C
+30.999314327382816,He denies any preceding symptoms and returned to baseline within 1 minute.,259,MedBullets_df_op4_Q260,C
+0.0,The patient is not aware of any medical problems and just started seeing a primary care physician last week.,259,MedBullets_df_op4_Q260,C
+0.0,A 67-year-old man presents to the emergency department after fainting.,259,MedBullets_df_op4_Q260,C

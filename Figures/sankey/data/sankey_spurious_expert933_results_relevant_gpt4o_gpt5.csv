@@ -1,0 +1,3 @@
+model,n_expert_qa,round1_correct,round2_incorrect_spurious,round2_still_correct,pct_spurious_among_round1_correct
+GPT4o,933,690,328,362,47.5362
+GPT 5,933,805,116,689,14.4099

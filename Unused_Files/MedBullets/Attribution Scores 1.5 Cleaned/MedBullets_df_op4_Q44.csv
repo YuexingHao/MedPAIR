@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+107.63240520472053,"His temperature is 99.5°F (37.5°C), blood pressure is 161/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 95% on room air.",43,MedBullets df_op4 Q44,A
+65.93651191647142,"A few years ago, he went to the emergency department due to abdominal pain and was found to have increased liver enzymes due to excessive alcohol use and incidental gallstones.",43,MedBullets df_op4 Q44,A
+54.759796649217606,The patient has not seen a physician in 30 years and recalls being current on most of his vaccinations.,43,MedBullets df_op4 Q44,A
+46.90061393426259,The patient has a negative Murphy sign and his abdomen is non-tender.,43,MedBullets df_op4 Q44,A
+44.50871864020848,"For the past several months, he has felt progressively weaker and has lost 25 pounds with intermittent abdominal pain.",43,MedBullets df_op4 Q44,A
+25.50524033020069,A 55-year-old man presents to urgent care for weakness and weight loss.,43,MedBullets df_op4 Q44,A
+22.019418375123458,Physical exam reveals an emaciated man.,43,MedBullets df_op4 Q44,A
+10.96770322404851,The patient has a 50 pack-year smoking history.,43,MedBullets df_op4 Q44,A
+10.89993149547982,Cardiopulmonary exam is within normal limits.,43,MedBullets df_op4 Q44,A

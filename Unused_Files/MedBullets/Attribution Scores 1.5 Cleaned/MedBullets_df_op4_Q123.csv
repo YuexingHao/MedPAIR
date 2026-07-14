@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+86.75105193257332,She feels that her co-workers also disrespect her for her weight and constant sweat stains around her armpits and chest.,122,MedBullets df_op4 Q123,D
+70.06015468548335,She has noticed that the sweat stains get itchy and induce a burning sensation unless she showers or changes her shirt.,122,MedBullets df_op4 Q123,D
+62.76005978849497,"On physical exam, the patient has a flat affect, with moist oral mucosa and nasal polyps.",122,MedBullets df_op4 Q123,D
+50.28498615179445,A 45-year-old morbidly obese woman with a history of asthma and type 2 diabetes mellitus presents to her primary care physician for advice on weight loss.,122,MedBullets df_op4 Q123,D
+50.19488936758742,She thinks that her husband is having sex with other women because they have not had sex over the past year.,122,MedBullets df_op4 Q123,D
+46.81054775156419,Her neck is thick with a posterior cervical fat pad.,122,MedBullets df_op4 Q123,D
+44.70829157616718,"She has been compliant with her medications, which include albuterol, metformin, glyburide, and atorvastatin.",122,MedBullets df_op4 Q123,D
+20.11284602975237,"Her temperature is 98.6°F (37°C), blood pressure is 128/85 mmHg, pulse is 91/min, and respirations are 11/min.",122,MedBullets df_op4 Q123,D

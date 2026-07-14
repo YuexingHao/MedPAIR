@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+50.75795062223089,"His temperature is 98.6°F (37.0°C), blood pressure is 80/55 mmHg, pulse is 105/min, and respirations are 25/min.",218,MedBullets df_op4 Q219,
+33.01546047430229,"When focusing on the pediatrician's penlight, the patient's left eye wanders.",218,MedBullets df_op4 Q219,
+17.374678817718426,"On exam, his pupils are round and reactive to light.",218,MedBullets df_op4 Q219,
+11.235256112807942,"He is able to walk alone, speak 3 words, and scribble with a crayon.",218,MedBullets df_op4 Q219,
+7.217159355331057,A 15-month-old boy presents with his mother for his well-child exam.,218,MedBullets df_op4 Q219,
+1.4843063354492188,The patient was born at 39 weeks of gestation via spontaneous vaginal delivery.,218,MedBullets df_op4 Q219,

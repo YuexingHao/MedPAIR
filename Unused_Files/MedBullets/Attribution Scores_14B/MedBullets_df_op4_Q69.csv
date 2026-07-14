@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.50241636758263,"During the exam, the patient’s eyes are seen to roll backward with repeated flexion/extension of his extremities and loss of urine.",68,MedBullets df_op4 Q69,C
+51.78467022180683,"Neck flexion does not elicit pain, and there are no tongue lacerations.",68,MedBullets df_op4 Q69,C
+36.49600113942498,Examination reveals 3/5 strength to right shoulder abduction and elbow flexion/extension and 4/5 strength to right hip flexion/extension.,68,MedBullets df_op4 Q69,C
+14.968163242919692,"He has a history of human immunodeficiency virus (HIV) infection being treated with bictegravir, emtricitabine, and tenofovir.",68,MedBullets df_op4 Q69,C
+14.852175541680392,"His temperature is 104.2°F (40.1°C), blood pressure is 110/70 mmHg, pulse is 110/min, and respirations are 22/min.",68,MedBullets df_op4 Q69,C
+12.54999416694045,He had complained of a right-sided headache for the past 5 days.,68,MedBullets df_op4 Q69,C
+11.853776371787395,This stops after 1 minute.,68,MedBullets df_op4 Q69,C
+2.566157866645863,A 35-year-old man presents to the emergency department with altered mental status.,68,MedBullets df_op4 Q69,C
+0.0,The remainder of the strength exam on the right and left sides is normal.,68,MedBullets df_op4 Q69,C
+0.0,He does not smoke tobacco and drinks alcohol socially.,68,MedBullets df_op4 Q69,C
+0.0,His last CD4 cell count was 500/mm^3.,68,MedBullets df_op4 Q69,C
+0.0,He was found by his roommate to be disoriented this morning.,68,MedBullets df_op4 Q69,C

@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.16394125995808,A 3-day-old boy is evaluated in the neonatal intensive care unit for failure to pass meconium.,129,MedBullets df_op4 Q130,D
+67.05646956799099,He was born at 39 weeks gestation to a 38-year-old G3P3 mother.,129,MedBullets df_op4 Q130,D
+61.472570946427965,"His abdomen is firm, non-tender, and distended with hypoactive bowel sounds.",129,MedBullets df_op4 Q130,D
+56.16726566088799,"The patient's temperature is 98.2°F (36.8°C), blood pressure is 48/32 mmHg, pulse is 164/min, and respirations are 48/min.",129,MedBullets df_op4 Q130,D
+32.561714803491874,The patient has had 2 episodes of vomiting that were described as green in color.,129,MedBullets df_op4 Q130,D
+30.69697182727745,A digital rectal exam fails to relieve the obstruction.,129,MedBullets df_op4 Q130,D
+27.22738274931908,He is urinating 8-10 times per day.,129,MedBullets df_op4 Q130,D
+19.85726228786464,The patient is otherwise doing well and feeding every 2 hours.,129,MedBullets df_op4 Q130,D
+18.55106047620438,"The pregnancy was uncomplicated, and the patient’s mother received routine prenatal care.",129,MedBullets df_op4 Q130,D
+16.555342037934487,An abdominal radiograph is performed and the result can be seen in Figure A.,129,MedBullets df_op4 Q130,D
+14.11585234012093,"On physical exam, the patient is in no acute distress.",129,MedBullets df_op4 Q130,D
+10.91701236753371,One of the patient’s older siblings has Down syndrome.,129,MedBullets df_op4 Q130,D
+3.2806858630116844,She declined prenatal testing.,129,MedBullets df_op4 Q130,D

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+70.3222859430154,"A 17-year-old boy presents to his primary care physician with a chief concern of ""bad"" skin that has not improved despite home remedies.",3,MedBullets df_op4 Q4,C
+29.552326500415802,He has a diet high in refined carbohydrates and has gained 20 pounds since starting high school.,3,MedBullets df_op4 Q4,C
+23.395547282686046,Physical exam is notable for the findings in Figure A.,3,MedBullets df_op4 Q4,C
+21.436091471575658,The patient is started on benzoyl peroxide and topical retinoids.,3,MedBullets df_op4 Q4,C
+11.792339228817875,He returns 1 month later stating that his symptoms are roughly the same.,3,MedBullets df_op4 Q4,C
+0.0,The patient has had lesions on his face that have persisted since he was 13 years of age.,3,MedBullets df_op4 Q4,C

@@ -1,0 +1,22 @@
+Sentence_x,sentence_ID,Original_Position,Score,Source,row_index,QA_ID,Extracted_Answer,Sentence_y,sentence_ID_x,sentence_ID_y
+A 75-year-old man presents to the emergency department with fatigue.,0,18.0,0.0,A 75-year-old man presents to the emergency department with fatigue.,294.0,MedBullets df_op4 Q295,,,,
+"He has had severe nausea, vomiting, and diarrhea for the past 3 days.",1,17.0,0.0,"He has had severe nausea, vomiting, and diarrhea for the past 3 days.",294.0,MedBullets df_op4 Q295,,,,
+"Today, his wife noticed that he was confused.",2,16.0,0.0,"Today, his wife noticed that he was confused.",294.0,MedBullets df_op4 Q295,,,,
+"The patient has a history of coronary artery disease with a drug-eluting stent placed 1 year ago, obesity, hypertension, and dyslipidemia.",3,0.0,13.100755616875007,"The patient has a history of coronary artery disease with a drug-eluting stent placed 1 year ago, obesity, hypertension, and dyslipidemia.",294.0,MedBullets df_op4 Q295,,A 75-year-old man presents to the emergency department with fatigue.,0.0,0.0
+"He denies chest pain or dyspnea, but complains of diffuse abdominal pain.",4,15.0,0.0,"He denies chest pain or dyspnea, but complains of diffuse abdominal pain.",294.0,MedBullets df_op4 Q295,,,,
+"His temperature is 99.0°F (37.2°C), blood pressure is 100/60 mmHg, pulse is 105/min, and respirations are 22/min.",5,13.0,0.0,"His temperature is 99.0°F (37.2°C), blood pressure is 100/60 mmHg, pulse is 105/min, and respirations are 22/min.",294.0,MedBullets df_op4 Q295,,,,
+Physical exam reveals a confused man with dry mucous membranes.,6,14.0,0.0,Physical exam reveals a confused man with dry mucous membranes.,294.0,MedBullets df_op4 Q295,,,,
+His abdomen is diffusely tender to palpation.,7,12.0,0.0,His abdomen is diffusely tender to palpation.,294.0,MedBullets df_op4 Q295,,,,
+"Laboratory studies are ordered and notable for the following:
+
+Serum:
+Na+: 147 mEq/L
+Cl-: 112 mEq/L
+K+: 3.5 mEq/L
+HCO3-: 14 mEq/L
+BUN: 80 mg/dL
+Glucose: 100 mg/dL
+Creatinine: 2.1 mg/dL
+Troponin: 0.10 mcg/L (normal < 0.01 mcg/L)
+
+An ECG is ordered and is pending.",8,,,,,,,,,

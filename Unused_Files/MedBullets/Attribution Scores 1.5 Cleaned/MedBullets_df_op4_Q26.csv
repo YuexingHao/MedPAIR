@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+67.14166574149905,"His temperature is 100.4°F (38.0°C), blood pressure is 110/60 mmHg, pulse is 95/min, respirations are 17/min, and oxygen saturation is 98% on room air.",25,MedBullets df_op4 Q26,D
+33.72626560451865,There is pain with passive neck flexion.,25,MedBullets df_op4 Q26,D
+26.17664317494036,Neurologic exam reveals no focal deficits.,25,MedBullets df_op4 Q26,D
+18.30017381878064,"He reports associated nausea, vomiting, fevers, and neck pain.",25,MedBullets df_op4 Q26,D
+17.568532136368407,His symptoms started last night and have persisted.,25,MedBullets df_op4 Q26,D
+16.678522472347975,A 32-year-old man presents to the emergency department for evaluation of headache.,25,MedBullets df_op4 Q26,D
+13.260641530156136,"He occasionally has migraine headaches, but he has not had a headache like this in the past.",25,MedBullets df_op4 Q26,D
+9.673558707697303,"On physical exam, he appears uncomfortable.",25,MedBullets df_op4 Q26,D
+2.4524070153963367,He has a medical history of asthma.,25,MedBullets df_op4 Q26,D

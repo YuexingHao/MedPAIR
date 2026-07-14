@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.17922642187814,"Her temperature is 99.5°F (37.5°C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air.",167,MedBullets df_op4 Q168,
+40.89176177978516,The family cannot recall the types of pill bottles that they found and did not bring them to the ED.,167,MedBullets df_op4 Q168,
+32.475942949261594,The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills.,167,MedBullets df_op4 Q168,
+24.51772827049384,They found her somnolent next to her computer with an empty pill bottle around 3 hours ago.,167,MedBullets df_op4 Q168,
+13.999932267675616,"The patient's medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome.",167,MedBullets df_op4 Q168,

@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+50.508665405704754,"The patient is started on IV fluids and hydrocortisone, is externally warmed, and is started on a norepinephrine drip.",304,MedBullets df_op4 Q305,D
+27.160938404847972,An ECG is performed as seen in Figure A.,304,MedBullets df_op4 Q305,D
+23.0667239656278,A 77-year-old man presents to the emergency department acutely obtunded.,304,MedBullets df_op4 Q305,D
+11.750326374307651,"He has a past medical history of hypothyroidism, depression, and diabetes.",304,MedBullets df_op4 Q305,D
+6.179008620177798,The patient is cold to the touch and moves all extremities to painful stimuli.,304,MedBullets df_op4 Q305,D
+4.153477373204737,"His temperature is 88.0°F (31.1°C), blood pressure is 92/62 mmHg, pulse is 35/min, respirations are 9/min, and oxygen saturation is 92% on room air.",304,MedBullets df_op4 Q305,D
+4.151856848963694,"His pupils are reactive and sluggish, and he does not follow commands.",304,MedBullets df_op4 Q305,D
+2.5668242782993076,He has not been responding to phone calls for the past 3 days.,304,MedBullets df_op4 Q305,D
+0.0,There are no signs of trauma or skin infections.,304,MedBullets df_op4 Q305,D
+0.0,The patient is unable to offer a history.,304,MedBullets df_op4 Q305,D
+0.0,"Generally, the patient manages his own finances, medications, and works part-time.",304,MedBullets df_op4 Q305,D
+0.0,The patient lives alone and was found unresponsive by his son.,304,MedBullets df_op4 Q305,D

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.73096079522757,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 140/90 mmHg, respirations are 16/min, and oxygen saturation is 97% on room air.",85,MedBullets df_op4 Q86,A
+40.335438440919944,"Synovial fluid aspiration is performed and sent for analysis, which reveals 20,000 leukocytes/mm^3, and no organisms visualized.",85,MedBullets df_op4 Q86,A
+39.084162012008306,Microscopic examination of synovial fluid is shown in Figure A.,85,MedBullets df_op4 Q86,A
+25.06356455758214,He denies recent trauma and he has no known medical problems.,85,MedBullets df_op4 Q86,A
+24.54967777805289,He denies tobacco use and will often drink 6-8 beers or spirits on weekend nights.,85,MedBullets df_op4 Q86,A
+18.960179116602944,"He woke last night with sudden-onset, sharp, 10/10 non-radiating pain in his right knee.",85,MedBullets df_op4 Q86,A
+4.150239380225499,"Physical exam reveals an erythematous, edematous right knee.",85,MedBullets df_op4 Q86,A
+0.0,Passive extension of the knee is limited by pain.,85,MedBullets df_op4 Q86,A
+0.0,A 55-year-old man presents to the emergency department with right knee pain.,85,MedBullets df_op4 Q86,A

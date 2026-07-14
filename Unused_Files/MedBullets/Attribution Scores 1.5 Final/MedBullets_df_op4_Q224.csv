@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+99.01773862723903,"Her temperature is 98.6°F (37.0°C), blood pressure is 110/72 mmHg, pulse is 110/min, and respirations are 11/min.",223,MedBullets_df_op4_Q224,B
+37.69241126999259,"She has been experiencing nausea, vomiting, and diarrhea after eating leftovers 2 days ago.",223,MedBullets_df_op4_Q224,B
+37.672119778321694,A 27-year-old nurse presents to the emergency department with a 30-minute history of palpitations and chest pain.,223,MedBullets_df_op4_Q224,B
+27.70561466444078,She has a history of major depressive disorder for which she takes escitalopram.,223,MedBullets_df_op4_Q224,B
+19.4476764682944,Venous blood gas shows a pH of 7.52.,223,MedBullets_df_op4_Q224,B
+16.865101492982,Her husband tells the physician that he is concerned that the patient has been increasingly obsessed about her weight recently.,223,MedBullets_df_op4_Q224,B
+14.659381933020843,Physical examination is notable for dry mucous membranes and tachycardia with regular rhythm.,223,MedBullets_df_op4_Q224,B
+0.0,K+: 2.9 mEq/L HCO3-: 36 mEq/L,223,MedBullets_df_op4_Q224,B

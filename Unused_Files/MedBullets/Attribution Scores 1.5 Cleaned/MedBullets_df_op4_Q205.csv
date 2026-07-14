@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+83.48034674108976,"The patient is sent for a right upper quadrant ultrasound demonstrating an absence of stones, no pericholecystic fluid, a normal gallbladder contour and no abnormalities noted in the common bile duct.",204,MedBullets df_op4 Q205,B
+76.25507124072847,MRCP with secretin infusion is performed demonstrating patent biliary and pancreatic ductal systems.,204,MedBullets df_op4 Q205,B
+47.27947450329265,"Her current medications include metformin, glyburide, escitalopram, and psyllium husks.",204,MedBullets df_op4 Q205,B
+38.842226676642895,"The patient has a medical history of type 2 diabetes mellitus, depression, anxiety, and irritable bowel syndrome.",204,MedBullets df_op4 Q205,B
+38.03611936415656,A 44-year-old woman presents to the emergency department with fluctuating right upper quadrant abdominal pain.,204,MedBullets df_op4 Q205,B
+17.794965952524596,The pain was initially a 4/10 in severity but has increased recently to a 6/10 prompting her to come in.,204,MedBullets df_op4 Q205,B
+9.734066490849122,AST: 100 U/L,204,MedBullets df_op4 Q205,B
+6.910257578143455,"On exam, the patient is an obese woman with pain upon palpation of the right upper quadrant.",204,MedBullets df_op4 Q205,B
+4.903145730495453,Alkaline phosphatase: 125 U/L,204,MedBullets df_op4 Q205,B
+2.9108937497335763,HCO3-: 24 mEq/L,204,MedBullets df_op4 Q205,B
+0.7228041524435665,ALT: 110 U/L,204,MedBullets df_op4 Q205,B

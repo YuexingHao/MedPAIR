@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.06377271429609,"On physical exam, you note an athletic young woman with burly shoulders, a thick neck, and acne on her forehead and back.",210,MedBullets df_op4 Q211,C
+45.27118237242679,A urinary ß-hCG has been ordered.,210,MedBullets df_op4 Q211,C
+36.02809827774763,"Her medical history is notable for depression, anxiety, and gonococcal urethritis that was appropriately treated.",210,MedBullets df_op4 Q211,C
+35.14582631830946,"The patient's current medications include oral contraceptive pills, fluoxetine, alprazolam, ibuprofen, acetaminophen, and folate.",210,MedBullets df_op4 Q211,C
+31.810820732454268,The patient also recently lost a large amount of weight for a fitness show she planned on entering.,210,MedBullets df_op4 Q211,C
+18.773835246226348,A 23-year-old woman presents to the emergency department with severe abdominal pain.,210,MedBullets df_op4 Q211,C
+18.16836276222258,On abdominal exam you note diffuse tenderness with 10/10 pain upon palpation of the right upper quadrant.,210,MedBullets df_op4 Q211,C
+17.91864216838956,"The pain has been dull and progressive, but became suddenly worse while she was exercising.",210,MedBullets df_op4 Q211,C
+12.465906822284936,She admits to drinking at least 5 standard alcoholic drinks a day.,210,MedBullets df_op4 Q211,C
+8.023814787771846,She is sexually active and does not use condoms.,210,MedBullets df_op4 Q211,C
+7.75091113718761,"Her temperature is 99.5°F (37.5°C), blood pressure is 80/40 mmHg, pulse is 110/minute, and respirations are 15/minute with an oxygen saturation of 96% on room air.",210,MedBullets df_op4 Q211,C
+0.0,Intravenous fluids are started and labs are sent.,210,MedBullets df_op4 Q211,C

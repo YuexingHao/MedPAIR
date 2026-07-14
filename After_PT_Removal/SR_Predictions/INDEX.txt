@@ -1,0 +1,164 @@
+================================================================================
+SR (SELF-REPORTED) PREDICTIONS - CENTRALIZED REPOSITORY
+================================================================================
+
+Location: /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/
+Created:  2026-06-22
+Total:    23 MB (12 CSV files + 2 markdown docs)
+
+================================================================================
+QUICK REFERENCE
+================================================================================
+
+QWEN-14B REMOVED (SR) — 6 Models
+├─ GPT_4o_[SR]_predictions.csv          (3.2 MB) — 71.1% overall
+├─ GPT_5_[SR]_predictions.csv            (3.2 MB) — 81.8% overall
+├─ Llama_70B_[SR]_predictions.csv        (256 KB) — 46.0% overall
+├─ MedGemma_27B_[SR]_predictions.csv     (1.7 MB) — 14.5% overall
+├─ Qwen_14B_[SR]_predictions.csv         (2.8 MB) — 51.7% overall
+└─ Qwen_72B_[SR]_predictions.csv         (403 KB) — 53.5% overall
+
+QWEN-72B REMOVED (SR) — 6 Models
+├─ GPT_4o_[SR]_predictions.csv          (3.4 MB) — 68.1% overall
+├─ GPT_5_[SR]_predictions.csv            (3.2 MB) — 83.4% overall
+├─ Llama_70B_[SR]_predictions.csv        (40 KB)  — 62.8% overall
+├─ MedGemma_27B_[SR]_predictions.csv     (660 KB) — 57.9% overall
+├─ Qwen_14B_[SR]_predictions.csv         (2.8 MB) — 55.8% overall
+└─ Qwen_72B_[SR]_predictions.csv         (420 KB) — 56.5% overall
+
+LLAMA-70B REMOVED (SR) — NOT AVAILABLE
+└─ (Empty - awaiting data generation)
+
+================================================================================
+DOCUMENTATION
+================================================================================
+
+README.md
+  ├─ Directory structure and organization
+  ├─ File details and dataset composition  
+  ├─ Timeline of experiments (May 2025 - June 2026)
+  ├─ Source locations (original scattered files)
+  └─ Usage notes for Table 6 (Appendix.tex)
+
+ACCURACIES.md
+  ├─ Complete accuracy tables by condition
+  ├─ Breakdown by dataset (MMLU/JAMA/MedXpert/MedBullets)
+  ├─ Overall accuracies per model
+  ├─ Comparative analysis across conditions
+  └─ Impact assessment of context removal
+
+INDEX.txt (this file)
+  └─ Quick reference guide
+
+================================================================================
+KEY STATISTICS
+================================================================================
+
+Total Questions Analyzed:           933 QAs × 2 conditions = 1,866 predictions
+
+Dataset Distribution:
+  • MMLU:      192 questions (20.6%)
+  • JAMA:      295 questions (31.6%)
+  • MedXpert:  318 questions (34.1%)
+  • MedBullets: 207 questions (22.2%)
+
+Models Evaluated:
+  • GPT-4o:         ✓ Both conditions
+  • GPT-5:          ✓ Both conditions
+  • Llama-70B:      ✓ Both conditions
+  • MedGemma-27B:   ✓ Both conditions
+  • Qwen-14B:       ✓ Both conditions
+  • Qwen-72B:       ✓ Both conditions
+
+Data Generation Timeline:
+  • May 2025:       SR concordance analysis (GPT4o mostly)
+  • Jan-Mar 2026:   SR prediction files generated from notebooks
+  • Jun 9, 2026:    Backup and re-runs
+  • Jun 22, 2026:   Files organized and centralized here
+
+================================================================================
+ACCURACY COMPARISON
+================================================================================
+
+Best Performers:
+  1. GPT-5 (Qwen-72B Removed): 83.4%
+  2. GPT-5 (Qwen-14B Removed): 81.8%
+  3. GPT-4o (Qwen-14B Removed): 71.1%
+
+Worst Performers:
+  1. MedGemma-27B (Qwen-14B Removed): 14.5%
+  2. Llama-70B (Qwen-14B Removed): 46.0%
+  3. Qwen-72B (Qwen-72B Removed): 56.5%
+
+Context Impact (Qwen-14B vs Qwen-72B):
+  • Removing Qwen-72B has larger impact (-6.0 to -7.3% for GPT models)
+  • Removing Qwen-14B has moderate impact (-1.5 to -5.3% for GPT models)
+
+Dataset Resilience:
+  • Most resilient: MMLU (scores remain high across all conditions)
+  • Most affected:  MedXpert (15-40% range, lowest overall)
+
+================================================================================
+USAGE NOTES
+================================================================================
+
+For Table 6 (Appendix.tex):
+  • All accuracies pre-calculated in ACCURACIES.md
+  • Select appropriate folder (Qwen-14B_Removed or Qwen-72B_Removed)
+  • Reference CSV files for model predictions breakdown
+  • Data organized by model and condition for easy lookup
+
+For Future Work:
+  • If Llama-70B Removed (SR) experiments are run:
+    → Place results in /Llama-70B_Removed/ folder
+    → Follow naming: {Model_Name}_[SR]_predictions.csv
+    → Update ACCURACIES.md with new results
+
+For Validation/Audit:
+  • Each CSV contains: Origin, predictions, answers_corr, data_source
+  • Verify: Total rows = 1,300 for each file
+  • Cross-check: File sizes match what's listed above
+
+================================================================================
+FILE MANIFEST
+================================================================================
+
+Qwen-14B_Removed/ (12 MB, 6 files)
+  ✓ GPT_4o_[SR]_predictions.csv         (3.2 MB) 
+  ✓ GPT_5_[SR]_predictions.csv          (3.2 MB)
+  ✓ Llama_70B_[SR]_predictions.csv      (256 KB)
+  ✓ MedGemma_27B_[SR]_predictions.csv   (1.7 MB)
+  ✓ Qwen_14B_[SR]_predictions.csv       (2.8 MB)
+  ✓ Qwen_72B_[SR]_predictions.csv       (403 KB)
+
+Qwen-72B_Removed/ (11 MB, 6 files)
+  ✓ GPT_4o_[SR]_predictions.csv         (3.4 MB)
+  ✓ GPT_5_[SR]_predictions.csv          (3.2 MB)
+  ✓ Llama_70B_[SR]_predictions.csv      (40 KB)
+  ✓ MedGemma_27B_[SR]_predictions.csv   (660 KB)
+  ✓ Qwen_14B_[SR]_predictions.csv       (2.8 MB)
+  ✓ Qwen_72B_[SR]_predictions.csv       (420 KB)
+
+Llama-70B_Removed/ (0 MB, 0 files)
+  ✗ No files - Data not yet available
+
+Documentation/ (1.5 MB)
+  ✓ README.md                           Detailed documentation
+  ✓ ACCURACIES.md                       Pre-calculated results
+  ✓ INDEX.txt                           This file
+
+================================================================================
+CONTACT & METADATA
+================================================================================
+
+Organization Date:  2026-06-22
+Organized By:       Claude Code
+Purpose:            Centralize SR predictions for Table 6 (Appendix.tex)
+Original Sources:   Scattered across model-specific results/ directories
+Status:             Complete for 2 of 3 conditions (66%)
+
+To Verify Contents:
+  $ ls -lh /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/
+  $ find /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/ -name "*.csv" -exec wc -l {} \;
+
+================================================================================

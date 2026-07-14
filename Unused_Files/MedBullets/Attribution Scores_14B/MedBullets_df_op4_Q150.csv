@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.86543979403271,"Her temperature is 98.6°F (37°C), blood pressure is 68/43 mmHg, pulse is 128/min, and respirations are 32/min.",149,MedBullets df_op4 Q150,C
+48.42391926050186,The parents have noticed a “swelling of the belly button.” Cord separation occurred at 7 days of age.,149,MedBullets df_op4 Q150,C
+44.31658359481993,The swelling seems to come and go but is never larger than the size of a blueberry.,149,MedBullets df_op4 Q150,C
+24.49053791930575,"On physical exam, the child is in no acute distress and appears developmentally appropriate for her age.",149,MedBullets df_op4 Q150,C
+24.2367428800446,The child is sleeping at regular 2-hour intervals and feeding and stooling well.,149,MedBullets df_op4 Q150,C
+23.73040701361511,The bulge increases in size when the child cries and can be easily reduced inside the umbilical ring without apparent pain.,149,MedBullets df_op4 Q150,C
+21.33474643129739,A 3-week-old girl presents with her parents to her pediatrician for a routine visit.,149,MedBullets df_op4 Q150,C
+8.421038597384197,"Her abdomen is soft and non-tender with a soft, 1 cm bulge at the umbilicus.",149,MedBullets df_op4 Q150,C
+0.0,They deny any drainage from the swelling.,149,MedBullets df_op4 Q150,C

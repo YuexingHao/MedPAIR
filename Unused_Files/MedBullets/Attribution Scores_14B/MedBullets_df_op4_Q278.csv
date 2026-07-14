@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+40.22605871876512,"His temperature is 99.0°F (37.2°C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min.",277,MedBullets df_op4 Q278,D
+36.599380054584785,"As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather.",277,MedBullets df_op4 Q278,D
+28.439085317398145,"Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses.",277,MedBullets df_op4 Q278,D
+23.189033779849915,The patient is given 4 liters of Ringer lactate and intravenous antibiotics.,277,MedBullets df_op4 Q278,D
+15.492706462434555,An ECG is obtained as seen in Figure A.,277,MedBullets df_op4 Q278,D
+15.35028463586008,A 43-year-old man presents to the emergency department acutely with altered mental status.,277,MedBullets df_op4 Q278,D
+7.958097355133282,"The patient is started on norepinephrine, and his blood pressure is subsequently found to be 85/44 mmHg.",277,MedBullets df_op4 Q278,D
+0.0,He is subsequently intubated.,277,MedBullets df_op4 Q278,D
+0.0,He was found unconscious in a park.,277,MedBullets df_op4 Q278,D
+0.0,He uses intravenous drugs and is unable to offer a history.,277,MedBullets df_op4 Q278,D

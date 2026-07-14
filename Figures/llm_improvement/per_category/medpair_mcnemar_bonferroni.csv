@@ -1,0 +1,29 @@
+base_model,source,best_labeler,n_paired,b_orig_right_best_wrong,c_orig_wrong_best_right,p_value,n_comparisons,bonferroni_p,signif
+GPT 5,jama,Qwen-72B Removed,295,21,16,0.5113757815852296,28,1.0,ns
+GPT 5,medbullets,GPT-4o Removed,160,2,4,0.6875,28,1.0,ns
+GPT 5,medxpert,Qwen-14B Removed,286,21,19,0.8746293123804207,28,1.0,ns
+GPT 5,mmlu,GPT-4o Removed,192,4,1,0.375,28,1.0,ns
+GPT4o,jama,Qwen-72B Removed,295,12,4,0.076812744140625,28,1.0,ns
+GPT4o,medbullets,Qwen-72B Removed,160,3,2,1.0,28,1.0,ns
+GPT4o,medxpert,Trainee Removed,286,29,28,1.0,28,1.0,ns
+GPT4o,mmlu,Trainee Removed,192,5,3,0.7265625,28,1.0,ns
+Llama-70B,jama,Trainee Removed,295,24,165,4.505288418814956e-27,28,1.2614807572681876e-25,***
+Llama-70B,medbullets,Trainee Removed,160,10,85,5.762323641301719e-16,28,1.6134506195644812e-14,***
+Llama-70B,medxpert,GPT-4o Removed,286,18,92,3.796577854740146e-13,28,1.063041799327241e-11,***
+Llama-70B,mmlu,GPT-4o Removed,192,3,136,1.2848933856204945e-36,28,3.5977014797373847e-35,***
+MedGemma-27B,jama,Llama-70b Removed,295,7,154,3.4918388675773617e-37,28,9.777148829216613e-36,***
+MedGemma-27B,medbullets,Qwen-72B Removed,160,9,42,3.3888279489246997e-06,28,9.488718256989159e-05,***
+MedGemma-27B,medxpert,Qwen-72B Removed,286,19,30,0.15240777196147803,28,1.0,ns
+MedGemma-27B,mmlu,Qwen-72B Removed,192,27,63,0.00018775579617929893,28,0.00525716229302037,**
+Physician + Trainee,jama,Trainee Removed,295,59,24,0.00015455941078329168,28,0.004327663501932167,**
+Physician + Trainee,medbullets,Trainee Removed,160,14,12,0.8450189828872681,28,1.0,ns
+Physician + Trainee,medxpert,Trainee Removed,286,103,30,1.4519005345745496e-10,28,4.065321496808739e-09,***
+Physician + Trainee,mmlu,Trainee Removed,192,4,4,1.0,28,1.0,ns
+Qwen 72B,jama,Trainee Removed,295,0,2,0.5,28,1.0,ns
+Qwen 72B,medbullets,GPT-4o Removed,160,10,12,0.8318119049072266,28,1.0,ns
+Qwen 72B,medxpert,MedGemma-27B Removed,286,19,18,1.0,28,1.0,ns
+Qwen 72B,mmlu,GPT-4o Removed,192,5,11,0.210113525390625,28,1.0,ns
+Qwen-14B,jama,Qwen-14B Removed,295,28,33,0.6089207154048286,28,1.0,ns
+Qwen-14B,medbullets,Trainee Removed,160,6,17,0.03468966484069824,28,0.9713106155395508,ns
+Qwen-14B,medxpert,MedGemma-27B Removed,286,27,24,0.7797679305530743,28,1.0,ns
+Qwen-14B,mmlu,GPT5 Removed,192,14,6,0.11531829833984375,28,1.0,ns

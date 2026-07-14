@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+76.70948437809777,"On physical exam, you note a frightened young woman who is wearing a revealing dress that prominently displays her breasts.",185,MedBullets df_op4 Q186,A
+74.00272002562657,"Of note, the patient has presented to the emergency department before for a similar reason when she was struggling with online dating.",185,MedBullets df_op4 Q186,A
+63.17347149352426,You tell the patient that she will have to stay in the psychiatric emergency department for the night which makes her furious.,185,MedBullets df_op4 Q186,A
+40.12402379479169,"The patient states she knew her boyfriend was having sexual thoughts about the woman from the grocery store, prompting her decision to cut her own wrist.",185,MedBullets df_op4 Q186,A
+37.33061886734917,The patient states that she struggles with her romantic relationships though she deeply desires them.,185,MedBullets df_op4 Q186,A
+20.563614640759063,She is grateful to you for her care and regrets her actions.,185,MedBullets df_op4 Q186,A
+14.09335570316809,"When interviewing the patient, she is teary and apologizes for her behavior.",185,MedBullets df_op4 Q186,A
+11.942300140857697,"In the emergency department, the bleeding has stopped and the patient is currently medically stable.",185,MedBullets df_op4 Q186,A
+3.522717693580595,A 23-year-old woman presents to the emergency room for a self-inflicted laceration of her distal volar forearm.,185,MedBullets df_op4 Q186,A
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 112/71 mmHg, pulse is 73/min, and respirations are 14/min.",185,MedBullets df_op4 Q186,A

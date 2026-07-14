@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.523257717490196,He underwent a laparoscopic appendectomy and was treated for post-operative nausea and vomiting with metoclopramide.,66,MedBullets_df_op4_Q67,C
+48.63326415475353,A 30-year-old man is evaluated in the post-anesthesia care unit for neck pain.,66,MedBullets_df_op4_Q67,C
+46.71092647701657,"Approximately 20 minutes after receiving the medication, he developed pain and stiffness in his neck and eventually was unable to move his neck.",66,MedBullets_df_op4_Q67,C
+5.276938452651348,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 130/80 mmHg, respirations are 16/min, and oxygen saturation is 98% on room air.",66,MedBullets_df_op4_Q67,C

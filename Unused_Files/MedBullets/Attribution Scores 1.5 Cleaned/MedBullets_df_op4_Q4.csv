@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.82768554985523,He has a diet high in refined carbohydrates and has gained 20 pounds since starting high school.,3,MedBullets df_op4 Q4,A
+47.32203632962263,"A 17-year-old boy presents to his primary care physician with a chief concern of ""bad"" skin that has not improved despite home remedies.",3,MedBullets df_op4 Q4,A
+34.23428906094174,The patient is started on benzoyl peroxide and topical retinoids.,3,MedBullets df_op4 Q4,A
+29.36294577411221,The patient has had lesions on his face that have persisted since he was 13 years of age.,3,MedBullets df_op4 Q4,A
+3.942239879148629,Physical exam is notable for the findings in Figure A.,3,MedBullets df_op4 Q4,A
+3.7020893975030353,He returns 1 month later stating that his symptoms are roughly the same.,3,MedBullets df_op4 Q4,A

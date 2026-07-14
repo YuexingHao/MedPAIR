@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+77.51821655035019,"The resident suggests performing one on the deceased patient, as the student cannot harm him.",252,MedBullets df_op4 Q253,A
+62.46681239436862,"A 69-year-old man passes away after a 3-week hospitalization for liver failure, complicated by a myocardial infarction.",252,MedBullets df_op4 Q253,A
+12.475491484392592,A medical student rotating in the intensive care unit asked if she can practice performing intubations during her rotation.,252,MedBullets df_op4 Q253,A

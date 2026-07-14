@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.91005965004442,A 55-year-old man presents to the emergency department after feeling lightheaded then fainting while he was carrying boxes upstairs.,254,MedBullets df_op4 Q255,A
+43.05058348956704,"He has not had any chest pain, dyspnea, or weakness during this time frame and currently feels at his baseline.",254,MedBullets df_op4 Q255,A
+34.19474361592842,"His temperature is 98.1°F (36.7°C), blood pressure is 152/93 mmHg, pulse is 86/min, respirations are 15/min, and oxygen saturation is 98% on room air.",254,MedBullets df_op4 Q255,A
+14.855878554340912,Physical exam is unremarkable and the patient walks with a stable gait and no focal weakness.,254,MedBullets df_op4 Q255,A
+7.900022696071345,The patient works on a farm and does not see a doctor often.,254,MedBullets df_op4 Q255,A
+0.0,Laboratory studies are ordered as seen below.,254,MedBullets df_op4 Q255,A
+0.0,An ECG is performed as seen in Figure A.,254,MedBullets df_op4 Q255,A
+0.0,He smokes cigarettes occasionally.,254,MedBullets df_op4 Q255,A
+0.0,He has a history of hypertension but does not take medications routinely.,254,MedBullets df_op4 Q255,A

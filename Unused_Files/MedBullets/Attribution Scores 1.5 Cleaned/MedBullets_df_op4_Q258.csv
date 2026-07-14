@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.83841776186136,She is moving all her extremities but follows commands poorly.,257,MedBullets df_op4 Q258,C
+34.89311283532791,A 44-year-old nurse presents to the emergency department with confusion.,257,MedBullets df_op4 Q258,C
+9.689246290050392,This has happened several times this past month with increasing frequency.,257,MedBullets df_op4 Q258,C

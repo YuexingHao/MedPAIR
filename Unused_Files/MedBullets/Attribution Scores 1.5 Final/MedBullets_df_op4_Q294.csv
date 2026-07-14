@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.02736589633977,"His temperature is 98.0°F (36.7°C), blood pressure is 141/90 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 98% on room air.",293,MedBullets_df_op4_Q294,A
+26.253758659969893,A 72-year-old man presents to his primary care physician for a general checkup.,293,MedBullets_df_op4_Q294,A
+21.753833629190922,Physical exam is notable only for minor pallor but is otherwise unremarkable.,293,MedBullets_df_op4_Q294,A
+0.0,He states that he has been a bit more fatigued lately but believes it is secondary to poor sleep at his new house.,293,MedBullets_df_op4_Q294,A

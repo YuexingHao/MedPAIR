@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.171162042477214,"A 68-year-old woman presents to the emergency room with several days of frequent, nonbloody, watery stools.",222,MedBullets df_op4 Q223,D
+46.952877550325475,"On exam, her abdomen is soft, non-distended, and non-tender to palpation; however she has diffuse discomfort upon palpation of the abdomen with no rebound, rigidity, or guarding.",222,MedBullets df_op4 Q223,D
+29.16504919943873,"Her temperature is 37.0°C (98.6°F), blood pressure is 118/82 mmHg, pulse is 98/min, respirations are 14/min, and oxygen saturation is 98% on room air.",222,MedBullets df_op4 Q223,D
+22.7907709159824,She recently completed a course of clindamycin 2 weeks ago for a tooth infection.,222,MedBullets df_op4 Q223,D
+11.798300698399544,Her medical history is notable for hypertension and hyperlipidemia for which she takes amlodipine and atorvastatin.,222,MedBullets df_op4 Q223,D
+7.66250610160994,She traveled recently and has no sick contacts.,222,MedBullets df_op4 Q223,D

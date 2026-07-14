@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+39.058895418308836,"He is otherwise healthy and denies fever, chills, or recent trauma.",58,MedBullets df_op4 Q59,D
+30.638103087791183,Polarized microscopy of the synovial fluid is shown in Figure A.,58,MedBullets df_op4 Q59,D
+22.688265267902107,"Diagnostic arthrocentesis is performed and shows a leukocyte count of 30,000/mm^3 with 85% neutrophils.",58,MedBullets df_op4 Q59,D
+18.66410457484003,He underwent a dental procedure to extract an infected wisdom tooth 3 weeks ago.,58,MedBullets df_op4 Q59,D
+12.998527370393276,His medical history is notable for a kidney stone 6 months ago.,58,MedBullets df_op4 Q59,D
+4.309783540400349,A 55-year-old man presents with a 2-day history of mono-articular joint pain.,58,MedBullets df_op4 Q59,D
+-0.0,His body mass index is 27 kg/m^2.,58,MedBullets df_op4 Q59,D
+0.0,Physical examination shows a swollen and tender joint with overlying erythema.,58,MedBullets df_op4 Q59,D
+0.0,The patient does not take any medications.,58,MedBullets df_op4 Q59,D
+0.0,He is a non-smoker and does not drink alcohol or use recreational drugs.,58,MedBullets df_op4 Q59,D
+0.0,His family history is significant for osteoarthritis in his father who is 78.,58,MedBullets df_op4 Q59,D
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 133/84 mmHg, pulse is 84/min, and respirations are 15/min.",58,MedBullets df_op4 Q59,D

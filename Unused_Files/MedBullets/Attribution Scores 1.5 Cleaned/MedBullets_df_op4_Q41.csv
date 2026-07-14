@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+102.41025113536166,"His temperature is 37.0°C (98.6°F), pulse is 130/min, blood pressure is 210/145 mmHg, respirations are 22/min, and pulse oximetry is 98% on room air.",40,MedBullets df_op4 Q41,B
+84.92454386288964,"Exam reveals a diaphoretic, anxious-appearing man.",40,MedBullets df_op4 Q41,B
+44.57721400654286,Pulses are diminished over the left wrist when compared to the right.,40,MedBullets df_op4 Q41,B
+30.941703643984404,"The pain starts in his chest and moves into his back, arms, and abdomen.",40,MedBullets df_op4 Q41,B
+17.39465097714452,A chest radiograph is obtained as shown in Figure A.,40,MedBullets df_op4 Q41,B
+15.351148869243069,He has no known medical history and takes no medications.,40,MedBullets df_op4 Q41,B
+14.065812963992355,He describes the pain as tearing.,40,MedBullets df_op4 Q41,B

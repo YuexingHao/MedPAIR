@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.95503611934115,"Laboratory values are ordered as seen below: Serum: Na+: 137 mEq/L Cl-: 105 mEq/L K+: 4.1 mEq/L HCO3-: 24 mEq/L BUN: 22 mg/dL Glucose: 129 mg/dL Creatinine: 1.2 mg/dL Ca2+: 10.1 mg/dL AST: 11 U/L ALT: 12 U/L On physical exam, the patient appears to be in distress.",10,MedBullets df_op4 Q11,
+15.509610127809486,"The patient's right lower extremity appears mildly inflamed, and palpation of the calf elicits pain.",10,MedBullets df_op4 Q11,
+11.89800262451172,"The patient has a medical history of obesity, diabetes, diabetic nephropathy, hypertension, and a 40-pack-year smoking history.",10,MedBullets df_op4 Q11,
+4.454948132944877,Pulmonary exam reveals bilateral air movement without any wheezes or crackles.,10,MedBullets df_op4 Q11,
+1.5507680770837646,A 57-year-old man presents to the emergency department for shortness of breath.,10,MedBullets df_op4 Q11,
+0.404874662343196,"His current medications include atorvastatin, lisinopril, insulin, metformin, and nicotine gum.",10,MedBullets df_op4 Q11,

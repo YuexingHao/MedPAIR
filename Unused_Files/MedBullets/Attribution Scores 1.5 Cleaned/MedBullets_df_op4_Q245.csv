@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+68.43271523475939,"His home medications include hydrochlorothiazide, atorvastatin, metformin, cetirizine, darunavir, tenofovir, and emtricitabine.",244,MedBullets df_op4 Q245,C
+63.456121990314855,"His temperature is 100.8°F (38.2°C), blood pressure is 127/85 mmHg, pulse is 78/min, and respirations are 12/min.",244,MedBullets df_op4 Q245,C
+47.65303989166336,His nasal congestion started about 1 week ago and he noticed the blurry vision this morning when he struggled to read the words on his television screen.,244,MedBullets df_op4 Q245,C
+41.09094600389649,"A 38-year-old man presents to the emergency department with nasal congestion, blurry vision, and diplopia.",244,MedBullets df_op4 Q245,C
+39.01930656284094,"His medical history is significant for IV drug use, HIV (CD4: 47/mm^3), hypertension, hyperlipidemia, diabetes mellitus, and seasonal allergies.",244,MedBullets df_op4 Q245,C
+13.220333975027614,He has injected conjunctiva and rhinorrhea.,244,MedBullets df_op4 Q245,C
+1.070957154294507,He denies recent IV drug use.,244,MedBullets df_op4 Q245,C

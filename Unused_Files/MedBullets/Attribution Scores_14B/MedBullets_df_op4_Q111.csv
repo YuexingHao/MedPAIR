@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+45.151554935292005,"A 2-year-old boy is brought to the emergency room by his mother, who states that her son has been coughing uncontrollably for 3 hours.",110,MedBullets df_op4 Q111,D
+40.52027095413282,The child has a medical history of obesity and atopic dermatitis and uses topical steroid cream.,110,MedBullets df_op4 Q111,D
+35.67707128767142,His family history is notable for asthma in his older sister and irritable bowel syndrome in his father.,110,MedBullets df_op4 Q111,D
+24.1432759199811,"His temperature is 98.5°F (36.9°C), pulse is 120/min, blood pressure is 90/52 mmHg, and respirations are 32/min.",110,MedBullets df_op4 Q111,D
+22.032900814108487,A chest radiograph is performed and the results are shown in Figures A and B.,110,MedBullets df_op4 Q111,D
+8.919122579074639,Cardiopulmonary and abdominal exams are unremarkable.,110,MedBullets df_op4 Q111,D
+5.9792303733535315,"On exam, he appears uncomfortable, is coughing continuously, and is drooling.",110,MedBullets df_op4 Q111,D
+0.0,His birth history is unremarkable.,110,MedBullets df_op4 Q111,D

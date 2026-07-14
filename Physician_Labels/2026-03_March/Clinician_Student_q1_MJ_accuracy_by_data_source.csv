@@ -1,0 +1,5 @@
+data_source_corr,n_origins,n_correct,accuracy,accuracy_pct
+jama,750,471,0.628,62.8
+medbullets,249,181,0.7269076305220884,72.69
+medxpert,747,204,0.27309236947791166,27.31
+mmlu,250,188,0.752,75.2

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.33728083333621,"Her temperature is 98.0°F (36.7°C), blood pressure is 194/104 mmHg, pulse is 100/min, respirations are 18/min, and oxygen saturation is 98% on room air.",275,MedBullets df_op4 Q276,A
+39.35290735655031,A 23-year-old woman presents to labor and delivery at 40 weeks gestation with abdominal contractions and leakage of fluid from her vagina.,275,MedBullets df_op4 Q276,A
+38.20907829050129,"While holding her newborn, the mother endorses a headache, blurry vision, and abdominal pain.",275,MedBullets df_op4 Q276,A
+18.895982742548956,There is blood in her vagina and her uterus is contracted.,275,MedBullets df_op4 Q276,A
+17.5801774059943,Her cranial nerve exam is unremarkable and she has normal strength and sensation.,275,MedBullets df_op4 Q276,A
+9.081697004631014,She subsequently undergoes an uncomplicated vaginal delivery.,275,MedBullets df_op4 Q276,A
+4.175941337706825,Physical exam reveals an uncomfortable woman.,275,MedBullets df_op4 Q276,A
+2.4194678850471973,"The child is healthy and is heated, suctioned, and stimulated.",275,MedBullets df_op4 Q276,A
+0.0,Laboratory studies and a urinalysis are pending.,275,MedBullets df_op4 Q276,A

@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.45517677502825,"His current medications include metformin, insulin, lisinopril, fluoxetine, and sodium docusate.",202,MedBullets df_op4 Q203,C
+26.91304204570179,A 69-year-old man presents to his primary care physician with hip and back pain.,202,MedBullets df_op4 Q203,C
+23.951332193991533,"The patient has a medical history of obesity, diabetes, depression, anxiety, diverticulosis, constipation, and a surgical repair of his anterior cruciate ligament.",202,MedBullets df_op4 Q203,C
+17.087020510722017,"On physical exam, he is found to have an intact motor and sensory function in his lower extremities bilaterally.",202,MedBullets df_op4 Q203,C
+14.841295569392408,He describes the pain as in his buttocks but states that at times it travels down his leg.,202,MedBullets df_op4 Q203,C
+14.256215964806655,He states that it feels electrical and burning in nature.,202,MedBullets df_op4 Q203,C
+10.019578345119953,"When he was lifting a heavy object, he suddenly felt pain in his lower back.",202,MedBullets df_op4 Q203,C
+8.645714118497098,No clonus or Babinski sign is appreciated.,202,MedBullets df_op4 Q203,C
+0.21876226617780234,"His temperature is 98.6°F (37°C), blood pressure is 131/82 mmHg, pulse is 82/min, and respirations are 14/min.",202,MedBullets df_op4 Q203,C
+0.0,An exam of the cranial nerves is intact bilaterally.,202,MedBullets df_op4 Q203,C
+-0.0,He states this weekend he had a barbecue.,202,MedBullets df_op4 Q203,C

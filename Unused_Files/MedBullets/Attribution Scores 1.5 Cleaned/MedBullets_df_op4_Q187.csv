@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.27954511512449,"The patient is managed appropriately and is discharged on atorvastatin, metoprolol, aspirin, clopidogrel, and sodium docusate.",186,MedBullets df_op4 Q187,
+47.03810901943516,"At this visit, his temperature is 99.5°F (37.5°C), blood pressure is 130/87 mmHg, pulse is 80/min, respirations are 11/min, and oxygen saturation is 96% on room air.",186,MedBullets df_op4 Q187,
+46.446182589530416,The patient visits his primary care physician 4 weeks later and claims to be doing better.,186,MedBullets df_op4 Q187,
+15.720451354980469,He is currently not taking any medications and has not filled his prescriptions for over 1 year.,186,MedBullets df_op4 Q187,
+12.743723278104868,A 69-year-old patient presents to the emergency department with shortness of breath and substernal pain.,186,MedBullets df_op4 Q187,

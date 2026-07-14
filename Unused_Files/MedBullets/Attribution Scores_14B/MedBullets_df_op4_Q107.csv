@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.55267012887526,He has lost 10 pounds in the last 3 months along with darker stools which he believes is caused by a Western diet.,106,MedBullets df_op4 Q107,B
+27.889150155999086,A 40-year-old south asian man presents to a primary care provider with a chronic cough that is worse at night.,106,MedBullets df_op4 Q107,B
+19.575308865265463,"His temperature is 98.6°F (37°C), blood pressure is 114/72 mmHg, pulse is 82/min, and respirations are 12/min.",106,MedBullets df_op4 Q107,B
+19.528061862874438,He denies any difficulty swallowing or feeling of food getting stuck in his throat.,106,MedBullets df_op4 Q107,B
+13.858490487648135,He drinks alcohol 1-2 times per week and has never smoked.,106,MedBullets df_op4 Q107,B
+12.809583677147064,"On physical exam, his lungs are clear to auscultation bilaterally without wheezing.",106,MedBullets df_op4 Q107,B
+11.393798802047968,He recently moved to the United States to work in construction.,106,MedBullets df_op4 Q107,B
+-0.0,His abdomen is soft and non-distended.,106,MedBullets df_op4 Q107,B
+0.0,He has no tenderness to palpation and bowel sounds are present.,106,MedBullets df_op4 Q107,B
+0.0,He denies any family history of cancer.,106,MedBullets df_op4 Q107,B
+0.0,He has had the cough for several years but it has been getting worse over the last few months.,106,MedBullets df_op4 Q107,B

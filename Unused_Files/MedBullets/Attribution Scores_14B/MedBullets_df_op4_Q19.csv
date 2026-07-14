@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+17.603290149427533,Serum follicle-stimulating hormone (FSH) level is measured to be 38 mIU/mL.,18,MedBullets df_op4 Q19,B
+4.5200366461045665,Physical exam shows absent breast development and external genitalia at Tanner stage 1.,18,MedBullets df_op4 Q19,B
+3.350124252091045,Her medications include albuterol and topical triamcinolone.,18,MedBullets df_op4 Q19,B
+0.9762988407998366,The patient reports she is doing well in school and is on the varsity basketball team.,18,MedBullets df_op4 Q19,B
+0.0,"Her temperature is 98°F (36.7°C), blood pressure is 111/72 mmHg, pulse is 65/min, and respirations are 14/min with an oxygen saturation of 99% on room air.",18,MedBullets df_op4 Q19,B
+0.0,Her body mass index (BMI) is 19 kg/m^2.,18,MedBullets df_op4 Q19,B
+0.0,Her medical history is significant for asthma and atopic dermatitis.,18,MedBullets df_op4 Q19,B
+0.0,The mother had her first period at age 13.,18,MedBullets df_op4 Q19,B
+0.0,The patient’s older sister had her first period at age 14.,18,MedBullets df_op4 Q19,B
+0.0,A 15-year-old girl is brought to the clinic because her mother is worried the patient has not yet had her period.,18,MedBullets df_op4 Q19,B

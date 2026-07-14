@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+62.58472092930512,He has a history of a distal radius fracture 2 years ago from falling off a ladder.,303,MedBullets_df_op4_Q304,A
+60.66801859875913,There is tenderness to palpation of his paravertebral lumbar region bilaterally.,303,MedBullets_df_op4_Q304,A
+53.452904373407364,"The patient’s temperature is 98.4°F (36.9°C), blood pressure is 124/80 mmHg, pulse is 90/min, and respirations are 16/min.",303,MedBullets_df_op4_Q304,A
+52.96253685002125,He drinks 3 alcoholic beverages weekly and denies illicit drug use.,303,MedBullets_df_op4_Q304,A
+36.08613773339735,He was working on a home improvement project the day prior to presentation when the pain started.,303,MedBullets_df_op4_Q304,A
+35.71065577767103,"He denies fevers, chills, paresthesias, and bowel or bladder incontinence.",303,MedBullets_df_op4_Q304,A
+34.1739688403282,A 42-year-old man presents to the urgent care clinic with low back pain.,303,MedBullets_df_op4_Q304,A
+26.971566624676715,"He describes the pain as ""achy and sore.""",303,MedBullets_df_op4_Q304,A
+12.703160591280122,It is not positional and does not radiate.,303,MedBullets_df_op4_Q304,A
+10.774995845644957,His body mass index (BMI) is 22.4 kg/m^2.,303,MedBullets_df_op4_Q304,A
+4.6447693106096875,Strength is 5/5 to knee flexion/extension and ankle dorsiflexion/plantarflexion.,303,MedBullets_df_op4_Q304,A
+1.6000626100097148,Perineal and dermatomal sensation is symmetric and intact.,303,MedBullets_df_op4_Q304,A
+0.0,Patellar and Achilles reflexes are 2+ bilaterally.,303,MedBullets_df_op4_Q304,A

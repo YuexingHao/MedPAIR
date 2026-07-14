@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.88453524982684,"His temperature is 98.6°F (37°C), blood pressure is 138/85 mmHg, pulse is 75/min, and respirations are 12/min.",171,MedBullets df_op4 Q172,B
+33.34791916279233,A 65-year-old man presents to his primary care physician for stiffness in his arm.,171,MedBullets df_op4 Q172,B
+25.00321641439406,The strength of the patient's upper extremity is 4/5 limited by pain.,171,MedBullets df_op4 Q172,B
+22.712708992688636,He has been having trouble combing his hair and reaching objects that are high on the shelf.,171,MedBullets df_op4 Q172,B
+12.395724238119271,"His current medications include metformin, insulin, lisinopril, and hydrochlorothiazide.",171,MedBullets df_op4 Q172,B
+11.29851634941035,He does not engage in any physical or strenuous activity.,171,MedBullets df_op4 Q172,B
+8.136547800485754,The patient leads a sedentary life in which he tends to stay home and watch television.,171,MedBullets df_op4 Q172,B
+4.915677375794155,"On physical exam, the patient has decreased passive and active range of motion of his shoulder.",171,MedBullets df_op4 Q172,B
+0.0,"The patient has a medical history of type 2 diabetes mellitus, obesity, and hypertension.",171,MedBullets df_op4 Q172,B

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+23.8702132190599,"He has a history of diabetes, obesity, and hypertension but does not see a physician for his underlying conditions.",286,MedBullets_df_op4_Q287,
+9.848810290968498,A 59-year-old man presents to the emergency department after a sudden onset of slurred speech and right upper extremity weakness.,286,MedBullets_df_op4_Q287,
+6.783179839649212,"Physical exam reveals normal vision, strength, and sensation with a stable gait.",286,MedBullets_df_op4_Q287,
+6.030465807642297,His symptoms lasted 20 minutes but by the time he arrived at the emergency department he was symptom-free.,286,MedBullets_df_op4_Q287,
+0.0,A CT scan of the head is performed and is unremarkable.,286,MedBullets_df_op4_Q287,
+0.0,The patient denies any preceding symptoms.,286,MedBullets_df_op4_Q287,
+0.0,Finger-nose testing and tandem gait are unremarkable.,286,MedBullets_df_op4_Q287,
+0.0,"His temperature is 99.2°F (37.3°C), blood pressure is 140/85 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air.",286,MedBullets_df_op4_Q287,

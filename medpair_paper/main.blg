@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: naturemag-doi.bst
+Database file #1: references.bib
+Warning--I'm ignoring KonopaskyArtinoBattistaOhmerHemmerTorreRamanivanMerrienboerTeunissenMcBeeRatcliffeDurning+2020+257+264's extra "title" field
+--line 253 of file references.bib
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+Repeated entry---line 2174 of file references.bib
+ : @article{katz_gpt_2024
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty year in liuattribot2024
+Warning--empty booktitle in lu_learn_2022
+Warning--empty booktitle in cohen-wang_contextcite_2024
+Warning--empty booktitle in panickssery_llm_2024
+You've used 81 entries,
+            2380 wiz_defined-function locations,
+            1528 strings with 61134 characters,
+and the built_in function-call counts, 34236 in all, are:
+= -- 2372
+> -- 948
+< -- 0
++ -- 464
+- -- 237
+* -- 4089
+:= -- 3583
+add.period$ -- 249
+call.type$ -- 81
+change.case$ -- 149
+chr.to.int$ -- 0
+cite$ -- 85
+duplicate$ -- 3012
+empty$ -- 3192
+format.name$ -- 325
+if$ -- 7034
+int.to.chr$ -- 0
+int.to.str$ -- 81
+missing$ -- 702
+newline$ -- 421
+num.names$ -- 101
+pop$ -- 788
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 787
+stack$ -- 0
+substring$ -- 1395
+swap$ -- 2930
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 197
+width$ -- 83
+write$ -- 926
+(There was 1 error message)

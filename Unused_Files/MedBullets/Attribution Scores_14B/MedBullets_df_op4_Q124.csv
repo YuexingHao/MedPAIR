@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+143.4318958046621,"Laboratory results are as follows: Leukocyte count: 13,000/mm^3 Segmented neutrophils: 54% Bands: 2% Eosinophils: 6% Basophils: 0.4% Lymphocytes: 30% Monocytes: 5% A vitamin D level is 26 ng/mL (reference: >= 30 ng/mL).",123,MedBullets df_op4 Q124,D
+23.31239247836944,She immigrated from Vietnam 6 months ago.,123,MedBullets df_op4 Q124,D
+17.456892915070057,She feels bloated and has episodic loose and watery stools.,123,MedBullets df_op4 Q124,D
+13.214867791976292,She has a history of hypertension and hyperlipidemia for which she takes amlodipine and atorvastatin.,123,MedBullets df_op4 Q124,D
+5.766756857474181,"Her temperature is 98.6°F (37.0°C), blood pressure is 110/60 mmHg, pulse is 70/min, and respirations are 18/min.",123,MedBullets df_op4 Q124,D
+5.411510712597783,A 55-year-old woman presents to a primary care physician with persistent nausea and abdominal discomfort.,123,MedBullets df_op4 Q124,D
+4.639149902713546,Her mucous membranes are moist.,123,MedBullets df_op4 Q124,D
+0.24680022120574535,Physical exam reveals a thin-appearing woman in no acute distress.,123,MedBullets df_op4 Q124,D
+0.0,Cardiac and lung examinations are unremarkable.,123,MedBullets df_op4 Q124,D
+0.0,She has experienced these symptoms daily for the past 3 months.,123,MedBullets df_op4 Q124,D

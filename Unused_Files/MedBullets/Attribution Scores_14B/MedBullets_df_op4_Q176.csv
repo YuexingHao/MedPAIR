@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+51.446759574115276,"His parents are concerned because a few weeks ago he started rolling from back to front in addition to front to back, but he now struggles when placed on his back.",175,MedBullets df_op4 Q176,C
+36.24786278876717,His parents report that he is feeding and stooling well and they have just started experimenting with solid foods.,175,MedBullets df_op4 Q176,C
+35.50668592391527,He is found to have the ocular finding seen in Figure A.,175,MedBullets df_op4 Q176,C
+16.03240035135332,The patient’s abdomen is non-tender and soft without hepatosplenomegaly.,175,MedBullets df_op4 Q176,C
+14.138688766858476,The patient was noted to be developmentally appropriate for his age at his last visit 2 months ago.,175,MedBullets df_op4 Q176,C
+12.958860147877326,"On physical exam, the patient seems well-nourished and has no dysmorphic features.",175,MedBullets df_op4 Q176,C
+11.676471065318935,"His temperature is 98.6°F (37°C), blood pressure is 77/49 mmHg, pulse is 112/min, and respirations are 24/min.",175,MedBullets df_op4 Q176,C
+7.423004286997384,A 6-month-old boy is brought to the pediatrician by his parents for a routine visit.,175,MedBullets df_op4 Q176,C
+5.383285751210233,"In the examination room, he is able to roll from front to back but cannot roll from back to front.",175,MedBullets df_op4 Q176,C
+2.1151415597756986,He is not able to sit without support and makes no attempt at bouncing when supported in a standing position.,175,MedBullets df_op4 Q176,C
+-0.0,His patellar reflexes are 4+ bilaterally.,175,MedBullets df_op4 Q176,C

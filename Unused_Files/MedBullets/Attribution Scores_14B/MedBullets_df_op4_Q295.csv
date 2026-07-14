@@ -1,0 +1,20 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+25.909670691279874,"The patient has a history of coronary artery disease with a drug-eluting stent placed 1 year ago, obesity, hypertension, and dyslipidemia.",294,MedBullets df_op4 Q295,B
+21.554668494160186,"His temperature is 99.0°F (37.2°C), blood pressure is 100/60 mmHg, pulse is 105/min, and respirations are 22/min.",294,MedBullets df_op4 Q295,B
+20.524281522870666,Troponin: 0.10 mcg/L (normal < 0.01 mcg/L),294,MedBullets df_op4 Q295,B
+12.417289825377631,A 75-year-old man presents to the emergency department with fatigue.,294,MedBullets df_op4 Q295,B
+9.80516016118334,"He denies chest pain or dyspnea, but complains of diffuse abdominal pain.",294,MedBullets df_op4 Q295,B
+-0.0,Creatinine: 2.1 mg/dL,294,MedBullets df_op4 Q295,B
+0.0,An ECG is ordered and is pending.,294,MedBullets df_op4 Q295,B
+-0.0,Glucose: 100 mg/dL,294,MedBullets df_op4 Q295,B
+0.0,BUN: 80 mg/dL,294,MedBullets df_op4 Q295,B
+0.0,HCO3-: 14 mEq/L,294,MedBullets df_op4 Q295,B
+0.0,K+: 3.5 mEq/L,294,MedBullets df_op4 Q295,B
+-0.0,Laboratory studies are ordered and notable for the following:,294,MedBullets df_op4 Q295,B
+-0.0,Serum:,294,MedBullets df_op4 Q295,B
+0.0,Na+: 147 mEq/L,294,MedBullets df_op4 Q295,B
+0.0,Cl-: 112 mEq/L,294,MedBullets df_op4 Q295,B
+0.0,His abdomen is diffusely tender to palpation.,294,MedBullets df_op4 Q295,B
+0.0,Physical exam reveals a confused man with dry mucous membranes.,294,MedBullets df_op4 Q295,B
+0.0,"Today, his wife noticed that he was confused.",294,MedBullets df_op4 Q295,B
+0.0,"He has had severe nausea, vomiting, and diarrhea for the past 3 days.",294,MedBullets df_op4 Q295,B

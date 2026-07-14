@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+67.4547880340671,She has a vocabulary of 10-25 words that she uses in the form of 1 word commands.,77,MedBullets df_op4 Q78,D
+28.360652012954915,"She is in the 42nd percentile for height and 48th percentile for weight, which is consistent with her growth curves.",77,MedBullets df_op4 Q78,D
+26.408292551546218,She is doing well in daycare and enjoys parallel play with the other children.,77,MedBullets df_op4 Q78,D
+24.212916331594048,She can copy a line and throw a ball.,77,MedBullets df_op4 Q78,D
+14.49611748440615,"Her temperature is 98.6°F (37°C), blood pressure is 92/56 mmHg, pulse is 106/min, and respirations are 23/min.",77,MedBullets df_op4 Q78,D
+9.320951913391733,A 2-year-old girl presents to the pediatrician with her mother for a routine well-child visit.,77,MedBullets df_op4 Q78,D
+6.734590071818581,Her mother reports that she can walk downstairs with both feet on each step.,77,MedBullets df_op4 Q78,D
+5.356385715196474,"On physical exam, she appears well nourished.",77,MedBullets df_op4 Q78,D
+0.0,The patient has trouble falling asleep for naps but does nap for 1-2 hours a few times per week.,77,MedBullets df_op4 Q78,D
+0.0,She goes to sleep easily at night and usually sleeps for 11-12 hours.,77,MedBullets df_op4 Q78,D
+0.0,She drinks milk with meals and has juice sparingly.,77,MedBullets df_op4 Q78,D
+-0.0,Her mother is concerned that the patient is a picky eater and refuses to eat vegetables.,77,MedBullets df_op4 Q78,D

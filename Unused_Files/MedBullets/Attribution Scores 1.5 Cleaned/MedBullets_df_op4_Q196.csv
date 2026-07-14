@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.37062241337448,"In the emergency department, his temperature is 97.8°F (36.6°C), blood pressure is 141/84 mmHg, pulse is 71/min, and respirations are 16/min.",195,MedBullets df_op4 Q196,
+14.731514582517228,"During the ride, he became gradually more somnolent.",195,MedBullets df_op4 Q196,
+9.088915501982244,A head CT is performed and can be seen in Figure A.,195,MedBullets df_op4 Q196,
+4.46980889912033,The paramedics report that at the scene the patient had a Glasgow Coma Score (GCS) of 15.,195,MedBullets df_op4 Q196,
+4.147441179902032,"His medical history is significant for hypertension, hyperlipidemia, coronary artery disease, and a prior transient ischemic attack.",195,MedBullets df_op4 Q196,

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+73.66111369919324,"A pelvic exam reveals normal external genitalia, a mobile and non-tender 6-week-sized uterus, and no adnexal masses or tenderness.",139,MedBullets_df_op4_Q140,
+64.7701686665621,Her skin exam reveals hirsutism along the jawline and acanthosis nigricans in the axillary folds.,139,MedBullets_df_op4_Q140,
+46.58162513002753,"Her temperature is 98.6°F (37.0°C), pulse is 72/min, blood pressure is 136/86 mmHg, and respirations are 13/min.",139,MedBullets_df_op4_Q140,
+0.0,"She has also gained about 10 pounds in the last several months, and her periods have become irregular over the last year.",139,MedBullets_df_op4_Q140,
+0.0,Her BMI is 26 kg/m^2.,139,MedBullets_df_op4_Q140,
+0.0,Cardiopulmonary and abdominal exams are unremarkable.,139,MedBullets_df_op4_Q140,
+0.0,"A 25-year-old woman presents to her primary care physician complaining of recent hair growth along her jawline, now requiring her to shave every 2 days.",139,MedBullets_df_op4_Q140,

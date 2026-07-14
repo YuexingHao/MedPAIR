@@ -1,0 +1,216 @@
+import pandas as pd
+import os
+import re
+from difflib import SequenceMatcher
+
+# Change directory to the location of the file
+os.chdir("/data/healthy-ml/scratch/yuexing/NeuRIPS25/Merge/Merge_Attribution_Scores_14B_Analysis/")
+
+# Read the already combined file
+df = pd.read_csv("14B_Raw.csv", on_bad_lines='skip')
+
+print(f"Original dataframe shape: {df.shape}")
+print(f"Original columns: {df.columns.tolist()}")
+print(f"Sample QA_IDs from df: {df['QA_ID'].head().tolist()}")
+print(f"QA_ID data type: {df['QA_ID'].dtype}")
+
+# Create the new column 'Centaur' in df with default value False
+df['Centaur'] = False
+
+physicians = pd.read_csv("2k_4k_ID_Physician_Final_Sentence.csv")
+
+# Add this after reading the physicians CSV
+print("\nPhysicians dataframe shape:", physicians.shape)
+print("Columns in physicians DataFrame:", physicians.columns.tolist())
+print(f"Sample 4k_IDs from physicians: {physicians['4k_ID'].head().tolist()}")
+print(f"4k_ID data type: {physicians['4k_ID'].dtype}")
+
+# Convert IDs to strings for consistent comparison
+df['QA_ID'] = df['QA_ID'].astype(str)
+physicians['4k_ID'] = physicians['4k_ID'].astype(str)
+
+# Create standardized versions of the IDs by replacing underscores with spaces
+df['QA_ID_std'] = df['QA_ID'].str.replace('_', ' ')
+physicians['4k_ID_std'] = physicians['4k_ID'].str.replace('_', ' ')
+
+# Get the list of valid IDs from physicians DataFrame (standardized)
+valid_ids_std = physicians["4k_ID_std"].dropna().unique().tolist()
+print(f"Number of valid IDs in physicians DataFrame: {len(valid_ids_std)}")
+print(f"First few valid standardized IDs: {valid_ids_std[:5]}")
+
+# Check for any matching IDs using the standardized versions
+df_ids_std = set(df['QA_ID_std'].unique())
+matching_ids = df_ids_std.intersection(set(valid_ids_std))
+print(f"\nNumber of matching IDs between df and physicians (after standardization): {len(matching_ids)}")
+print(f"First few matching IDs: {list(matching_ids)[:5] if matching_ids else 'None'}")
+
+## Sentence Number Matching
+sentence_ID_Match = pd.read_csv("Sentence_Label_Original_2k.csv")
+print(f"\nSentence_ID_Match shape: {sentence_ID_Match.shape}")
+print(f"Sentence_ID_Match columns: {sentence_ID_Match.columns[:10].tolist()}...")
+
+# Create a mapping between QA_ID_std and ID in physicians
+id_mapping = {}
+physician_data = {}
+for _, row in physicians.iterrows():
+    if not pd.isna(row['4k_ID']):
+        std_id = str(row['4k_ID']).replace('_', ' ')
+        id_mapping[std_id] = row['ID']
+        # Store additional fields for each ID
+        physician_data[std_id] = {
+            'ID': row['ID'],
+            'ID_corr': row['ID_corr'],
+            'human_sentence_ids': row['human_sentence_ids'],
+            'keep_k': row['keep_k']
+        }
+
+print(f"Created mapping between 4k_IDs and IDs for {len(id_mapping)} records")
+print(f"Sample mapping entries: {list(id_mapping.items())[:5]}")
+
+# Group by QA_ID and sort each group by Score from highest to lowest, filtering by valid IDs
+grouped = df.groupby('QA_ID_std')
+df_sorted = pd.DataFrame()
+
+# Process each group: sort by Score from highest to lowest and filter by valid IDs
+for qa_id_std, group in grouped:
+    # Only include groups where standardized QA_ID is in the physicians dataframe
+    if qa_id_std in valid_ids_std:
+        group_sorted = group.sort_values('Score', ascending=False)
+        df_sorted = pd.concat([df_sorted, group_sorted])
+
+# Check if df_sorted is not empty
+if not df_sorted.empty:
+    # Function to calculate similarity between two strings
+    def similar(a, b):
+        if pd.isna(a) or pd.isna(b) or a == '' or b == '':
+            return 0
+        return SequenceMatcher(None, str(a), str(b)).ratio()
+    
+    # Function to find the best matching sentence and column
+    def find_matching_sentence(source_text, qa_id_std, threshold=0.6):
+        # Find the corresponding ID in sentence_ID_Match
+        if qa_id_std not in id_mapping:
+            return None, 0
+        
+        sentence_id = id_mapping[qa_id_std]
+        matching_rows = sentence_ID_Match[sentence_ID_Match['ID'] == sentence_id]
+        
+        if matching_rows.empty:
+            return None, 0
+        
+        matching_row = matching_rows.iloc[0]
+        best_match = None
+        best_score = 0
+        
+        # Check each sentence column for the best match
+        for col in [c for c in sentence_ID_Match.columns if c.startswith('sentence_')]:
+            sentence = matching_row[col]
+            score = similar(source_text, sentence)
+            if score > best_score and score >= threshold:
+                best_score = score
+                best_match = col
+        
+        return best_match, best_score
+    
+    # Add sentence_number column to df_sorted
+    df_sorted['sentence_number'] = ''
+    df_sorted['similarity_score'] = 0.0
+    
+    # Add columns from physicians dataframe
+    df_sorted['ID_corr'] = ''
+    df_sorted['human_sentence_ids'] = ''
+    df_sorted['keep_k'] = pd.NA
+    
+    print("\nPerforming sentence matching...")
+    match_count = 0
+    
+    # Process in chunks to avoid long operations without feedback
+    chunk_size = 100
+    total_rows = len(df_sorted)
+    
+    for i in range(0, total_rows, chunk_size):
+        chunk = df_sorted.iloc[i:min(i+chunk_size, total_rows)]
+        for idx, row in chunk.iterrows():
+            qa_id_std = row['QA_ID_std']
+            
+            # Add physician data
+            if qa_id_std in physician_data:
+                df_sorted.at[idx, 'ID_corr'] = physician_data[qa_id_std]['ID_corr']
+                df_sorted.at[idx, 'human_sentence_ids'] = physician_data[qa_id_std]['human_sentence_ids']
+                df_sorted.at[idx, 'keep_k'] = physician_data[qa_id_std]['keep_k']
+            
+            # Find matching sentence
+            match_col, match_score = find_matching_sentence(row['Source'], qa_id_std)
+            if match_col:
+                df_sorted.at[idx, 'sentence_number'] = match_col
+                df_sorted.at[idx, 'similarity_score'] = match_score
+                match_count += 1
+        
+        print(f"Processed {min(i+chunk_size, total_rows)}/{total_rows} rows, found {match_count} matches so far")
+    
+    print(f"\nMatching complete. Found matches for {match_count} out of {total_rows} sources.")
+    
+    # Display statistics on matches
+    match_percentage = (match_count / total_rows) * 100
+    print(f"Match percentage: {match_percentage:.2f}%")
+    
+    # Display the first few rows of the sorted dataframe with matched sentences and physician data
+    print("\nFirst few rows of the sorted dataframe with added columns:")
+    display_cols = ['QA_ID_std', 'Score', 'Source', 'sentence_number', 'similarity_score', 'ID_corr', 'human_sentence_ids', 'keep_k']
+    print(df_sorted[display_cols].head())
+    
+    # Get unique QA_IDs to verify grouping and filtering
+    original_count = len(df['QA_ID'].unique())
+    filtered_count = len(df_sorted['QA_ID'].unique())
+    print(f"\nNumber of unique QA_IDs before filtering: {original_count}")
+    print(f"Number of unique QA_IDs after filtering: {filtered_count}")
+    print(f"Number of QA_IDs removed: {original_count - filtered_count}")
+    
+    # Remove rows where Source is just a single period
+    rows_before = len(df_sorted)
+    df_sorted = df_sorted[df_sorted['Source'] != '.']
+    rows_after = len(df_sorted)
+    rows_removed = rows_before - rows_after
+    print(f"\nRemoved {rows_removed} rows where Source was only a period ('.')")
+    
+    # Convert sentence_number from "sentence_X" to just "X"
+    df_sorted['sentence_number'] = df_sorted['sentence_number'].apply(
+        lambda x: re.search(r'(\d+)$', str(x)).group(1) if pd.notnull(x) and re.search(r'(\d+)$', str(x)) else '')
+    
+    print("\nAfter converting sentence_number to numbers only:")
+    print(df_sorted[['QA_ID_std', 'sentence_number']].head())
+    
+    # Create a new dataframe that groups by QA_ID_std and combines sentence numbers
+    qa_id_groups = df_sorted.groupby('QA_ID_std')
+    
+    # Initialize the new dataframe
+    B14_sentence_df = pd.DataFrame(columns=['QA_ID_std', '14B_sentence_number'])
+    
+    # Process each group to combine sentence numbers
+    for qa_id_std, group in qa_id_groups:
+        # Get all non-empty sentence numbers
+        sentence_nums = [str(num) for num in group['sentence_number'].tolist() if str(num).strip()]
+        # Remove duplicates and sort
+        unique_sentence_nums = sorted(set(sentence_nums), key=int)
+        # Join as a comma-separated string
+        combined_nums = ','.join(unique_sentence_nums)
+        
+        # Add to the new dataframe
+        B14_sentence_df = pd.concat([B14_sentence_df, pd.DataFrame({
+            'QA_ID_std': [qa_id_std],
+            '14B_sentence_number': [combined_nums]
+        })])
+    
+    print(f"\nCreated 14B_sentence_df with {len(B14_sentence_df)} rows")
+    print("\nFirst few rows of 14B_sentence_df:")
+    print(B14_sentence_df.head())
+    
+    # Save both dataframes
+    df_sorted.to_csv("Qwen14B_Physician_Filtered_with_Sentences.csv", index=False)
+    B14_sentence_df.to_csv("14B_Sentence_Numbers.csv", index=False)
+    
+    print("\nFiltered and sorted dataframe saved to 'Qwen14B_Physician_Filtered_with_Sentences.csv'")
+    print("14B sentence numbers dataframe saved to '14B_Sentence_Numbers.csv'")
+else:
+    print("\nWarning: No matching IDs found between df['QA_ID'] and physicians['4k_ID'] even after standardization")
+    print("The filtered dataframe is empty.")

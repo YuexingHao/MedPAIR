@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+81.55063736528002,"He says that the spasms usually occur after he wakes up as he is getting ready for school, and consist of disorganized jerking motions that stop after a few minutes.",61,MedBullets df_op4 Q62,A
+51.83127688781054,"His temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",61,MedBullets df_op4 Q62,A
+49.33209603984092,A 14-year-old boy presents to his pediatrician with a 2-month history of intermittent arm and leg spasms.,61,MedBullets df_op4 Q62,A
+39.53121956734137,He recently started experimenting with alcohol and marijuana that one of his friends has been stealing from their parents.,61,MedBullets df_op4 Q62,A
+37.2215387634933,He has also noticed that they occur when he stays up late to cram last minute for exams.,61,MedBullets df_op4 Q62,A
+3.0702214154029464,Physical exam reveals a healthy child.,61,MedBullets df_op4 Q62,A

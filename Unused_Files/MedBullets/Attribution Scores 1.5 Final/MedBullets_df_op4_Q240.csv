@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+100.94561876349378,"The patient has a medical history of alcoholism and has been admitted to the hospital multiple times for withdrawal, abdominal pain, and traumatic injuries from his drinking.",239,MedBullets_df_op4_Q240,B
+83.40274420292906,"His temperature is 99.3°F (37.4°C), blood pressure is 115/78 mmHg, pulse is 78/min, respirations are 15/min, and oxygen saturation is 99% on room air.",239,MedBullets_df_op4_Q240,B
+47.051747858855194,A Sudan Black stain of the patient’s stool is positive.,239,MedBullets_df_op4_Q240,B
+32.18957498227438,Laboratory studies are notable for a serum calcium of 7.0 mg/dL.,239,MedBullets_df_op4_Q240,B
+31.487771122243647,"Physical exam reveals a non-tender, non-distended abdomen.",239,MedBullets_df_op4_Q240,B
+0.0,A 59-year-old man presents to his primary care physician for abdominal pain and foul-smelling diarrhea that has persisted for the past 2 years.,239,MedBullets_df_op4_Q240,B

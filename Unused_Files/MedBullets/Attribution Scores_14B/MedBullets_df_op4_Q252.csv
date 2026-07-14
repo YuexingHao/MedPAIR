@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+70.45146654819571,"His temperature is 98.2°F (36.8°C), blood pressure is 120/90 mmHg, pulse is 110/min, and respirations are 12/min.",251,MedBullets df_op4 Q252,D
+18.873666895627103,A 34-year-old man presents to the emergency room with pain behind his eyes.,251,MedBullets df_op4 Q252,D
+16.905301997195245,He had a similar episode about 1 month ago which resolved after a few hours.,251,MedBullets df_op4 Q252,D
+14.302641958914718,Physical exam reveals a 2 mm pupil on the right and a 5 mm pupil on the left.,251,MedBullets df_op4 Q252,D
+8.332335997372866,The pain feels like a stabbing sensation behind his right eye.,251,MedBullets df_op4 Q252,D
+2.4169539870386134,"The last time he had an episode like this, his eye was tearing.",251,MedBullets df_op4 Q252,D
+1.8891370567630352,He denies any symptoms on the left side.,251,MedBullets df_op4 Q252,D
+0.0,The remainder of the neurologic exam is unremarkable.,251,MedBullets df_op4 Q252,D
+0.0,Extraocular movements are intact bilaterally.,251,MedBullets df_op4 Q252,D

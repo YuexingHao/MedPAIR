@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+76.95282265809048,"The only other concern that the patient's mother has is that, upon awakening, she notices that sometimes the patient's arm will jerk back and forth.",206,MedBullets df_op4 Q207,D
+75.73860873186334,A 16-year-old girl who recently immigrated to the United States from Bolivia presents to her primary care physician with a chief complaint of inattentiveness in school.,206,MedBullets df_op4 Q207,D
+17.967326965939392,"The patient's teacher describes her as occasionally ""daydreaming"" for periods of time during where the patient does not respond or participate in school activities.",206,MedBullets df_op4 Q207,D
+0.0,"On physical exam, you note a young, healthy girl whose neurological exam is within normal limits.",206,MedBullets df_op4 Q207,D
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 112/74 mmHg, pulse is 63/min, and respirations are 11/min.",206,MedBullets df_op4 Q207,D
+-0.0,She is not sexually active and does not intend to become pregnant in the near future.,206,MedBullets df_op4 Q207,D
+0.0,The patient states she is not doing this intentionally.,206,MedBullets df_op4 Q207,D
+0.0,The patient has an unknown medical history and is currently not on any medications.,206,MedBullets df_op4 Q207,D
+0.0,"Nothing has helped the patient change her behavior, including parent-teacher conferences or punishment.",206,MedBullets df_op4 Q207,D
+0.0,The patient has no other concerns.,206,MedBullets df_op4 Q207,D

@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.190549931630066,"Since then, the seizure activity has increased and the daycare facility also noted concerns over his lack of response to voice commands.",176,MedBullets df_op4 Q177,B
+35.302184899154874,The patient is then startled when a door is closed quickly and he suddenly loses consciousness.,176,MedBullets df_op4 Q177,B
+24.497903357648543,An ECG is quickly performed and is shown in Figure B.,176,MedBullets df_op4 Q177,B
+23.606607653288215,"Since then, he has been on valproic acid but the seizure activity remains unchanged.",176,MedBullets df_op4 Q177,B
+20.232123784190858,"His temperature is 98.6°F (37°C), blood pressure is 105/52 mmHg, pulse is 110/min, and respirations are 25/min.",176,MedBullets df_op4 Q177,B
+12.784046442763902,She reports that occasionally he “suddenly drops” when running around the house.,176,MedBullets df_op4 Q177,B
+11.935677141705883,A 4-year-old boy is brought in by his grandmother for worsening seizure activity.,176,MedBullets df_op4 Q177,B
+11.223440664035303,Family history is significant for a cousin who died suddenly at a young age.,176,MedBullets df_op4 Q177,B
+9.498564464465927,An ECG is shown in Figure A.,176,MedBullets df_op4 Q177,B
+8.839740300424568,"An EEG is performed, which is unrevealing.",176,MedBullets df_op4 Q177,B
+3.941296728432131,A physical exam is significant for lack of response to auditory stimulation.,176,MedBullets df_op4 Q177,B
+0.0,He was recently enrolled in daycare because she could no longer care for him full-time.,176,MedBullets df_op4 Q177,B
+0.0,She says that his first seizure occurred 1 year ago.,176,MedBullets df_op4 Q177,B

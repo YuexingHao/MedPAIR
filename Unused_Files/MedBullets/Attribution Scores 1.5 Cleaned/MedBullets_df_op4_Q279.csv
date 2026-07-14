@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+112.20428888362244,"His temperature is 98.1°F (36.7°C), blood pressure is 112/83 mmHg, pulse is 83/min, respirations are 13/min, and oxygen saturation is 98% on room air.",278,MedBullets df_op4 Q279,A
+48.0690402623126,He has to strain to have bowel movements and has trouble defecating secondary to pain.,278,MedBullets df_op4 Q279,A
+34.54534372251657,"The patient is a software engineer and enjoys hiking, going to nightclubs, and dancing.",278,MedBullets df_op4 Q279,A
+33.53136542684275,A 32-year-old man presents to the emergency department with pain upon defecation.,278,MedBullets df_op4 Q279,A
+28.25946295261383,Sometimes he notes blood on the toilet paper.,278,MedBullets df_op4 Q279,A
+22.369044191447937,His symptoms started a few weeks ago but have been worsening.,278,MedBullets df_op4 Q279,A
+16.66865966791957,He is generally healthy and does not smoke.,278,MedBullets df_op4 Q279,A

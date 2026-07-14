@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.83731842041016,"She denies pain, but reports her right eye “feels funny.” The patient’s medical history is significant for a previous myocardial infarction, hypertension, and osteoporosis.",184,MedBullets df_op4 Q185,
+25.90182784804632,The patient's pupils are symmetric in size and equally reactive to light with accommodation.,184,MedBullets df_op4 Q185,
+10.49270296317678,"Her temperature is 98°F (36.7°C), blood pressure is 145/86 mmHg, pulse is 62/min, and respirations are 12/min with an oxygen saturation of 98% on room air.",184,MedBullets df_op4 Q185,
+10.005901596991007,A 71-year-old woman arrives to clinic with sudden vision loss.,184,MedBullets df_op4 Q185,
+9.90941864082092,"Her current medications include aspirin, metoprolol, rosuvastatin, lisinopril, and alendronate.",184,MedBullets df_op4 Q185,
+0.2997055924397291,A fundoscopic exam of the right eye is shown in Figure A.,184,MedBullets df_op4 Q185,

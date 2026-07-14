@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.68174679156118,"His temperature is 98.0°F (36.7°C), blood pressure is 105/71 mmHg, pulse is 113/min, respirations are 19/min, and oxygen saturation is 98% on room air.",48,MedBullets df_op4 Q49,A
+45.32762808971135,The symptoms began towards the end of running a marathon and persisted after finishing the race.,48,MedBullets df_op4 Q49,A
+36.515336643250876,A radiograph is performed as seen in Figure A.,48,MedBullets df_op4 Q49,A
+20.31718657816497,"A 24-year-old man presents to the emergency department with abdominal pain, nausea, and vomiting.",48,MedBullets df_op4 Q49,A
+1.8950352016836405,The patient is otherwise healthy and has no other medical problems.,48,MedBullets df_op4 Q49,A
+0.9462565130680322,Physical exam reveals a distended and tender abdomen.,48,MedBullets df_op4 Q49,A

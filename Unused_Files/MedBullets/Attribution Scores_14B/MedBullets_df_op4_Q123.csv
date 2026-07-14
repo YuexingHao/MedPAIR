@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+106.86106894253452,"During cardiac auscultation, the finding in Figure A is noted below her breasts.",122,MedBullets df_op4 Q123,D
+81.66200111826514,She has noticed that the sweat stains get itchy and induce a burning sensation unless she showers or changes her shirt.,122,MedBullets df_op4 Q123,D
+44.739572145044804,She feels that her co-workers also disrespect her for her weight and constant sweat stains around her armpits and chest.,122,MedBullets df_op4 Q123,D
+36.64036954250727,"Her temperature is 98.6°F (37°C), blood pressure is 128/85 mmHg, pulse is 91/min, and respirations are 11/min.",122,MedBullets df_op4 Q123,D
+26.442551883815202,A 45-year-old morbidly obese woman with a history of asthma and type 2 diabetes mellitus presents to her primary care physician for advice on weight loss.,122,MedBullets df_op4 Q123,D
+25.890666904232518,"On physical exam, the patient has a flat affect, with moist oral mucosa and nasal polyps.",122,MedBullets df_op4 Q123,D
+18.057814874914303,Her neck is thick with a posterior cervical fat pad.,122,MedBullets df_op4 Q123,D
+9.124122879779966,She thinks that her husband is having sex with other women because they have not had sex over the past year.,122,MedBullets df_op4 Q123,D
+0.0,"She has been compliant with her medications, which include albuterol, metformin, glyburide, and atorvastatin.",122,MedBullets df_op4 Q123,D
+0.0,She denies sinus tenderness.,122,MedBullets df_op4 Q123,D

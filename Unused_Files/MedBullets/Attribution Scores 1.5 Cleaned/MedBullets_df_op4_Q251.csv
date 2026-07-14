@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+120.31853518434856,"His temperature is 97.6°F (36.4°C), blood pressure is 104/54 mmHg, pulse is 100/min, respirations are 19/min, and oxygen saturation is 98% on room air.",250,MedBullets df_op4 Q251,A
+55.467238044902096,A 7-year-old adopted boy presents to the emergency department after fainting.,250,MedBullets df_op4 Q251,A
+33.938961535826515,He just switched from being home-schooled to public school and joined the basketball team.,250,MedBullets df_op4 Q251,A
+28.3596470166315,He is otherwise healthy and has met all developmental milestones.,250,MedBullets df_op4 Q251,A
+27.878003548830748,He has fainted several times during basketball practices.,250,MedBullets df_op4 Q251,A
+25.978857251045444,He is usually unconscious for less than a minute.,250,MedBullets df_op4 Q251,A
+4.869504884735527,He does not currently take any medications.,250,MedBullets df_op4 Q251,A
+2.670580610989059,He did not sustain any injuries or have any prodromes prior to these episodes.,250,MedBullets df_op4 Q251,A

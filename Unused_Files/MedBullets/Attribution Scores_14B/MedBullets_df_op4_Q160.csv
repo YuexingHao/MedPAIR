@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.85643315327432,"The patient has gray-blue skin, hypophonia, weak upper extremities, and normal leg strength.",159,MedBullets df_op4 Q160,B
+44.2241542197997,"A 71-year-old man arrives to the emergency room appearing cyanotic and having weak, shallow respirations.",159,MedBullets df_op4 Q160,B
+37.10754184110685,"He is brought in by his home care nurse, who reports that the patient has a history of myasthenia gravis and frequent urinary tract infections.",159,MedBullets df_op4 Q160,B
+30.219496502229234,"His temperature is 99.0°F (37.2°C), blood pressure is 128/78 mmHg, pulse is 92/min, and respirations are 28/min with an oxygen saturation of 86% O2 on room air.",159,MedBullets df_op4 Q160,B
+29.12488362675709,"This morning, he experienced poor grip strength and progressive difficulty breathing.",159,MedBullets df_op4 Q160,B
+15.611861743926612,The patient is intubated.,159,MedBullets df_op4 Q160,B
+15.496910512447357,The patient was in his normal state of health until 5 days ago when he developed a urinary tract infection.,159,MedBullets df_op4 Q160,B
+1.7364723566501459,PCO2: 60 mmHg,159,MedBullets df_op4 Q160,B
+0.0,pH: 7.30,159,MedBullets df_op4 Q160,B
+0.0,An arterial blood gas is drawn with results as shown below:,159,MedBullets df_op4 Q160,B
+-0.0,PO2: 55 mmHg,159,MedBullets df_op4 Q160,B
+0.0,"The patient’s medications include pyridostigmine and aspirin, both of which he takes as prescribed.",159,MedBullets df_op4 Q160,B
+0.0,He was receiving gentamicin infusions for his infections.,159,MedBullets df_op4 Q160,B

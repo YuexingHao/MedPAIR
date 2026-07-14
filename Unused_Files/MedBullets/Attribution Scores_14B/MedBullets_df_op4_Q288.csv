@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+51.054123590986634,"Her temperature is 95.0°F (35.0°C), blood pressure is 84/54 mmHg, pulse is 50/min, respirations are 9/min, and oxygen saturation is 98% on room air.",287,MedBullets df_op4 Q288,C
+30.634107291698456,The patient has dementia at baseline and is minimally interactive.,287,MedBullets df_op4 Q288,C
+24.141692641258654,"Her skin is cool and pale, and her hair is thin.",287,MedBullets df_op4 Q288,C
+20.454859313980876,The patient is given several intravenous boluses of fluids and her blood pressure improves to 100/60 mmHg.,287,MedBullets df_op4 Q288,C
+18.37215087217868,Physical exam reveals an obtunded woman who only withdraws her extremities to pain.,287,MedBullets df_op4 Q288,C
+10.98993266597063,"This morning, she was found to be obtunded.",287,MedBullets df_op4 Q288,C
+2.6287038346327054,Laboratory values are notable for a whole blood sodium of 120 mEq/L.,287,MedBullets df_op4 Q288,C
+1.6592835386190803,There are no signs of trauma noted on exam.,287,MedBullets df_op4 Q288,C
+0.0,"No further history was provided from the nursing home, and the patient is unable to provide any history.",287,MedBullets df_op4 Q288,C
+-0.0,She was last known to be normal the night before.,287,MedBullets df_op4 Q288,C
+0.0,A 67-year-old woman presents from a nursing home with altered mental status.,287,MedBullets df_op4 Q288,C

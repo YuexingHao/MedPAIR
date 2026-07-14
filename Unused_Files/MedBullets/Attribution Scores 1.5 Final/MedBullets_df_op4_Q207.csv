@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+100.37713044219055,A 16-year-old girl who recently immigrated to the United States from Bolivia presents to her primary care physician with a chief complaint of inattentiveness in school.,206,MedBullets_df_op4_Q207,C
+45.44188052981351,"On physical exam, you note a young, healthy girl whose neurological exam is within normal limits.",206,MedBullets_df_op4_Q207,C
+44.71430921953454,She is not sexually active and does not intend to become pregnant in the near future.,206,MedBullets_df_op4_Q207,C
+5.730141543481566,The patient states she is not doing this intentionally.,206,MedBullets_df_op4_Q207,C
+0.722526188822399,"Nothing has helped the patient change her behavior, including parent-teacher conferences or punishment.",206,MedBullets_df_op4_Q207,C
+0.0,The patient has an unknown medical history and is currently not on any medications.,206,MedBullets_df_op4_Q207,C
+0.0,"The patient's teacher describes her as occasionally ""daydreaming"" for periods of time during where the patient does not respond or participate in school activities.",206,MedBullets_df_op4_Q207,C
+-0.0,"The only other concern that the patient's mother has is that, upon awakening, she notices that sometimes the patient's arm will jerk back and forth.",206,MedBullets_df_op4_Q207,C
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 112/74 mmHg, pulse is 63/min, and respirations are 11/min.",206,MedBullets_df_op4_Q207,C

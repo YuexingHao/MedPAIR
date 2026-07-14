@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+60.07350728206782,"Her temperature is 99°F (37.2°C), blood pressure is 125/83 mmHg, pulse is 82/min, respirations are 12/min, and oxygen saturation is 99% on room air.",63,MedBullets df_op4 Q64,B
+58.766434548623295,A 65-year-old woman presents to her family doctor to reestablish care since losing her insurance.,63,MedBullets df_op4 Q64,B
+36.88233481980694,She wakes up with achy wrists and elbows that she suspects is from years of using a computer keyboard.,63,MedBullets df_op4 Q64,B
+19.583064392209053,She exercises 3-4 times a week and consumes red meat sparingly.,63,MedBullets df_op4 Q64,B
+17.69465451446753,She drank and smoked cigarettes socially with coworkers but never at home or on vacation.,63,MedBullets df_op4 Q64,B
+0.0,Her physical exam is grossly unremarkable.,63,MedBullets df_op4 Q64,B
+0.0,She completed menopause at age 52.,63,MedBullets df_op4 Q64,B
+0.0,Her family history is notable for coronary artery disease on her father's side and colon cancer on her mother's side.,63,MedBullets df_op4 Q64,B
+0.0,She last had a colonoscopy 5 years ago that revealed no abnormal findings.,63,MedBullets df_op4 Q64,B
+0.0,She has not had time for regular check-ups.,63,MedBullets df_op4 Q64,B

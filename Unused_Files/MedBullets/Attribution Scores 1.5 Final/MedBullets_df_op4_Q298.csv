@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.9317711006595,"His temperature is 99.0°F (37.2°C), blood pressure is 170/100 mmHg, pulse is 95/min, and respirations are 16/min.",297,MedBullets_df_op4_Q298,A
+84.40824265166549,"On arrival to the emergency department, the patient is not responding to verbal stimuli and only withdraws his left upper extremity and lower extremity to pain.",297,MedBullets_df_op4_Q298,A
+39.727116614580154,A 77-year-old man presents to the emergency department with a complaint of sudden onset weakness in his right upper extremity.,297,MedBullets_df_op4_Q298,A
+38.77472576086621,"His past medical history is notable for hypertension and atrial fibrillation treated with metoprolol, apixaban, and lisinopril.",297,MedBullets_df_op4_Q298,A
+34.159552238976566,The patient has a seizure and subsequently demonstrates agonal breathing.,297,MedBullets_df_op4_Q298,A
+29.711470021385228,A fingerstick blood glucose is 122 mg/dL.,297,MedBullets_df_op4_Q298,A
+0.0,When his wife noted this she brought him into the hospital.,297,MedBullets_df_op4_Q298,A
+0.0,"At home, the patient thought he was simply dehydrated, but he rapidly began to have trouble speaking.",297,MedBullets_df_op4_Q298,A

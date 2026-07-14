@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+168.33150201988443,"Immediately after delivery, the baby was given silver nitrate drops and vitamin K. His temperature is 99°F (37.2°C), blood pressure is 81/52 mmHg, pulse is 135/min, and respirations are 36/min with an oxygen saturation of 98% O2 on room air.",182,MedBullets_df_op4_Q183,
+4.215012472686297,The mother reports that the patient has developed a cough and nasal discharge.,182,MedBullets_df_op4_Q183,
+0.0,Pregnancy and delivery were uncomplicated but the mother had limited prenatal care during the third trimester.,182,MedBullets_df_op4_Q183,
+-0.0,A fluorescein test is negative.,182,MedBullets_df_op4_Q183,
+-0.0,A chest radiograph is performed that shows hyperinflation with bilateral infiltrates.,182,MedBullets_df_op4_Q183,
+0.0,"On lung exam, scattered crackles are appreciated.",182,MedBullets_df_op4_Q183,
+0.0,"Upon visual examination of the eyes, mucoid ocular discharge and eyelid swelling are noted.",182,MedBullets_df_op4_Q183,
+0.0,A 13-day-old boy is brought by his mother for eye redness and ocular discharge.,182,MedBullets_df_op4_Q183,

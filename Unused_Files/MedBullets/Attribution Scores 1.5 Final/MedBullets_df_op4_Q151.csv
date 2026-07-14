@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.52901893059295,"He appears to have poor visual acuity and is referred to an ophthalmologist, who finds downward lens subluxation of the right eye.",150,MedBullets_df_op4_Q151,C
+69.72820598214167,He eats a varied diet at home and with limited juice and snack foods.,150,MedBullets_df_op4_Q151,C
+50.50198558111274,The patient also has joint hypermobility and hyperelastic skin.,150,MedBullets_df_op4_Q151,C
+41.31066533229347,He has a fair complexion and tall stature with a prominent sternum.,150,MedBullets_df_op4_Q151,C
+36.54726755619049,"His temperature is 98.6°F (37°C), blood pressure is 101/67 mmHg, pulse is 110/min, and respirations are 24/min.",150,MedBullets_df_op4_Q151,C
+26.71490360868776,"On physical exam, the patient is in the 73rd percentile for weight, 99th percentile for height, and 86th percentile for head circumference.",150,MedBullets_df_op4_Q151,C
+11.717648614638923,"The child seems to be doing well, but the patient is much larger than any of the other 3-year-olds in his preschool class.",150,MedBullets_df_op4_Q151,C
+0.1874095761048986,The child was recently adopted and little is known about his medical or family history.,150,MedBullets_df_op4_Q151,C
+0.0,A 3-year-old boy presents with his parents to a pediatrician for a new patient visit.,150,MedBullets_df_op4_Q151,C

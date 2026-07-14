@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+65.40843885015562,The patient surpassed his birth weight by 2 weeks of age but has fallen 1 standard deviation on the growth curve since then.,136,MedBullets_df_op4_Q137,A
+49.581690227024275,The patient does not seem to be in any distress when he passes these bloody stools.,136,MedBullets_df_op4_Q137,A
+41.241542029417275,A digital rectal exam reveals a small amount of blood in the rectal vault.,136,MedBullets_df_op4_Q137,A
+29.81410611529682,His stools over the past week have also become blood-streaked.,136,MedBullets_df_op4_Q137,A
+27.84236449844125,A 4-week-old boy presents to the pediatrician for vomiting.,136,MedBullets_df_op4_Q137,A
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 78/47 mmHg, pulse is 115/min, and respirations are 28/min.",136,MedBullets_df_op4_Q137,A
+-0.0,The patient is breastfed and typically feeds for 20-30 minutes every 2 hours.,136,MedBullets_df_op4_Q137,A
+0.0,"One week ago, he began vomiting and regurgitating breastmilk through his nose after most feedings.",136,MedBullets_df_op4_Q137,A

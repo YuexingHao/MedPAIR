@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.09064696560335,"His temperature is 97.6°F (36.4°C), blood pressure is 78/56 mmHg, pulse is 148/min, and respirations are 44/min.",72,MedBullets df_op4 Q73,C
+34.03215318575506,"Prior to today, the patient was feeding, voiding, and stooling well.",72,MedBullets df_op4 Q73,C
+29.75621076298329,An abdominal radiograph is performed as in Figure A.,72,MedBullets df_op4 Q73,C
+26.4078399459874,His parents report that he suddenly started vomiting this morning and has shown no interest in feeding since then.,72,MedBullets df_op4 Q73,C
+16.749641608446836,They describe the vomitus as green and without any traces of blood.,72,MedBullets df_op4 Q73,C
+13.221615414107216,He was noted to have surpassed his birth weight at his last office visit 1 week ago.,72,MedBullets df_op4 Q73,C
+-0.0,Bowel sounds are hypoactive.,72,MedBullets df_op4 Q73,C
+0.0,His abdomen is soft and distended.,72,MedBullets df_op4 Q73,C
+0.0,"On physical exam, the patient is in mild distress.",72,MedBullets df_op4 Q73,C
+0.0,"He has no dysmorphic features, and his mucous membranes are dry.",72,MedBullets df_op4 Q73,C
+0.0,A 3-week-old boy presents to the emergency department with vomiting.,72,MedBullets df_op4 Q73,C

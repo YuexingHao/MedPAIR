@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+54.01245224921594,He has a high-frequency bilateral hand tremor elicited on finger-to-nose testing.,29,MedBullets df_op4 Q30,C
+28.913539301323226,"On physical exam, his temperature is 98.6°F (37.0°C), blood pressure is 159/84, pulse is 74/min, and respirations are 12/min.",29,MedBullets df_op4 Q30,C
+18.091205670353222,A 51-year-old man presents to his primary care provider for intermittent shaking of his hands.,29,MedBullets df_op4 Q30,C
+10.981235046295899,The patient smokes half a pack per day of cigarettes and drinks 2-3 beers throughout the day.,29,MedBullets df_op4 Q30,C
+8.107444065708577,"For the last several years he has noticed this ""shaking"" when he brushes his teeth and prepares a cup of coffee in the morning.",29,MedBullets df_op4 Q30,C
+3.4984797537326813,The shaking then gradually improves over the course of the day.,29,MedBullets df_op4 Q30,C
+1.8173843974886494,His only home medication is pravastatin.,29,MedBullets df_op4 Q30,C
+0.0,His neurological exam is otherwise unremarkable.,29,MedBullets df_op4 Q30,C
+0.0,His family history is significant for Parkinson disease in his father.,29,MedBullets df_op4 Q30,C
+0.0,His medical history is otherwise notable for hypertension and hyperlipidemia.,29,MedBullets df_op4 Q30,C

@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.257214456796646,"Subsequently, the patient is over-sedated and has to be transferred to the ICU for airway monitoring.",264,MedBullets df_op4 Q265,B
+56.84819806864034,"They order the patient’s home medications including clobazam; however, they accidentally order clonazepam.",264,MedBullets df_op4 Q265,B
+54.23602530624608,A resident physician places a patient’s home medications in for their admission orders during an overnight admission.,264,MedBullets df_op4 Q265,B

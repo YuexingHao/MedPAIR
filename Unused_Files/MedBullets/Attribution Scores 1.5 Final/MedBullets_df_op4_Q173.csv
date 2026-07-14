@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+60.59250608086586,The patient was diagnosed with gestational diabetes after routine screening in the 2nd trimester and has been started on insulin after unsuccessful attempts at lifestyle management.,172,MedBullets_df_op4_Q173,A
+56.10438032088477,The patient has a 15-pack-year smoking history but quit smoking in her 1st month of pregnancy.,172,MedBullets_df_op4_Q173,A
+31.881784483972936,She also has migraines and gastroesophageal reflux disorder.,172,MedBullets_df_op4_Q173,A
+30.322053030886263,She is worried that she is dehydrated but otherwise feels well and has recovered from her gastrointestinal illness.,172,MedBullets_df_op4_Q173,A
+19.071077618749527,She took loperamide with symptomatic relief.,172,MedBullets_df_op4_Q173,A
+14.832163415420167,Yesterday she had several episodes of diarrhea and vomited once after attending a company picnic 2 days ago.,172,MedBullets_df_op4_Q173,A
+0.0,A 32-year-old G1P0 presents to the antenatal testing unit at 32 weeks of gestation for a non-stress test (NST).,172,MedBullets_df_op4_Q173,A
+0.0,A representative portion of the NST is shown in Figure A.,172,MedBullets_df_op4_Q173,A
+0.0,"Her temperature is 98.5°F (36.9°C), blood pressure is 122/82 mmHg, pulse is 84/min, and respirations are 14/min.",172,MedBullets_df_op4_Q173,A

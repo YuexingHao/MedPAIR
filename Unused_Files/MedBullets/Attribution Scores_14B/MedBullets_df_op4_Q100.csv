@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.13562317789798,"When the patient conveys the information to his family, he focuses his efforts on discussing the current literature in the field and the novel therapies that have been invented.",99,MedBullets df_op4 Q100,A
+52.42114298921092,He demonstrates his likely mortality outcome which he calculated using the results of a large multi-center study.,99,MedBullets df_op4 Q100,A
+10.340167244703,A 57-year-old man presents to the emergency department for weight loss and abdominal pain.,99,MedBullets df_op4 Q100,A
+0.0,The patient is informed of his diagnosis of metastatic colon cancer.,99,MedBullets df_op4 Q100,A
+0.0,A CT scan of the abdomen is performed demonstrating a mass in the colon with multiple metastatic lesions scattered throughout the abdomen.,99,MedBullets df_op4 Q100,A
+0.0,Stool fecal occult blood testing is positive.,99,MedBullets df_op4 Q100,A
+0.0,"His temperature is 99.5°F (37.5°C), blood pressure is 100/58 mmHg, pulse is 100/min, respirations are 17/min, and oxygen saturation is 98% on room air.",99,MedBullets df_op4 Q100,A
+-0.0,The patient is very thin and appears pale.,99,MedBullets df_op4 Q100,A
+0.0,He does have a 33-pack-year smoking history and drinks 4 to 5 alcoholic drinks per day.,99,MedBullets df_op4 Q100,A
+0.0,The patient has no significant medical history.,99,MedBullets df_op4 Q100,A
+0.0,"Today, he fainted prompting his presentation.",99,MedBullets df_op4 Q100,A
+0.0,The patient has felt steadily more fatigued over the past month and has lost 22 pounds without effort.,99,MedBullets df_op4 Q100,A

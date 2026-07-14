@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+92.3827586932896,"She had a headache that was present for a few hours before subsiding 2 days ago, and then today she developed a headache that was sudden in onset and at maximal intensity within minutes.",41,MedBullets df_op4 Q42,B
+44.308481738083216,"On exam, she has pain with passive and active movement of the neck.",41,MedBullets df_op4 Q42,B
+28.720707808189573,"Her temperature is 99.0°F (37.2°C), blood pressure is 157/99 mmHg, pulse is 90/min, respirations are 16/min, and oxygen saturation is 99% on room air.",41,MedBullets df_op4 Q42,B
+28.40128983254792,No focal neurologic deficits are appreciated.,41,MedBullets df_op4 Q42,B
+24.38193259856035,A non-contrast head CT is obtained as shown in Figure A.,41,MedBullets df_op4 Q42,B
+18.24150333181024,She has never had a headache like this in the past.,41,MedBullets df_op4 Q42,B

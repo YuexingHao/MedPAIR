@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+145.6710337753951,"On physical exam, he is found to have a 3 cm full-thickness defect in the abdominal wall to the right of the umbilicus with evisceration of a loop of the bowel.",134,MedBullets_df_op4_Q135,D
+62.343049895319105,"His temperature is 98.6°F (37°C), blood pressure is 63/41 mmHg, pulse is 133/min, and respirations are 39/min.",134,MedBullets_df_op4_Q135,D
+60.50713426911367,"His weight is 3.0 kg (6.6 lb), and his height and his head circumference are in the 30th and 40th percentiles, respectively.",134,MedBullets_df_op4_Q135,D
+0.0,The abdominal defect is immediately covered in sterile saline dressings and an orogastric tube and 2 peripheral intravenous lines are placed.,134,MedBullets_df_op4_Q135,D

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.48877162038421,"His temperature is 98.4°F (36.9°C), blood pressure is 118/72 mmHg, pulse is 72/min, and respirations are 16/min.",249,MedBullets_df_op4_Q250,C
+41.79233166514236,"He gets along with his 2 brothers, plays turn-taking games with his friends, and completes his chores.",249,MedBullets_df_op4_Q250,C
+41.441916403442235,His mother notes that he has been making throat-clearing noises daily for the past 2 years.,249,MedBullets_df_op4_Q250,C
+40.54020223021507,"At school, he interrupts class by making barking noises.",249,MedBullets_df_op4_Q250,C
+17.631896522990363,He does not appear to be reacting to internal stimuli.,249,MedBullets_df_op4_Q250,C
+9.976579776813423,A 14-year-old boy is brought to the pediatrician for behavioral issues.,249,MedBullets_df_op4_Q250,C
+6.263643038719454,He has no medical problems and takes no medications.,249,MedBullets_df_op4_Q250,C
+-0.0,"On exam, he grimaces several times and blinks his eyes rapidly.",249,MedBullets_df_op4_Q250,C

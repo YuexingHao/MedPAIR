@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+36.35639892742976,"The patient has a medical history of obesity, diabetes, bipolar disorder, and tonic-clonic seizures.",207,MedBullets_df_op4_Q208,A
+0.0,She was at a rehabilitation hospital when her symptoms started.,207,MedBullets_df_op4_Q208,A
+0.0,"Her current medications include metformin, insulin, lisinopril, and valproic acid.",207,MedBullets_df_op4_Q208,A
+0.0,The patient has IV drug and alcohol use disorder and has presented to the ED many times for intoxication.,207,MedBullets_df_op4_Q208,A
+-0.0,Physical exam reveals anasarca and asymmetric lower extremity swelling.,207,MedBullets_df_op4_Q208,A
+0.0,"A 57-year-old immigrant from Nigeria presents to the emergency department for sudden, severe pain and swelling in her lower extremity.",207,MedBullets_df_op4_Q208,A

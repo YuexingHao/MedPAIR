@@ -1,0 +1,17 @@
+Sentence_x,sentence_ID,Original_Position,Score,Source,row_index,QA_ID,Extracted_Answer,Sentence_y,sentence_ID_x,sentence_ID_y
+A 26-year-old woman presents to the emergency department with 1 day of vaginal bleeding and lower abdominal pain.,0,1.0,38.84391427466412,A 26-year-old woman presents to the emergency department with 1 day of vaginal bleeding and lower abdominal pain.,183.0,MedBullets df_op4 Q184,A,The pain is most pronounced in the lower abdomen and has gotten worse over the past day.,1.0,1.0
+The pain is most pronounced in the lower abdomen and has gotten worse over the past day.,1,13.0,0.0,The pain is most pronounced in the lower abdomen and has gotten worse over the past day.,183.0,MedBullets df_op4 Q184,A,,,
+Her last menstrual period was 7 weeks ago.,2,7.0,13.35829520970583,Her last menstrual period was 7 weeks ago.,183.0,MedBullets df_op4 Q184,A,Physical examination is notable for diffuse abdominal tenderness upon palpation.,7.0,7.0
+She denies any recent abdominal or vaginal trauma.,3,4.0,21.779877686813155,She denies any recent abdominal or vaginal trauma.,183.0,MedBullets df_op4 Q184,A,She has no other past medical history and takes no medications.,4.0,4.0
+She has no other past medical history and takes no medications.,4,12.0,0.0,She has no other past medical history and takes no medications.,183.0,MedBullets df_op4 Q184,A,,,
+She uses a copper intrauterine device and is in a monogamous relationship.,5,0.0,54.24752605158004,She uses a copper intrauterine device and is in a monogamous relationship.,183.0,MedBullets df_op4 Q184,A,A 26-year-old woman presents to the emergency department with 1 day of vaginal bleeding and lower abdominal pain.,0.0,0.0
+"Her temperature is 99°F (37.2°C), blood pressure is 79/50 mmHg, pulse is 135/min, and respirations are 20/min.",6,11.0,0.0,"Her temperature is 99°F (37.2°C), blood pressure is 79/50 mmHg, pulse is 135/min, and respirations are 20/min.",183.0,MedBullets df_op4 Q184,A,,,
+Physical examination is notable for diffuse abdominal tenderness upon palpation.,7,3.0,24.36063746868947,Physical examination is notable for diffuse abdominal tenderness upon palpation.,183.0,MedBullets df_op4 Q184,A,She denies any recent abdominal or vaginal trauma.,3.0,3.0
+Pelvic examination demonstrates uterine and adnexal tenderness and uterine bleeding.,8,8.0,5.422096987442871,Pelvic examination demonstrates uterine and adnexal tenderness and uterine bleeding.,183.0,MedBullets df_op4 Q184,A,Pelvic examination demonstrates uterine and adnexal tenderness and uterine bleeding.,8.0,8.0
+"Laboratory studies are shown below:
+
+Hemoglobin: 9.5 g/dL
+Leukocyte count: 6,000/mm^3
+Serum beta-human chorionic gonadotropin (hCG): 2,700 IU/L
+
+The patient is started on intravenous fluids.",9,,,,,,,,,

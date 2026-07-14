@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+81.84526824951172,"His temperature is 104°F (40°C), blood pressure is 147/88 mmHg, pulse is 200/min, respirations are 33/min, and oxygen saturation is 99% on room air.",27,MedBullets df_op4 Q28,
+29.752687082462547,"Physical exam reveals dry mucous membranes, hot flushed skin, and inappropriate responses to the physician's questions.",27,MedBullets df_op4 Q28,
+21.927014707323192,A 23-year-old man presents to the emergency department for altered mental status after a finishing a marathon.,27,MedBullets df_op4 Q28,
+4.890275080742764,He has a medical history of obesity and anxiety and is not currently taking any medications.,27,MedBullets df_op4 Q28,
+-0.0,Laboratory values are ordered as seen below.,27,MedBullets df_op4 Q28,

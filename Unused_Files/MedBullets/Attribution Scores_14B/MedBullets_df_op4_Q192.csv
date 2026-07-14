@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+32.74815604374543,A 25-year-old man presents to his primary care physician with anxiety and fatigue.,191,MedBullets df_op4 Q192,B
+30.43224529488945,"During this past week, he has been unable to properly study and prepare for final exams because he is exhausted.",191,MedBullets df_op4 Q192,B
+23.334765263683785,He admits to occasional cocaine and marijuana use.,191,MedBullets df_op4 Q192,B
+14.952145296232272,The patient states that he fears he will fail his courses if he does not come up with a solution.,191,MedBullets df_op4 Q192,B
+8.803528189659119,He has been going to bed early but is unable to get a good night’s sleep.,191,MedBullets df_op4 Q192,B
+3.6129109998649187,His neurological exam is within normal limits.,191,MedBullets df_op4 Q192,B
+0.0,"Otherwise, the patient has no significant medical history and is not taking any medications.",191,MedBullets df_op4 Q192,B
+0.0,"On physical exam, the patient is a tired and anxious appearing young man.",191,MedBullets df_op4 Q192,B
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",191,MedBullets df_op4 Q192,B

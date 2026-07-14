@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+66.34126980101614,He has 3-5 drinks of scotch per night before working on his car.,14,MedBullets df_op4 Q15,D
+54.629994068294764,"He says that the tremor is nothing to worry about and only occurs during a few activities such as pouring drinks, pointing the remote at the television, or fixing his car.",14,MedBullets df_op4 Q15,D
+13.626683516802931,The patient states his wife is just overreacting.,14,MedBullets df_op4 Q15,D
+12.153939913400436,His wife has noticed a tremor while he is working on his car and knows that his father died of Parkinson disease.,14,MedBullets df_op4 Q15,D
+7.769559361471695,"His medical problems include hypertension, diabetes, and hyperlipidemia for which he takes lisinopril, metformin, and atorvastatin.",14,MedBullets df_op4 Q15,D
+7.030168625851859,A 51-year-old man presents for his annual wellness visit with his primary care physician.,14,MedBullets df_op4 Q15,D
+0.0,Cranial nerves II-XII are intact.,14,MedBullets df_op4 Q15,D
+0.0,The rest of the exam is benign.,14,MedBullets df_op4 Q15,D
+0.0,Romberg sign is negative.,14,MedBullets df_op4 Q15,D
+0.0,"On physical exam, the tremor is replicated during finger to nose testing.",14,MedBullets df_op4 Q15,D

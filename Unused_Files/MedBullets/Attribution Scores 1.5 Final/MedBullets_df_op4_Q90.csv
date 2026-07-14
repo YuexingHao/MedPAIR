@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+30.95316745340824,A 62-year-old man presents to the emergency department with increased fatigue and changes in his vision.,89,MedBullets_df_op4_Q90,C
+30.34579531774983,"His temperature is 99.5°F (37.5°C), blood pressure is 157/98 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air.",89,MedBullets_df_op4_Q90,C
+29.62432766124206,Abdominal exam reveals splenomegaly and hepatomegaly.,89,MedBullets_df_op4_Q90,C
+25.487079009972316,The patient also endorses increased sweating at night and new-onset headaches.,89,MedBullets_df_op4_Q90,C
+25.061136877169755,A neurological exam is notable for decreased sensation in the patient's hands and feet.,89,MedBullets_df_op4_Q90,C
+14.825213248521989,"His current medications include insulin, metformin, and lisinopril.",89,MedBullets_df_op4_Q90,C
+9.35655515949327,The patient has a medical history of diabetes and hypertension.,89,MedBullets_df_op4_Q90,C
+-0.0,A cardiopulmonary exam is within normal limits.,89,MedBullets_df_op4_Q90,C
+0.0,He also complains of numbness and tingling pain in his extremities that has been persistent during this time.,89,MedBullets_df_op4_Q90,C
+0.0,HEENT exam reveals non-tender posterior and anterior chain lymphadenopathy.,89,MedBullets_df_op4_Q90,C

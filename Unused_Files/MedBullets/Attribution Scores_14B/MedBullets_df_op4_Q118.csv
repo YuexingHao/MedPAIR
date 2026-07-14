@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+17.54863621994788,"He was recently diagnosed with cellulitis of his left leg, for which he was prescribed trimethoprim-sulfamethoxazole.",117,MedBullets df_op4 Q118,
+14.898069202790337,"Physical exam reveals conjunctival icterus, bilateral flank tenderness, and erythema of the left leg.",117,MedBullets df_op4 Q118,
+0.06101154856017351,A 26-year-old man presents to the emergency department with fatigue and dark urine over the past day.,117,MedBullets df_op4 Q118,
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 115/72 mmHg, pulse is 98/min, and respirations are 14/min.",117,MedBullets df_op4 Q118,
+0.0,"He denies having nausea, vomiting, or diarrhea.",117,MedBullets df_op4 Q118,
+0.0,He has no significant medical history and does not currently take any medications.,117,MedBullets df_op4 Q118,

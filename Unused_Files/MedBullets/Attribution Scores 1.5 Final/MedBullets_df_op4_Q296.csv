@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+84.73448015797446,"Her temperature is 36.9°C (98.4°F), blood pressure is 116/76 mmHg, pulse is 55/min, respirations are 12/min, and oxygen saturation is 98% on room air.",295,MedBullets_df_op4_Q296,C
+37.15217034292104,A 24-year-old woman presents to clinic for a routine annual exam.,295,MedBullets_df_op4_Q296,C
+26.969282925128937,"She denies drinking alcohol, smoking cigarettes, or using recreational drugs.",295,MedBullets_df_op4_Q296,C
+24.630306035382848,"She attributes her palpitations to recently drinking more caffeine, but would like to obtain an electrocardiogram since her symptoms are worrisome and affecting her ability to concentrate on her career as a fitness instructor.",295,MedBullets_df_op4_Q296,C
+20.83685199939273,"She has generally been feeling well, but notes feeling intermittent palpitations over the past few months.",295,MedBullets_df_op4_Q296,C
+14.012813334195895,Her past medical history is unremarkable and she is not currently taking any medications.,295,MedBullets_df_op4_Q296,C

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.61480741087161,The patient states that he fears he will fail his courses if he does not come up with a solution.,191,MedBullets df_op4 Q192,B
+33.83559300052039,"During this past week, he has been unable to properly study and prepare for final exams because he is exhausted.",191,MedBullets df_op4 Q192,B
+29.98473096789988,He admits to occasional cocaine and marijuana use.,191,MedBullets df_op4 Q192,B
+27.32564137247846,A 25-year-old man presents to his primary care physician with anxiety and fatigue.,191,MedBullets df_op4 Q192,B
+16.01603570016907,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",191,MedBullets df_op4 Q192,B
+11.966533910483122,He has been going to bed early but is unable to get a good night’s sleep.,191,MedBullets df_op4 Q192,B

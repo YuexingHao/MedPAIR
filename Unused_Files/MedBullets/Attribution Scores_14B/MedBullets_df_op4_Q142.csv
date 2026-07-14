@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+39.65367835072283,"His temperature is 99.0°F (37.2°C), blood pressure is 60/44 mmHg, pulse is 146/min, and respirations are 72/min.",141,MedBullets df_op4 Q142,
+5.536834716796875,The pregnancy was complicated by gestational diabetes and the amniotic fluid was clear.,141,MedBullets df_op4 Q142,
+0.0,His chest radiograph can be seen in Figure A.,141,MedBullets df_op4 Q142,
+0.0,The patient has central cyanosis.,141,MedBullets df_op4 Q142,
+0.0,"On physical exam, the patient is grunting with nasal flaring and subcostal retractions.",141,MedBullets df_op4 Q142,
+0.0,Breath sounds are decreased at the bases bilaterally.,141,MedBullets df_op4 Q142,
+0.0,The patient now is exhibiting increased work of breathing and is progressively more tachypneic.,141,MedBullets df_op4 Q142,
+0.0,"His birth weight is 3,568 g (7 lb 14 oz).",141,MedBullets df_op4 Q142,
+0.0,"His Apgar scores at 1 and 5 minutes were 7 and 8, respectively.",141,MedBullets df_op4 Q142,
+0.0,"Upon delivery, the patient had strong respiratory effort and a strong cry.",141,MedBullets df_op4 Q142,
+0.0,He was born at 39 weeks gestation to a 27-year-old primigravid mother via cesarean section for cervical insufficiency.,141,MedBullets df_op4 Q142,
+0.0,A newborn boy is evaluated 30 minutes after birth.,141,MedBullets df_op4 Q142,

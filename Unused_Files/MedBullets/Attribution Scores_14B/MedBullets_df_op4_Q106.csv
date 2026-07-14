@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.126871293341004,"Her pelvic exam reveals an anteverted uterus, no adnexal masses, a normal-appearing cervix with no cervical motion tenderness, and normal vaginal anatomy.",105,MedBullets df_op4 Q106,B
+37.9735016606016,"She is otherwise healthy, participates in multiple school sports teams, and has been training rigorously for upcoming competitions.",105,MedBullets df_op4 Q106,B
+18.76833340153098,"At that time, her periods became less regular until around 7 months ago when they ceased altogether.",105,MedBullets df_op4 Q106,B
+17.435255173470285,A 17-year-old girl presents to the clinic reporting 7 months without a menstrual period.,105,MedBullets df_op4 Q106,B
+12.573966477649988,"She denies alcohol use, smoking, and recreational drugs.",105,MedBullets df_op4 Q106,B
+9.951390873290807,Menarche was at age 12 and she had regular periods up until 2 years ago.,105,MedBullets df_op4 Q106,B
+6.737287446397208,She is not sexually active and does not take oral contraceptives.,105,MedBullets df_op4 Q106,B
+0.0,"Her temperature is 36.7°C (98°F), blood pressure is 121/80 mmHg, pulse is 62/min, respirations are 11/min, oxygen saturation is 100% on room air, and BMI is 20 kg/m^2.",105,MedBullets df_op4 Q106,B

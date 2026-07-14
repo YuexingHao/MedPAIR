@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+128.12502002950433,"His temperature is 91°F (32.8°C), blood pressure is 103/61 mmHg, pulse is 60/min, respirations are 11/min, and oxygen saturation is 97% on room air.",285,MedBullets_df_op4_Q286,C
+58.14888143539429,"The patient is placed under a warm air circulator, and his extremities are bathed in warm water.",285,MedBullets_df_op4_Q286,C
+55.287355731093825,A 23-year-old man presents to the emergency department after he was rescued while hiking in Alaska.,285,MedBullets_df_op4_Q286,C
+15.777005752913613,Dark bullae are noted on the patient's extremities.,285,MedBullets_df_op4_Q286,C
+10.57103811269483,His mental status rapidly improves with warming.,285,MedBullets_df_op4_Q286,C
+4.575021358969857,The patient was found on a mountain trail non-responsive.,285,MedBullets_df_op4_Q286,C
+0.0,An ECG is performed as seen in Figure A.,285,MedBullets_df_op4_Q286,C

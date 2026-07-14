@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.91053654320935,He has a history of cocaine-induced cardiomyopathy and myocardial infarction from cocaine use 2 years ago.,302,MedBullets df_op4 Q303,D
+57.141957705516496,"His temperature is 96.0°F (35.6°C), blood pressure is 120/68 mmHg, pulse is 102/min, respirations are 26/min, and oxygen saturation is 88% on room air.",302,MedBullets df_op4 Q303,D
+42.92410216049482,Emergency medical services administered naloxone which immediately woke the patient up and improved his oxygen saturation from 40% to 90%.,302,MedBullets df_op4 Q303,D
+14.379524557620803,A chest radiograph is performed as seen in Figure A.,302,MedBullets df_op4 Q303,D
+13.498456876357496,A 55-year-old man with a history of polysubstance abuse is found down in his home acutely obtunded.,302,MedBullets df_op4 Q303,D
+6.762580298575209,The patient arrives alert and oriented claiming he feels short of breath.,302,MedBullets df_op4 Q303,D
+4.258458754512777,He denies any chest pain or other symptoms aside from shortness of breath.,302,MedBullets df_op4 Q303,D
+1.0613802572785764,The patient has a 40 pack-year smoking history.,302,MedBullets df_op4 Q303,D
+0.0,"Physical exam reveals increased work of breathing, pulmonary crackles, and wheezing.",302,MedBullets df_op4 Q303,D
+0.0,"However, they noted subsequently that the patient demonstrated increased work of breathing and had crackles and wheezing on pulmonary exam.",302,MedBullets df_op4 Q303,D

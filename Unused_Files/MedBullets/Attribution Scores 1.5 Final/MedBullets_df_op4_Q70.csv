@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+340.97708025746454,"Hemoglobin: 10 g/dL Hematocrit: 30% Leukocyte count: 6,100/mm^3 with normal differential Platelet count: 187,500/mm^3 Serum: Na+: 130 mEq/L Cl-: 100 mEq/L K+: 2.3 mEq/L HCO3-: 28 mEq/L BUN: 40 mg/dL Glucose: 79 mg/dL Creatinine: 0.9 mg/dL Ca2+: 8.2 mg/dL Mg2+: 1.8 mg/dL Thyroid stimulating hormone (TSH): 4.0 mIU/L Free T4: 0.4 ng/dL (normal: 0.7-1.53 ng/dL) The patient is given 4 liters of lactated ringer solution and 40 mEq of potassium.",69,MedBullets_df_op4_Q70,
+32.57002258300781,"She takes no medication other than whey protein supplements, a multivitamin, and fish oil.",69,MedBullets_df_op4_Q70,
+27.629264928144195,"She has noticed ""twitching"" in both her upper and lower extremities over the past 3 days that have interfered with her training for a marathon.",69,MedBullets_df_op4_Q70,
+0.0,She has felt more fatigued over the past month.,69,MedBullets_df_op4_Q70,
+0.0,A 33-year-old woman presents to the emergency department with muscle spasms.,69,MedBullets_df_op4_Q70,

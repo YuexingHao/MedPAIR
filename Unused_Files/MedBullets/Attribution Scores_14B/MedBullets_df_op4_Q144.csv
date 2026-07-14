@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+44.430583488196135,"His medical history is significant for chronic hepatitis C infection, hypertension, type 2 diabetes mellitus, and heart failure.",143,MedBullets df_op4 Q144,B
+41.12012664778915,"Fine, lace-like white lines are also noted on the patient’s buccal mucosa.",143,MedBullets df_op4 Q144,B
+36.16636565838173,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 155/95 mmHg, and respirations are 12/min.",143,MedBullets df_op4 Q144,B
+31.443664944143993,The patient works as a butcher at a local meat processing shop and is sexually active with several partners.,143,MedBullets df_op4 Q144,B
+27.70897618860226,He first noticed the rash 2 weeks prior and he endorses intermittent itchiness from the rash.,143,MedBullets df_op4 Q144,B
+18.06178996877707,"On physical exam, his skin has the finding shown in Figure A.",143,MedBullets df_op4 Q144,B
+9.08610791800372,A 45-year-old man presents to his primary care physician with a rash.,143,MedBullets df_op4 Q144,B
+0.0,He does not use barrier protection.,143,MedBullets df_op4 Q144,B

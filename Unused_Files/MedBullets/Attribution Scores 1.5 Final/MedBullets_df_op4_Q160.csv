@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.16112071072662,"A 71-year-old man arrives to the emergency room appearing cyanotic and having weak, shallow respirations.",159,MedBullets_df_op4_Q160,D
+48.15117851193051,"An arterial blood gas is drawn with results as shown below: This morning, he experienced poor grip strength and progressive difficulty breathing.",159,MedBullets_df_op4_Q160,D
+36.17842930310952,"His temperature is 99.0°F (37.2°C), blood pressure is 128/78 mmHg, pulse is 92/min, and respirations are 28/min with an oxygen saturation of 86% O2 on room air.",159,MedBullets_df_op4_Q160,D
+34.72488941417882,"He is brought in by his home care nurse, who reports that the patient has a history of myasthenia gravis and frequent urinary tract infections.",159,MedBullets_df_op4_Q160,D
+33.355762884020805,"The patient’s medications include pyridostigmine and aspirin, both of which he takes as prescribed.",159,MedBullets_df_op4_Q160,D
+22.08332508910266,PO2: 55 mmHg pH: 7.30,159,MedBullets_df_op4_Q160,D
+16.256725950751438,He was receiving gentamicin infusions for his infections.,159,MedBullets_df_op4_Q160,D
+3.1618811510012605,The patient is intubated.,159,MedBullets_df_op4_Q160,D

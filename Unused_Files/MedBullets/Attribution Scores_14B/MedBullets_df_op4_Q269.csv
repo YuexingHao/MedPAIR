@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.43059656023979,"He states that since starting the medication, his sexual drive has increased, yet he is unable to achieve orgasm.",268,MedBullets df_op4 Q269,C
+19.12338156557012,He has a history of depression which is well managed with fluoxetine.,268,MedBullets df_op4 Q269,C
+17.701160454068035,A 45-year-old man with a past medical history of obesity presents with a concern about his sexual performance.,268,MedBullets df_op4 Q269,C
+13.80653667446711,"As a result, he refuses to take the medication anymore.",268,MedBullets df_op4 Q269,C
+0.0,He has a past medical history of diabetes and notes that his home blood glucose readings have been higher lately.,268,MedBullets df_op4 Q269,C
+0.0,"His temperature is 98.3°F (36.8°C), blood pressure is 127/82 mmHg, pulse is 88/min, respirations are 14/min, and oxygen saturation is 99% on room air.",268,MedBullets df_op4 Q269,C
+0.0,Physical exam reveals an obese man in no acute distress with a normal affect and non-focal neurologic exam.,268,MedBullets df_op4 Q269,C
+0.0,The physician agrees to change the patient’s antidepressant.,268,MedBullets df_op4 Q269,C

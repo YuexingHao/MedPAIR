@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.75471572023397,He was noted to have surpassed his birth weight at his last office visit 1 week ago.,72,MedBullets df_op4 Q73,B
+47.33528232574463,They describe the vomitus as green and without any traces of blood.,72,MedBullets df_op4 Q73,B
+32.43504289174092,His parents report that he suddenly started vomiting this morning and has shown no interest in feeding since then.,72,MedBullets df_op4 Q73,B
+19.760359821697204,Bowel sounds are hypoactive.,72,MedBullets df_op4 Q73,B
+18.722508751154056,A 3-week-old boy presents to the emergency department with vomiting.,72,MedBullets df_op4 Q73,B
+14.896642914777866,"He has no dysmorphic features, and his mucous membranes are dry.",72,MedBullets df_op4 Q73,B
+14.680250518622294,His abdomen is soft and distended.,72,MedBullets df_op4 Q73,B
+9.49836078601301,"On physical exam, the patient is in mild distress.",72,MedBullets df_op4 Q73,B
+0.2872198151304695,"Prior to today, the patient was feeding, voiding, and stooling well.",72,MedBullets df_op4 Q73,B

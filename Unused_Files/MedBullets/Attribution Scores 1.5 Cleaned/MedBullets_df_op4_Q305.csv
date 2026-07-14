@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.34652181814049,The patient is cold to the touch and moves all extremities to painful stimuli.,304,MedBullets df_op4 Q305,A
+67.99056209948678,"His temperature is 88.0°F (31.1°C), blood pressure is 92/62 mmHg, pulse is 35/min, respirations are 9/min, and oxygen saturation is 92% on room air.",304,MedBullets df_op4 Q305,A
+57.2294497020639,"The patient is started on IV fluids and hydrocortisone, is externally warmed, and is started on a norepinephrine drip.",304,MedBullets df_op4 Q305,A
+48.45877180415603,"His pupils are reactive and sluggish, and he does not follow commands.",304,MedBullets df_op4 Q305,A
+42.769886705005824,"He has a past medical history of hypothyroidism, depression, and diabetes.",304,MedBullets df_op4 Q305,A
+29.76582983441645,A 77-year-old man presents to the emergency department acutely obtunded.,304,MedBullets df_op4 Q305,A
+22.20020696998269,An ECG is performed as seen in Figure A.,304,MedBullets df_op4 Q305,A
+16.50892524241119,The patient lives alone and was found unresponsive by his son.,304,MedBullets df_op4 Q305,A
+14.173488150455922,There are no signs of trauma or skin infections.,304,MedBullets df_op4 Q305,A

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+26.246896126860857,"He reports that he is a mailman, and his closed fist was bitten by a dog while he was delivering mail yesterday.",76,MedBullets df_op4 Q77,A
+21.23400289955783,A 30-year-old man presents to the emergency room with a laceration over the 4th metacarpophalangeal (MCP) joint of his right hand.,76,MedBullets df_op4 Q77,A
+11.678825698792934,"He reports pain but denies fevers, chills, drainage, or any other symptoms.",76,MedBullets df_op4 Q77,A
+0.24280855531791978,"His temperature is 98.6°F (37.0°C), pulse is 80/min, blood pressure is 125/75 mmHg, and respirations are 16/min.",76,MedBullets df_op4 Q77,A
+0.0,His last tetanus vaccine was 3 years ago.,76,MedBullets df_op4 Q77,A
+0.0,He has no medical history and takes no medications.,76,MedBullets df_op4 Q77,A
+0.0,Examination of the patient's right hand is shown in Figure A.,76,MedBullets df_op4 Q77,A
+0.0,The dog is up to date on vaccinations.,76,MedBullets df_op4 Q77,A

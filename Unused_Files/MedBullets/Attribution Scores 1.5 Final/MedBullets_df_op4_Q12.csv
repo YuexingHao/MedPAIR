@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+113.38854674326966,"His temperature is 98.6°F (37.0°C), blood pressure is 137/98 mmHg, pulse is 90/min, respirations are 14/min, and oxygen saturation is 98% on room air.",11,MedBullets_df_op4_Q12,A
+46.04548814892769,"He has a family history of skin cancer, colon cancer, and ovarian cancer.",11,MedBullets_df_op4_Q12,A
+40.612224105679175,A 39-year-old man presents to his doctor for a wellness checkup.,11,MedBullets_df_op4_Q12,A
+20.695927752670627,He is concerned about a rash that does not seem to be improving.,11,MedBullets_df_op4_Q12,A
+19.326004626466762,The patient has a medical history of asthma and seasonal allergies.,11,MedBullets_df_op4_Q12,A
+6.217678746773405,He was recently exposed to his grandfather who has vesicular lesions on his skin and is being treated.,11,MedBullets_df_op4_Q12,A
+0.0,Physical exam reveals the finding in Figure A.,11,MedBullets_df_op4_Q12,A

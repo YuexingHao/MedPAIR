@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+124.20860657719308,"His temperature is 99.5°F (37.5°C), blood pressure is 197/128 mmHg, pulse is 100/min, respirations are 17/min, and oxygen saturation is 95% on room air.",50,MedBullets df_op4 Q51,
+107.21085203384652,"Abdominal exam reveals an obese, tympanitic and distended abdomen with a 3 cm scar in the right lower quadrant.",50,MedBullets df_op4 Q51,
+70.40854597772223,Physical exam reveals a systolic murmur heard loudest along the left upper sternal border.,50,MedBullets df_op4 Q51,
+46.552955589810544,"The patient has a medical history of poorly managed diabetes, constipation, anxiety, dyslipidemia, and hypertension.",50,MedBullets df_op4 Q51,
+41.16900676488876,He feels that his symptoms are exacerbated with large fatty meals and when he drinks alcohol.,50,MedBullets df_op4 Q51,
+27.380060808241687,Vascular exam reveals weak pulses in the lower extremities.,50,MedBullets df_op4 Q51,
+26.775242397432123,His wife recently returned from a cruise with symptoms of vomiting and diarrhea.,50,MedBullets df_op4 Q51,
+21.315551006542226,A 55-year-old man presents to the emergency department with nausea and vomiting for the past week.,50,MedBullets df_op4 Q51,

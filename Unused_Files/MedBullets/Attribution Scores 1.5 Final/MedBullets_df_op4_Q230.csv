@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.80029173266211,The patient has a medical history of type 1 diabetes mellitus since childhood and her home medications include insulin.,229,MedBullets_df_op4_Q230,B
+44.9469079002738,"Her temperature is 98.6°F (37.0°C), blood pressure is 124/81 mmHg, pulse is 75/min, and respirations are 14/min.",229,MedBullets_df_op4_Q230,B
+36.4193767180094,A 31-year-old woman presents to her obstetrician for her first prenatal visit after having a positive home pregnancy test 1 week ago.,229,MedBullets_df_op4_Q230,B
+24.39145887669049,Her primary care provider prescribed lisinopril but the patient has not yet started taking it.,229,MedBullets_df_op4_Q230,B
+24.22732469378283,Her hemoglobin A1c 2 weeks ago was 13.7%.,229,MedBullets_df_op4_Q230,B
+20.102285635690656,"At that time, she was also found to have microalbuminuria on routine urinalysis.",229,MedBullets_df_op4_Q230,B
+1.586360794885683,A physical exam is unremarkable.,229,MedBullets_df_op4_Q230,B
+0.0,The patient’s brother is autistic but her family history is otherwise unremarkable.,229,MedBullets_df_op4_Q230,B
+0.0,Her last menstrual period was 8 weeks ago.,229,MedBullets_df_op4_Q230,B

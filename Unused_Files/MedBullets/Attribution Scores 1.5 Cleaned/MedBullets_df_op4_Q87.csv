@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.09651443207801,"Her temperature is 99.5°F (37.5°C), blood pressure is 187/118 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air.",86,MedBullets df_op4 Q87,D
+33.30864249095888,"Her current medications include fexofenadine, oral contraceptive pills, and metformin.",86,MedBullets df_op4 Q87,D
+30.76456653111579,"Neurological exam reveals a confused woman who is now complaining of ""seeing double.""",86,MedBullets df_op4 Q87,D
+30.22757041331407,"The patient has a medical history of sinusitis, constipation, diabetes, and pelvic inflammatory disease.",86,MedBullets df_op4 Q87,D
+25.37730737403071,Cardiopulmonary exam reveals mild bibasilar crackles and tachycardia.,86,MedBullets df_op4 Q87,D
+17.623264510499002,She is currently taking amoxicillin for a sinus infection.,86,MedBullets df_op4 Q87,D
+12.63081885483516,She smokes 1 pack of cigarettes per day and drinks 2-3 alcoholic beverages daily.,86,MedBullets df_op4 Q87,D
+11.29273790227807,A 57-year-old woman presents to the emergency department for a headache.,86,MedBullets df_op4 Q87,D
+10.852992925792933,She presented within 30 minutes of symptom onset.,86,MedBullets df_op4 Q87,D
+3.4811591597083984,Abdominal exam is within normal limits.,86,MedBullets df_op4 Q87,D
+1.9703468633122303,"On physical exam, the patient is noted to be uncomfortable with the appearance shown in Figure A.",86,MedBullets df_op4 Q87,D

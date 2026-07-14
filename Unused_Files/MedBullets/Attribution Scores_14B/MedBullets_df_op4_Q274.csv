@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+61.74669082081636,"His temperature is 97.6°F (36.4°C), blood pressure is 122/74 mmHg, pulse is 90/min, respirations are 12/min, and oxygen saturation is 98% of room air.",273,MedBullets df_op4 Q274,C
+24.14391304466449,He drove his car into a pole while speeding at night.,273,MedBullets df_op4 Q274,C
+22.097818345768054,He knows his name and address and is able to remember other information about himself.,273,MedBullets df_op4 Q274,C
+15.157298257905,"Throughout the exam, he continuously asks what happened to him.",273,MedBullets df_op4 Q274,C
+11.371693573892117,He has no past medical history and takes no medications.,273,MedBullets df_op4 Q274,C
+11.014894831717873,A 17-year-old boy presents to the emergency department after a car accident.,273,MedBullets df_op4 Q274,C
+6.015775626269068,The patient is unable to offer a history and repetitively asks the nurses what happened.,273,MedBullets df_op4 Q274,C
+4.963161604605374,Cranial nerves 2-12 are intact and the patient has normal strength and sensation.,273,MedBullets df_op4 Q274,C
+4.958449097678159,A head CT scan is ordered.,273,MedBullets df_op4 Q274,C
+4.478444955021192,He demonstrates a stable gait.,273,MedBullets df_op4 Q274,C
+1.462168422987483,Physical exam reveals a confused young man.,273,MedBullets df_op4 Q274,C
+0.0,He is complaining of a headache.,273,MedBullets df_op4 Q274,C

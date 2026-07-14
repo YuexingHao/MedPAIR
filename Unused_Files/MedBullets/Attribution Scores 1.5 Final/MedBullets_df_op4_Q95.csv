@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+54.32762432098389,A 51-year-old man presents to the emergency department complaining of fever and a cough with yellow-green sputum for the past 3 days.,94,MedBullets_df_op4_Q95,A
+38.836380875165545,He was diagnosed with lobar pneumonia and completed a 7-day course of antibiotics with complete resolution of his symptoms.,94,MedBullets_df_op4_Q95,A
+37.14614570450433,He has smoked 1 pack of cigarettes a day for 35 years and drinks 3 beers per week.,94,MedBullets_df_op4_Q95,A
+18.190657920270684,He has no other significant medical history and does not take any medications.,94,MedBullets_df_op4_Q95,A
+16.447458855237503,He is sexually active with his wife.,94,MedBullets_df_op4_Q95,A
+11.463699981445462,A chest radiograph is ordered and reveals a consolidation in the right middle lobe.,94,MedBullets_df_op4_Q95,A
+0.0,Chest radiograph performed at the time was notable for a right middle lobe consolidation.,94,MedBullets_df_op4_Q95,A
+0.0,"He denies any hemoptysis, facial pain, rhinorrhea, or night sweats.",94,MedBullets_df_op4_Q95,A
+0.0,Physical exam is notable for decreased breath sounds on the right side without wheezing and increased dullness to percussion on the right side.,94,MedBullets_df_op4_Q95,A

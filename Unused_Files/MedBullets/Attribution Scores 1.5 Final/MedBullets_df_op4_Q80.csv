@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.94421893400468,He was intubated and 2 large bore IVs were placed in the field with administration of 2 liters of lactated ringer's solution while en route.,79,MedBullets_df_op4_Q80,
+52.57195731960979,"On arrival to the emergency department, his temperature is 98.6°F (37.0°C), pulse is 130/min, blood pressure is 80/50 mmHg, respirations are 22/min, and oxygen saturation is 97%.",79,MedBullets_df_op4_Q80,
+25.451237552267315,Examination reveals an ill-appearing intubated patient.,79,MedBullets_df_op4_Q80,
+23.93248748779297,A 28-year-old man is brought to the emergency department by helicopter after a high speed motorcycle crash.,79,MedBullets_df_op4_Q80,
+21.89252822811139,"Endotracheal tube placement is confirmed with end tidal CO2, and bilateral breath sounds are present.",79,MedBullets_df_op4_Q80,

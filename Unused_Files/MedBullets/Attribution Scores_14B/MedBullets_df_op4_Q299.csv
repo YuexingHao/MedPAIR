@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+28.0921071096212,"She states that she has had recurrent bouts of mood swings, bloating, and abdominal pain that occur together approximately every 4 weeks.",298,MedBullets df_op4 Q299,A
+25.904802211313704,"Furthermore, she has episodes of extreme anxiety during these periods, leading her to take off time from work.",298,MedBullets df_op4 Q299,A
+24.03006100654602,"She states that when these symptoms occur, she gets into frequent arguments at work, is unable to concentrate, and sleeps longer than usual.",298,MedBullets df_op4 Q299,A
+14.275949188566267,A 21-year-old woman presents to her primary care physician due to a history of abdominal pain.,298,MedBullets df_op4 Q299,A
+10.88311363492288,"Her temperature is 98.2°F (36.8°C), blood pressure is 100/70 mmHg, pulse is 75/min, and respirations are 12/min.",298,MedBullets df_op4 Q299,A
+9.965486035947999,Physical exam reveals a nontender abdomen.,298,MedBullets df_op4 Q299,A
+8.292008328819458,Pelvic exam reveals a closed cervix with no cervical motion or adnexal tenderness.,298,MedBullets df_op4 Q299,A
+0.0,Her cardiopulmonary and neurological exams are unremarkable.,298,MedBullets df_op4 Q299,A
+0.0,She notes that these symptoms are causing distress in her interpersonal relationships as well.,298,MedBullets df_op4 Q299,A
+0.0,She experienced menarche at age 12 and has regular periods.,298,MedBullets df_op4 Q299,A
+0.0,She has no past medical history and takes no medications.,298,MedBullets df_op4 Q299,A

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.01556709405618,His left eye is displaced laterally and downward and he also has left-sided ptosis.,52,MedBullets df_op4 Q53,D
+21.0272388319698,"On cranial nerve exam, his left pupil is 6 mm in diameter compared to 3 mm on the right.",52,MedBullets df_op4 Q53,D
+5.1628840410338155,A 67-year-old man presents to the emergency department 1 hour after sudden-onset weakness and double vision.,52,MedBullets df_op4 Q53,D
+3.6421172182250943,"His temperature is 98.6°F (37.0°C), blood pressure is 175/95 mmHg, pulse is 90/min, respirations are 16/min.",52,MedBullets df_op4 Q53,D
+2.8052945493111454,Strength is 2/5 in the right upper and right lower extremities and 5/5 in the left upper and left lower extremities.,52,MedBullets df_op4 Q53,D
+2.099572463831795,His medical history is significant for hyperlipidemia and poorly controlled hypertension.,52,MedBullets df_op4 Q53,D
+0.0,Sensation is intact throughout.,52,MedBullets df_op4 Q53,D
+0.0,He has marked right-sided dysdiadochokinesia.,52,MedBullets df_op4 Q53,D
+0.0,His current medications include atorvastatin and amlodipine.,52,MedBullets df_op4 Q53,D

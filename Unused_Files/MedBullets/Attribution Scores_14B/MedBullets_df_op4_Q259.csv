@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.33585352175652,"At a local community hospital staffed only by attending physicians, it is noted that the time to tissue plasminogen activator administration in suspected stroke patients is roughly 10 minutes from presentation.",258,MedBullets df_op4 Q259,B
+50.27715437492803,"At a teaching hospital with residents, the time to tissue plasminogen activator administration is roughly 2 hours.",258,MedBullets df_op4 Q259,B
+33.69250030815601,This has led to many adverse outcomes and increased morbidity at the teaching hospital.,258,MedBullets df_op4 Q259,B

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.3688416481018,His parents report that he suddenly started vomiting this morning and has shown no interest in feeding since then.,72,MedBullets_df_op4_Q73,B
+66.39463846280827,He was noted to have surpassed his birth weight at his last office visit 1 week ago.,72,MedBullets_df_op4_Q73,B
+63.45648129655518,They describe the vomitus as green and without any traces of blood.,72,MedBullets_df_op4_Q73,B
+46.1384515591782,"He has no dysmorphic features, and his mucous membranes are dry.",72,MedBullets_df_op4_Q73,B
+46.06279564298735,A 3-week-old boy presents to the emergency department with vomiting.,72,MedBullets_df_op4_Q73,B
+24.765427563207943,Bowel sounds are hypoactive.,72,MedBullets_df_op4_Q73,B
+11.829254816104264,His abdomen is soft and distended.,72,MedBullets_df_op4_Q73,B
+0.0,"Prior to today, the patient was feeding, voiding, and stooling well.",72,MedBullets_df_op4_Q73,B
+-0.0,"On physical exam, the patient is in mild distress.",72,MedBullets_df_op4_Q73,B

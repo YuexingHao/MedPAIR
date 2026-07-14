@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+38.99949788325088,The patient is given 1L of normal saline and drinks 1L of oral fluids.,266,MedBullets df_op4 Q267,D
+36.72196099534631,"He notes that eating and drinking make him defecate more, thus he has been refraining from drinking.",266,MedBullets df_op4 Q267,D
+33.988762550942475,"His temperature is 97.7°F (36.5°C), blood pressure is 84/64 mmHg, pulse is 130/min, respirations are 17/min, and oxygen saturation is 99% on room air.",266,MedBullets df_op4 Q267,D
+15.032724376014441,His blood pressure is subsequently 120/70 mmHg and pulse 95/min.,266,MedBullets df_op4 Q267,D
+3.668437976876428,Physical exam reveals dry mucous membranes with an otherwise benign exam.,266,MedBullets df_op4 Q267,D
+0.0,He is otherwise healthy and takes no medications.,266,MedBullets df_op4 Q267,D
+0.0,"He states he has had profuse, watery diarrhea for the past 24 hours.",266,MedBullets df_op4 Q267,D
+0.0,A 30-year-old man presents to the emergency department with diarrhea.,266,MedBullets df_op4 Q267,D

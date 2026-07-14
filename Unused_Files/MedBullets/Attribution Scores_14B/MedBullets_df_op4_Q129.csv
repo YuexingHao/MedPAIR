@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+65.361413456751,"The neonate’s temperature is 98.5°F (36.9°C), blood pressure is 56/35 mmHg, pulse is 138/min, and respirations are 51/min.",128,MedBullets df_op4 Q129,B
+50.837902015942774,"The prenatal course was complicated by chlamydia in the mother during the first trimester, for which she and the partner were both treated with a confirmatory test of cure.",128,MedBullets df_op4 Q129,B
+38.58180589712571,"The biological father is no longer involved in the patient's life, but her mother’s boyfriend has been caring for the baby whenever the mother rests.",128,MedBullets df_op4 Q129,B
+26.453370851779876,Examination of the genitals reveals no vulvar irritation or skin changes but there is scant pink mucoid discharge at the introitus.,128,MedBullets df_op4 Q129,B
+7.028392197342687,A 4-day-old neonate is brought to the pediatrician with vaginal discharge for the last 2 days.,128,MedBullets df_op4 Q129,B
+3.648778164751557,There are no bruises or marks on her skin.,128,MedBullets df_op4 Q129,B
+1.7093174812483087,Her daughter has been feeding and voiding well.,128,MedBullets df_op4 Q129,B
+0.8827943354845047,The neonate was delivered at 39 weeks gestation via an uncomplicated vaginal delivery and was discharged home after 2 days.,128,MedBullets df_op4 Q129,B
+0.0,"She appears comfortable, and cardiopulmonary and abdominal exams are unremarkable.",128,MedBullets df_op4 Q129,B

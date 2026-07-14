@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.112963693585904,"The patient is breastfed, has been feeding well every 2 hours, and is urinating over 8 times per day.",115,MedBullets df_op4 Q116,A
+54.39188480942118,A 3-day-old boy is evaluated in the hospital nursery for the delayed passage of meconium.,115,MedBullets df_op4 Q116,A
+28.094839662215037,The pregnancy was uncomplicated until the patient’s mother had a spontaneous rupture of membranes at 35 weeks of gestation.,115,MedBullets df_op4 Q116,A
+14.518791763733864,"The patient’s temperature is 98.2°F (36.8°C), blood pressure is 48/32 mmHg, pulse is 164/min, and respirations are 48/min.",115,MedBullets df_op4 Q116,A
+12.29609775915742,He was born at 35 weeks gestation to a 27-year-old G4P4 mother.,115,MedBullets df_op4 Q116,A
+8.852438714853559,"He has no dysmorphic features, and his abdomen is distended and non-tender.",115,MedBullets df_op4 Q116,A

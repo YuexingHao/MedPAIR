@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+99.93868702327147,"Initially, she attributed her mother's forgetfulness and word-finding difficulties to normal aging, but over the past few years, her mother's memory has worsened, her mood has grown more irritable, and her mother has been found wandering the neighborhood unsure of how to get home.",152,MedBullets df_op4 Q153,C
+32.73805832829668,A 76-year-old woman is brought to a primary care physician by her daughter who is concerned about her mother's growing inability to take care of herself.,152,MedBullets df_op4 Q153,C
+16.75780747924448,She scores 16/30 on the Montreal Cognitive Assessment (MoCA) test.,152,MedBullets df_op4 Q153,C
+15.655593015253544,Her medical history includes type 2 diabetes mellitus which is well-controlled with metformin.,152,MedBullets df_op4 Q153,C
+15.410329287083597,"Cardiopulmonary exam reveals normal S1 and S2, no murmurs, and clear lungs bilaterally.",152,MedBullets df_op4 Q153,C
+0.5225769115018342,"On exam, her temperature is 98.2°F (36.8°C), blood pressure is 115/82 mmHg, pulse is 73/min, respirations are 12/min, and oxygen saturation is 99% on room air.",152,MedBullets df_op4 Q153,C

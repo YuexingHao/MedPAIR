@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+50.785061886711404,He reports occasional alcohol use and remote marijuana use.,215,MedBullets_df_op4_Q216,C
+41.53858680906095,Physical exam reveals small testes and a receding hairline.,215,MedBullets_df_op4_Q216,C
+26.760211063042476,He is sexually active with his wife and has no history of sexually transmitted infections.,215,MedBullets_df_op4_Q216,C
+21.258958876132965,A 31-year-old man presents to clinic for evaluation of a 3-year history of infertility.,215,MedBullets_df_op4_Q216,C
+19.202430850959853,His muscle tone is normal in his upper and lower extremities bilaterally.,215,MedBullets_df_op4_Q216,C
+0.0,"He exercises twice a day, often with heavy weightlifting, and eats a high-protein diet.",215,MedBullets_df_op4_Q216,C

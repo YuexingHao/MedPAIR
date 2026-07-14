@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+147.75786230373976,A 23-year-old woman is admitted to the inpatient psychiatry unit after her boyfriend reported she was “acting funny and refusing to talk.” The patient’s boyfriend states that he came home from work and found the patient sitting up in bed staring at the wall.,37,MedBullets_df_op4_Q38,A
+122.37825045181424,"Her temperature is 99°F (37.2°C), blood pressure is 122/79 mmHg, pulse is 68/min, and respirations are 12/min with an oxygen saturation of 98% on room air.",37,MedBullets_df_op4_Q38,A
+39.04218263924122,She was recently switched from phenelzine to fluoxetine.,37,MedBullets_df_op4_Q38,A

@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="Relevance Estimates, Medical Question Answering, Large Language Models">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>MedPAIR: Measuring Physicians and AI Relevance Alignment in Medical Question Answering</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">
+              MedPAIR: <br> Measuring <span style="text-decoration: underline;">P</span>hysicians and 
+                <span style="text-decoration: underline;">AI</span> 
+                <span style="text-decoration: underline;">R</span>elevance Alignment in Medical Question Answering
+            </h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="https://yuexinghao.github.io/Yuexing-Hao/" target="_blank">Yuexing Hao</a><sup>1,2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://kumailalhamoud.netlify.app/" target="_blank">Kumail Alhamoud</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://sites.google.com/view/hyewon-jeong/" target="_blank">Hyewon Jeong</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://haoran.ca/" target="_blank">Haoran Zhang</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.linkedin.com/in/graceyan17/" target="_blank">Grace Yan</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://ishapuri.github.io/" target="_blank">Isha Puri</a><sup>1</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://eng.ox.ac.uk/people/philip-torr/" target="_blank">Philip Torr</a><sup>3</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://www.mikeshake.me/" target="_blank">Mike Schaekermann</a><sup>6</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://infosci.cornell.edu/people/saleh-kalantari" target="_blank">Saleh Kalantari</a><sup>2</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://hpi.de/en/stern/team/ariel-stern/" target="_blank">Ariel D. Stern</a><sup>4,5</sup>,
+              </span>
+              <span class="author-block">
+                <a href="https://healthyml.org/marzyeh/" target="_blank">Marzyeh Ghassemi</a><sup>1</sup><sup>†</sup>
+              </span>
+                  </span>
+                  </div>
+
+                  <div class="is-size-5 publication-authors">
+                    <span><sup>1</sup> MIT</span>,
+                    <span><sup>2</sup> Cornell University</span>,
+                    <span><sup>3</sup> Oxford University</span>,
+                    <span><sup>4</sup> University of Potsdam</span>,
+                    <span><sup>5</sup> Hasso Plattner Institute</span>,
+                    <span><sup>6</sup> Independent Research</span>
+                    <span class="eql-cntrb">
+                      <small><br><sup>†</sup>Corresponding author: mghassem@mit.edu</small>
+                    </span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                         <!-- Arxiv PDF link -->
+                      <span class="link-block">
+                        <a href="https://medpair.csail.mit.edu/static/pdf/MedPAIR__NeurIPS_25_.pdf" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span>
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/YuexingHao/MedPAIR" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2505.24040" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+  
+<!-- Teaser Image -->
+<section class="hero is-small">
+    <div class="hero-body">
+        <div class="container">
+            <div class="image-container">
+                <img src="static/images/NeuRIPS_Study_Design.png" alt="Study Design Pipeline">
+                <h2 class="subtitle">
+                    We began with four QA data sources. All questions were consolidated and structured into two components: patient profile and query. In the first step, physician trainee labelers and LLMs independently selected the best answer. In the second step, physicians experts then annotated the relevance of each sentence in the patient profile. We excluded annotations from physician trainees who selected incorrect answers and applied majority voting to derive binary sentence-level relevance labels. In parallel, we also asked LLMs to label each sentence in Patient Profile through prompting and ContextCite.
+                </h2>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End teaser image -->
+
+<br>
+  
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Large Language Models (LLMs) have demonstrated remarkable performance on various medical question-answering (QA) benchmarks, including standardized medical exams. However, correct answers alone do not ensure correct logic, and models may reach accurate conclusions through flawed processes. In this study, we introduce the comparative reasoning benchmark MedPAIR (<span style="text-decoration: underline;">Med</span>ical <span style="text-decoration: underline;">P</span>hysicians and 
+                <span style="text-decoration: underline;">AI</span> 
+                <span style="text-decoration: underline;">R</span>elevance Alignment in Medical Question Answering) to evaluate how physicians and LLMs prioritize relevant information when answering QA questions. We obtain annotations on 2,000 QA pairs from 36 physicians, labeling each sentence within the question components for relevancy. We compare these relevancy estimates to those for LLMs, and further evaluate the impact of these ``relevant'' subsets on downstream task performance for both humans and LLMs. We further implemented a structured intervention where physicians guided LLMs to focus on relevant information. We find that LLMs are frequently not aligned with physicians' estimates of content relevancy. Further, we highlight the limitations of current LLM behavior and the importance of aligning AI reasoning with clinical standards. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<br>
+<br>
+
+
+<!-- Image carousel -->
+<section class="hero is-small">
+      <div class="container">   
+            <br>            <br>
+            <div class="image-container">
+                <img src="static/images/Dataset_Overview.jpg" alt="Third Image">
+                <h2 class="subtitle">
+                    The dataset overview represents the annotation process for 2000 clinical question-answer pairs. We consolidated four QA data sources into two main components: the patient profile and the query. In the first step, 36 physician trainees and 4 LLMs independently selected the most appropriate answer. In the second step, physician trainees annotated the relevance of each sentence within the patient profile, excluding annotations linked to incorrect answers. Majority voting was used to produce binary relevance labels for physician trainees. Concurrently, we employed ContextCite with open-source LLMs (Qwen-14B, Qwen-72B, Llama-70B) to generate relevance scores, while GPT-4o was prompted to replicate the physician annotation process for each sentence following the same instructions.
+                </h2>
+            </div>
+            <br>            <br>
+            <br>            <br>
+        
+            <div class="image-container">
+                <img src="static/images/CentaurLab_Labels.png" alt="Fourth Image">
+                <h2 class="subtitle">
+                    Sentence Position Analysis. Plot (a) Distribution of physician trainees’ majority‐vote relevance labels by sentence position. Plot (b) Distribution of GPT-4o self-reported relevance labels by sentence position. Plot (c) ContextCite scores across the context for three open-source models (Qwen-14B, Llama-70B, Qwen-72B).
+                </h2>
+            </div>
+            <br>            <br>
+            <br>            <br>
+        
+            <div class="image-container">
+                <img src="static/images/Self-ReportVSCentaurLab.png" alt="Fifth Image">
+                <h2 class="subtitle">
+                    Sentence Position Analysis. (a) Distribution of LLM self-reported relevance labels by sentence position; (b) Distribution of physician trainee majority-voted relevance labels by sentence position; (c) Qwen-14B ContextCite scores across the clinical context.
+                </h2>
+            </div>
+            <br>            <br>
+            <br>            <br>
+        
+            <div class="image-grid">
+            <div class="image-container">
+                <img src="static/images/Result.png" alt="Evaluation Pipeline Overview">
+                <h2 class="subtitle">
+                    Effect of Filtering Context on Final Performance.  GPT-4o outperforms all tested open-source language models. After removing irrelevant and low-relevance sentences, LLaMA 70B and Qwen 14B demonstrated the most substantial accuracy improvements. In contrast, Qwen 72B occasionally experiences performance drops following the removal process. 
+                </h2>
+            </div>
+            <br>            <br>
+        </div>
+    </div>
+</section>
+<!-- End image carousel -->
+<br>
+
+<!-- Youtube video -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <!-- Paper video. -->
+      <h2 class="title is-3">Video Presentation</h2>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          
+          <div class="publication-video">
+            <!-- Youtube embed code here -->
+            <iframe src="https://www.youtube.com/embed/B16yrvhrxy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End youtube video -->
+
+
+<!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@misc{hao2025medpairmeasuringphysiciansai,
+      title={MedPAIR: Measuring Physicians and AI Relevance Alignment in Medical Question Answering}, 
+      author={Yuexing Hao and Kumail Alhamoud and Hyewon Jeong and Haoran Zhang and Isha Puri and Philip Torr and Mike Schaekermann and Ariel D. Stern and Marzyeh Ghassemi},
+      year={2025},
+      eprint={2505.24040},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.24040}, 
+}</code></pre>
+    </div>
+</section>
+<!--End BibTex citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+93.78816845082831,"His temperature is 99.5°F (37.5°C), blood pressure is 90/48 mmHg, pulse is 124/min, respirations are 17/min, and oxygen saturation is 98% on room air.",98,MedBullets_df_op4_Q99,D
+52.84927252405275,The patient has a medical history of asthma which is well-controlled with albuterol.,98,MedBullets_df_op4_Q99,D
+51.93509485513797,Inspection of the patient's nose reveals a unilateral purulent discharge mixed with blood.,98,MedBullets_df_op4_Q99,D
+40.500106715681994,A 7-year-old boy is brought to the emergency department by his parents for worsening symptoms of previously diagnosed acute sinusitis.,98,MedBullets_df_op4_Q99,D
+24.393177311041345,"Initially, the pediatrician prescribed decongestants and sent the patient home.",98,MedBullets_df_op4_Q99,D
+9.32159073650837,"Since then, the patient has developed a nasal discharge with worsening pain.",98,MedBullets_df_op4_Q99,D
+-0.0,The cardiopulmonary exam is within normal limits.,98,MedBullets_df_op4_Q99,D

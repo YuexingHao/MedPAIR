@@ -1,0 +1,18 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+40.00665004355012,A 27-year-old woman presents to her primary care physician with new hair growth on her face and lower abdomen over the last month.,82,MedBullets df_op4 Q83,C
+35.03234815674099,"A pelvic exam reveals mild clitoromegaly, a normal anteverted uterus, and a large left adnexal mass that is mildly tender.",82,MedBullets df_op4 Q83,C
+28.9738061335072,DHEAS: 73 ug/dL (Normal: 145-395 ug/dL),82,MedBullets df_op4 Q83,C
+6.980691200034347,The patient has a medical history of obesity and prediabetes with a hemoglobin A1c of 6.0% last year.,82,MedBullets df_op4 Q83,C
+5.869867318008301,"Her temperature is 98.5°F (36.9°C), pulse is 80/min, blood pressure is 139/88 mmHg, and respirations are 13/min.",82,MedBullets df_op4 Q83,C
+0.8775753043591976,Her last menstrual period was over 3 months ago and her periods have been irregular over the last year.,82,MedBullets df_op4 Q83,C
+0.0,Ultrasound findings are shown in Figure A.,82,MedBullets df_op4 Q83,C
+0.0,Testosterone: 256 ng/dL,82,MedBullets df_op4 Q83,C
+0.0,17-hydroxyprogesterone: 214 ng/dL (Normal: < 200 ng/dL),82,MedBullets df_op4 Q83,C
+-0.0,Her laboratory test results are shown below:,82,MedBullets df_op4 Q83,C
+-0.0,Hemoglobin: 13.9 g/dL,82,MedBullets df_op4 Q83,C
+0.0,"Leukocyte count: 8,000 cells/mm^3",82,MedBullets df_op4 Q83,C
+-0.0,"Platelet count: 142,000/mm^3",82,MedBullets df_op4 Q83,C
+0.0,"The patient’s face has coarse stubble along the jawline and on the upper lip, and there is similar hair along the midline of her lower abdomen.",82,MedBullets df_op4 Q83,C
+0.0,"Cardiopulmonary exam is unremarkable, and the patient’s abdomen appears slightly distended but exhibits no tenderness to palpation.",82,MedBullets df_op4 Q83,C
+0.0,She has been gaining weight recently.,82,MedBullets df_op4 Q83,C
+0.0,She has started to develop pimples on her face and back over the last several months.,82,MedBullets df_op4 Q83,C

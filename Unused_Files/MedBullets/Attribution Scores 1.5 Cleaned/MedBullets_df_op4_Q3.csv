@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+130.36595044090035,"She recently underwent a neurology evaluation which revealed hypsarrhythmia on electroencephalography (EEG) with a mix of slow waves, multifocal spikes, and asynchrony.",2,MedBullets df_op4 Q3,D
+94.20300683663372,"Physical exam reveals innumerable hypopigmented macules on the skin and an irregularly shaped, thickened, and elevated plaque on the lower back.",2,MedBullets df_op4 Q3,D
+53.48904602500178,A 1-year-old girl is brought to a neurologist due to increasing seizure frequency over the past 2 months.,2,MedBullets df_op4 Q3,D
+52.660579547286034,Her parents have noticed the patient occasionally stiffens and spreads her arms at home.,2,MedBullets df_op4 Q3,D
+32.06377568996258,Her medications consist of lamotrigine and valproic acid.,2,MedBullets df_op4 Q3,D

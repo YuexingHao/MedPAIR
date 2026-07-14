@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+118.0898026808114,"On physical exam, a solid, immobile neck mass is palpated inferior to the cricoid cartilage to the left of midline.",234,MedBullets df_op4 Q235,B
+48.47373523783309,An ultrasound is obtained and shows a 1.2 cm hypoechoic mass with microcalcifications.,234,MedBullets df_op4 Q235,B
+32.21530072236719,Serum thyroid-stimulating hormone (TSH) concentration is 7.2 µU/mL.,234,MedBullets df_op4 Q235,B
+29.56674598610717,"Her medications are lisinopril, amlodipine, atorvastatin, and metformin.",234,MedBullets df_op4 Q235,B
+21.60330016172824,She is a non-smoker and drinks 3-4 standard drinks per week.,234,MedBullets df_op4 Q235,B
+4.995345867257997,There is no family history of malignancy.,234,MedBullets df_op4 Q235,B
+3.345039304345846,"She has a history of hypertension, hyperlipidemia, and diabetes.",234,MedBullets df_op4 Q235,B

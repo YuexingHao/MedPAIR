@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.83438640892229,"A 56-year-old man presents from prison with 1 month of subjective fevers, chills, cough, and night sweats.",242,MedBullets df_op4 Q243,C
+38.8949029147625,He has never smoked cigarettes but does have a history of opiate use prior to incarceration.,242,MedBullets df_op4 Q243,C
+37.447205300438675,"His temperature is 100.8°F (38.2°C), blood pressure is 142/88 mmHg, pulse is 78/min, and respirations are 12/min.",242,MedBullets df_op4 Q243,C
+30.9957633080173,He noticed a gradual weight loss over the past year despite no changes to his diet or physical activity.,242,MedBullets df_op4 Q243,C
+23.79903680030644,"Pulmonary auscultation reveals faint, inspiratory crackles in the right upper lobe.",242,MedBullets df_op4 Q243,C
+12.89330004993987,His chest radiograph is shown in Figure A.,242,MedBullets df_op4 Q243,C
+8.63144751302849,He does not take any medications.,242,MedBullets df_op4 Q243,C
+7.803059475149553,"Physical exam reveals a thin, ill-appearing man.",242,MedBullets df_op4 Q243,C

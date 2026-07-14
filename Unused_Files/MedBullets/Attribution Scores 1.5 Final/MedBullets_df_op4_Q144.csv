@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.94372351207691,"Fine, lace-like white lines are also noted on the patient’s buccal mucosa.",143,MedBullets_df_op4_Q144,A
+64.95654159092336,"His medical history is significant for chronic hepatitis C infection, hypertension, type 2 diabetes mellitus, and heart failure.",143,MedBullets_df_op4_Q144,A
+42.63959341232446,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 155/95 mmHg, and respirations are 12/min.",143,MedBullets_df_op4_Q144,A
+22.08323460353513,A 45-year-old man presents to his primary care physician with a rash.,143,MedBullets_df_op4_Q144,A
+5.438312536105514,He first noticed the rash 2 weeks prior and he endorses intermittent itchiness from the rash.,143,MedBullets_df_op4_Q144,A
+0.0,"On physical exam, his skin has the finding shown in Figure A.",143,MedBullets_df_op4_Q144,A

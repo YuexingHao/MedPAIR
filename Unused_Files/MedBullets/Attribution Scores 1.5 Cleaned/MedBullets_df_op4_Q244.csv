@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+79.60793214880329,A 68-year-old man presents for evaluation by a neurologist for an involuntary hand tremor that started approximately 3 months ago.,243,MedBullets df_op4 Q244,A
+57.12243959307671,"His temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",243,MedBullets df_op4 Q244,A
+52.50046719916463,His left hand exhibits a 4-6 Hz tremor when resting on his lap.,243,MedBullets df_op4 Q244,A
+48.95182951390133,"In addition, his left upper extremity has increased tone with passive range of motion.",243,MedBullets df_op4 Q244,A
+33.57219691796949,The shaking improves when he reaches for objects but returns when he is not using his hand.,243,MedBullets df_op4 Q244,A

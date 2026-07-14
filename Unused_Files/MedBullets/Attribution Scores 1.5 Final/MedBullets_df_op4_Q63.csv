@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+89.14854089777894,"Physical examination reveals 3/5 strength to hip extension, knee flexion and extension, and plantar flexion bilaterally.",62,MedBullets_df_op4_Q63,C
+85.88541950054831,Sensation to pinprick is diminished over the posterolateral legs and lateral aspects of both feet.,62,MedBullets_df_op4_Q63,C
+71.97339749336243,The pain is rated as 10/10 in severity and radiates down the posterior aspect of the right thigh.,62,MedBullets_df_op4_Q63,C
+67.1002400540317,The patient’s underwear is wet and a bladder scan reveals 800 mL of urine.,62,MedBullets_df_op4_Q63,C
+59.45457303901391,His only medical problem is hypertension for which he takes amlodipine.,62,MedBullets_df_op4_Q63,C
+55.675899629542876,The pain started 6 hours ago when he was gardening and carrying a heavy bag.,62,MedBullets_df_op4_Q63,C
+28.863900543651766,A 65-year-old man presents to the emergency department with low back pain.,62,MedBullets_df_op4_Q63,C
+2.0935383080505527,He reports no fevers or chills.,62,MedBullets_df_op4_Q63,C
+-0.0,Ankle and knee reflexes are absent bilaterally.,62,MedBullets_df_op4_Q63,C

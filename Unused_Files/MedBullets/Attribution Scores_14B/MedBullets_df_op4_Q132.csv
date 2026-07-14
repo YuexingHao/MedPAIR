@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.66305389705697,"His temperature is 98.2°F (36.8°C), blood pressure is 58/37 mmHg, pulse is 144/min, and respirations are 34/min.",131,MedBullets df_op4 Q132,B
+32.61809679998044,The patient’s mother is exclusively breastfeeding and would prefer not to switch to formula but worries that the patient is not getting the nutrition he needs.,131,MedBullets df_op4 Q132,B
+21.867419557863457,"Two weeks ago, the patient was in the 75th percentile for weight and 70th for height.",131,MedBullets df_op4 Q132,B
+18.484392821788788,"His mother has tried increasing the frequency of feeds and decreasing the amount of each feed, but the vomiting seems to be getting worse.",131,MedBullets df_op4 Q132,B
+7.28327458278145,His mother reports he was eating well until 1 week ago when he began vomiting after breastfeeding.,131,MedBullets df_op4 Q132,B
+5.992655758818312,The vomitus looks like breast milk.,131,MedBullets df_op4 Q132,B
+3.656858525554812,He is now in the 60th percentile for weight and 68th percentile for height.,131,MedBullets df_op4 Q132,B
+2.3569511859562975,His abdomen is soft and non-distended.,131,MedBullets df_op4 Q132,B
+0.8895647888872219,"On physical exam, the patient has dry mucous membranes.",131,MedBullets df_op4 Q132,B
+-0.0,The patient now vomits after every feed.,131,MedBullets df_op4 Q132,B
+0.0,A 4-week-old boy presents with his parents to the pediatrician for a well-child visit.,131,MedBullets df_op4 Q132,B

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+28.824275394842147,The child is sleeping at regular 2-hour intervals and feeding and stooling well.,149,MedBullets_df_op4_Q150,
+7.880682304912094,"On physical exam, the child is in no acute distress and appears developmentally appropriate for her age.",149,MedBullets_df_op4_Q150,
+4.9015965149279825,The swelling seems to come and go but is never larger than the size of a blueberry.,149,MedBullets_df_op4_Q150,
+3.322998046875,The bulge increases in size when the child cries and can be easily reduced inside the umbilical ring without apparent pain.,149,MedBullets_df_op4_Q150,
+0.0,"Her abdomen is soft and non-tender with a soft, 1 cm bulge at the umbilicus.",149,MedBullets_df_op4_Q150,
+0.0,A 3-week-old girl presents with her parents to her pediatrician for a routine visit.,149,MedBullets_df_op4_Q150,
+0.0,The parents have noticed a “swelling of the belly button.” Cord separation occurred at 7 days of age.,149,MedBullets_df_op4_Q150,
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 68/43 mmHg, pulse is 128/min, and respirations are 32/min.",149,MedBullets_df_op4_Q150,

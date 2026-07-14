@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+40.14702606201172,"His temperature is 98.7°F (37.1°C), blood pressure is 129/82 mmHg, pulse is 83/min, respirations are 15/min, and oxygen saturation is 99% on room air.",283,MedBullets_df_op4_Q284,
+23.448026007520788,Physical exam reveals a stable gait and reduced sensation symmetrically over the lower extremities.,283,MedBullets_df_op4_Q284,
+21.43448264997353,"The patient has a past medical history of obesity, poorly controlled diabetes, hypertension, and peripheral vascular disease.",283,MedBullets_df_op4_Q284,
+21.36282527491226,He was recently fired for making several major bookkeeping mistakes at work as an accountant as he had trouble focusing.,283,MedBullets_df_op4_Q284,
+19.378425767402284,"He states that ever since his wife died 4 months ago, he has been eating and sleeping more and no longer engages in any activities he once enjoyed such as hiking or fishing.",283,MedBullets_df_op4_Q284,
+4.379050443889955,He complains of electric pain when touching his lower extremities.,283,MedBullets_df_op4_Q284,
+0.0,A 60-year-old man presents to his primary care physician with weight gain.,283,MedBullets_df_op4_Q284,
+0.0,He feels guilty for not spending more time with his wife before she died.,283,MedBullets_df_op4_Q284,

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+27.889168903365512,A 15-year-old girl presents to the clinic due to concern that she may be pregnant.,201,MedBullets df_op4 Q202,B
+24.47940453917659,The patient asks for an emergency contraceptive pill and would prefer that her parents not be notified about her visit.,201,MedBullets df_op4 Q202,B
+18.210434205830097,"She has had regular menses since menarche, and her last menstrual period ended 8 days ago.",201,MedBullets df_op4 Q202,B
+17.850289493128596,She had unprotected sexual intercourse earlier that morning and requests emergency contraception.,201,MedBullets df_op4 Q202,B
+9.061142200745472,A urine pregnancy test is negative.,201,MedBullets df_op4 Q202,B
+6.143981031879179,"Her temperature is 98.6°F (37°C), blood pressure is 114/71 mmHg, pulse is 81/min, and respirations are 12/min.",201,MedBullets df_op4 Q202,B
+4.287816162746789,A physical exam is unremarkable.,201,MedBullets df_op4 Q202,B
+-0.0,She has no significant medical history.,201,MedBullets df_op4 Q202,B

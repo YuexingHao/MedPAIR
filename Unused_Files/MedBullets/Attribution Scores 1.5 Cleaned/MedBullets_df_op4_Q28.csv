@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+81.55339459682364,"Physical exam reveals dry mucous membranes, hot flushed skin, and inappropriate responses to the physician's questions.",27,MedBullets df_op4 Q28,A
+54.63258911974024,A 23-year-old man presents to the emergency department for altered mental status after a finishing a marathon.,27,MedBullets df_op4 Q28,A
+54.36062989756465,"His temperature is 104°F (40°C), blood pressure is 147/88 mmHg, pulse is 200/min, respirations are 33/min, and oxygen saturation is 99% on room air.",27,MedBullets df_op4 Q28,A
+46.97452453734996,He has a medical history of obesity and anxiety and is not currently taking any medications.,27,MedBullets df_op4 Q28,A

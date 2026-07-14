@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.5423134714365,"She denies pain, but reports her right eye “feels funny.” The patient’s medical history is significant for a previous myocardial infarction, hypertension, and osteoporosis.",184,MedBullets df_op4 Q185,B
+31.7865477101307,A fundoscopic exam of the right eye is shown in Figure A.,184,MedBullets df_op4 Q185,B
+24.33471565655829,"Her current medications include aspirin, metoprolol, rosuvastatin, lisinopril, and alendronate.",184,MedBullets df_op4 Q185,B
+7.70561780308543,"Her temperature is 98°F (36.7°C), blood pressure is 145/86 mmHg, pulse is 62/min, and respirations are 12/min with an oxygen saturation of 98% on room air.",184,MedBullets df_op4 Q185,B
+7.395607303772175,The patient's pupils are symmetric in size and equally reactive to light with accommodation.,184,MedBullets df_op4 Q185,B
+2.5340891303903237,A 71-year-old woman arrives to clinic with sudden vision loss.,184,MedBullets df_op4 Q185,B
+1.519646956571101,She was in her usual state of health until waking up this morning unable to see out of her right eye.,184,MedBullets df_op4 Q185,B
+-0.0,The left optic fundus is unremarkable.,184,MedBullets df_op4 Q185,B

@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+76.1237612120302,"Physical exam reveals an obtunded man covered in vomit, with track marks on his arm and several skin abscesses.",277,MedBullets df_op4 Q278,
+65.15949785356268,"As the fourth liter of fluids is finishing, the patient is noted to have jugular venous distension and an oxygen saturation of 92% on nonrebreather.",277,MedBullets df_op4 Q278,
+54.72112305773027,"His temperature is 99.0°F (37.2°C), blood pressure is 80/40 mmHg, pulse is 156/min, and respirations are 26/min.",277,MedBullets df_op4 Q278,
+25.974926586125648,The patient is given 4 liters of Ringer lactate and intravenous antibiotics.,277,MedBullets df_op4 Q278,
+8.560425668852016,He uses intravenous drugs and is unable to offer a history.,277,MedBullets df_op4 Q278,

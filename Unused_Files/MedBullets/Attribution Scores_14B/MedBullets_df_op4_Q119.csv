@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+29.48315066060779,"This morning, he awoke with purulent, foul-smelling discharge on his pillow.",118,MedBullets df_op4 Q119,D
+27.838020160045808,"He takes metformin, insulin, and lisinopril.",118,MedBullets df_op4 Q119,D
+15.098307081012274,The patient is toxic in appearance and in mild distress due to pain.,118,MedBullets df_op4 Q119,D
+11.530465174122213,Examination of the external ear reveals findings shown in Figure A. Granulation tissue and purulent drainage are noted in the external auditory canal.,118,MedBullets df_op4 Q119,D
+8.630484682316796,"A 68-year-old man presents to the emergency department with right ear pain that he developed 4 days prior, and it has progressively worsened.",118,MedBullets df_op4 Q119,D
+5.7127690071713655,"His temperature is 102.2°F (39.0°C), blood pressure is 130/87 mmHg, pulse is 110/min, and respirations are 16/min.",118,MedBullets df_op4 Q119,D
+2.3021449744701385,He has associated fever and chills.,118,MedBullets df_op4 Q119,D
+-0.0,Physical exam is otherwise unremarkable.,118,MedBullets df_op4 Q119,D
+0.0,He has a history of type II diabetes mellitus and hypertension.,118,MedBullets df_op4 Q119,D
+0.0,The pain is worse at night.,118,MedBullets df_op4 Q119,D

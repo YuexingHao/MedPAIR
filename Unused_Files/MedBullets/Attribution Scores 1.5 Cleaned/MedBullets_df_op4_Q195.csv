@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.25308397380502,"Her home medications include levothyroxine, oral contraceptive pills, and topical trans-retinoin.",194,MedBullets df_op4 Q195,B
+53.61378601359825,"Her medical history is significant for acne, hypothyroidism, obesity, and endometriosis.",194,MedBullets df_op4 Q195,B
+38.12413555383682,The episodes began several years ago and are accompanied by nausea and bright spots in her vision.,194,MedBullets df_op4 Q195,B
+37.35999404621598,"The headache usually subsides if she lies still in a dark, quiet room for several hours.",194,MedBullets df_op4 Q195,B
+36.15565069664181,"Every few weeks she has an episode of a right-sided, throbbing headache.",194,MedBullets df_op4 Q195,B
+29.047621894153256,"On physical exam, the patient has no focal neurologic deficits.",194,MedBullets df_op4 Q195,B
+25.14574560340244,"The patient denies any weakness, numbness, or tingling during these episodes.",194,MedBullets df_op4 Q195,B
+19.48790597069661,A CT of the head is performed and shows no acute abnormalities.,194,MedBullets df_op4 Q195,B
+17.531260573640953,She has 2 glasses of wine with dinner several nights a week and has never smoked.,194,MedBullets df_op4 Q195,B
+1.2961461617300365,A 28-year-old woman presents to her primary care provider with a headache.,194,MedBullets df_op4 Q195,B

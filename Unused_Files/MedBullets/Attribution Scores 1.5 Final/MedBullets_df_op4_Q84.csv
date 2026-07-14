@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+149.6269320534143,"He is unsure when his symptoms started, but they have been affecting him for “a while.” It began as episodes of “unsteadiness” that progressed to a feeling of “spinning.” He cannot tell if his symptoms change with position but reports that if he does not lie down he will become nauseous.",83,MedBullets_df_op4_Q84,D
+59.66680510342121,"His medications include aspirin, amlodipine, and fluticasone-salmeterol.",83,MedBullets_df_op4_Q84,D
+35.02699668236964,He drinks a glass of red wine every night with dinner and smokes a cigar on the weekends.,83,MedBullets_df_op4_Q84,D
+28.155773723476283,"The patient’s medical history is significant for hypertension, alcohol use disorder, and chronic obstructive pulmonary disease.",83,MedBullets_df_op4_Q84,D
+27.764823398916917,Examination shows delayed horizontal nystagmus.,83,MedBullets_df_op4_Q84,D
+22.97093513778152,He also has worsening hearing loss worse on his right side.,83,MedBullets_df_op4_Q84,D
+0.0,A 59-year-old man presents accompanied by his wife with nausea and dizziness.,83,MedBullets_df_op4_Q84,D
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 135/91 mmHg, pulse is 72/min, and respirations are 12/min.",83,MedBullets_df_op4_Q84,D

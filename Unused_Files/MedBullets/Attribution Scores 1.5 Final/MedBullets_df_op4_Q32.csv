@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+62.50087763383418,"His temperature is 104°F (40°C), pulse is 120/min, blood pressure is 105/60 mmHg, and respirations are 22/min.",31,MedBullets_df_op4_Q32,
+24.36601870895971,"On exam, flexion of the neck causes flexion of the hips and knees.",31,MedBullets_df_op4_Q32,
+0.0,Examination of the patient's rash is shown in Figure A.,31,MedBullets_df_op4_Q32,

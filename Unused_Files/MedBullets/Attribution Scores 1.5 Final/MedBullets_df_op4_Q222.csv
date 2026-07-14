@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+123.78838551949903,There is a 3 x 5 cm green-blue area of ecchymosis on the lateral aspect of his left knee.,221,MedBullets_df_op4_Q222,A
+109.99832403182802,"The patient is lethargic but arousable, oriented only to person, and disheveled.",221,MedBullets_df_op4_Q222,A
+100.24968622147165,The patient also could not remember what day of the week it was and he was out of groceries and likely had been for several days when visited.,221,MedBullets_df_op4_Q222,A
+86.46010458469391,"He has a medical history of hypertension, glaucoma, and osteoarthritis in his left knee that requires him to walk with a cane.",221,MedBullets_df_op4_Q222,A
+60.55619361970707,"His temperature is 98.5° F (36.9° C), blood pressure is 122/74 mmHg, pulse is 75/min, and respirations are 14/min.",221,MedBullets_df_op4_Q222,A
+45.77799590933171,An 83-year-old man is brought to the emergency department by his daughter due to confusion over the last 2 weeks.,221,MedBullets_df_op4_Q222,A
+31.363302730928385,A CT of the head without contrast is performed and shown in Figure A.,221,MedBullets_df_op4_Q222,A
+12.349805560820732,The patient is unable to provide a clear history.,221,MedBullets_df_op4_Q222,A
+-0.0,"While she was talking to him, he fell asleep and was difficult to rouse.",221,MedBullets_df_op4_Q222,A
+0.0,"He takes hydrochlorothiazide, timolol eyedrops, and occasional acetaminophen.",221,MedBullets_df_op4_Q222,A
+0.0,The patient initially became less talkative than usual before starting to confuse her with her sister.,221,MedBullets_df_op4_Q222,A

@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+85.00248196446282,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 130/80 mmHg, respirations are 16/min, and oxygen saturation is 98% on room air.",66,MedBullets df_op4 Q67,D
+68.7506774365902,"Approximately 20 minutes after receiving the medication, he developed pain and stiffness in his neck and eventually was unable to move his neck.",66,MedBullets df_op4 Q67,D
+67.49863110955869,He underwent a laparoscopic appendectomy and was treated for post-operative nausea and vomiting with metoclopramide.,66,MedBullets df_op4 Q67,D
+41.694760823901504,A 30-year-old man is evaluated in the post-anesthesia care unit for neck pain.,66,MedBullets df_op4 Q67,D

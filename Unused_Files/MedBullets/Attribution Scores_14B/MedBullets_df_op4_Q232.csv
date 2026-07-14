@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+35.38421408659882,The patient's mother asks the pediatrician about potentially delaying the 2-month vaccine doses due to the baby's medical history.,231,MedBullets df_op4 Q232,C
+11.150091330270456,"Her temperature is 98.6°F (37.0°C), blood pressure is 80/50 mmHg, pulse is 120/min, and respirations are 25/min.",231,MedBullets df_op4 Q232,C
+9.485530886799097,Her postnatal course was complicated by a prolonged neonatal intensive care unit stay for neonatal respiratory distress syndrome (NRDS).,231,MedBullets df_op4 Q232,C
+9.323863984860672,Which of the following is the correct vaccination plan for this infant in terms of the vaccinations below?,231,MedBullets df_op4 Q232,C
+3.925207443378961,A 2-month-old girl is brought to the pediatrician by her mother for a follow-up visit.,231,MedBullets df_op4 Q232,C
+0.0,She has been gaining weight appropriately.,231,MedBullets df_op4 Q232,C
+0.0,"Since discharge from the hospital, her mother reports that the patient has been doing well without health problems.",231,MedBullets df_op4 Q232,C
+0.0,The patient was born at 29 weeks gestation to a G1P1 mother.,231,MedBullets df_op4 Q232,C

@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.60675509582075,"His temperature is 98.6°F (37°C), blood pressure is 105/52 mmHg, pulse is 110/min, and respirations are 25/min.",176,MedBullets_df_op4_Q177,C
+37.75322983357385,Family history is significant for a cousin who died suddenly at a young age.,176,MedBullets_df_op4_Q177,C
+32.15118969885969,"Since then, he has been on valproic acid but the seizure activity remains unchanged.",176,MedBullets_df_op4_Q177,C
+23.56619282439351,A 4-year-old boy is brought in by his grandmother for worsening seizure activity.,176,MedBullets_df_op4_Q177,C
+22.83573947316998,He was recently enrolled in daycare because she could no longer care for him full-time.,176,MedBullets_df_op4_Q177,C
+-0.0,An ECG is quickly performed and is shown in Figure B.,176,MedBullets_df_op4_Q177,C
+0.0,She says that his first seizure occurred 1 year ago.,176,MedBullets_df_op4_Q177,C
+0.0,The patient is then startled when a door is closed quickly and he suddenly loses consciousness.,176,MedBullets_df_op4_Q177,C
+0.0,She reports that occasionally he “suddenly drops” when running around the house.,176,MedBullets_df_op4_Q177,C
+0.0,"Since then, the seizure activity has increased and the daycare facility also noted concerns over his lack of response to voice commands.",176,MedBullets_df_op4_Q177,C

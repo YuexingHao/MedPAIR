@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+34.902661512889395,"On arrival to the emergency department, the patient is not responding to verbal stimuli and only withdraws his left upper extremity and lower extremity to pain.",297,MedBullets df_op4 Q298,A
+33.76531262296882,"His temperature is 99.0°F (37.2°C), blood pressure is 170/100 mmHg, pulse is 95/min, and respirations are 16/min.",297,MedBullets df_op4 Q298,A
+22.71753563555689,The patient has a seizure and subsequently demonstrates agonal breathing.,297,MedBullets df_op4 Q298,A
+18.83986437646212,A 77-year-old man presents to the emergency department with a complaint of sudden onset weakness in his right upper extremity.,297,MedBullets df_op4 Q298,A
+12.708969822735522,"His past medical history is notable for hypertension and atrial fibrillation treated with metoprolol, apixaban, and lisinopril.",297,MedBullets df_op4 Q298,A
+3.0254176005333067,"At home, the patient thought he was simply dehydrated, but he rapidly began to have trouble speaking.",297,MedBullets df_op4 Q298,A
+-0.0,A fingerstick blood glucose is 122 mg/dL.,297,MedBullets df_op4 Q298,A
+0.0,He no longer responds to painful stimuli.,297,MedBullets df_op4 Q298,A
+0.0,When his wife noted this she brought him into the hospital.,297,MedBullets df_op4 Q298,A

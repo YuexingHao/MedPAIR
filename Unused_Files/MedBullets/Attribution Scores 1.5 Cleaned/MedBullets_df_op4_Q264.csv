@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.00823971461268,"His gait is mildly ataxic as well, but his neurological exam is otherwise nonfocal.",263,MedBullets df_op4 Q264,D
+43.459932750713655,"His visual acuity is 20/100 in both eyes, though he says that he normally has 20/20 vision.",263,MedBullets df_op4 Q264,D
+39.53276431244051,"A 57-year-old man presents to the emergency department with several days of malaise, weakness, and night sweats.",263,MedBullets df_op4 Q264,D
+33.60351976412028,Physical exam is notable for a thin man but is otherwise unremarkable.,263,MedBullets df_op4 Q264,D
+13.359110474616251,"Otherwise, he has lost 10 pounds over the past month.",263,MedBullets df_op4 Q264,D
+11.18125606700778,The patient has a history of diabetes and is followed closely by an endocrinologist.,263,MedBullets df_op4 Q264,D

@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+68.0863188259344,The patient has not yet regained her birth weight and is in the 46th percentile for height and the 36th percentile for weight.,80,MedBullets df_op4 Q81,A
+57.93744988120703,"The patient’s temperature is 99.2°F (37.3°C), blood pressure is 68/46 mmHg, pulse is 132/min, and respirations are 32/min.",80,MedBullets df_op4 Q81,A
+45.97278388224143,She was born at 36 weeks gestation to a 37-year-old G2P2 mother.,80,MedBullets df_op4 Q81,A
+34.49360630019305,Her abdomen is distended and firm without guarding.,80,MedBullets df_op4 Q81,A
+33.697402711519175,"The pregnancy was complicated by gestational diabetes, and all prenatal testing was unremarkable.",80,MedBullets df_op4 Q81,A
+30.126086368777973,The patient’s abdominal radiograph can be seen in Figure A and the patient’s upper gastrointestinal series can be seen in Figure B.,80,MedBullets df_op4 Q81,A
+24.48464138561395,She was feeding well until this morning when she had several episodes of vomiting.,80,MedBullets df_op4 Q81,A
+23.43217843654788,A 4-day-old girl presents with her parents to the pediatrician for a routine visit.,80,MedBullets df_op4 Q81,A
+15.178888145834208,The parents describe the vomitus as “bright green” and the patient has shown little interest in feeding since then.,80,MedBullets df_op4 Q81,A
+10.451593862606671,She has no dysmorphic features.,80,MedBullets df_op4 Q81,A
+9.024399406869298,Bowel sounds are hypoactive.,80,MedBullets df_op4 Q81,A
+3.7060241937615706,"On physical exam, the patient is in mild distress.",80,MedBullets df_op4 Q81,A

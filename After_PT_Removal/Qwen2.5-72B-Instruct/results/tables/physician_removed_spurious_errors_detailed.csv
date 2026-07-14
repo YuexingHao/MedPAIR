@@ -1,0 +1,313 @@
+QA_ID,Origin,data_source,Raw_Response,Original,Physician_Removed,answer_corr
+Merge Q13,ID0042,,"To provide a detailed explanation for your answer, please respond with ""Explain"" after selecting your answer.
+Answer: C Explain
+Answer: C Explain
+
+The patient presents with a history of recurrent infections, including bilateral otitis media, poor feeding, lethargy, fever, hypotension, and physical findings of candidiasis (white oral patches) and skin lesions. The laboratory findings show a markedly elevated white blood cell count with a predominance of neutrophils, which suggests an ongoing",B,C,B
+Merge Q28,ID0049,,"To further investigate the cause of the unilateral optic neuritis, the next step should be to perform a cerebrospinal fluid (CSF) analysis to rule out infectious or inflammatory causes, such as neuroretinitis or Lyme disease, especially given the patient's exposure to cats.
+
+Answer: C",B,C,B
+Merge Q35,ID0060,,"To ensure you receive the information in the requested format, here is your response:
+
+Answer: A",C,A,C
+Merge Q73,ID0122,,"To increase blood pressure, we need to consider the factors that contribute to it. Blood pressure is determined by cardiac output (which is the product of heart rate and stroke volume) and peripheral vascular resistance. The patient already has a high blood pressure of 165/95 mm Hg. 
+
+- **Decreased cardiac output** (Option A) would typically lead to a decrease in blood pressure.
+- **Decreased pulse** (Option B) would also generally lead to a decrease in",D,A,D
+Merge Q91,ID0148,,"To provide the best care for this pregnant patient with infiltrating lobular carcinoma, the most appropriate next step in management should be carefully considered. Given the stage of pregnancy (20 weeks) and the need to balance maternal and fetal health, the most appropriate initial step is to delay definitive treatment until after delivery, while closely monitoring the patient's condition.
+
+Answer: H",C,H,C
+Merge Q96,ID0162,,"To provide a detailed explanation for your answer, please use the ""Explain"" button below.
+Answer: D
+To provide a detailed explanation for your answer, please use the ""Explain"" button below. 
+
+Explain To provide a detailed explanation for your answer, please use the ""Explain"" button below. 
+
+**Explanation:**
+
+The patient's presentation includes a 2-year history of urinary incontinence, recent onset of dysuria, and a pelvic examination revealing a dry and at",A,D,A
+Merge Q96,ID0169,,"To further investigate the condition, it is important to consider the differential diagnosis that includes conditions like Sjögren's syndrome, which can present with symptoms such as dry eyes, eye pain, and conjunctival lesions. Anti-Ro and anti-La antibodies are commonly associated with Sjögren's syndrome.
+
+Answer: A",B,A,B
+Merge Q109,ID0172,,"To provide a detailed explanation, please refer to the following points:
+1. [Point 1]
+2. [Point 2]
+3. [Point 3] Answer: C To provide a detailed explanation, please refer to the following points:
+1. **Clinical Presentation**: The patient presents with multiple pruritic crusted papules and nodules on the face and genitals, which appeared abruptly over a 2-week period. The lesions are described as skin-colored with central umbilication,",D,C,D
+Merge Q142,ID0241,,"To ensure you can follow my reasoning, I will provide a brief explanation after selecting the answer.
+Answer: C
+
+Explanation: The patient's presentation of polymorphic erythematous macules and plaques with elevated and indurated borders, along with dysesthesia and a chronic dermic nonencapsulated granulomatous infiltrate with a perineural distribution, is highly suggestive of disseminated annular granuloma. This condition is characterized by granulomatous inflammation",A,C,A
+Merge Q177,ID0296,,"To further investigate the underlying cause of the patient's ocular symptoms, considering her complex medical history and family history, the most appropriate next step would be to conduct genetic testing to evaluate for potential hereditary conditions that could explain her ocular and systemic findings.
+
+Answer: B",C,B,C
+Merge Q177,ID0304,,"To provide a concise response as requested:
+
+Answer: C To adhere to the instruction for format strictly:
+
+Answer: C",I,C,I
+Merge Q198,ID0325,,"To address the patient's needs, we should consider her age, family history, and the timing of her last colonoscopy. Given her family history of colon cancer and the fact that she had a colonoscopy 5 years ago, it is appropriate to recommend another colonoscopy to ensure there have been no new developments.
+
+Answer: C",B,C,B
+Merge Q218,ID0365,,"To provide a detailed explanation, please ask me to elaborate.
+To provide a detailed explanation, please ask me to elaborate. 
+
+Answer: B To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. 
+
+Answer: C To provide a detailed explanation, please ask me to elaborate.
+
+Answer: B To provide a detailed explanation, please ask me to elaborate. 
+
+However, based on the clinical presentation and histopathological findings, the correct diagnosis",C,B,C
+Merge Q232,ID0393,,"To address the recurrent anterior chamber and vitreous inflammation with mild cystoid macular edema, the most appropriate next step is to perform a repeat vitreous biopsy and intravitreal injection of antibiotics to rule out any persistent infection and provide targeted treatment.
+
+Answer: B",D,B,D
+Merge Q261,ID0435,,"To provide a detailed explanation, please ask me to elaborate.
+To provide a detailed explanation, please ask me to elaborate. 
+
+Answer: D To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. 
+
+However, based on the clinical presentation, the correct answer is:
+
+Answer: I To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please",I,D,I
+Merge Q261,ID0442,,"To provide a concise response as requested:
+
+Answer: C
+
+The patient's presentation, particularly the marked elevation of the left hemidiaphragm on chest radiography and the context of a high-speed motor vehicle collision, strongly suggests diaphragmatic rupture. Additionally, the presence of hypotension and the need for fluid resuscitation, along with multiple fractures, indicates significant trauma that could also lead to a mediastinal hematoma. While other options like pneumothorax or eventration are possible",D,C,D
+Merge Q261,ID0444,,"To ensure you receive the information in the requested format, here is your response:
+
+Answer: B",C,B,C
+Merge Q334,ID0553,,"To further investigate the cause of bilateral optic disc swelling in this preadolescent girl, it is essential to rule out intracranial pathology, which can be effectively evaluated through neuroimaging.
+
+Answer: D",C,D,C
+Merge Q346,ID0569,,"To provide a detailed explanation, please refer to the following points:
+- <POINT 1>
+- <POINT 2>
+- <POINT 3>
+
+Answer: B To provide a detailed explanation, please refer to the following points:
+- The patient has a strong family history of Duchenne muscular dystrophy (DMD), with both her brother and maternal uncle affected by the disease.
+- DMD is an X-linked recessive disorder, meaning that females who are carriers can pass the mutation to their",D,B,D
+Merge Q357,ID0590,,"To ensure the response is formatted correctly, I will provide the answer as requested:
+
+Answer: B",D,B,D
+Merge Q370,ID0602,,"To address the condition effectively, considering the patient's symptoms, examination findings, and laboratory results, the most appropriate next step is to manage the inflammation systemically due to the elevated inflammatory markers and the nature of the lesion.
+
+Answer: C To give oral prednisone. This approach can help control the systemic inflammation and potentially reduce the size and tenderness of the scleral nodule. If there is no improvement or if the condition worsens, further evaluation and referral may be necessary. However, based",D,C,D
+Merge Q370,ID0603,,"To provide a detailed explanation for your answer, please ask me directly.
+To provide a detailed explanation for your answer, please ask me directly. 
+
+Answer: A
+To provide a detailed explanation for your answer, please ask me directly.",C,A,C
+Merge Q394,ID0636,,"To provide a rationale, <RATIONALE>.
+
+Answer: B To provide a rationale, the presentation of sudden-onset visual loss, a relative afferent pupillary defect, central scotoma, and delayed P100 response on visual evoked potential suggests a possible optic neuritis. Optic neuritis can be associated with multiple sclerosis or other demyelinating conditions, which would warrant a referral to neurology for further evaluation and management. The presence of small glistening lesions on fund",C,B,C
+Merge Q394,ID0639,,"To ensure you receive the correct response, please confirm that you have read and understood the patient's case summary.
+Answer: D
+
+I have read and understood the patient's case summary. The diagnosis of segmental incontinentia pigmenti is supported by the asymptomatic hyperpigmentation following the lines of Blaschko, the slight atrophy, and the histopathologic findings. This condition typically presents with a characteristic pattern of skin changes that evolve over time, which aligns with the patient's",B,D,B
+Merge Q481,ID0770,,"To ensure I don't provide any additional information, I will not include an explanation.
+Answer: D",E,D,E
+Merge Q488,ID0781,,"To provide a detailed explanation for my choice, I would need more information, but based on the given details, the most likely diagnosis is:
+To provide a detailed explanation for my choice, I would need more information, but based on the given details, the most likely diagnosis is:
+
+Answer: D
+
+The patient's history of receiving intralesional steroid injections and the subsequent development of a linear, depressed, alopecic patch suggests localized lipodystrophy. This condition can occur as a result of",C,D,C
+Merge Q519,ID0827,,"To establish the diagnosis, the most appropriate test is:
+Answer: H
+To establish the diagnosis, the most appropriate test is:
+Answer: G
+
+However, given the patient's symptoms and physical exam findings, the most appropriate initial test to evaluate for possible structural or obstructive lung disease would be:
+
+Answer: H
+
+High-resolution CT (HRCT) of the thorax can provide detailed images of the lungs and airways, helping to identify conditions such as bronchiectasis, interstitial lung",C,H,C
+Merge Q523,ID0847,,"To provide a detailed explanation, please ask me to elaborate.
+To provide a detailed explanation, please ask me to elaborate. 
+
+Answer: C To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate. To provide a detailed explanation, please ask me to elaborate.",B,C,B
+Merge Q557,ID0883,,"To confirm the likely diagnosis, the most appropriate next step is:
+Answer: C
+Magnetic resonance imaging (MRI) is the most appropriate next step to confirm the likely diagnosis. MRI can provide detailed images of the spine and help identify the extent of the infection or inflammation, as well as any abscesses or other complications. This will be crucial for guiding further management.",G,C,G
+Merge Q605,ID0962,,"To: <NEXT ACTION>
+Answer: C To: Perform a bone marrow biopsy
+
+The patient's presentation with spontaneous ecchymoses, epistaxis, and a significant presence of blasts in the peripheral blood smear, along with laboratory findings suggestive of coagulopathy (low fibrinogen, elevated D-dimer), strongly indicates acute promyelocytic leukemia (APL). However, to confirm the diagnosis and guide specific treatment, a bone marrow biopsy is essential. This will provide definitive",A,C,A
+Merge Q614,ID0973,,"To provide a clear and concise response to your request, I will select the most appropriate answer based on the information provided in the patient case summary.
+
+Answer: C
+
+The key points supporting this diagnosis include:
+- The presence of left cervical and left inguinal masses.
+- Intermittent itching and night sweats for 2 years.
+- Lymph node biopsy showing atypical cells with a high proliferation index (Ki-67 >95%).
+- Immunohistochemical stains positive",D,C,D
+Merge Q618,ID0987,,"To prevent future episodes of headache in this patient, the most appropriate answer is:
+
+Answer: D
+
+The patient's symptoms are consistent with cluster headaches, which are characterized by severe, unilateral, orbital, or periorbital pain, often accompanied by autonomic symptoms such as lacrimation (tearing) and rhinorrhea on the affected side. High-flow oxygen is highly effective in aborting acute attacks of cluster headaches and can also be used prophylactically to prevent future episodes.",A,D,A
+Merge Q623,ID0992,,"To provide a concise and accurate response based on the information given:
+
+Answer: E
+
+The presence of symptoms such as vaginal itching, painful urination, pelvic discomfort, and malodorous vaginal discharge, along with physical findings of cervical friability and mucopurulent discharge, and microscopic evidence of numerous polymorphonuclear leukocytes, strongly suggests an infection with *Chlamydia trachomatis*. This pathogen is a common cause of cervicitis and can present with these clinical features",B,E,B
+Merge Q652,ID1038,,"To ensure you receive the response in the requested format, here it is:
+
+Answer: B",D,B,D
+Merge Q669,ID1073,,"To further investigate the cause of the serous choroidal detachment and to better understand the underlying pathology, especially given the presence of dilated corkscrew conjunctival vessels and a shallow anterior chamber, the next step should be:
+
+Answer: A",D,A,D
+Merge Q681,ID1108,,"To ensure a focused response, I will provide the answer in the requested format:
+
+Answer: I
+
+This choice allows for a definitive diagnosis through culture and sensitivity testing, which can guide the appropriate antibiotic therapy if an infection is confirmed. It is a less invasive initial step compared to surgical options and provides valuable information for subsequent management decisions.",E,I,E
+Merge Q722,ID1149,,"To: <ACTION>
+Answer: C To: Perform laser peripheral iridotomy",D,C,D
+Merge Q722,ID1151,,"To ensure the response is clear and concise, I will follow the requested format.
+
+Answer: B",C,B,C
+Merge Q722,ID1164,,"To address the refractory hypomagnesemia in this patient, the most appropriate next step is to evaluate potential medication-related causes, particularly those that can affect magnesium absorption or excretion. Given the patient's medication list, ranitidine is known to potentially reduce gastrointestinal magnesium absorption, which could contribute to her hypomagnesemia.
+
+Answer: D",B,D,B
+Merge Q722,ID1167,,"To further investigate the cause of pancytopenia and the observed dysplastic changes, the next best step is to perform a more detailed evaluation that can help identify underlying conditions such as myelodysplastic syndrome (MDS).
+
+Answer: B",A,B,A
+Merge Q722,ID1198,,"To provide a concise response as requested:
+
+Answer: A To adhere strictly to the provided format:
+
+Answer: A",C,A,C
+Merge Q813,ID1272,,"To provide a clear and concise response based on the information given:
+
+Answer: D
+
+The patient's history suggests an essential tremor that has worsened recently. The key points supporting this are:
+- The tremor has been present for most of her life and is not present at rest.
+- The recent increase in tremor severity coincides with an increase in alcohol consumption.
+- Alcohol can reduce the symptoms of essential tremor, which may explain why she has started drinking more frequently.
+
+While fluoxetine",A,D,A
+Merge Q824,ID1286,,"To provide a detailed explanation, please refer to the following points:
+1. [Point 1]
+2. [Point 2]
+3. [Point 3] Answer: D To provide a detailed explanation, please refer to the following points:
+1. **Clinical Presentation**: The patient is an 8-year-old boy with a 2-week history of fatigue and a 3-day history of double vision, ptosis, and painless periorbital swelling of the left eye. These",B,D,B
+Merge Q837,ID1303,,"To provide a detailed explanation for my choice, I would need more information about the patient's history, physical examination, and additional diagnostic tests. However, based on the provided information, the most likely diagnosis is:
+
+Answer: A
+To provide a detailed explanation for my choice, I would need more information about the patient's history, physical examination, and additional diagnostic tests. However, based on the provided information, the most likely diagnosis is:
+
+Answer: A
+
+Wells syndrome, also known as eos",C,A,C
+Merge Q857,ID1333,,"To provide a concise response as requested, I will select the most appropriate answer based on the provided information.
+
+Answer: G",C,G,C
+Merge Q873,ID1353,,"To provide a brief explanation, <EXPLANATION>.
+
+Answer: A To provide a brief explanation, the clinical presentation of an edematous, massively enlarged auricle with a chronic course and the presence of non-caseating granulomas on histopathology, along with a positive Mantoux test, is highly suggestive of lupus pernio, a form of cutaneous tuberculosis. The ""apple jelly"" appearance on diascopy further supports this diagnosis.",C,A,C
+Merge Q882,ID1368,,"To provide a detailed explanation, please refer to the following points:
+1. [Point 1]
+2. [Point 2]
+3. [Point 3] Answer: C To provide a detailed explanation, please refer to the following points:
+1. **Clinical Presentation**: The patient's symptoms of progressive cognitive decline, memory loss, and mood changes over an 8-month period suggest a chronic and progressive neurological condition.
+2. **Imaging Findings**: The MRI shows extensive ill-defined areas",D,C,D
+Merge Q887,ID1376,,"To provide a detailed explanation, please refer to the following points:
+1. 
+2. 
+3. 
+4. 
+5.
+Answer: D To provide a detailed explanation, please refer to the following points:
+1. The patient presents with sudden onset of cramps and abdominal pain, which can be indicative of an acute condition such as a small-bowel obstruction.
+2. The patient has a history of hypochromic microcytic anemia, which is often associated with iron deficiency.",A,D,A
+Merge Q897,ID1388,,"To provide a rationale, <RATIONALE>.
+
+Answer: A To provide a rationale, performing a skin biopsy at the mastectomy incision site is essential to determine the underlying cause of the erythema, edema, pain, pruritus, and serous fluid drainage. This can help rule out infection, allergic reactions, or other dermatological conditions that might be contributing to the poor wound healing and rash. Given the history of a similar episode after a previous surgery, it is important to obtain",C,A,C
+Merge Q899,ID1391,,"To further investigate the cause of the acute symptoms and the significant drop in hemoglobin, it is important to rule out potential sources of bleeding or other complications that could be contributing to the patient's condition. Given the history of polycythemia vera, the recent weight loss, fatigue, and the enlarged spleen, an urgent upper endoscopy is warranted to evaluate for possible gastrointestinal bleeding, which could explain the rapid decline in hemoglobin.
+
+Answer: C",D,C,D
+Merge Q907,ID1401,,"To: <NEXT STEPS>
+Answer: A To: Perform dilated ophthalmic examination",C,A,C
+Merge Q980,ID1517,,"To further investigate the potential underlying cause, it is important to assess the patient's blood glucose levels given the family history of diabetes and the characteristic presentation of the rash, which may be indicative of a condition associated with hyperglycemia.
+
+Answer: B",C,B,C
+Merge Q984,ID1525,,"To provide a rationale, <RATIONALE>.
+
+Answer: C To provide a rationale, the patient's visual acuity is stable, and there is no significant impact on vision that would necessitate immediate surgical intervention. The lesions appear to be relatively stable, and given the young age of the patient, observation with regular follow-up is a reasonable approach to monitor any changes in the condition. 
+
+Genetic testing and obtaining a family medical history (Option A) could be considered if there is suspicion of a her",A,C,A
+Merge Q992,ID1536,,"To provide a detailed explanation, please refer to the patient's symptoms and medical history.
+Answer: D To provide a detailed explanation, please refer to the patient's symptoms and medical history. 
+
+The patient has a history of squamous cell carcinoma of the skin, which increases the risk of developing other types of skin cancers, including meibomian gland carcinoma (also known as sebaceous gland carcinoma). The presence of a firm and rubbery nodule in the eyelid that has persisted for a",A,D,A
+Merge Q994,ID1539,,"To provide a detailed explanation, please refer to the following information: [Detailed explanation here]
+Answer: C To provide a detailed explanation, please refer to the following information: The patient's presentation of bilateral upward lens subluxation, tall stature, and scoliosis is highly suggestive of Marfan syndrome. Marfan syndrome is a genetic disorder caused by a mutation in the FBN1 gene, which is located on chromosome 15. This mutation leads to defects in the production of fibrillin-",D,C,D
+Merge Q1060,ID1651,,"To further investigate the cause of the rash and alopecia, which may be related to his underlying malignancy or a paraneoplastic syndrome, the most appropriate next step is to order a paraneoplastic panel.
+
+Answer: D",B,D,B
+Merge Q1065,ID1656,,"To ensure you receive the correct response, please provide the patient's history, physical findings, and any other relevant information.
+Answer: J
+To ensure you receive the correct response, please provide the patient's history, physical findings, and any other relevant information. 
+
+The patient is a 4-year-old male with a history of adoption, presenting with concerns about growth rate. On physical examination, he has a height below the 5th percentile and a weight above the 75th percentile.",E,J,E
+Merge Q1069,ID1663,,"To provide reassurance and observe the patient is the most appropriate next step because the condition described is consistent with chronic leukocytoclastic vasculitis, which can be associated with chronic hepatitis B infection. Given that the lesions are asymptomatic and self-resolving, and there is no evidence of systemic involvement or positive immunofluorescence, a conservative approach is warranted.
+
+Answer: D",B,D,B
+Merge Q1079,ID1678,,"To: <NEXT STEPS>
+Answer: A To: Administer an intravitreous anti-vascular endothelial growth factor (anti-VEGF) agent in the left eye",C,A,C
+Merge Q1092,ID1695,,"To rule out <CONDITION>.
+
+Answer: A To rule out lymphoma or other intraocular malignancies.",B,A,B
+Merge Q1103,ID1711,,"To provide a detailed explanation, please refer to the following points:
+1. [Point 1]
+2. [Point 2]
+3. [Point 3]
+
+Answer: B To provide a detailed explanation, please refer to the following points:
+1. The patient developed multiple thick, mildly pruritic, yellow hyperkeratotic plaques on her lower extremities, which are characteristic of plaque psoriasis.
+2. Plaque psoriasis typically presents as well-defined, erythematous",C,B,C
+Merge Q1115,ID1728,,"To provide a clear and concise response, I will follow the requested format:
+
+Answer: D
+
+The presence of pneumoperitoneum on the CT scan is highly suggestive of a perforation or rupture of a hollow viscus, such as the duodenum. The duodenum is particularly vulnerable to injury from blunt abdominal trauma, especially from handlebar injuries in bicycle accidents. The combination of abdominal pain, nausea, vomiting, and physical findings like paraumbilical ecchymosis (Cullen",C,D,C
+Merge Q1126,ID1750,,"To provide the best protection against hepatitis A in a short timeframe, the most appropriate strategy is to administer the first dose of the hepatitis A vaccine now, which provides rapid protection. Additionally, administering immunoglobulin the day before departure can offer immediate but temporary protection, complementing the vaccine's effect.
+
+Answer: H",I,H,I
+Merge Q1165,ID1811,,"To provide a detailed response, I would need more information such as histopathological findings or additional clinical details. However, based on the provided information:
+
+Answer: A
+
+The patient's presentation of persistent round atrophic lesions with a scar-like appearance, particularly on the malar and preauricular areas, without induration or epidermal changes, and the absence of previous inflammation, is most consistent with primary anetoderma. This condition is characterized by well-circumscribed, soft,",C,A,C
+Merge Q1240,ID1913,,"To ensure you receive the correct response.
+Answer: D To ensure you receive the correct response. 
+
+However, upon closer review, the most direct and singular cause from the provided options would be:
+
+Answer: E To ensure you receive the correct response. 
+
+Doxylamine can cause anticholinergic side effects, including urinary retention and incontinence, which aligns with the patient's symptoms. While empagliflozin can also have some effects on urinary frequency, doxyl",E,D,E
+Merge Q1252,ID1932,,"To ensure you can follow my reasoning, I will provide a brief explanation after selecting the answer.
+Answer: A
+
+Explanation: The presence of a skin-colored, firm, nontender, freely mobile nodule on the scalp, along with the histopathological findings of a nodular lesion surrounded by a fibrous capsule containing cross-sections of parasites with a thick cuticle, well-developed inner muscular layer, and tubular structures containing microfilariae, is characteristic of an onchoc",B,A,B
+Merge Q1260,ID1945,,"To confirm the diagnosis, the most accurate initial test would be:
+
+Answer: C
+
+Electromyography (EMG) can help identify the presence of myopathic or neurogenic disease and is useful in confirming the nature of muscle weakness. While serum creatine kinase (CK) and serum aldolase can be elevated in muscle diseases, they are not as specific or diagnostic as EMG. A muscle biopsy is more invasive and typically reserved for cases where the diagnosis remains unclear after other tests.",B,C,B
+Merge Q1272,ID1959,,"To provide a detailed explanation for your answer, please consider the patient's medical history, symptoms, and examination findings.
+Answer: A
+
+To provide a detailed explanation for your answer, please consider the patient's medical history, symptoms, and examination findings:
+The patient has a complex medical history, including myelodysplastic syndrome that transformed into acute myeloid leukemia (AML), which was recently brought into remission. He now presents with acute onset of blurred vision in his left eye, elevated",D,A,D
+Merge Q1284,ID1979,,"To ensure you understand the context, I will provide a brief explanation after selecting the answer.
+Answer: G
+
+Explanation: The patient's symptoms, including mood swings, irritability, aggressive thoughts, and feelings of invulnerability, along with his physical appearance (very muscular, prominent acne), suggest the possibility of anabolic steroid use. Given the complexity of the presentation and the potential for significant psychological and physical consequences, a referral to an adolescent psychiatrist for a comprehensive evaluation is the most appropriate next step.",H,G,H

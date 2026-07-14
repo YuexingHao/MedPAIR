@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+72.56869368102033,"His temperature is 97.7°F (36.5°C), blood pressure is 124/82 mmHg, pulse is 140/min, respirations are 32/min, and oxygen saturation is 78% on room air.",284,MedBullets df_op4 Q285,
+28.1988367601866,"His past medical history is notable for a myocardial infarction 7 years ago, COPD, heart failure with a left ventricular ejection fraction of 22%, obesity, diabetes, and peripheral vascular disease.",284,MedBullets df_op4 Q285,
+23.48531259544837,"The patient is started on BiPAP, and his oxygen saturation improves to 94%.",284,MedBullets df_op4 Q285,

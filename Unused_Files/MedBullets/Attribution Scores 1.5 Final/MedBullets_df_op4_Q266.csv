@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.06237368285656,He demonstrates no rash and his abdomen is soft and nontender.,265,MedBullets_df_op4_Q266,A
+47.45222977457231,"Today, he was hit in the face with a football, followed by significant swelling of his lips and tongue.",265,MedBullets_df_op4_Q266,A
+19.995233371622145,A 22-year-old man presents to the emergency department with difficulty breathing.,265,MedBullets_df_op4_Q266,A
+10.623361025057031,His breath sounds are clear.,265,MedBullets_df_op4_Q266,A
+7.439468062601304,The patient speaks with a muffled voice.,265,MedBullets_df_op4_Q266,A
+3.238085217607552,"Physical exam reveals swollen lips and a protruding, enlarged tongue.",265,MedBullets_df_op4_Q266,A
+1.5229170212036296,"His temperature is 98.1°F (36.7°C), blood pressure is 120/83 mmHg, pulse is 80/min, respirations are 16/min, and oxygen saturation is 98% on room air.",265,MedBullets_df_op4_Q266,A

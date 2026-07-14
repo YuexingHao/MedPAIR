@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.114970576539235,"Laboratory values are ordered as seen below: Serum: Na+: 137 mEq/L Cl-: 105 mEq/L K+: 4.1 mEq/L HCO3-: 24 mEq/L BUN: 22 mg/dL Glucose: 129 mg/dL Creatinine: 1.2 mg/dL Ca2+: 10.1 mg/dL AST: 11 U/L ALT: 12 U/L On physical exam, the patient appears to be in distress.",10,MedBullets df_op4 Q11,C
+62.41794509210978,"The patient's right lower extremity appears mildly inflamed, and palpation of the calf elicits pain.",10,MedBullets df_op4 Q11,C
+50.227299962192774,"The patient has a medical history of obesity, diabetes, diabetic nephropathy, hypertension, and a 40-pack-year smoking history.",10,MedBullets df_op4 Q11,C
+16.85708827023634,"His current medications include atorvastatin, lisinopril, insulin, metformin, and nicotine gum.",10,MedBullets df_op4 Q11,C
+8.699162526577307,A 57-year-old man presents to the emergency department for shortness of breath.,10,MedBullets df_op4 Q11,C
+8.052368640391483,"His temperature is 99.5°F (37.5°C), blood pressure is 130/87 mmHg, pulse is 120/min, respirations are 15/min, and oxygen saturation is 93% on room air.",10,MedBullets df_op4 Q11,C
+3.9262767785362676,An ECG is ordered as seen in Figure A.,10,MedBullets df_op4 Q11,C
+0.0,His cardiac exam is notable for tachycardia.,10,MedBullets df_op4 Q11,C
+0.0,Pulmonary exam reveals bilateral air movement without any wheezes or crackles.,10,MedBullets df_op4 Q11,C
+0.0,A chest radiograph is ordered as seen in Figure B.,10,MedBullets df_op4 Q11,C
+0.0,He was riding the train home from a business conference when his symptoms began.,10,MedBullets df_op4 Q11,C

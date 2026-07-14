@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+68.62671200872681,"He has a history of heart failure with reduced ejection fraction, obesity, diabetes, hypertension, acute coronary syndrome, atrial fibrillation, and peripheral vascular disease.",262,MedBullets df_op4 Q263,B
+37.541332207620144,"He otherwise states he has noticed some visual changes, including noting a yellow tint to objects.",262,MedBullets df_op4 Q263,B
+34.72101247859259,Physical exam reveals a frail man who is unable to ambulate secondary to lightheadedness.,262,MedBullets df_op4 Q263,B
+32.42974396887395,An ECG is performed as seen in Figure A.,262,MedBullets df_op4 Q263,B
+24.61854454634736,"His temperature is 98.5°F (36.9°C), blood pressure is 153/91 mmHg, pulse is 40/min, respirations are 15/min, and oxygen saturation is 97% on room air.",262,MedBullets df_op4 Q263,B
+11.689562531519284,"A 64-year-old man presents with nausea, vomiting, and weakness.",262,MedBullets df_op4 Q263,B
+5.308363379623686,He states that his wife made him come in when he fainted today while attempting to stand up.,262,MedBullets df_op4 Q263,B
+0.0,His neurological exam is otherwise non-focal.,262,MedBullets df_op4 Q263,B

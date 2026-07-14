@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.10783175795304,"His mother has already tried limiting the volume of each feed, which seems to have reduced the frequency of regurgitation.",119,MedBullets df_op4 Q120,
+24.72344970703125,The patient’s mother is concerned that her milk production is not keeping up with the patient’s nutritional requirements.,119,MedBullets df_op4 Q120,
+20.77317604481085,"His temperature is 98.6°F (37°C), blood pressure is 72/49 mmHg, pulse is 121/min, and respirations are 32/min.",119,MedBullets df_op4 Q120,
+20.3584541647793,He seems mildly upset during the episodes of regurgitation but usually settles down quickly and is hungry again soon afterwards.,119,MedBullets df_op4 Q120,
+17.96422992929398,She reports that about 2 weeks ago the patient began regurgitating breastmilk through his nose and mouth after some feeds.,119,MedBullets df_op4 Q120,
+16.87016801782423,"She denies any diarrhea, hematochezia, or family history of food allergies.",119,MedBullets df_op4 Q120,
+3.7956236209666208,An 8-week-old boy presents with his mother to the pediatrician for a well visit.,119,MedBullets df_op4 Q120,

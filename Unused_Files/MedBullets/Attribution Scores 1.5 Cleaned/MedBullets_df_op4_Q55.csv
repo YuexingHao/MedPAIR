@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+70.36074699192136,"Her temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 120/min, respirations are 22/min, and oxygen saturation is 90% on room air.",54,MedBullets df_op4 Q55,
+28.50351745834737,She was hiking when she suddenly felt unable to breathe and had to take slow deep breaths to improve her symptoms.,54,MedBullets df_op4 Q55,
+20.97951408109756,Physical exam is notable for poor air movement bilaterally and tachycardia.,54,MedBullets df_op4 Q55,
+4.465141296386719,The patient is a Swedish foreign exchange student and does not speak any English.,54,MedBullets df_op4 Q55,

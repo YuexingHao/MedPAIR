@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.37881550180885,The patient has become more withdrawn lately and has sometimes been ignoring her parents when asked to perform tasks at home.,246,MedBullets df_op4 Q247,D
+33.78859595050871,Her language skills are unchanged from her appointment 6 months ago.,246,MedBullets df_op4 Q247,D
+32.886573262512684,"Her older brother has been diagnosed with attention-deficit hyperactivity disorder (ADHD), but the rest of her family history is otherwise unremarkable.",246,MedBullets df_op4 Q247,D
+23.624350232640264,"Otherwise, the patient is energetic and started preschool 3 months ago.",246,MedBullets df_op4 Q247,D
+20.11088962489242,The patient successfully draws a square and can stand on 1 foot.,246,MedBullets df_op4 Q247,D
+15.019568202827802,"She was delivered preterm at 35 weeks, and her medical history is significant for several ear infections over the last year.",246,MedBullets df_op4 Q247,D
+14.914233041870505,She seems distracted during the interview and responds only intermittently to the physician’s directions.,246,MedBullets df_op4 Q247,D
+10.866015081148909,A 3-year-old girl is brought to the office for a routine well-child appointment.,246,MedBullets df_op4 Q247,D
+8.22192652462024,This seems to have worsened over the last 8 weeks.,246,MedBullets df_op4 Q247,D
+7.795227924731012,"Her neurological examination is normal, and she is at the 50th percentile for height and weight.",246,MedBullets df_op4 Q247,D
+0.0,"Her temperature is 98.6°F (37°C), blood pressure is 98/62 mmHg, pulse is 97/min, and respirations are 26/min.",246,MedBullets df_op4 Q247,D

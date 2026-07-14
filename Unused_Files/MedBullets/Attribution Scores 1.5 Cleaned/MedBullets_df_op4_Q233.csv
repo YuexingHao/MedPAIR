@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.16186653077602,"A biopsy of the small bowel reveals blunting of villi and a mixed infiltration of lymphocytes, plasma cells, and eosinophils.",232,MedBullets df_op4 Q233,A
+68.73322714006827,"Her temperature is 98.6°F (37.0°C), blood pressure is 105/70 mmHg, pulse is 95/min, and respirations are 14/min.",232,MedBullets df_op4 Q233,A
+43.974636571192754,Her medical history is significant for mild intermittent asthma for which she uses an albuterol inhaler as needed.,232,MedBullets df_op4 Q233,A
+41.43535137696244,She recently returned from South India following a mission trip for 6 weeks.,232,MedBullets df_op4 Q233,A
+35.77479009702802,She has lost 6 pounds (2.7 kg) over these 2 months.,232,MedBullets df_op4 Q233,A
+34.33209489474389,"A 26-year-old woman presents to the clinic with diarrhea, bloating, flatulence, and abdominal cramps.",232,MedBullets df_op4 Q233,A
+30.37204088450967,Mean corpuscular volume (MCV): 116 µm^3,232,MedBullets df_op4 Q233,A
+13.479855680006834,She is sexually active with 1 male partner.,232,MedBullets df_op4 Q233,A
+8.20020130554713,"Leukocyte count: 4,500/mm^3",232,MedBullets df_op4 Q233,A
+4.359405139534067,"Platelets: 110,000/mm^3",232,MedBullets df_op4 Q233,A
+3.817776590518008,Reticulocyte count: 0.5%,232,MedBullets df_op4 Q233,A

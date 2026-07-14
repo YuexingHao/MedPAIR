@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.92049298080366,A 27-year-old man presents to his primary care physician for exposure to toxic materials.,192,MedBullets_df_op4_Q193,A
+53.6672877256704,"The physician performs a physical exam and tells the patient that he thinks there is nothing to be concerned about, but that he should call him or come into the office if he experiences any symptoms.",192,MedBullets_df_op4_Q193,A
+39.02990408535842,The patient is certain that his neighbors have been tampering with his food and potentially poisoned him.,192,MedBullets_df_op4_Q193,A
+33.27092100201802,"He storms out of the office angrily, stating that he deserves the best in medical care.",192,MedBullets_df_op4_Q193,A
+30.359844891346633,"Upon returning home, he saw that the door to his pantry was wide open.",192,MedBullets_df_op4_Q193,A
+28.061330133872087,The patient states that when he left for work this morning he was certain that he had closed the door to his pantry.,192,MedBullets_df_op4_Q193,A
+26.117841635744792,It is for this reason that he is certain that they are trying to get their revenge upon him.,192,MedBullets_df_op4_Q193,A
+12.099997700681294,He has tried multiple times to get them evicted from the building to no avail.,192,MedBullets_df_op4_Q193,A
+11.705256693648437,The patient is outraged at this news and requests a competent doctor who is not colluding with his enemies.,192,MedBullets_df_op4_Q193,A
+0.1876719215272063,He further states that he knows they have been trying to break into his house and steal his things.,192,MedBullets_df_op4_Q193,A
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",192,MedBullets_df_op4_Q193,A

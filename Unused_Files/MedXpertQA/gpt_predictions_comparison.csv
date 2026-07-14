@@ -1,0 +1,1868 @@
+gpt_prediction,label,gpt_letter,answer_letter,gpt_letter_match
+C: 63-year-old female with glenoid retroversion of 22-degrees and mild posterior wear undergoing shoulder arthroplasty,['E'],C,E,Incorrect
+D: Posterior sacroiliac ligament,['E'],D,E,Incorrect
+E: This is most likely transient tachypnea of the newborn and requires no antibiotics,['C'],E,C,Incorrect
+I: Begin cabergoline 0.25 mg twice weekly,['I'],I,I,Correct
+C: A 7-year-old boy with an 11-mm muscular defect and severe pulmonary vascular disease that is unresponsive to pulmonary vasodilators,['J'],C,J,Incorrect
+D: Seven weeks elapse after the onset of symptoms,['C'],D,C,Incorrect
+E: Extension of the middle finger MCP joint,['F'],E,F,Incorrect
+F: Repeat blood cultures 48 hours after initial antibiotics are started,['H'],F,H,Incorrect
+D: Order coagulation studies and liver chemistries,['B'],D,B,Incorrect
+J: Discontinue lithium therapy,['D'],J,D,Incorrect
+B: Esophageal atresia with tracheoesophageal fistula,['E'],B,E,Incorrect
+A: Haemophilus influenzae,['B'],A,B,Incorrect
+H: Overrepletion of thyroid hormone,['D'],H,D,Incorrect
+B: Flexion and extension in the subaxial cervical spine,['G'],B,G,Incorrect
+D: Hepatitis A vaccine,['A'],D,A,Incorrect
+F: *Staphylococcus aureus*,['G'],F,G,Incorrect
+D: Disseminated intravascular coagulation (DIC),['J'],D,J,Incorrect
+G: Chronic myeloid leukemia,['E'],G,E,Incorrect
+A: Total anomalous pulmonary venous return,['E'],A,E,Incorrect
+C: Topical oxymetazoline,['C'],C,C,Correct
+B: Vaccinate: 2 weeks prior to surgery; Penicillin: at time of surgery for an indefinite course,['G'],B,G,Incorrect
+H: Placement of a pleural catheter,['D'],H,D,Incorrect
+D: History of chronic anovulation,['A'],D,A,Incorrect
+A: Lytic Paget disease,['C'],A,C,Incorrect
+A: Elevated anti-RNA polymerase III antibodies,['E'],A,E,Incorrect
+H: Randomized control trial,['J'],H,J,Incorrect
+D: Cranial ultrasound to assess for hydrocephalus,['I'],D,I,Incorrect
+G: Inferior vertical strain,['D'],G,D,Incorrect
+H: Oral iron supplementation,['F'],H,F,Incorrect
+E: L4-L5,['G'],E,G,Incorrect
+F: Clubbing of the digits,['G'],F,G,Incorrect
+F: Hepatitis B vaccine now,['J'],F,J,Incorrect
+B: Administer both hepatitis B vaccine and hepatitis B immune globulin within 12 hours of birth,['D'],B,D,Incorrect
+I: Video-assisted thoracoscopic surgery (VATS),['G'],I,G,Incorrect
+C: 525 mL,['H'],C,H,Incorrect
+B: Prospective cohort study of hospitalized burn patients who had their daily procalcitonin levels checked while being observed for development of sepsis,['A'],B,A,Incorrect
+I: Arthroscopic repair of the bursal-sided tear without conversion,['J'],I,J,Incorrect
+E: 1/1600,['C'],E,C,Incorrect
+E: A CT angiogram showing patent Fontan pathway,['G'],E,G,Incorrect
+G: Place an anterior and a posterior nasal pack,['E'],G,E,Incorrect
+"B: Blood culture, administration of antibiotics and dexamethasone, then lumbar puncture",['J'],B,J,Incorrect
+E: Widening of the transverse diameter of the cranium,['D'],E,D,Incorrect
+F: Lipoprotein lipase deficiency,['G'],F,G,Incorrect
+D: Dermal lymphatics,['B'],D,B,Incorrect
+"F: Mood dysregulation, inattentiveness, and hyperactivity",['F'],F,F,Correct
+B: Computerized tomography (CT) of the head,['E'],B,E,Incorrect
+C: Nicardipine,['J'],C,J,Incorrect
+B: Esophageal manometry,['B'],B,B,Correct
+I: Altered kappa to lambda ratio,['A'],I,A,Incorrect
+H: Unilateral pulmonary artery hypoplasia,['G'],H,G,Incorrect
+E: Foscarnet,['J'],E,J,Incorrect
+B: Failed luminal recanalization,['A'],B,A,Incorrect
+H: Intussusception,['F'],H,F,Incorrect
+A: Fibrillin 1 deficiency,['J'],A,J,Incorrect
+I: Hydrocodone-acetaminophen,['C'],I,C,Incorrect
+A: 50º,['J'],A,J,Incorrect
+B: 24-hour urine collection,['A'],B,A,Incorrect
+A: Transverse axis,['A'],A,A,Correct
+I: Initiate atorvastatin therapy,['H'],I,H,Incorrect
+G: Between L5 and S1,['J'],G,J,Incorrect
+A: Letrazole,['G'],A,G,Incorrect
+D: Add tiotropium to current regimen,['J'],D,J,Incorrect
+D: Neuroleptic malignant syndrome,['B'],D,B,Incorrect
+C: Perform laparotomy,['C'],C,C,Correct
+A: Wrist/hand tendon transfer surgery,['A'],A,A,Correct
+G: CT angiography of the abdomen and pelvis,['H'],G,H,Incorrect
+"A: Premedicate with diphenhydramine and prednisone, and then perform the imaging study using a nonionic contrast medium",['B'],A,B,Incorrect
+E: Physical therapy referral,['I'],E,I,Incorrect
+H: T4 FRLSL,['I'],H,I,Incorrect
+F: Increased arm span-to-height ratio,['G'],F,G,Incorrect
+A: Acetazolamide,['J'],A,J,Incorrect
+H: Interference of levothyroxine absorption by calcium supplementation,['A'],H,A,Incorrect
+C: Batson's vertebral venous plexus,['H'],C,H,Incorrect
+B: Create a flowchart to illustrate the sequence of key events in this case,['C'],B,C,Incorrect
+E: Low-dose aspirin alone,['A'],E,A,Incorrect
+H: Previous anaphylactic reactions,['G'],H,G,Incorrect
+B: Blood acetaminophen levels,['D'],B,D,Incorrect
+B: Empiric broad-spectrum antibiotics,['F'],B,F,Incorrect
+B: Parainfluenza virus type 1,['E'],B,E,Incorrect
+B: Ampicillin,['B'],B,B,Correct
+A: Dual-energy x-ray absorptiometry,['A'],A,A,Correct
+E: Order CT of the head,['F'],E,F,Incorrect
+F: Major congenital anomaly,['F'],F,F,Correct
+C: Unfractionated heparin therapy,['B'],C,B,Incorrect
+D: Topical estrogen,['G'],D,G,Incorrect
+J: Marked right hip flexion with right thigh abduction and external rotation,['E'],J,E,Incorrect
+J: Posterior and inferior sternoclavicular somatic dysfunction,['J'],J,J,Correct
+D: Renal ultrasound,['D'],D,D,Correct
+B: Patent ductus arteriosus,['J'],B,J,Incorrect
+G: Primary metabolic acidosis with concomitant respiratory acidosis,['G'],G,G,Correct
+D: Ceftriaxone and azithromycin once,['G'],D,G,Incorrect
+D: a false rib with restricted exhalation motion,['H'],D,H,Incorrect
+C: It causes numbness between the first and second toes.,['C'],C,C,Correct
+H: Corticosteroid therapy,['J'],H,J,Incorrect
+I: 6,['B'],I,B,Incorrect
+A: Tetanus/Diphtheria/Pertussis vaccine,['G'],A,G,Incorrect
+D: Proceed to end to end vasoepididymostomy,['G'],D,G,Incorrect
+F: Order peak systolic velocity of the fetal middle cerebral artery,['F'],F,F,Correct
+"G: Perform endotracheal intubation, and initiate mechanical ventilation",['A'],G,A,Incorrect
+A: Bilateral cerumen impaction with greater severity on the right,['C'],A,C,Incorrect
+A: Chest tube placement,['D'],A,D,Incorrect
+A: Hyponatremia,['H'],A,H,Incorrect
+C: TSH level,['E'],C,E,Incorrect
+A: Coronary artery disease,['I'],A,I,Incorrect
+E: Your blood thinner levels may need to be adjusted while on this medication,['C'],E,C,Incorrect
+H: improved rate of recovery,['H'],H,H,Correct
+G: CT pulmonary angiography,['G'],G,G,Correct
+A: 25%,['C'],A,C,Incorrect
+J: Anti-D immune globulin administration,['A'],J,A,Incorrect
+G: Lithium,['G'],G,G,Correct
+H: MR venogram of the brain,['H'],H,H,Correct
+A: Replace hydrochlorothiazide with dapagliflozin,['G'],A,G,Incorrect
+G: Cautery of an arteriovenous malformation,['G'],G,G,Correct
+H: Thyroxine,['A'],H,A,Incorrect
+B: Hemochromatosis,['I'],B,I,Incorrect
+D: Alpha-2 and H1 receptor antagonist,['C'],D,C,Incorrect
+"D: Needle thoracostomy at the 2nd intercostal space, anterior axillary line",['J'],D,J,Incorrect
+F: Idiopathic central precocious puberty,['D'],F,D,Incorrect
+G: Prominent v waves,['A'],G,A,Incorrect
+F: Umbilical artery Doppler flow velocimetry,['F'],F,F,Correct
+A: Partial central diabetes insipidus,['H'],A,H,Incorrect
+D: Stop amiodarone and start oral prednisone plus another antiarrhythmic agent,['D'],D,D,Correct
+B: Difficulty remembering recent conversations,['B'],B,B,Correct
+B: Major depressive disorder with psychotic features,['I'],B,I,Incorrect
+H: Cricothyrotomy,['B'],H,B,Incorrect
+E: FRLSR,['D'],E,D,Incorrect
+B: Schedule follow-up in 3 months for blood pressure recheck,['J'],B,J,Incorrect
+B: Video-capsule endoscopy,['B'],B,B,Correct
+B: Release of the occipital condyles.,['B'],B,B,Correct
+I: Nucleic acid amplification,['G'],I,G,Incorrect
+C: Failure to address midfoot cavus during the procedure,['D'],C,D,Incorrect
+D: Computed tomography (CT) sinus and orbit with contrast,['H'],D,H,Incorrect
+B: High-resolution CT (HRCT) with inspiratory and expiratory views,['C'],B,C,Incorrect
+G: Epidural space,['D'],G,D,Incorrect
+I: extension while applying an anteriorly directed thrust to the radial head,['I'],I,I,Correct
+"E: Thoracic extension, side bend to the right and rotate to the right",['H'],E,H,Incorrect
+H: Conus medullaris syndrome,['H'],H,H,Correct
+F: supine with the hip flexed and externally rotated,['F'],F,F,Correct
+A: Sorbitol,['J'],A,J,Incorrect
+G: Nebulized albuterol and oral prednisone therapy,['J'],G,J,Incorrect
+G: Left proximal humerus,['H'],G,H,Incorrect
+H: Acquired factor VIII inhibitor,['J'],H,J,Incorrect
+A: 18 months,['A'],A,A,Correct
+B: Inpatient treatment with ampicillin-sulbactam and azithromycin,['B'],B,B,Correct
+F: Whole bowel irrigation,['J'],F,J,Incorrect
+A: Start high-flow oxygen therapy,['F'],A,F,Incorrect
+J: Manual rotation,['F'],J,F,Incorrect
+J: Aortic regurgitation,['C'],J,C,Incorrect
+H: Unequal placental cord insertion,['G'],H,G,Incorrect
+C: Defective NADPH oxidase,['B'],C,B,Incorrect
+B: Extension of the OA joint with lateral translation to the right,['D'],B,D,Incorrect
+A: CT scan with intravenous contrast,['F'],A,F,Incorrect
+D: Administer anti-D immunoglobulin now and immediately postpartum,['D'],D,D,Correct
+E: Inability of the distal tubule to secrete H+,['E'],E,E,Correct
+H: Individuals without lymphoma that were exposed to the contaminated water,['E'],H,E,Incorrect
+J: Methacholine,['F'],J,F,Incorrect
+G: The medullary thick ascending limb is most susceptible to hypoxic injury due to its high metabolic demands,['J'],G,J,Incorrect
+B: XY karyotype,['F'],B,F,Incorrect
+A: decreased arterial blood flow to the right testicle,['B'],A,B,Incorrect
+"J: T9 flexed, rotated right, sidebent right",['J'],J,J,Correct
+A: Mallory-Weiss tear,['G'],A,G,Incorrect
+A: Fosfomycin,['A'],A,A,Correct
+G: Schedule overlapping shifts to allow for extended face-to-face handoffs,['D'],G,D,Incorrect
+C: Shoulder arthrodesis,['C'],C,C,Correct
+E: Obtain an abdominal X-ray,['C'],E,C,Incorrect
+C: Patient interview,['E'],C,E,Incorrect
+"C: Nasal suctioning, oxygen therapy and IV fluids",['C'],C,C,Correct
+A: Anterior bundle is the primary restraint in valgus stress throughout all ranges of motion,['J'],A,J,Incorrect
+G: Administer carboprost intramuscularly,['B'],G,B,Incorrect
+H: Abdominal ultrasound and liver elastography,['J'],H,J,Incorrect
+H: Biophysical profile and umbilical artery Doppler,['E'],H,E,Incorrect
+B: Mirror-image ulcers surrounded by normal mucosa in mid-esophagus,['B'],B,B,Correct
+J: Decreased internal rotation of the tibia,['A'],J,A,Incorrect
+C: Initial response followed by progression,['H'],C,H,Incorrect
+A: Maternal temperature of 38.5°C,['I'],A,I,Incorrect
+I: Central hilar region,['D'],I,D,Incorrect
+G: Order thyroid function tests and prolactin level,['I'],G,I,Incorrect
+E: Bipolar II disorder,['C'],E,C,Incorrect
+B: Neostigmine,['B'],B,B,Correct
+A: flexion with right sidebending and left rotation,['F'],A,F,Incorrect
+E: Serum protein electrophoresis,['A'],E,A,Incorrect
+H: Add levothyroxine while continuing current medications,['G'],H,G,Incorrect
+A: Allergen identification,['A'],A,A,Correct
+I: *Mycobacterium tuberculosis*,['I'],I,I,Correct
+E: Residual effects of spinal anesthesia,['I'],E,I,Incorrect
+D: Increased levels of methemoglobin in the blood,['C'],D,C,Incorrect
+D: Torsion,['D'],D,D,Correct
+"D: Extended torso, sidebent right, rotated right",['E'],D,E,Incorrect
+G: Administer Tdap vaccine and postexposure antimicrobial prophylaxis to the mother,['D'],G,D,Incorrect
+D: Administer dexamethasone,['F'],D,F,Incorrect
+F: Premutation expansion to a full mutation in the older child only,['D'],F,D,Incorrect
+G: Cardiac myxoma,['G'],G,G,Correct
+H: 2-hour oral glucose tolerance test,['H'],H,H,Correct
+F: *Opisthorchis viverrini*,['G'],F,G,Incorrect
+C: Depression,['F'],C,F,Incorrect
+F: Cranial flexion,['F'],F,F,Correct
+B: Fluphenazine,['B'],B,B,Correct
+B: An increased frequency of symptoms during winter,['C'],B,C,Incorrect
+B: Intussusception,['B'],B,B,Correct
+B: Left-to-right shunting across a large extracardiac shunt,['B'],B,B,Correct
+G: Streptobacillus moniliformis,['E'],G,E,Incorrect
+A: Rotation,['A'],A,A,Correct
+G: Carcinoid heart disease,['F'],G,F,Incorrect
+D: Alprazolam,['D'],D,D,Correct
+I: Altered mental status,['A'],I,A,Incorrect
+D: Order a thyroid-stimulating hormone level,['I'],D,I,Incorrect
+E: Measurement of the ankle brachial index,['I'],E,I,Incorrect
+D: Patients treated with surgery have increased complication rates.,['D'],D,D,Correct
+E: Mutation in the PKHD1 gene,['C'],E,C,Incorrect
+B: Hip and knee flexion with abduction and external rotation,['C'],B,C,Incorrect
+H: Malingering,['J'],H,J,Incorrect
+F: Hepatitis A vaccination,['G'],F,G,Incorrect
+A: Colonoscopy,['A'],A,A,Correct
+B: Obtain an electrocardiogram,['B'],B,B,Correct
+J: Give oxygen immediately,['J'],J,J,Correct
+F: MRI of the pituitary,['B'],F,B,Incorrect
+D: Obtain liver function test,['F'],D,F,Incorrect
+"A: Continued insertion of the stem, cerclage wiring around the fracture site, and non-weight bearing x6 weeks",['I'],A,I,Incorrect
+"B: Return the child to the classroom, advising them to avoid head-to-head contact with others",['B'],B,B,Correct
+H: Decrease in pulmonary vascular resistance,['H'],H,H,Correct
+E: Right unilateral sacral extension about the superior transverse axis,['J'],E,J,Incorrect
+C: T7 posterior tender point,['H'],C,H,Incorrect
+A: Membranoproliferative pattern with double contours,['B'],A,B,Incorrect
+"I: pH, 7.1; partial pressure of carbon dioxide, 65 mm Hg; bicarbonate, 20 mEq/liter",['G'],I,G,Incorrect
+A: Oligoarticular juvenile idiopathic arthritis,['A'],A,A,Correct
+J: Wet mount,['D'],J,D,Incorrect
+A: Renal ultrasound,['A'],A,A,Correct
+B: Obtain a CT angiogram of the chest,['J'],B,J,Incorrect
+J: Carotid Doppler ultrasound,['J'],J,J,Correct
+B: Fetal alcohol syndrome,['C'],B,C,Incorrect
+J: Add a long-acting beta-agonist (LABA),['F'],J,F,Incorrect
+E: Supportive counseling,['E'],E,E,Correct
+C: Initiate intravenous labetalol,['J'],C,J,Incorrect
+E: Acute hemolysis due to ABO incompatibility,['I'],E,I,Incorrect
+G: Endotracheal intubation and intravenous naloxone,['D'],G,D,Incorrect
+G: Reproduction of pain with tilting head to affected side and rotating head to contralateral side,['D'],G,D,Incorrect
+"J: With this placental position, she should be managed with a scheduled cesarean section in the lower uterine segment at 37 weeks' gestation",['F'],J,F,Incorrect
+E: between the spinous and transverse processes of T7 and T8 on the left,['I'],E,I,Incorrect
+C: Karyotyping,['H'],C,H,Incorrect
+C: Hypertensive urgency,['E'],C,E,Incorrect
+D: Obtain cortisol levels 30 and 60 minutes after injection of cosyntropin,['J'],D,J,Incorrect
+"I: Stop empagliflozin, and start dulaglutide",['E'],I,E,Incorrect
+I: Psammoma bodies surrounded by serous epithelium,['E'],I,E,Incorrect
+C: Negative spring test and equivocal seated flexion test,['C'],C,C,Correct
+D: 6.00 L/min,['G'],D,G,Incorrect
+C: FSRRL,['I'],C,I,Incorrect
+E: Start acetazolamide,['E'],E,E,Correct
+"E: This diagnosis account for the most common primary immune-deficiencies, almost 50% of them",['E'],E,E,Correct
+B: extension with sidebending to the left and rotation to the right,['I'],B,I,Incorrect
+B: Squamous-cell carcinoma of the lung,['B'],B,B,Correct
+J: 50%,['E'],J,E,Incorrect
+"H: Vancomycin, ampicillin, and cefotaxime",['D'],H,D,Incorrect
+G: Increase in renal perfusion pressure,['D'],G,D,Incorrect
+D: Bladder wall hypertrophy and trabeculation,['H'],D,H,Incorrect
+C: Introduction of a process improvement measure to ensure routine post-bronchoscopy chest radiography,['H'],C,H,Incorrect
+B: 3.5-mm cuffed endotracheal tube,['B'],B,B,Correct
+H: Compression of the fourth ventricle to restore cranial rhythmic impulse,['F'],H,F,Incorrect
+D: Lateral epicondylitis,['E'],D,E,Incorrect
+H: Intrauterine balloon tamponade,['D'],H,D,Incorrect
+E: CT scan of the chest,['E'],E,E,Correct
+C: Seizures,['H'],C,H,Incorrect
+B: Bulimia nervosa,['G'],B,G,Incorrect
+B: Begin lamotrigine with slow titration,['I'],B,I,Incorrect
+E: Swan neck finger defomity,['B'],E,B,Incorrect
+E: T2-8 NSRLL,['H'],E,H,Incorrect
+B: Diuretic therapy,['D'],B,D,Incorrect
+J: The patient lacks capacity due to delirium caused by infection,['H'],J,H,Incorrect
+A: Early diastolic murmur at the left upper sternal border,['B'],A,B,Incorrect
+B: Tensioning of the annular ligament,['G'],B,G,Incorrect
+J: Median,['B'],J,B,Incorrect
+F: Contralateral epiphysiodesis of the left tibia and femur 2 years after the onset of puberty,['B'],F,B,Incorrect
+C: Start GLP-1 receptor agonist,['D'],C,D,Incorrect
+D: Switch to formula feeding with a lysine-free and tryptophan-restricted formula,['D'],D,D,Correct
+E: Potentiation,['E'],E,E,Correct
+C: Fixation with telescoping rods,['B'],C,B,Incorrect
+A: Anti-PF4/heparin antibody test with optical density measurement,['H'],A,H,Incorrect
+F: Bilateral salpingectomy,['G'],F,G,Incorrect
+G: Mu-opioid receptor activation,['E'],G,E,Incorrect
+D: Presence of older siblings,['G'],D,G,Incorrect
+J: Gitelman syndrome,['D'],J,D,Incorrect
+J: No intrapartum antibiotics,['I'],J,I,Incorrect
+F: Pelvic floor physical therapy,['A'],F,A,Incorrect
+A: Nodular mass spreading along pleural surfaces,['B'],A,B,Incorrect
+D: Obtain a twelve-lead ECG,['C'],D,C,Incorrect
+F: S2-S4 somatic dysfunction,['B'],F,B,Incorrect
+F: Azithromycin and ethambutol,['F'],F,F,Correct
+B: Flatten the kyphotic curve from T1–T12,['B'],B,B,Correct
+A: PCR testing of vesicular fluid,['F'],A,F,Incorrect
+F: Sodium bicarbonate,['F'],F,F,Correct
+C: Obtain a CT scan of the head,['E'],C,E,Incorrect
+D: L4 ESRRR,['A'],D,A,Incorrect
+H: Levofloxacin,['B'],H,B,Incorrect
+H: Mucosal defect in the stomach,['E'],H,E,Incorrect
+C: 7cm,['A'],C,A,Incorrect
+E: Psychological stress,['G'],E,G,Incorrect
+E: Ultrasound-guided aspiration,['J'],E,J,Incorrect
+D: Conversion of galactose-1-phosphate to glucose-1-phosphate,['E'],D,E,Incorrect
+G: Intravenous immunoglobulin (IVIG),['G'],G,G,Correct
+B: Tidal volume,['G'],B,G,Incorrect
+H: Facilitated segments at T2-T4,['A'],H,A,Incorrect
+H: Cerebrospinal fluid rhinorrhea,['F'],H,F,Incorrect
+H: Schedule an elective cesarean section at 39 weeks gestation,['E'],H,E,Incorrect
+D: Red-cell exchange transfusions,['D'],D,D,Correct
+A: Delirium due to metabolic derangement,['I'],A,I,Incorrect
+E: Perform a dexamethasone suppression test,['I'],E,I,Incorrect
+J: Insulinoma,['J'],J,J,Correct
+J: The principal investigator of the study,['H'],J,H,Incorrect
+H: Metformin,['F'],H,F,Incorrect
+A: Conservative management is preferred in most cases,['F'],A,F,Incorrect
+D: Would you be willing to make regularly scheduled clinic appointments with me?,['D'],D,D,Correct
+J: Perifascicular and perivascular infiltration on muscle biopsy,['F'],J,F,Incorrect
+J: Continue alendronate 70 mg once per week,['J'],J,J,Correct
+J: Repeat the purified protein derivative test in 8 weeks,['F'],J,F,Incorrect
+A: Extension,['A'],A,A,Correct
+D: Colon cancer,['D'],D,D,Correct
+A: Physician's thenar eminence on left transverse process of T7 with directional force to the ground,['D'],A,D,Incorrect
+"C: Stop amitriptyline, and monitor the patient’s depressive symptoms",['C'],C,C,Correct
+"D: Catheter-directed thrombolysis with tPA, followed by warfarin therapy for 12 months",['J'],D,J,Incorrect
+H: left-on-left sacral torsion,['D'],H,D,Incorrect
+C: Addition of acarbose with meals,['G'],C,G,Incorrect
+B: Reassurance with expectant management,['E'],B,E,Incorrect
+E: Chronic hepatitis B or C infection from transfusion,['A'],E,A,Incorrect
+A: apply a rotational thrust directed toward the ipsilateral eye,['I'],A,I,Incorrect
+C: Vitamin B12,['I'],C,I,Incorrect
+B: Cubital tunnel compression from post-traumatic edema,['I'],B,I,Incorrect
+E: Refer for colposcopy,['B'],E,B,Incorrect
+A: Rotationplasty,['A'],A,A,Correct
+I: IV immunoglobulin,['B'],I,B,Incorrect
+D: L4 ESLRL,['D'],D,D,Correct
+C: Renal biopsy,['A'],C,A,Incorrect
+I: Hydrochlorothiazide,['D'],I,D,Incorrect
+E: Rib raising,['E'],E,E,Correct
+E: Exploratory laparoscopy,['B'],E,B,Incorrect
+J: Reassure the patient that Helicobacter pylori testing is unnecessary at this time,['H'],J,H,Incorrect
+A: Decreased afferent arteriolar resistance,['G'],A,G,Incorrect
+B: Adduction and external rotation of the left hip,['I'],B,I,Incorrect
+F: It is commonly used to calculate renal plasma flow,['B'],F,B,Incorrect
+D: Syndesmotic ankle sprain,['A'],D,A,Incorrect
+E: Increased oxygen extraction ratio,['G'],E,G,Incorrect
+D: Meclizine,['I'],D,I,Incorrect
+D: Administer diltiazem 20 mg IV,['E'],D,E,Incorrect
+F: Decreased cerebral blood flow,['F'],F,F,Correct
+A: Intubation and mechanical ventilation,['A'],A,A,Correct
+F: Seek emergency judicial intervention to override the daughter’s decision.,['J'],F,J,Incorrect
+A: Intravenous magnesium sulfate administration,['J'],A,J,Incorrect
+F: Intravesical bacillus Calmette-Guérin,['H'],F,H,Incorrect
+D: Remove debris and manually replant tooth in socket,['D'],D,D,Correct
+G: IV placement and high-dose glucocorticoid therapy,['H'],G,H,Incorrect
+E: *Staphylococcus aureus*,['B'],E,B,Incorrect
+H: Agranulocytosis,['E'],H,E,Incorrect
+A: Additional use of condoms,['A'],A,A,Correct
+I: Intrauterine fetal blood transfusion,['D'],I,D,Incorrect
+"E: Preload: increased, cardiac contractility: normal, afterload: increased",['D'],E,D,Incorrect
+A: Parvovirus B19,['A'],A,A,Correct
+A: Left ventricular hypertrophy with diastolic dysfunction,['F'],A,F,Incorrect
+E: 40%,['A'],E,A,Incorrect
+G: Lumbar puncture for cerebrospinal fluid analysis,['E'],G,E,Incorrect
+H: Administer inhaled ipratropium bromide,['G'],H,G,Incorrect
+B: Perform needle thoracostomy,['E'],B,E,Incorrect
+B: Total bilirubin,['C'],B,C,Incorrect
+G: Right-sided valvular heart disease,['A'],G,A,Incorrect
+J: Mild cognitive impairment,['I'],J,I,Incorrect
+A: Ringer lactate bolus,['B'],A,B,Incorrect
+G: Prescribe oral atenolol,['G'],G,G,Correct
+E: Extent of collateral circulation,['I'],E,I,Incorrect
+D: Perform immediate flexible endoscopy,['C'],D,C,Incorrect
+D: There is a failure of the division of the embryonic cloaca into the urogenital sinus and the rectoanal canal.,['H'],D,H,Incorrect
+"I: The child’s behavior and examination are consistent with a minor fall, and no further investigation is needed",['H'],I,H,Incorrect
+H: Administration of acetaminophen,['E'],H,E,Incorrect
+A: Methimazole,['C'],A,C,Incorrect
+B: Anterior cruciate ligament tear,['A'],B,A,Incorrect
+"H: Neutrophil-rich exudate filling bronchi, bronchioles, and adjacent alveoli",['F'],H,F,Incorrect
+B: Cholangiography,['B'],B,B,Correct
+E: Increased ammonia production in the gut,['F'],E,F,Incorrect
+"B: cT3N2M0, ypT0N0",['A'],B,A,Incorrect
+E: Prednisone,['E'],E,E,Correct
+I: Albuterol,['G'],I,G,Incorrect
+E: Bone scintigraphy,['E'],E,E,Correct
+F: Nifedipine,['F'],F,F,Correct
+B: Blood transfusion,['I'],B,I,Incorrect
+G: Direct and passive,['G'],G,G,Correct
+J: Low fatigue resistance during sustained activity,['C'],J,C,Incorrect
+E: Non-viable limb; MR angiography,['F'],E,F,Incorrect
+D: 0.0316,['C'],D,C,Incorrect
+J: Alteplase,['J'],J,J,Correct
+F: Repeat pericardiocentesis with an indwelling catheter,['G'],F,G,Incorrect
+A: Sodium bicarbonate,['C'],A,C,Incorrect
+"A: Patient seated with arms crossed, physician's hypothenar eminences on bilateral T4 TPs, spine neutral, corrective force is posterior to anterior with left rotation",['G'],A,G,Incorrect
+C: Antrum,['C'],C,C,Correct
+G: 3/136,['D'],G,D,Incorrect
+B: Anterior-superior,['G'],B,G,Incorrect
+E: Lymphocytic choriomeningitis virus,['I'],E,I,Incorrect
+E: Occult bleeding,['I'],E,I,Incorrect
+B: This child is expected to have stranger anxiety at this age,['D'],B,D,Incorrect
+A: Corona mortis,['H'],A,H,Incorrect
+B: The tension in phase 1 is only active while in phase 2 it is both active and passive,['E'],B,E,Incorrect
+F: Seek a court order to transfuse the son against parental wishes,['C'],F,C,Incorrect
+C: Continue dietary control alone,['C'],C,C,Correct
+B: Packed red blood cells,['H'],B,H,Incorrect
+D: external rotation deficit,['D'],D,D,Correct
+A: Pseudomonas aeruginosa,['J'],A,J,Incorrect
+D: This tumor is associated with aniridia and genitourinary abnormalities,['B'],D,B,Incorrect
+C: Stage 1 hypertension,['C'],C,C,Correct
+"H: HIV RNA PCR, hepatitis B surface antigen, and hepatitis C antibody",['J'],H,J,Incorrect
+A: CT head without contrast,['A'],A,A,Correct
+F: Respiratory bronchioles,['F'],F,F,Correct
+B: Behavioral syndrome with continuous crying without most of the times a factor can be identified,['J'],B,J,Incorrect
+B: Immunosuppressive medication history,['H'],B,H,Incorrect
+B: Completely immerse the patient to the neck in cold water (10–20°C),['J'],B,J,Incorrect
+I: Persistent left ventricular dysfunction,['J'],I,J,Incorrect
+B: Inhibition of phosphodiesterase,['B'],B,B,Correct
+H: Valacyclovir therapy,['B'],H,B,Incorrect
+C: Increase the detector to patient distance,['J'],C,J,Incorrect
+B: Ankle-brachial index,['F'],B,F,Incorrect
+F: Propranolol,['I'],F,I,Incorrect
+H: Adduction of the ulna,['A'],H,A,Incorrect
+E: Reduced catabolite repression in the absence of glucose,['H'],E,H,Incorrect
+A: Admit for observation and initiate broad-spectrum antipseudomonal coverage with high-dose intravenous piperacillin-tazobactam,['B'],A,B,Incorrect
+F: Dicloxacillin,['F'],F,F,Correct
+H: Cocaine intoxication,['F'],H,F,Incorrect
+J: Sodium restriction and loop diuretic,['G'],J,G,Incorrect
+B: Monitor the patient closely in the outpatient setting and plan delivery at 36 weeks' gestation,['H'],B,H,Incorrect
+H: Start an angiotensin II receptor blocker,['J'],H,J,Incorrect
+G: Calcium,['A'],G,A,Incorrect
+A: Intravenous metoclopramide,['A'],A,A,Correct
+F: Repeat hemoglobin electrophoresis at 6 months,['H'],F,H,Incorrect
+I: CT angiography of the abdomen,['H'],I,H,Incorrect
+C: Talus anterior somatic dysfunction,['I'],C,I,Incorrect
+B: Cholecystokinin,['F'],B,F,Incorrect
+G: Fingerstick blood glucose,['G'],G,G,Correct
+J: Slower progression of diabetic retinopathy,['G'],J,G,Incorrect
+E: Cor pulmonale,['B'],E,B,Incorrect
+D: Tetanus prophylaxis administration,['E'],D,E,Incorrect
+D: Epidural spinal cord stimulator,['I'],D,I,Incorrect
+F: Copper IUD,['B'],F,B,Incorrect
+C: Urinary catheterization,['C'],C,C,Correct
+E: Osteitis pubis,['E'],E,E,Correct
+D: Switch to oral antibiotics to complete a 7-day course,['E'],D,E,Incorrect
+J: Right hamstring complex,['E'],J,E,Incorrect
+D: Renal-cell carcinoma,['D'],D,D,Correct
+E: Mechanical hyperventilation,['G'],E,G,Incorrect
+"B: Measure TSH, fT3, fT4",['F'],B,F,Incorrect
+I: Decreased androgen receptor responsiveness,['C'],I,C,Incorrect
+"F: | GnRH | TSH | FSH |  
+| --- | --- | --- |  
+| **↓** | **↑** | ↓ |",['J'],F,J,Incorrect
+B: Positive FAIR test with sciatic nerve compression symptoms,['G'],B,G,Incorrect
+E: Etomidate,['E'],E,E,Correct
+C: ApoA-1,['C'],C,C,Correct
+G: Measure 24-hour urinary calcium excretion,['H'],G,H,Incorrect
+G: Request a preauthorization directly from the HMO before scheduling the surgery,['B'],G,B,Incorrect
+H: Gemcitabine,['H'],H,H,Correct
+F: 9-item patient health questionnaire,['F'],F,F,Correct
+D: Begin argatroban and discontinue both medications,['G'],D,G,Incorrect
+H: Repeat ultrasonography in 6 months,['H'],H,H,Correct
+I: Perform needle thoracostomy,['J'],I,J,Incorrect
+B: Initiate lifestyle modifications,['J'],B,J,Incorrect
+"B: Supportive therapy, thiamine, dextrose, naloxone, and NPO",['C'],B,C,Incorrect
+E: Repeat endoscopy in 3-5 years,['E'],E,E,Correct
+F: Elevated cerebrospinal fluid protein with normal cell count,['B'],F,B,Incorrect
+"J: The confidence interval includes 1, so the finding is not statistically significant",['G'],J,G,Incorrect
+J: Levonorgestrel intrauterine device,['J'],J,J,Correct
+H: Produces exotoxin that inhibits elongation factor-2,['G'],H,G,Incorrect
+D: Recommend intermittent hemodialysis,['H'],D,H,Incorrect
+F: Autism spectrum disorder,['I'],F,I,Incorrect
+H: Electrical pain with neck flexion,['H'],H,H,Correct
+E: Abdominal computed tomography (CT) scan,['J'],E,J,Incorrect
+E: Surgical debridement followed by delayed closure and retention of instrumentation,['E'],E,E,Correct
+F: HIV-1/HIV-2 differentiation immunoassay,['J'],F,J,Incorrect
+G: Cryptococcus,['D'],G,D,Incorrect
+A: Bicuspid aortic valve,['A'],A,A,Correct
+I: Acetaminophen overdose causing direct hepatocyte damage,['J'],I,J,Incorrect
+G: Decreased left myocardial compliance,['A'],G,A,Incorrect
+F: High-dose corticosteroids,['E'],F,E,Incorrect
+E: Metatarsal stress fractures,['J'],E,J,Incorrect
+H: Recurrent antibiotic exposure,['A'],H,A,Incorrect
+I: Immune model,['D'],I,D,Incorrect
+B: Dextroscoliosis; concavity of the curve is to the left and vertebrae rotated to the right,['B'],B,B,Correct
+A: Vancomycin and ceftriaxone,['B'],A,B,Incorrect
+D: 31.6%,['H'],D,H,Incorrect
+B: TPA,['A'],B,A,Incorrect
+E: Nalbuphine,['H'],E,H,Incorrect
+F: Femoral cutdown and embolectomy,['I'],F,I,Incorrect
+F: Pelvic diaphragm dysfunction,['H'],F,H,Incorrect
+"I: Symmetrical, homogeneous myometrial thickening",['J'],I,J,Incorrect
+E: Anterior radial head dysfunction,['C'],E,C,Incorrect
+"C: ""What questions do you have about starting this medication?""",['B'],C,B,Incorrect
+C: Detrusor overactivity,['E'],C,E,Incorrect
+J: Haloperidol,['I'],J,I,Incorrect
+C: Malabsorption due to celiac disease,['F'],C,F,Incorrect
+E: Perform a sweat chloride test,['B'],E,B,Incorrect
+F: Chronic pressure on the surgical site,['J'],F,J,Incorrect
+H: Acetaminophen,['G'],H,G,Incorrect
+D: Decreased fibrinogen,['D'],D,D,Correct
+D: Levonorgestrel-releasing intrauterine device,['G'],D,G,Incorrect
+B: Right basal ganglia,['G'],B,G,Incorrect
+A: Dysarthria with hoarse voice,['H'],A,H,Incorrect
+J: Contact child protective services,['F'],J,F,Incorrect
+A: Rib raising,['A'],A,A,Correct
+H: A positive seated flexion test on the left.,['H'],H,H,Correct
+I: Hemodialysis,['I'],I,I,Correct
+A: Similar,['A'],A,A,Correct
+C: Left-on-left forward sacral torsion,['J'],C,J,Incorrect
+"J: Small, rounded nodular opacities of the upper lobes",['B'],J,B,Incorrect
+J: High altitude,['J'],J,J,Correct
+F: Magnetic resonance cholangiopancreatography,['F'],F,F,Correct
+"B: Increased extracellular fluid (ECF) volume, no change in ICF volume",['G'],B,G,Incorrect
+G: Focused Assessment with Sonography for Trauma (FAST),['J'],G,J,Incorrect
+H: Right on left sacral torsion,['G'],H,G,Incorrect
+E: Downward cerebellar (tonsillar) herniation,['F'],E,F,Incorrect
+C: A Glasgow Coma Scale score of 14 upon initial evaluation,['B'],C,B,Incorrect
+A: Order plasma acylcarnitine profile and continue current feeding regimen,['I'],A,I,Incorrect
+A: Mutation in factor VIII,['D'],A,D,Incorrect
+E: Impaired sensitivity of nuclear receptor,['E'],E,E,Correct
+E: Repeat thick and thin smears for malaria,['E'],E,E,Correct
+G: Repeat CT in 1 year,['E'],G,E,Incorrect
+E: Lateral medullary syndrome,['A'],E,A,Incorrect
+I: Start IV insulin infusion.,['F'],I,F,Incorrect
+D: Endoscopic ultrasound,['F'],D,F,Incorrect
+J: Postpartum ligamentous laxity,['F'],J,F,Incorrect
+A: Isoniazid for 9 months,['C'],A,C,Incorrect
+A: Hypergranulosis,['A'],A,A,Correct
+C: Implementation of a barcode scanning system for vaccine verification prior to administration,['I'],C,I,Incorrect
+F: Order magnetic resonance imaging of the pituitary,['F'],F,F,Correct
+E: MR venography,['E'],E,E,Correct
+H: Hepatitis B virus reactivation,['H'],H,H,Correct
+F: Decline to reinitiate definitive treatment,['F'],F,F,Correct
+"A: You would place their foot into plantarflexion and inversion to reach the restrictive barrier, and then ask them to dorsiflex their foot against resistance",['A'],A,A,Correct
+J: Insufficient calcium intake from a vegan diet,['F'],J,F,Incorrect
+C: Lung carcinoma,['G'],C,G,Incorrect
+J: Start cinacalcet.,['E'],J,E,Incorrect
+C: Bacterial pneumonia,['H'],C,H,Incorrect
+I: Respiratory alkalosis from hyperventilation,['E'],I,E,Incorrect
+A: A foraminal disc herniation at C6/7,['E'],A,E,Incorrect
+A: T7,['E'],A,E,Incorrect
+A: Surgical resection,['A'],A,A,Correct
+B: Dependent,['B'],B,B,Correct
+F: Familial hypercholesterolemia,['D'],F,D,Incorrect
+D: Thoracic inlet myofascial release,['D'],D,D,Correct
+I: left unilateral sacral extension,['I'],I,I,Correct
+H: Left ventricular mural thrombus,['G'],H,G,Incorrect
+D: Omeprazole therapy,['C'],D,C,Incorrect
+F: 3rd intercostal space along the midclavicular line,['G'],F,G,Incorrect
+C: Enoxaparin should be given to prevent potential thrombosis.,['H'],C,H,Incorrect
+G: Rifaximin,['G'],G,G,Correct
+A: Inaccurate gestational age,['A'],A,A,Correct
+I: Empiric antibiotics,['B'],I,B,Incorrect
+"H: ↑ Plasma renin and angiotensin II activity, ↓ renal perfusion pressure, ↓ serum pH",['E'],H,E,Incorrect
+A: Confirm with the patient directly before sharing any information with the woman,['B'],A,B,Incorrect
+C: Contrast-enhanced CT of the aorta,['H'],C,H,Incorrect
+J: Re-excision of the close margin prior to RT,['B'],J,B,Incorrect
+I: Ulnar neuropathy,['J'],I,J,Incorrect
+A: Thoracic Rotoscoliosis,['H'],A,H,Incorrect
+G: Doxycycline,['G'],G,G,Correct
+I: Teach and then ask the mother to demonstrate the proper method to measure the medication,['I'],I,I,Correct
+C: Proteinuria of 6 g/day at the end of the observation period,['E'],C,E,Incorrect
+I: Vertebrae wedged laterally right,['E'],I,E,Incorrect
+D: Operative time greater than 2 hours,['G'],D,G,Incorrect
+B: Supportive therapy and close monitoring,['F'],B,F,Incorrect
+G: flex the right hip and instruct the patient to contract the right quadriceps,['G'],G,G,Correct
+"F: A type 2 error occurs when the null hypothesis is false, yet is accepted in error.",['C'],F,C,Incorrect
+E: An asymmetric convexity with inferior ipsilateral sphenoid wing,['E'],E,E,Correct
+G: T2,['G'],G,G,Correct
+D: Vitamin B12 (cobalamin) deficiency,['F'],D,F,Incorrect
+D: Ectasia,['H'],D,H,Incorrect
+G: Bupropion,['B'],G,B,Incorrect
+J: Common peroneal nerve entrapment at soleal arch,['H'],J,H,Incorrect
+A: Ramipril,['A'],A,A,Correct
+I: Limit intake of all fluids to 1000 mL daily,['I'],I,I,Correct
+H: Diabetes insipidus secondary to head trauma,['F'],H,F,Incorrect
+C: Prevent synthesis of mevalonate,['G'],C,G,Incorrect
+J: Dense collagen fibrosis with osteosclerotic changes,['H'],J,H,Incorrect
+A: Schedule the patient for reexcision,['E'],A,E,Incorrect
+E: T2 ERRSR,['D'],E,D,Incorrect
+"B: Preoperative anterior compartment measurement of 22, with intraoperative diastolic pressure of 45",['J'],B,J,Incorrect
+I: Cervicogenic vertigo with upper cervical dysfunction,['E'],I,E,Incorrect
+E: Measure serum FSH concentration,['J'],E,J,Incorrect
+B: Placement of inferior vena cava filter,['B'],B,B,Correct
+G: Motivational interviewing to enhance readiness for change,['B'],G,B,Incorrect
+F: Supplemental oxygen,['J'],F,J,Incorrect
+E: Subcutaneous enoxaparin,['E'],E,E,Correct
+"E: Antiphospholipid antibody testing, thyroid testing, and parental karyotype",['F'],E,F,Incorrect
+A: Functional adenoma,['A'],A,A,Correct
+C: Enalapril,['C'],C,C,Correct
+B: Morphine,['C'],B,C,Incorrect
+D: Anti-neutrophil cytoplasmic antibody (ANCA) levels,['J'],D,J,Incorrect
+G: Apical ectodermal ridge,['G'],G,G,Correct
+"C: Start bisphosphonates, and have the patient follow-up with her primary care physician",['E'],C,E,Incorrect
+D: Polysomnography,['E'],D,E,Incorrect
+J: Secondary hyperparathyroidism,['I'],J,I,Incorrect
+A: Autoimmune polyglandular syndrome,['D'],A,D,Incorrect
+J: Donepezil,['E'],J,E,Incorrect
+C: Niacin deficiency,['C'],C,C,Correct
+I: Anti-D antibody titer,['G'],I,G,Incorrect
+C: Begin oral vancomycin and metronidazole combination therapy,['G'],C,G,Incorrect
+F: 6 weeks after initiation of weight bearing,['F'],F,F,Correct
+F: Refer for a right adrenalectomy,['F'],F,F,Correct
+G: Tibial tunnel is too anterior,['J'],G,J,Incorrect
+D: Cystoscopy,['D'],D,D,Correct
+A: Discontinue atorvastatin immediately,['D'],A,D,Incorrect
+D: Vancomycin and ceftriaxone,['I'],D,I,Incorrect
+D: Right unilateral sacral extension,['D'],D,D,Correct
+B: Serum lipase measurement,['C'],B,C,Incorrect
+G: Empagliflozin,['E'],G,E,Incorrect
+D: Immediate CT scan of the orbits and systemic antibiotic administration,['G'],D,G,Incorrect
+A: Obtain sweat chloride test,['E'],A,E,Incorrect
+D: Surgical outflow tract repair,['D'],D,D,Correct
+E: Obtain CT abdomen and pelvis with intravenous contrast,['C'],E,C,Incorrect
+B: Inpatient monitoring and corticosteroids,['J'],B,J,Incorrect
+C: Screen for cardiovascular risk factors,['E'],C,E,Incorrect
+F: The patient’s foster parents,['D'],F,D,Incorrect
+I: Graves disease,['H'],I,H,Incorrect
+B: Prescribe cephalexin,['D'],B,D,Incorrect
+C: No further treatment is required.,['G'],C,G,Incorrect
+G: Adjustment disorder,['A'],G,A,Incorrect
+E: Balloon atrial septostomy,['B'],E,B,Incorrect
+J: Surgical excision,['F'],J,F,Incorrect
+E: Death rattle breathing,['H'],E,H,Incorrect
+A: A 50-mL/kg bolus of lactated Ringer's solution,['E'],A,E,Incorrect
+B: This tumor is associated with elevated catecholamine metabolites in the urine,['D'],B,D,Incorrect
+B: Seizure,['B'],B,B,Correct
+C: Obtain acetaminophen level and observe,['E'],C,E,Incorrect
+E: Recommend periodic radiography,['E'],E,E,Correct
+E: Prader-Willi syndrome,['E'],E,E,Correct
+C: Administer 180 mL (6 ounces) of juice,['C'],C,C,Correct
+G: Positive pivot shift test and instability with cutting activities due to failure to reconstruct the posterolateral bundle of the ACL,['G'],G,G,Correct
+E: Transrectal prostate biopsy,['G'],E,G,Incorrect
+C: Squamous cell carcinomas of the lower lip have a better prognosis than those of the upper lip.,['B'],C,B,Incorrect
+H: Barium swallow,['H'],H,H,Correct
+H: Adenosine monophosphate,['J'],H,J,Incorrect
+D: Annual CT surveillance for 2 years,['J'],D,J,Incorrect
+I: Neurogenic shock,['F'],I,F,Incorrect
+B: Constipation,['G'],B,G,Incorrect
+C: ABVD + consolidative RT,['C'],C,C,Correct
+A: Doxycycline,['B'],A,B,Incorrect
+C: Vertebrobasilar insufficiency test,['G'],C,G,Incorrect
+J: Linagliptin,['C'],J,C,Incorrect
+F: Recurrent sinopulmonary infections,['C'],F,C,Incorrect
+C: Consult the hospital ethics committee and continue all care until a decision is reached,['G'],C,G,Incorrect
+B: Elevated creatine kinase,['C'],B,C,Incorrect
+D: Follow-up CT scan in 3 months,['C'],D,C,Incorrect
+D: Supraventricular tachycardia,['F'],D,F,Incorrect
+D: Alcohol use,['J'],D,J,Incorrect
+E: Begin prophylactic isoniazid monotherapy,['J'],E,J,Incorrect
+D: Reassure the parents and recheck at 18 months,['J'],D,J,Incorrect
+I: Emergency surgical consultation,['F'],I,F,Incorrect
+D: Initiate compression stockings,['J'],D,J,Incorrect
+"G: Slightly flex the neck just to the level of C2, sidebend and rotate to the right",['I'],G,I,Incorrect
+A: Trousseau sign,['B'],A,B,Incorrect
+F: Calcium channel blockers and nitrates,['F'],F,F,Correct
+F: Obtain an emergency court order to perform all necessary diagnostic procedures,['G'],F,G,Incorrect
+E: Digit-by-digit repair method,['E'],E,E,Correct
+C: Symptoms and physical exam findings are found in both upper extremities.,['C'],C,C,Correct
+D: Atropine,['F'],D,F,Incorrect
+B: 2nd-line chemotherapy  PET/CT (Deauville 1-4) ASCT  +/- RT  + Brentuximab,['B'],B,B,Correct
+C: Femoral head Dmax = 50 Gy,['D'],C,D,Incorrect
+B: Refer for suction biopsy,['A'],B,A,Incorrect
+B: Left levator scapulae,['J'],B,J,Incorrect
+"E: | Proximal acini | Distal acini |  
+| --- | --- |  
+| Enlargement | Shrinkage |",['G'],E,G,Incorrect
+E: Inadequate fluid intake,['I'],E,I,Incorrect
+E: Endoscopy,['E'],E,E,Correct
+I: Discontinue enalapril,['J'],I,J,Incorrect
+E: Infection with parasites resistant to chloroquine,['E'],E,E,Correct
+G: Posterolateral to the articular pillar of C5,['I'],G,I,Incorrect
+G: HIV infection,['A'],G,A,Incorrect
+E: Placental insufficiency,['G'],E,G,Incorrect
+J: Angiography,['J'],J,J,Correct
+D: Estrogen receptor antagonist in the uterus,['D'],D,D,Correct
+C: Chronic dysfunction with ease in left rotation,['I'],C,I,Incorrect
+D: Egg salad,['D'],D,D,Correct
+G: Reduce the rivaroxaban dose to 10 mg daily for extended anticoagulation,['J'],G,J,Incorrect
+A: Myophosphorylase,['E'],A,E,Incorrect
+G: 75%,['E'],G,E,Incorrect
+H: Urologic consultation,['H'],H,H,Correct
+B: Arrange for electroencephalography in the outpatient setting,['B'],B,B,Correct
+H: Mid-dilated left pupil,['B'],H,B,Incorrect
+B: Most American medical institutions have policies in place to guide a physician in such situations.,['H'],B,H,Incorrect
+D: Methylprednisolone,['D'],D,D,Correct
+I: Medium-chain acyl-CoA dehydrogenase,['E'],I,E,Incorrect
+C: Distal femur augmentation and thicker polyethylene insert,['G'],C,G,Incorrect
+E: Cold-knife conization 4 weeks after birth,['C'],E,C,Incorrect
+I: Posterior hip dislocation,['C'],I,C,Incorrect
+G: Scintigraphic gastric-emptying study,['E'],G,E,Incorrect
+D: Intramuscular epinephrine alone,['I'],D,I,Incorrect
+G: Replace the indwelling urinary catheter,['C'],G,C,Incorrect
+A: Iron studies and ferritin level,['H'],A,H,Incorrect
+D: Order ambulatory blood pressure monitoring,['H'],D,H,Incorrect
+A: Obstruction of the hepatic veins,['D'],A,D,Incorrect
+J: Decreased peripheral nerve conduction velocity on an electrophysiological examination,['E'],J,E,Incorrect
+D: Protein A,['H'],D,H,Incorrect
+E: Peripheral blood smear,['C'],E,C,Incorrect
+I: ChemoRT to the primary site and bilateral neck level I-IV,['J'],I,J,Incorrect
+"B: Aztreonam, levofloxacin, and vancomycin",['B'],B,B,Correct
+"G: Hospitalize the child, and initiate oral meso-2,3-dimercaptosuccinic acid",['G'],G,G,Correct
+F: Scarring and fibrosis,['J'],F,J,Incorrect
+D: Aromatic amine exposure,['D'],D,D,Correct
+C: Restricted anterior glide of the talus,['E'],C,E,Incorrect
+H: Needle decompression,['I'],H,I,Incorrect
+J: Oligohydramnios sequence,['A'],J,A,Incorrect
+E: Pap smear and HPV testing in 1 year,['A'],E,A,Incorrect
+A: Inferior,['A'],A,A,Correct
+C: Inhibition of proteasome-mediated protein degradation,['D'],C,D,Incorrect
+A: P450 oxidoreductase deficiency,['E'],A,E,Incorrect
+A: Herpes simplex virus,['D'],A,D,Incorrect
+"A: With the shoulder relaxed and the elbow bent, bring the patient’s forearm into supination to the edge of the restrictive barrier and have them pronate against resistance.",['A'],A,A,Correct
+I: Call surgical consultation,['J'],I,J,Incorrect
+J: Chronic hepatitis B infection,['J'],J,J,Correct
+B: CT scan of the pelvis,['B'],B,B,Correct
+B: Scalene muscles,['C'],B,C,Incorrect
+G: Increase in cardiac output,['H'],G,H,Incorrect
+G: Administer sodium bicarbonate,['A'],G,A,Incorrect
+G: Squamous tumor cells,['J'],G,J,Incorrect
+B: External intercostals,['F'],B,F,Incorrect
+C: Presence of oligoclonal bands,['I'],C,I,Incorrect
+B: Place psychiatric hold and proceed with NAC,['C'],B,C,Incorrect
+A: Reject the conference sponsorship but negotiate the terms of the trial funding to allow for unrestricted publication of results.,['I'],A,I,Incorrect
+G: C4–C6 ERRSR,['G'],G,G,Correct
+G: Refer the child for early intervention services,['G'],G,G,Correct
+D: Pulmonary tumor,['C'],D,C,Incorrect
+D: Transient neutropenia,['A'],D,A,Incorrect
+"B: Prescribe an inhaled short-acting beta2-agonist, to be used 15 minutes before exercise",['A'],B,A,Incorrect
+"I: IV steroids may be considered for primary therapy, in conjunction with IVIG, in this infant patient",['I'],I,I,Correct
+B: Urinalysis with reflex to urine culture,['A'],B,A,Incorrect
+E: Lisinopril,['J'],E,J,Incorrect
+E: Ibuprofen and resume the patient's home blood pressure medications,['E'],E,E,Correct
+E: Trimethoprim-sulfamethoxazole,['D'],E,D,Incorrect
+D: Effacement of foot processes of podocytes on light microscopy,['E'],D,E,Incorrect
+C: Spot compression mammographic views,['E'],C,E,Incorrect
+B: extension with left sidebending and right rotation,['D'],B,D,Incorrect
+B: Beta-2 agonist,['F'],B,F,Incorrect
+D: Plasma membrane,['E'],D,E,Incorrect
+A: Triple X syndrome,['A'],A,A,Correct
+B: V/Q = 4,['C'],B,C,Incorrect
+H: Start a low-fat diet and monitor closely,['C'],H,C,Incorrect
+A: Continue current management and reassess in 6 months,['C'],A,C,Incorrect
+G: Conduct telephone interviews with the nonresponders as an alternative method.,['J'],G,J,Incorrect
+G: Alcohol-induced lactic acid accumulation,['C'],G,C,Incorrect
+B: Exhalation dysfunction at ribs 4-6,['I'],B,I,Incorrect
+A: Cognitive behavioral therapy alone,['F'],A,F,Incorrect
+C: Bipolar I disorder,['E'],C,E,Incorrect
+D: Refer for radioactive iodine uptake testing,['E'],D,E,Incorrect
+F: Karyotype testing,['F'],F,F,Correct
+H: Magnetic resonance imaging (MRI) of the brain,['G'],H,G,Incorrect
+"A: T1-T3 neutral, sidebent right, rotated left",['F'],A,F,Incorrect
+J: Cardiac catheterization with coronary angiography,['I'],J,I,Incorrect
+A: Methamphetamine intoxication,['G'],A,G,Incorrect
+D: Ribosome Synthesis,['D'],D,D,Correct
+D: Cardiac pharmacologic stress test,['D'],D,D,Correct
+I: Missing chromosome,['C'],I,C,Incorrect
+A: extension with right rotation and left sidebending,['E'],A,E,Incorrect
+F: Regular sawtooth pattern at 300/min,['H'],F,H,Incorrect
+J: Incision and drainage,['E'],J,E,Incorrect
+D: This is a condition that happens in premature children and the more premature the child the earlier after birth it happens,['E'],D,E,Incorrect
+B: Surgical resection of the primary tumor and the lung lobe that contains it,['D'],B,D,Incorrect
+F: Follow-up with clinical and radiologic surveillance,['E'],F,E,Incorrect
+B: Pseudothrombocytopenia,['B'],B,B,Correct
+G: The total peripheral resistance will increase due to compensatory vasoconstriction,['J'],G,J,Incorrect
+D: IV fluids and norepinephrine,['E'],D,E,Incorrect
+I: Rebound tenderness on light palpation,['J'],I,J,Incorrect
+G: Halfway between the umbilicus and the pubic symphysis,['B'],G,B,Incorrect
+I: Exercise ankle-brachial index,['E'],I,E,Incorrect
+B: Adson test,['B'],B,B,Correct
+A: Negative sphinx test,['J'],A,J,Incorrect
+D: Esophageal pH monitoring,['C'],D,C,Incorrect
+F: The surgeon should obtain consent to biopsy the mass from the patient when she wakes up from cholecystectomy,['F'],F,F,Correct
+C: Congestive heart failure,['G'],C,G,Incorrect
+A: Increased risk of tuberculosis,['B'],A,B,Incorrect
+C: Catheter tip culture for microbial analysis,['I'],C,I,Incorrect
+F: Begin cabergoline 0.25 mg twice weekly; remeasure the prolactin level in 3 months,['A'],F,A,Incorrect
+I: Start oral prednisolone,['B'],I,B,Incorrect
+E: Remove the central line and start IV vancomycin,['G'],E,G,Incorrect
+H: Rigid removable dressing.,['H'],H,H,Correct
+E: Perform early redistribution imaging with Tl-201,['C'],E,C,Incorrect
+C: Switch to dulaglutide,['B'],C,B,Incorrect
+B: Flexion dysfunction,['D'],B,D,Incorrect
+E: extension with sidebending and rotation to the left,['J'],E,J,Incorrect
+"D: Passive flexion, active closed chain extension",['F'],D,F,Incorrect
+J: Add a mandatory weight-based dose calculator directly into the computerized order entry system,['F'],J,F,Incorrect
+C: MRI with gadolinium,['C'],C,C,Correct
+H: Intravenous ceftriaxone,['J'],H,J,Incorrect
+E: Claw hand deformity,['G'],E,G,Incorrect
+G: Self-efficacy,['D'],G,D,Incorrect
+F: Limb-sparing surgery with endoprosthetic reconstruction,['E'],F,E,Incorrect
+E: Reassurance,['E'],E,E,Correct
+C: Entrapment of megakaryocytes in the nail bed,['C'],C,C,Correct
+I: Inform the patient that you must notify the police and proceed with disclosure,['B'],I,B,Incorrect
+F: Regadenoson stress test with myocardial perfusion study,['F'],F,F,Correct
+J: Start continuous insulin infusion during labor,['E'],J,E,Incorrect
+E: Plasma aldosterone-renin ratio,['C'],E,C,Incorrect
+E: Ibuprofen and pelvic floor exercises,['A'],E,A,Incorrect
+H: Addition of albuterol,['B'],H,B,Incorrect
+D: Caudad deviation of the sphenoid at the sphenobasilar synchondrosis,['D'],D,D,Correct
+B: Switch risperidone to aripiprazole,['G'],B,G,Incorrect
+F: Acute stroke,['E'],F,E,Incorrect
+E: Previous abdominal trauma,['I'],E,I,Incorrect
+"A: ""Tell me more about your typical daily routine and how alcohol fits into it.""",['E'],A,E,Incorrect
+D: Naloxone,['J'],D,J,Incorrect
+D: Autosomal dominant,['B'],D,B,Incorrect
+J: Conversion disorder,['D'],J,D,Incorrect
+C: lift his left hip toward his left shoulder,['J'],C,J,Incorrect
+F: Age < 25 and lack of living children,['C'],F,C,Incorrect
+D: Iron-deficiency anemia due to occult gastrointestinal malignancy,['J'],D,J,Incorrect
+B: Viral-mediated myocardial inflammation,['H'],B,H,Incorrect
+J: Gout,['J'],J,J,Correct
+C: Renal artery fibromuscular dysplasia,['C'],C,C,Correct
+D: It is regulated by feedback inhibition from ATP,['B'],D,B,Incorrect
+J: Contrast-enhanced CT angiography,['B'],J,B,Incorrect
+B: Enoxaparin,['C'],B,C,Incorrect
+A: Myositis,['G'],A,G,Incorrect
+H: Aberrant immune complex deposition,['J'],H,J,Incorrect
+E: Doppler ultrasound of the scrotum,['C'],E,C,Incorrect
+H: Dantrolene,['H'],H,H,Correct
+E: Syringomyelia,['F'],E,F,Incorrect
+D: Lymphatic drainage of the right lower extremity,['A'],D,A,Incorrect
+A: Schedule surgical debridement and pacemaker removal,['D'],A,D,Incorrect
+B: Surgical consultation for emergent exploration and debridement,['D'],B,D,Incorrect
+J: Fresh frozen plasma,['G'],J,G,Incorrect
+G: Calculate the trabecular bone score,['I'],G,I,Incorrect
+H: Fenofibrate 150 mg daily,['J'],H,J,Incorrect
+J: Place an indwelling Foley catheter,['B'],J,B,Incorrect
+H: Urinalysis and urine protein,['E'],H,E,Incorrect
+I: “Do you have any concerns about your sexual health?”,['J'],I,J,Incorrect
+D: Left-on-left forward sacral torsion,['B'],D,B,Incorrect
+C: Thyroid ultrasound and fine-needle aspiration of the nodule,['H'],C,H,Incorrect
+I: Progesterone-induced inhibition of lactogenesis,['G'],I,G,Incorrect
+H: Mixed high and normal anion gap metabolic acidosis,['A'],H,A,Incorrect
+G: ”I have to respect your husband's wishes and will only provide comfort measures.”,['A'],G,A,Incorrect
+B: Assertive community treatment,['J'],B,J,Incorrect
+D: Persistent MIBG-avid metastases following induction chemotherapy,['D'],D,D,Correct
+B: Implement a daily electronic reminder system,['I'],B,I,Incorrect
+G: Start combination inhaled fluticasone/salmeterol,['E'],G,E,Incorrect
+E: Smoking cessation,['E'],E,E,Correct
+J: Dextrose,['E'],J,E,Incorrect
+"E: Continue azithromycin, and add ceftriaxone",['C'],E,C,Incorrect
+I: Watchful waiting,['I'],I,I,Correct
+B: Diltiazem,['B'],B,B,Correct
+C: Oral rehydration therapy only,['H'],C,H,Incorrect
+B: Streptococcus pneumoniae,['C'],B,C,Incorrect
+J: Moderate flexion then hyperpronation,['J'],J,J,Correct
+E: Check serum HCV RNA,['H'],E,H,Incorrect
+A: Prevents release of acetylcholine at neuromuscular junctions,['B'],A,B,Incorrect
+E: Sweat test,['H'],E,H,Incorrect
+G: Pneumococcal polysaccharide 23 vaccine,['E'],G,E,Incorrect
+H: Preparation,['G'],H,G,Incorrect
+B: Focus on systemic factors contributing to the error rather than individual blame,['F'],B,F,Incorrect
+D: Chronic anterior uveitis,['G'],D,G,Incorrect
+I: Anti-dsDNA antibody testing,['G'],I,G,Incorrect
+"D: Lymphocyte-rich, proteinaceous fluid",['B'],D,B,Incorrect
+A: Factor VIII repletion,['G'],A,G,Incorrect
+D: Right lateral recumbent with torso turned supine,['A'],D,A,Incorrect
+A: Cranberry juice,['D'],A,D,Incorrect
+G: Compartment pressure measurement,['J'],G,J,Incorrect
+J: Oral vancomycin,['B'],J,B,Incorrect
+H: Umbilical vein,['G'],H,G,Incorrect
+J: Proceed directly to surgery,['J'],J,J,Correct
+E: Increasing posterior tibial slope,['A'],E,A,Incorrect
+G: Iron studies and ferritin level,['E'],G,E,Incorrect
+I: Rectus femoris,['H'],I,H,Incorrect
+D: Metastatic bone disease,['G'],D,G,Incorrect
+E: Begin low-dose aspirin for preeclampsia prevention,['A'],E,A,Incorrect
+B: Anterolateral portal,['H'],B,H,Incorrect
+E: Thoracic outlet syndrome,['B'],E,B,Incorrect
+"E: flexion, sidebending and rotation toward tender point",['C'],E,C,Incorrect
+A: Superior vertical strain,['A'],A,A,Correct
+F: Moderate accuracy and low precision,['C'],F,C,Incorrect
+H: Fragmentation of elastic tissue in the tunica media,['B'],H,B,Incorrect
+G: MRI of the brain,['G'],G,G,Correct
+F: Hydrocortisone,['I'],F,I,Incorrect
+C: Decreased lumbar lordosis with muscle guarding,['J'],C,J,Incorrect
+D: Epinephrine,['D'],D,D,Correct
+H: Laparoscopic surgery,['H'],H,H,Correct
+A: Corticosteroids,['D'],A,D,Incorrect
+F: Prolapsed internal hemorrhoid,['D'],F,D,Incorrect
+C: Decreased renal plasma flow with unchanged glomerular filtration rate,['H'],C,H,Incorrect
+B: Internal rotation of the tibial component,['B'],B,B,Correct
+D: Right renal vein,['B'],D,B,Incorrect
+E: (90/110) × 100,['E'],E,E,Correct
+D: Oral prednisone,['G'],D,G,Incorrect
+H: Lactulose,['F'],H,F,Incorrect
+E: Hydrocortisone and fludrocortisone,['G'],E,G,Incorrect
+C: Enhanced sensory perception,['I'],C,I,Incorrect
+E: Post-operative Renal Ultrasound,['E'],E,E,Correct
+E: Increased responsiveness of carotid baroreceptors,['E'],E,E,Correct
+"C: Annual measurement of thyroid-stimulating hormone, free thyroxine, and free triiodothyronine",['E'],C,E,Incorrect
+E: Adenoma of the adrenal cortex,['G'],E,G,Incorrect
+C: Surgical resection and chemotherapy,['C'],C,C,Correct
+G: Order an interferon-gamma release assay,['I'],G,I,Incorrect
+F: Left superior pubic shear,['C'],F,C,Incorrect
+A: Obstruction of the cystic duct by gallstone,['D'],A,D,Incorrect
+F: Paradoxical hypercoagulability due to warfarin-induced necrosis,['C'],F,C,Incorrect
+A: Human papilloma virus vaccination,['D'],A,D,Incorrect
+H: Neuronal loss in the substantia nigra pars compacta,['A'],H,A,Incorrect
+B: One AP axis with rotation in opposite directions and two transverse axes with rotation in the same direction,['E'],B,E,Incorrect
+G: Compression of lateral femoral cutaneous nerve by adipose tissue,['C'],G,C,Incorrect
+G: Costoclavicular test,['F'],G,F,Incorrect
+A: NSLRR,['F'],A,F,Incorrect
+A: Knees and hip flexion with slight adduction,['E'],A,E,Incorrect
+B: Plasmapheresis,['A'],B,A,Incorrect
+C: left lateral Sims position with face down,['F'],C,F,Incorrect
+D: Plasma triglycerides 210 mg/dL (2.4 mmol/L),['I'],D,I,Incorrect
+C: Better glycemic control,['E'],C,E,Incorrect
+D: Primary hyperaldosteronism,['H'],D,H,Incorrect
+D: Physical therapy,['B'],D,B,Incorrect
+D: Increased pulmonary capillary wedge pressure,['H'],D,H,Incorrect
+G: Discharge with outpatient follow-up,['C'],G,C,Incorrect
+C: Hyperbaric oxygen therapy,['D'],C,D,Incorrect
+B: Fragment excision with triceps advancement,['E'],B,E,Incorrect
+A: Valacyclovir,['D'],A,D,Incorrect
+B: Unfractionated heparin,['G'],B,G,Incorrect
+A: Offering patient education about Kegel exercises,['E'],A,E,Incorrect
+F: Supportive care,['F'],F,F,Correct
+D: Naloxone,['H'],D,H,Incorrect
+E: 375 / (45 + 375),['D'],E,D,Incorrect
+I: Compensated disseminated intravascular coagulation,['H'],I,H,Incorrect
+A: Abdominal ultrasound,['A'],A,A,Correct
+D: Autosomal dominant inheritance,['E'],D,E,Incorrect
+E: Defective hepatic bile excretion,['E'],E,E,Correct
+F: Hyperbilirubinemia,['D'],F,D,Incorrect
+"B: Azithromycin, ceftriaxone, metronidazole, hepatitis B immune globulin, and levonorgestrel",['G'],B,G,Incorrect
+H: Gastroduodenal artery,['D'],H,D,Incorrect
+D: Heparin drip,['D'],D,D,Correct
+D: Ampicillin and ceftriaxone,['D'],D,D,Correct
+D: Primary pulmonary arterial hypertension,['I'],D,I,Incorrect
+I: Propranolol therapy,['J'],I,J,Incorrect
+B: Oral rehydration with a hypo-osmolar solution,['B'],B,B,Correct
+"J: ↓ Serum TSH, ↑ Total T4, ↑ Free T4, ↓ I131 Uptake",['J'],J,J,Correct
+G: Serum chromium,['G'],G,G,Correct
+G: Intravenous antibiotics,['G'],G,G,Correct
+E: Lithium level monitoring,['G'],E,G,Incorrect
+G: Perform additional posterior femoral resection,['A'],G,A,Incorrect
+A: Radical hysterectomy with pelvic lymphadenectomy,['I'],A,I,Incorrect
+F: Chronic alcohol use,['C'],F,C,Incorrect
+B: Collagen deposition and decreased number of follicles,['B'],B,B,Correct
+A: Lower extremity venous Doppler ultrasound,['I'],A,I,Incorrect
+G: Obtain an upper gastrointestinal contrast series,['G'],G,G,Correct
+I: Right superior innominate shear,['C'],I,C,Incorrect
+C: Symmetrical hyperpigmented patches on sun-exposed areas,['J'],C,J,Incorrect
+C: Ramipril and percutaneous transluminal angioplasty without stent placement,['C'],C,C,Correct
+D: Elevation of serum creatinine kinase,['B'],D,B,Incorrect
+B: Hip abduction,['D'],B,D,Incorrect
+F: Supportive therapy and observation,['J'],F,J,Incorrect
+J: Insulin-secreting tumor,['F'],J,F,Incorrect
+E: Order a urine drug screen before making any decisions,['C'],E,C,Incorrect
+I: Cardiac tamponade,['H'],I,H,Incorrect
+C: Pernicious anemia,['A'],C,A,Incorrect
+I: Open laparotomy,['C'],I,C,Incorrect
+H: Cardiopulmonary resuscitation lasting 15 minutes,['G'],H,G,Incorrect
+E: This child needs to be evaluated first with a CT scan,['I'],E,I,Incorrect
+B: NSLRR,['F'],B,F,Incorrect
+D: Acute myelogenous leukemia,['I'],D,I,Incorrect
+D: Aripiprazole,['C'],D,C,Incorrect
+J: The half-life of drug A is constant but that of drug B is variable,['J'],J,J,Correct
+I: Transthoracic echocardiography,['I'],I,I,Correct
+H: Alpha-1 antitrypsin level,['F'],H,F,Incorrect
+G: Begin potassium replacement therapy with dextrose,['H'],G,H,Incorrect
+J: Intranasal glucocorticoid spray,['J'],J,J,Correct
+A: extension with left rotation and left sidebending,['A'],A,A,Correct
+D: Observation,['D'],D,D,Correct
+J: Bedbug bite,['J'],J,J,Correct
+H: Perform arthrocentesis of the right knee,['J'],H,J,Incorrect
+B: Intravenous fidaxomicin,['G'],B,G,Incorrect
+C: Deferral of all treatment until postpartum,['H'],C,H,Incorrect
+I: Exploratory laparotomy,['C'],I,C,Incorrect
+A: Vertebrobasilar insufficiency,['J'],A,J,Incorrect
+B: Daily topiramate prophylaxis,['I'],B,I,Incorrect
+J: Abdominal angiography,['J'],J,J,Correct
+F: Perform endoscopic retrograde cholangiopancreatography,['F'],F,F,Correct
+H: Chest tube insertion in the fifth intercostal space at the midaxillary line,['I'],H,I,Incorrect
+C: Hip flexed with right sidebending and left rotation,['F'],C,F,Incorrect
+G: Computed tomography angiogram (CTA),['E'],G,E,Incorrect
+E: Metronidazole,['D'],E,D,Incorrect
+F: Perform a dye test (instillation of indigo carmine),['D'],F,D,Incorrect
+"F: Combined oral contraceptives, assess for infertility and insulin resistance",['E'],F,E,Incorrect
+I: Functional levoscoliosis,['I'],I,I,Correct
+C: Pretreatment with IV rasburicase,['C'],C,C,Correct
+F: Lorazepam,['B'],F,B,Incorrect
+F: Pegylated liposomal doxorubicin,['B'],F,B,Incorrect
+D: Genetic testing for familial hypocalciuric hypercalcemia,['F'],D,F,Incorrect
+C: Stellate ganglion,['E'],C,E,Incorrect
+A: “Testosterone levels are more closely associated with libido than estrogen levels and should be evaluated.”,['F'],A,F,Incorrect
+F: Right main bronchus,['B'],F,B,Incorrect
+D: Left ventricular outflow tract obstruction,['H'],D,H,Incorrect
+H: 60,['J'],H,J,Incorrect
+F: Clindamycin and gentamicin,['I'],F,I,Incorrect
+B: Increased pulmonary vascular resistance,['F'],B,F,Incorrect
+C: Await a second cardiac troponin-T level for comparison at 4 hours after presentation,['C'],C,C,Correct
+F: Left innominate inflare,['H'],F,H,Incorrect
+H: Stopping immediately or monitoring the taper off of the drug.,['H'],H,H,Correct
+H: Skeletal muscle cells,['F'],H,F,Incorrect
+"I: 47, XXY karyotype",['G'],I,G,Incorrect
+D: CT of the neck with intravenous contrast,['D'],D,D,Correct
+A: Valproic acid,['A'],A,A,Correct
+H: Initiate broad-spectrum IV empiric antibiotics and perform CT-guided drainage,['E'],H,E,Incorrect
+H: Dehydration from prolonged immobilization,['G'],H,G,Incorrect
+H: Compression of the sphenobasilar synchondrosis,['D'],H,D,Incorrect
+H: flexion with sidebending to the left and rotation to the left,['G'],H,G,Incorrect
+H: Direct-acting antiviral therapy,['J'],H,J,Incorrect
+"B: Repeat the physical examination in one week; if unremarkable, return to play",['G'],B,G,Incorrect
+D: Perform an ultrasound of the breast to evaluate for an abscess,['H'],D,H,Incorrect
+A: Carbamazepine,['A'],A,A,Correct
+A: Decreased C2 and decreased C4,['A'],A,A,Correct
+A: Intravenous cefazolin therapy,['A'],A,A,Correct
+D: Stool culture and ova/parasite examination,['B'],D,B,Incorrect
+B: Barium esophagram,['B'],B,B,Correct
+F: 24.5 hours,['D'],F,D,Incorrect
+A: Droperidol,['D'],A,D,Incorrect
+F: Refer for surgical management of miscarriage,['B'],F,B,Incorrect
+G: Between the spinous and transverse processes of T6 and T7 on the right,['J'],G,J,Incorrect
+E: Genetic testing for Klinefelter syndrome,['G'],E,G,Incorrect
+A: Urinalysis and serum creatinine testing,['F'],A,F,Incorrect
+"D: Hemoglobin: 16 g/dL, Hematocrit: 48%, MCV: 82 µm^3",['H'],D,H,Incorrect
+F: Oral nonsteroidal anti-inflammatory drugs and observation,['A'],F,A,Incorrect
+J: Baroceptors in the carotid sinus and aortic arch,['G'],J,G,Incorrect
+C: Olfactory neuroblastoma (esthesioneuroblastoma),['B'],C,B,Incorrect
+H: IgM antibody formation against A and B antigens,['F'],H,F,Incorrect
+F: Primary prevention,['E'],F,E,Incorrect
+C: Transpulmonary pressure is at zero,['D'],C,D,Incorrect
+D: Neutrophilic infiltration,['C'],D,C,Incorrect
+"J: Patient lying supine, physician's hand on his left ASIS, and his right hip and knee flexed, supported against the physician",['I'],J,I,Incorrect
+"D: Hemoglobin and hematocrit ↓,  red blood cell count ↓, mean corpuscular volume↓, reticulocyte count ↓",['D'],D,D,Correct
+E: Chemical plant operator,['G'],E,G,Incorrect
+B: Ventilation-perfusion mismatch with dead space,['J'],B,J,Incorrect
+J: Computed tomography (CT) of brain,['A'],J,A,Incorrect
+G: Non–small cell lung cancer,['A'],G,A,Incorrect
+D: Ethanol,['E'],D,E,Incorrect
+I: Left lateral strain,['J'],I,J,Incorrect
+I: Normalization,['B'],I,B,Incorrect
+E: 47,['I'],E,I,Incorrect
+"H: a ruptured transverse ligament, with intact alar and apical ligaments",['I'],H,I,Incorrect
+C: A > C > B > D,['A'],C,A,Incorrect
+B: Cerebellar atrophy on MRI,['I'],B,I,Incorrect
+B: Bone pain due to osteoclastic activity,['F'],B,F,Incorrect
+J: Short-acting beta2-agonist before exercise,['B'],J,B,Incorrect
+C: Retinal hemorrhages,['I'],C,I,Incorrect
+G: Type 2 diabetes mellitus,['C'],G,C,Incorrect
+D: Implementing mandatory double-checking of medication concentrations during codes,['E'],D,E,Incorrect
+F: Right sidebending and rotation,['F'],F,F,Correct
+G: Erythropoietin level,['A'],G,A,Incorrect
+E: Esophagogastroduodenoscopy,['C'],E,C,Incorrect
+D: Duchenne muscular dystrophy,['H'],D,H,Incorrect
+D: Atrial septal defect,['E'],D,E,Incorrect
+A: Magnesium and labetalol,['E'],A,E,Incorrect
+A: CT scan in 6 months,['D'],A,D,Incorrect
+I: Hospitalization and treatment with intravenous azithromycin and intravenous ceftriaxone,['I'],I,I,Correct
+A: Right unilateral flexion about the inferior transverse axis,['J'],A,J,Incorrect
+F: Insufficient contraction of the uterus,['J'],F,J,Incorrect
+G: Superior division of the middle cerebral artery,['E'],G,E,Incorrect
+D: Left ventricular outflow tract obstruction,['C'],D,C,Incorrect
+H: 800 / (800 + 200),['I'],H,I,Incorrect
+E: Childhood history,['E'],E,E,Correct
+I: Loss of corneal sensation with preserved facial movement,['B'],I,B,Incorrect
+B: intertransverse space between L1 and L2,['D'],B,D,Incorrect
+E: Patient lies supine; physician at the head of the table places bilateral thenar eminences over the anterior surface of ribs 2–4,['E'],E,E,Correct
+C: Propanolol,['C'],C,C,Correct
+A: Explain that the diagnosis must be shared unless the patient lacks decision-making capacity,['J'],A,J,Incorrect
+A: Administer intravenous immunoglobulin (IVIG),['D'],A,D,Incorrect
+A: Benign hereditary chorea,['A'],A,A,Correct
+J: Order genetic testing for long QT syndrome mutations,['E'],J,E,Incorrect
+H: High-fiber diet and stool softeners,['B'],H,B,Incorrect
+I: Carotid Doppler ultrasonography,['B'],I,B,Incorrect
+A: Focal seizures with nonmotor onset and impaired awareness associated with temporal lobe epilepsy,['A'],A,A,Correct
+C: Azithromycin,['C'],C,C,Correct
+I: Shoulder pain,['I'],I,I,Correct
+I: Penicillin,['C'],I,C,Incorrect
+"E: Draw lines parallel to the endplates of the most tilted vertebrae above and below the apex, then measure the angle between these lines in the coronal plane.",['C'],E,C,Incorrect
+A: Referral for echocardiography,['H'],A,H,Incorrect
+F: Low-dose CT scan for lung cancer screening,['H'],F,H,Incorrect
+D: Tapering of oxycodone,['B'],D,B,Incorrect
+B: External rotation of the femoral component,['G'],B,G,Incorrect
+C: Prescribe a proton pump inhibitor twice daily and reassess in one week,['B'],C,B,Incorrect
+I: Left superior innominate shear,['H'],I,H,Incorrect
+D: Dysmetria on finger-to-nose testing,['G'],D,G,Incorrect
+J: Tibialis Anterior,['J'],J,J,Correct
+I: Neoplasia,['I'],I,I,Correct
+C: VMA and HVA levels are useful in diagnosis and follow up for response to treatment in these patients,['C'],C,C,Correct
+B: Order an endocrine-hormone laboratory workup,['B'],B,B,Correct
+I: Cushing reflex,['B'],I,B,Incorrect
+D: The patient is more likely to be of African than of European descent,['D'],D,D,Correct
+A: Thrombocytosis,['A'],A,A,Correct
+J: Metastatic bone disease,['J'],J,J,Correct
+D: Outpatient treatment with oral levofloxacin,['H'],D,H,Incorrect
+F: Metronidazole,['B'],F,B,Incorrect
+C: Amyl nitrate inhalation,['I'],C,I,Incorrect
+J: Increases the risk of lymphedema and reduces axillary recurrence,['I'],J,I,Incorrect
+I: Sacral rocking,['E'],I,E,Incorrect
+F: Naloxone,['J'],F,J,Incorrect
+B: Meckel’s diverticulum,['B'],B,B,Correct
+A: quadrigia syndrome,['A'],A,A,Correct
+B: Aortic stenosis-induced syncope,['J'],B,J,Incorrect
+I: Deficiency of 21β-hydroxylase,['I'],I,I,Correct
+E: Levofloxacin,['E'],E,E,Correct
+E: Bed-side incision and drainage,['J'],E,J,Incorrect
+A: Walks up stairs with both feet | Stacks 4 blocks | Shows separation anxiety | Vocabulary of 20-30 words,['G'],A,G,Incorrect
+D: Low voltage,['C'],D,C,Incorrect
+H: Calcific degeneration of valve leaflets,['A'],H,A,Incorrect
+B: Stereotactic body radiation therapy (SBRT) demonstrates superior local control rates due to its ability to deliver higher biological effective doses while sparing critical structures,['C'],B,C,Incorrect
+A: Defective neutrophil adhesion molecule expression,['C'],A,C,Incorrect
+F: C7 ERLSL,['D'],F,D,Incorrect
+C: Left on left anterior sacral torsion,['C'],C,C,Correct
+G: Lymph node evaluation,['I'],G,I,Incorrect
+A: Administer dexamethasone,['H'],A,H,Incorrect
+D: CT angiogram of the chest,['B'],D,B,Incorrect
+J: Myomectomy with uterine reconstruction,['E'],J,E,Incorrect
+C: Degmacytes,['C'],C,C,Correct
+C: Stacks three blocks,['A'],C,A,Incorrect
+I: Begin treatment with isoniazid for 9 months,['B'],I,B,Incorrect
+B: Serology for cysticercosis antibodies,['C'],B,C,Incorrect
+H: Hypercalcemia,['H'],H,H,Correct
+A: CT scan of abdomen and pelvis,['J'],A,J,Incorrect
+H: Lactulose,['F'],H,F,Incorrect
+"D: Normal potassium, normal phosphorus, hypovolemic",['E'],D,E,Incorrect
+E: Advise against osteopathic manipulative treatment and prescribe opioid pain medication,['D'],E,D,Incorrect
+D: Restricted sphenobasilar synchondrosis,['H'],D,H,Incorrect
+D: Renal ultrasound,['D'],D,D,Correct
+C: Left anterior innominate rotation,['H'],C,H,Incorrect
+I: Chest x-ray,['H'],I,H,Incorrect
+E: Initiate potassium infusion,['E'],E,E,Correct
+F: CT scan of the abdomen and pelvis,['E'],F,E,Incorrect
+H: Furosemide,['H'],H,H,Correct
+C: Naproxen,['C'],C,C,Correct
+F: IM ceftriaxone and oral azithromycin,['I'],F,I,Incorrect
+C: Right on left posterior sacral torsion,['E'],C,E,Incorrect
+F: Plagiocephaly,['I'],F,I,Incorrect
+I: Giant-cell arteritis,['I'],I,I,Correct
+A: Normal extracellular fluid status,['A'],A,A,Correct
+I: “Let's discuss sleep hygiene.”,['J'],I,J,Incorrect
+C: Administer ceftriaxone,['I'],C,I,Incorrect
+A: Constrictive pericarditis,['G'],A,G,Incorrect
+C: Add patiromer to the medication regimen,['F'],C,F,Incorrect
+F: Admit her to the inpatient ward,['A'],F,A,Incorrect
+B: Severe opiate use disorder,['I'],B,I,Incorrect
+J: Compression stockings application,['I'],J,I,Incorrect
+E: Sildenafil,['H'],E,H,Incorrect
+C: Epinephrine,['B'],C,B,Incorrect
+E: Administration of sodium bicarbonate,['J'],E,J,Incorrect
+E: DiGeorge syndrome,['J'],E,J,Incorrect
+F: Bladder scan,['J'],F,J,Incorrect
+C: Reassurance and topical diclofenac therapy,['B'],C,B,Incorrect
+I: Losartan,['A'],I,A,Incorrect
+H: Trial of lansoprazole,['A'],H,A,Incorrect
+D: Outpatient anticoagulation with rivaroxaban,['D'],D,D,Correct
+A: A 41-year-old female with a facial rash and nonerosive arthritis,['A'],A,A,Correct
+C: Immediately initiate triple antiretroviral therapy,['A'],C,A,Incorrect
+H: Iliotibial band insertion,['I'],H,I,Incorrect
+C: Serum creatinine (SCr),['D'],C,D,Incorrect
+E: Cefepime,['E'],E,E,Correct
+D: Double-balloon enteroscopy,['E'],D,E,Incorrect
+D: IL-2 receptor gamma chain defect,['B'],D,B,Incorrect
+J: Perform external cephalic version,['G'],J,G,Incorrect
+F: Increased spinopelvic mobility,['G'],F,G,Incorrect
+A: Congenital spherocytosis exacerbating splenic activity,['C'],A,C,Incorrect
+G: Cell-free fetal DNA testing should be performed before invasive testing.,['J'],G,J,Incorrect
+A: Cobalamin,['E'],A,E,Incorrect
+F: Thymic stromal lymphopoietin,['F'],F,F,Correct
+C: Intravenous desmopressin administration,['D'],C,D,Incorrect
+H: Potassium iodide,['I'],H,I,Incorrect
+A: Parvovirus B19 infection,['E'],A,E,Incorrect
+C: Gallstone in the terminal ileum,['A'],C,A,Incorrect
+A: Deviation of the jaw toward the right and uvula toward the left,['F'],A,F,Incorrect
+B: Topical latanoprost,['D'],B,D,Incorrect
+F: Left inferior pubic shear,['B'],F,B,Incorrect
+J: Perform ultrasound imaging,['G'],J,G,Incorrect
+I: Warfarin,['E'],I,E,Incorrect
+C: Scaphoid abdomen,['A'],C,A,Incorrect
+G: Rapid plasma reagin (RPR) test,['H'],G,H,Incorrect
+C: Mefloquine,['F'],C,F,Incorrect
+G: Lewy bodies in affected neurons,['D'],G,D,Incorrect
+E: Incision and drainage,['H'],E,H,Incorrect
+G: Perform hemodialysis,['A'],G,A,Incorrect
+A: Cannot be determined,['A'],A,A,Correct
+F: Follow-up ultrasound to ensure cyst has not recurred,['F'],F,F,Correct
+J: Severe,['J'],J,J,Correct
+I: *TP53*,['I'],I,I,Correct
+F: Exercise and reduce alcohol intake,['F'],F,F,Correct
+G: Flex the knee while maintaining hip flexion,['J'],G,J,Incorrect
+D: Epsilon antigen positivity,['D'],D,D,Correct
+I: Inferior scapular notching,['I'],I,I,Correct
+E: Fragment excision and triceps advancement,['E'],E,E,Correct
+F: Odds ratio approximates relative risk when the outcome is rare,['C'],F,C,Incorrect
+J: Cotton test,['D'],J,D,Incorrect
+J: 130°,['A'],J,A,Incorrect
+D: Rapid influenza antigen test,['E'],D,E,Incorrect
+I: Cubital tunnel syndrome,['G'],I,G,Incorrect
+F: Digoxin-specific antibody fragments,['H'],F,H,Incorrect
+G: Colonoscopy,['E'],G,E,Incorrect
+E: Direct bone marrow suppression by infectious agents,['J'],E,J,Incorrect
+B: left sacral torsion on a left oblique axis,['J'],B,J,Incorrect
+E: Lacks any attachment to the sternum,['B'],E,B,Incorrect
+G: Eye deviation to the right,['D'],G,D,Incorrect
+C: Hydroxyurea,['C'],C,C,Correct
+G: This child is 3 years old,['I'],G,I,Incorrect
+A: Nifedipine,['A'],A,A,Correct
+"B: 3.5 cm longitudinally and 1 cm radially, excluding bone and fascia",['G'],B,G,Incorrect
+E: Hypothalamic injury,['E'],E,E,Correct
+I: Direct Coombs test,['I'],I,I,Correct
+C: Acute cholecystitis,['G'],C,G,Incorrect
+A: Exhalation dysfunction at ribs 2–4,['A'],A,A,Correct
+G: Albendazole,['J'],G,J,Incorrect
+A: Pseudoephedrine and follow up in 1 week,['A'],A,A,Correct
+C: He need only avoid sulfonamide antimicrobial agents,['C'],C,C,Correct
+G: Talar tilt toward midline,['B'],G,B,Incorrect
+A: Blood culture,['B'],A,B,Incorrect
+G: T10 ERRSR,['A'],G,A,Incorrect
+G: PET-CT scan of head and neck,['F'],G,F,Incorrect
+G: A 70-year-old male with severe obstructive sleep apnea and a history of myocardial infarction.,['A'],G,A,Incorrect
+F: Bilateral sacral extension along the middle transverse axis,['F'],F,F,Correct
+H: Excessive internal rotation of the femoral component,['J'],H,J,Incorrect
+"E: Restrict the patient from high-static sports (e.g., weightlifting, boxing, and wrestling)",['E'],E,E,Correct
+E: Iron,['J'],E,J,Incorrect
+C: A knee that is balanced in extension and loose in flexion.,['C'],C,C,Correct
+D: Omeprazole,['H'],D,H,Incorrect
+C: NSLLR,['D'],C,D,Incorrect
+D: pull her right elbow toward her right hip,['J'],D,J,Incorrect
+F: flexion with right rotation and right sidebending,['F'],F,F,Correct
+E: Decreased T4,['C'],E,C,Incorrect
+C: Left rotation on a right oblique axis,['C'],C,C,Correct
+B: Indomethacin alone,['C'],B,C,Incorrect
+E: Anti-nuclear antibodies,['E'],E,E,Correct
+B: Abstinence from alcohol plus naltrexone,['B'],B,B,Correct
+B: Order stool culture and serum PCR testing for cytomegalovirus,['J'],B,J,Incorrect
+F: Diuretic use,['F'],F,F,Correct
+B: Laryngotracheal papillomatosis with pulmonary spread,['H'],B,H,Incorrect
+C: Osteosarcoma,['H'],C,H,Incorrect
+"B: Replace the urinary catheter, and monitor for fever or other systemic signs of infection",['D'],B,D,Incorrect
+B: Selective IgA Deficiency,['J'],B,J,Incorrect
+E: Methemoglobinemia from chemical exposure,['B'],E,B,Incorrect
+B: Inguinal region,['G'],B,G,Incorrect
+H: MRI of the hip,['D'],H,D,Incorrect
+"H: Insulin, normal saline, and potassium",['D'],H,D,Incorrect
+"D: Anti-D immune globulin, TDaP",['C'],D,C,Incorrect
+J: Alcohol,['E'],J,E,Incorrect
+A: IV fluids,['A'],A,A,Correct
+E: Increased sweat chloride concentration,['D'],E,D,Incorrect
+G: Losartan,['I'],G,I,Incorrect
+C: left innominate inflare,['C'],C,C,Correct
+B: Psychologic,['G'],B,G,Incorrect
+B: Infliximab (tumor necrosis factor inhibitor),['I'],B,I,Incorrect
+G: Cardiac tamponade,['I'],G,I,Incorrect
+G: Remove the central venous catheter; prescribe 14 days of ceftriaxone,['G'],G,G,Correct
+D: Neutrophils,['D'],D,D,Correct
+C: Continue apixaban for another 6 months,['G'],C,G,Incorrect
+J: Respiratory rate,['H'],J,H,Incorrect
+D: Bilateral kidney cysts before age 30,['C'],D,C,Incorrect
+F: 70%,['B'],F,B,Incorrect
+H: Opponens pollicis,['G'],H,G,Incorrect
+J: Normal levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH),['A'],J,A,Incorrect
+A: Positive anti-β2 glycoprotein I antibodies,['F'],A,F,Incorrect
+A: Sumatriptan,['A'],A,A,Correct
+J: Cyclops lesion formation,['G'],J,G,Incorrect
+G: Curling ulcers caused by severe burns,['E'],G,E,Incorrect
+C: Heroin overdose,['C'],C,C,Correct
+C: Epiphyseal artery,['I'],C,I,Incorrect
+H: Genetic testing for FMR1 premutation,['D'],H,D,Incorrect
+D: CT angiogram of the chest,['F'],D,F,Incorrect
+C: Decreased serum sodium level,['B'],C,B,Incorrect
+H: Rib raising technique,['D'],H,D,Incorrect
+C: There is no difference in early gait kinematics between the two approaches,['C'],C,C,Correct
+F: ERLSL,['D'],F,D,Incorrect
+C: Noncontrast CT of the abdomen and pelvis,['A'],C,A,Incorrect
+D: Continue the intravenous omeprazole for 72 hours and then initiate oral omeprazole,['E'],D,E,Incorrect
+G: Varus collapse with superior migration of the shaft,['H'],G,H,Incorrect
+H: Duloxetine,['H'],H,H,Correct
+J: Blood urea nitrogen (BUN):Serum creatinine ratio (Cr) > 20:1,['H'],J,H,Incorrect
+B: Vancomycin 500 mg PO 4 times per day + metronidazole 500 mg intravenously every 8 hours,['B'],B,B,Correct
+B: Reduction in peripheral vascular resistance,['J'],B,J,Incorrect
+F: Hyperreflexia below the level of the lesion,['I'],F,I,Incorrect
+F: Needle aspiration and oral dicloxacillin,['F'],F,F,Correct
+I: Iliacus tenderpoint,['I'],I,I,Correct
+"D: The patient is positioned with her right forearm on her forehead, palm up, and pushes her elbow toward her left ASIS. The physician provides isometric resistance to the patient's forearm and applies inferior traction to the posterior rib angle of rib 5 as the patient inhales.",['F'],D,F,Incorrect
+B: Brachioradialis,['H'],B,H,Incorrect
+E: The MPO deficiency directly causes impaired fungal killing,['F'],E,F,Incorrect
+D: Scoliosis progression slows after loss of ambulation,['H'],D,H,Incorrect
+C: Collection of rectovaginal swab for culture,['B'],C,B,Incorrect
+F: Manual detorsion,['C'],F,C,Incorrect
+I: Document the neighbor's statement and avoid dialysis,['C'],I,C,Incorrect
+I: Multiple coronary artery aneurysms,['C'],I,C,Incorrect
+F: Measure levels of tissue transglutaminase immunoglobulin A antibody and total IgA,['F'],F,F,Correct
+F: Measurement of 24-hour urinary copper excretion,['F'],F,F,Correct
+G: Therapeutic modification,['B'],G,B,Incorrect
+"H: Sequential discontinuation of medications, beginning with carbamazepine, and monitoring for improvement",['F'],H,F,Incorrect
+D: Decreased sensitivity and increased positive predictive value,['F'],D,F,Incorrect
+F: Continue with ceftriaxone as empiric therapy,['I'],F,I,Incorrect
+B: Start clonazepam.,['I'],B,I,Incorrect
+C: extension with sidebending and rotation to the right,['E'],C,E,Incorrect
+E: Decreased oxygen saturation when the patient sleeps,['I'],E,I,Incorrect
+I: Speech impairment,['I'],I,I,Correct
+I: Transfusion of packed red blood cells,['I'],I,I,Correct
+J: Prevalence decreases and incidence decreases,['E'],J,E,Incorrect
+C: Rotate the torso toward the posterior transverse process,['F'],C,F,Incorrect
+B: right-on-left sacral torsion,['F'],B,F,Incorrect
+D: MRV brain,['F'],D,F,Incorrect
+E: Absence of gallstones with gallbladder distension,['I'],E,I,Incorrect
+A: Bone marrow aspiration and biopsy,['I'],A,I,Incorrect
+G: Clindamycin and ciprofloxacin,['H'],G,H,Incorrect
+A: Dysarthria,['C'],A,C,Incorrect
+H: Pathologic fractures,['E'],H,E,Incorrect
+H: Osmotic fragility test,['I'],H,I,Incorrect
+B: NSRLL,['J'],B,J,Incorrect
+G: MRI spine,['I'],G,I,Incorrect
+E: Unilateral average transtibial,['A'],E,A,Incorrect
+E: Initiate potassium citrate,['J'],E,J,Incorrect
+E: Autoimmune hemolytic anemia,['E'],E,E,Correct
+A: Prednisone,['A'],A,A,Correct
+E: Herpetic gingivostomatitis,['E'],E,E,Correct
+A: MRI of the lumbar spine,['A'],A,A,Correct
+D: Calcaneal varus alignment,['J'],D,J,Incorrect
+H: Perform a nonstress test,['J'],H,J,Incorrect
+I: High-frequency chest wall oscillation therapy,['J'],I,J,Incorrect
+I: Nitroprusside,['J'],I,J,Incorrect
+H: Nutation-counternutation,['G'],H,G,Incorrect
+H: EGFR tyrosine kinase inhibitor,['C'],H,C,Incorrect
+H: Trigeminal neuralgia,['I'],H,I,Incorrect
+B: Nonocclusive mesenteric ischemia,['J'],B,J,Incorrect
+C: Postvoid residual measurement,['I'],C,I,Incorrect
+C: Dopamine agonist,['I'],C,I,Incorrect
+B: Inability to perform a straight-leg raise without pain,['C'],B,C,Incorrect
+B: Emergency laparotomy,['F'],B,F,Incorrect
+"A: Initiate low-molecular-weight heparin, then transition to indefinite warfarin therapy with an international normalized ratio goal of 2.0 to 3.0",['A'],A,A,Correct
+C: Plantarflexion osteotomy to correct residual forefoot varus,['C'],C,C,Correct
+J: Staphylococcus aureus,['I'],J,I,Incorrect
+"B: Administer intravenous nitroglycerin, and intravenous furosemide",['B'],B,B,Correct
+A: Anomalous shunting of blood through a defect in atrial septum,['G'],A,G,Incorrect
+F: Necrotizing otitis externa due to Pseudomonas infection,['B'],F,B,Incorrect
+F: 171.9 mL/min,['H'],F,H,Incorrect
+H: Pralidoxime,['H'],H,H,Correct
+J: Switch the extended-release morphine to methadone,['J'],J,J,Correct
+F: Perform a chest X-ray to evaluate catheter position before taking further action,['B'],F,B,Incorrect
+E: T5-T9,['B'],E,B,Incorrect
+I: Flexible bronchoscopy,['I'],I,I,Correct
+"F: Neutral, side bend the cervical neck to the left and rotate the cervical neck to the right",['C'],F,C,Incorrect
+J: Administer betamethasone and continue expectant management without antihypertensive therapy,['G'],J,G,Incorrect
+E: Spinal epidural abscess,['E'],E,E,Correct
+F: Initiate ranolazine 500 mg twice daily,['G'],F,G,Incorrect
+D: Increase oxytocin infusion,['D'],D,D,Correct
+E: The patient has severe pulmonary hypertension,['B'],E,B,Incorrect
+A: Bring the cousin to the room and ask the patient if it is acceptable to disclose his course,['C'],A,C,Incorrect
+E: CT of the head,['D'],E,D,Incorrect
+"A: Rifampin, isoniazid, pyrazinamide, and ethambutol",['G'],A,G,Incorrect
+G: Flexible sigmoidoscopy,['H'],G,H,Incorrect
+H: Discuss the patient’s concerns with the referring physician,['F'],H,F,Incorrect
+"B: Initiate treatment with ampicillin, gentamicin, and metronidazole",['B'],B,B,Correct
+J: Oral iron,['H'],J,H,Incorrect
+E: Establishment of a dedicated results communication team,['C'],E,C,Incorrect
+D: Betaine supplementation,['H'],D,H,Incorrect
+E: Erythromycin,['E'],E,E,Correct
+J: Start methimazole and beta-blockers,['I'],J,I,Incorrect
+E: Acute subdural hematoma on head CT,['F'],E,F,Incorrect
+F: Ipsilateral medial knee degenerative changes,['D'],F,D,Incorrect
+I: Initiate an infusion of 5% dextrose in water titrated to a maximum rate of correction of 6 to 8 mEq/liter/day,['C'],I,C,Incorrect
+D: Nasal nitric oxide measurement,['I'],D,I,Incorrect
+F: Persistent maternal fever of 38°C,['I'],F,I,Incorrect
+B: Deposition of light chains within the glomeruli and tubules,['C'],B,C,Incorrect
+A: Hernia formation,['J'],A,J,Incorrect
+J: Acetabular cup in 50 degrees of abduction,['F'],J,F,Incorrect
+F: Talar neck fracture,['J'],F,J,Incorrect
+A: Fasciotomy,['G'],A,G,Incorrect
+I: Serum anti-tissue transglutaminase antibody assay,['G'],I,G,Incorrect
+C: Serum ferritin level,['H'],C,H,Incorrect
+E: Anaphylaxis secondary to blood transfusion,['F'],E,F,Incorrect
+E: Graves' disease,['I'],E,I,Incorrect
+D: Hydroxocobalamin,['D'],D,D,Correct
+"I: 0% for females, 50% for males",['E'],I,E,Incorrect
+F: An occluded posterior tibial artery on the left foot,['I'],F,I,Incorrect
+C: Deficiency of spectrin and ankyrin in the red cell membrane,['B'],C,B,Incorrect
+J: Decreased serum cortisol concentration,['J'],J,J,Correct
+B: Chronic hepatitis B virus exacerbation,['F'],B,F,Incorrect
+A: Balanced ligamentous tension of the SBS,['H'],A,H,Incorrect
+A: Joint instability,['A'],A,A,Correct
+F: Intravenous hydration,['F'],F,F,Correct
+E: Granulomatosis with polyangiitis,['C'],E,C,Incorrect
+F: Nifedipine,['F'],F,F,Correct
+H: Refer for preconception cardiac optimization,['A'],H,A,Incorrect
+C: Colon cancer,['C'],C,C,Correct
+E: Nerve conduction study of the ulnar nerve,['F'],E,F,Incorrect
+A: Endometrial stroma in the myometrium,['J'],A,J,Incorrect
+I: Piriformis,['A'],I,A,Incorrect
+"A: AA joint extended, rotated left",['G'],A,G,Incorrect
+C: Clindamycin and gentamicin,['C'],C,C,Correct
+E: Obstruction of the cystic duct by a gallstone,['A'],E,A,Incorrect
+C: Order computed tomography of the chest,['F'],C,F,Incorrect
+G: Pyriform sinus fistula,['G'],G,G,Correct
+A: Administration of intravenous hydroxocobalamin,['A'],A,A,Correct
+H: CT scan of the abdomen with contrast,['F'],H,F,Incorrect
+E: Axillary neuropathy,['H'],E,H,Incorrect
+B: Valproate and olanzapine,['B'],B,B,Correct
+C: Letrozole,['D'],C,D,Incorrect
+H: Patellar tendon rupture repair,['G'],H,G,Incorrect
+J: Fat embolism,['F'],J,F,Incorrect
+B: Two vertical axes and one anteroposterior axis,['B'],B,B,Correct
+B: Treatment should be focused on the costovertebral joints of ribs 2-5,['D'],B,D,Incorrect
+F: Iron-deficiency anemia,['B'],F,B,Incorrect
+F: Between periosteum and skull,['H'],F,H,Incorrect
+F: Empiric proton pump inhibitor therapy,['J'],F,J,Incorrect
+H: Body habitus,['A'],H,A,Incorrect
+J: Ambulatory blood pressure monitoring,['B'],J,B,Incorrect
+B: Positive blood cultures,['H'],B,H,Incorrect
+B: Piriformis spasm on the same side as the iliopsoas contracture,['E'],B,E,Incorrect
+"J: If a dry tap occurs, the practitioner should switch anatomic approaches.",['J'],J,J,Correct
+J: Stromal amyloid deposition,['F'],J,F,Incorrect
+D: Obtain CT of the abdomen and pelvis,['D'],D,D,Correct
+E: < 7,['H'],E,H,Incorrect
+"J: Initiation of rifampin, isoniazid, pyrazinamide and ethambutol",['E'],J,E,Incorrect
+"G: Rifabutin, amoxicillin, and omeprazole",['D'],G,D,Incorrect
+A: Linezolid,['D'],A,D,Incorrect
+B: Cricothyroidotomy,['G'],B,G,Incorrect
+B: Methadone,['C'],B,C,Incorrect
+B: CT angiography of the abdomen and pelvis,['C'],B,C,Incorrect
+J: Ovarian suppression and aromatase inhibitor,['J'],J,J,Correct
+H: Perform human leukocyte antigen antibody testing,['H'],H,H,Correct
+"E: L4 neutral, sidebent left, rotated right",['H'],E,H,Incorrect
+B: The sacral base is anterior on the right,['J'],B,J,Incorrect
+D: Initiate prophylactic antibiotics.,['D'],D,D,Correct
+G: Check for lupus anticoagulant,['D'],G,D,Incorrect
+E: Increases more slowly than in an early responding tissue,['F'],E,F,Incorrect
+A: 7.25 | 56 | 44 | 18,['G'],A,G,Incorrect
+D: Hepatic periportal fibrosis,['F'],D,F,Incorrect
+D: Replace the morphine with a different opioid,['D'],D,D,Correct
+"C: Topical lidocaine, sitz baths, and fiber supplements",['G'],C,G,Incorrect
+"H: Rinse the finger in normal saline, wrap the finger in moist gauze, put in a plastic bag, and place the bag in ice water",['H'],H,H,Correct
+F: Carcinoid syndrome with tryptophan depletion,['D'],F,D,Incorrect
+E: Protein malnutrition with vitamin B12 deficiency,['I'],E,I,Incorrect
+H: Piriformis,['C'],H,C,Incorrect
+B: Wilms tumor,['B'],B,B,Correct
+"H: If the false positive rate were decreased, the statistical power would increase",['A'],H,A,Incorrect
+F: Rectovaginal fistula,['F'],F,F,Correct
+A: Endoscopic retrograde cholangiopancreatography,['A'],A,A,Correct
+C: Cellulitis,['F'],C,F,Incorrect
+A: Excision of the cyst,['J'],A,J,Incorrect
+B: Weakness with elbow extension,['E'],B,E,Incorrect
+B: Increased water intake,['F'],B,F,Incorrect
+G: Unstable interpersonal relationships,['A'],G,A,Incorrect
+B: Complete blood count with ferritin level,['H'],B,H,Incorrect
+E: L5 nerve root,['E'],E,E,Correct
+I: Paracentesis,['I'],I,I,Correct
+G: Insulin,['J'],G,J,Incorrect
+A: Radiation-induced endothelial damage,['F'],A,F,Incorrect
+I: Right innominate upslip,['D'],I,D,Incorrect
+G: NSAIDs and physical therapy,['F'],G,F,Incorrect
+G: Pulmonary hypertension,['E'],G,E,Incorrect
+F: Initiate prednisone,['I'],F,I,Incorrect
+B: Family history,['H'],B,H,Incorrect
+A: Second intercostal space near the sternocostal junction,['G'],A,G,Incorrect
+C: Initiate conservative treatment without further investigation,['C'],C,C,Correct
+H: Enhanced antiviral state in neighboring cells,['G'],H,G,Incorrect
+F: Local peer comparison,['F'],F,F,Correct
+C: Primarily bucket handle motion,['C'],C,C,Correct
+D: Medication-induced hyperprolactinemia,['C'],D,C,Incorrect
+J: Fructokinase,['D'],J,D,Incorrect
+"A: ""We need to rule out complications such as obstruction or abscess formation. A CT scan or MRI is warranted at this time.""",['C'],A,C,Incorrect
+A: Start norepinephrine to target a mean arterial-pressure goal,['I'],A,I,Incorrect
+"C: Neutral position, sidebend right with slight rotation left",['J'],C,J,Incorrect
+J: Posterior humeral head,['C'],J,C,Incorrect
+D: Posterior tibial plateau fracture fixation,['J'],D,J,Incorrect
+C: IgG against glycoprotein IIb-IIIa,['I'],C,I,Incorrect
+C: 54-year-old woman with a widened 4-5 intermetatarsal angle and a lateral prominence of the 5th metatarsal head,['C'],C,C,Correct
+B: Assess for urinary retention with bladder scan,['I'],B,I,Incorrect
+G: Contrast enema,['E'],G,E,Incorrect
+B: Start metoprolol tartrate,['H'],B,H,Incorrect
+I: (30/200 - 30/400) / (60/600),['G'],I,G,Incorrect
+E: Duodenal atresia,['G'],E,G,Incorrect
+H: Right inferior pubic shear,['E'],H,E,Incorrect
+A: Eye involvement with cataract and anterior lenticonus happen in the majority of patients,['H'],A,H,Incorrect
+E: Prescribe oral hydroxychloroquine,['B'],E,B,Incorrect
+"C: T6 flexed, rotated left, sidebent right",['H'],C,H,Incorrect
+E: Normal saline with potassium chloride 40 mEq/liter,['G'],E,G,Incorrect
+C: left leg lifted off the table and her left hip and knee brought into flexion,['H'],C,H,Incorrect
+"B: **| Sodium | Potassium | Bicarbonate |
+| --- | --- | --- |
+| ↓ | ↓ | ↓ |**",['A'],B,A,Incorrect
+I: Rectus abdominis strain,['A'],I,A,Incorrect
+B: Upslope of T-wave,['B'],B,B,Correct
+I: Obtain blood cultures x3 sites over 1 hour and start empiric antibiotics,['D'],I,D,Incorrect
+A: Gal-1-phosphate uridyl transferase,['B'],A,B,Incorrect
+D: Molecular mimicry leading to demyelination of peripheral nerves,['A'],D,A,Incorrect
+D: The sacrum is rotated to the opposite side of its axis,['E'],D,E,Incorrect
+"D: Patient lying right lateral recumbent, with their lower arm pulled down and away from you",['F'],D,F,Incorrect
+J: Vitamin B12 deficiency,['I'],J,I,Incorrect
+J: Chest x-ray,['C'],J,C,Incorrect
+F: The new drug is unlikely to have a clinically significant impact on patient outcome,['F'],F,F,Correct
+F: passive extension with left sidebending and left rotation,['F'],F,F,Correct
+I: Intravenous fluids and subcutaneous insulin,['D'],I,D,Incorrect
+"E: Rest, followed by physical therapy",['E'],E,E,Correct
+B: Vision screening | Hearing test | Scoliosis screening | Dental health discussion,['A'],B,A,Incorrect
+G: lower risk of synostosis,['G'],G,G,Correct
+C: Subtalar supination occurs simultaneously with transverse tarsal joint locking,['I'],C,I,Incorrect
+I: Perimysial inflammation with perivascular CD4+ T lymphocytic infiltration,['D'],I,D,Incorrect
+C: Glycogen depletion,['C'],C,C,Correct
+E: Transvaginal ultrasound,['J'],E,J,Incorrect
+E: Administer ampicillin-sulbactam,['H'],E,H,Incorrect
+J: Chlamydia trachomatis,['I'],J,I,Incorrect
+F: Iron,['F'],F,F,Correct
+I: Decreased leptin level,['A'],I,A,Incorrect
+J: CT head,['A'],J,A,Incorrect
+C: Alteplase,['A'],C,A,Incorrect
+F: Superior-lateral,['A'],F,A,Incorrect
+J: Magnesium,['G'],J,G,Incorrect
+B: No further workup,['A'],B,A,Incorrect
+A: GBS rectovaginal swab,['H'],A,H,Incorrect
+G: Switch blood pressure medication to losartan,['G'],G,G,Correct
+G: Perform uterine tamponade,['C'],G,C,Incorrect
+B: Schizophrenia,['F'],B,F,Incorrect
+"H: Neck is sidebent right and rotated left, force of thrust posterior to anterior and caudad",['H'],H,H,Correct
+B: Increased oxygen diffusion into the capillaries,['B'],B,B,Correct
+G: Unknown uterine scar type from prior surgery,['F'],G,F,Incorrect
+B: Serratus anterior,['J'],B,J,Incorrect
+F: Labeled single-stranded DNA,['C'],F,C,Incorrect
+E: Initiate prednisone 15 mg daily,['D'],E,D,Incorrect
+G: follow-up with x-ray in one year,['H'],G,H,Incorrect
+G: Late acceleration phase,['C'],G,C,Incorrect
+A: Interview the mother to evaluate for possible sexual abuse,['A'],A,A,Correct
+D: Factor XII deficiency,['A'],D,A,Incorrect
+J: Type 4 RTA from hyporeninemic hypoaldosteronism,['D'],J,D,Incorrect
+B: Viscero-somatic reflex,['I'],B,I,Incorrect
+"H: His total weekly hours must not exceed 80, including moonlighting",['A'],H,A,Incorrect
+"G: Nigro protocol chemoradiotherapy, with APR reserved for salvage.",['J'],G,J,Incorrect
+I: Excessive preload reduction,['A'],I,A,Incorrect
+J: Thyroid hormone therapy,['A'],J,A,Incorrect
+D: Standard precautions,['J'],D,J,Incorrect
+A: Posterosuperior,['A'],A,A,Correct
+"I: Methylprednisolone, plasmapheresis, and cyclophosphamide",['I'],I,I,Correct
+D: Anti-glutamic acid decarboxylase,['H'],D,H,Incorrect
+B: Fresh frozen plasma,['B'],B,B,Correct
+I: Cavernous hemangioma,['I'],I,I,Correct
+"D: Compartment 1: Extensor pollicis longus, abductor pollicis longus",['H'],D,H,Incorrect
+D: Proton pump inhibitors,['E'],D,E,Incorrect
+H: Peripheral nerve glycation,['J'],H,J,Incorrect
+B: Expanded CAG trinucleotide repeat on genetic testing,['F'],B,F,Incorrect
+B: High anion gap metabolic acidosis,['G'],B,G,Incorrect
+H: Alpha-thalassemia major,['G'],H,G,Incorrect
+A: The patient is experiencing symptoms consistent with the late stages of imminent death.,['H'],A,H,Incorrect
+D: right-on-left sacral torsion,['G'],D,G,Incorrect
+F: Right exhalation dysfunction that should be addressed with muscle energy to rib 1,['F'],F,F,Correct
+E: Transvaginal ultrasound,['D'],E,D,Incorrect
+E: HFE gene mutation analysis,['I'],E,I,Incorrect
+"B: Patient right lateral recumbent, right foot hooks into the left popliteal fossa, torso rotated toward the ceiling",['J'],B,J,Incorrect
+C: Fractional excretion of sodium Na+ (FENa+),['J'],C,J,Incorrect
+D: Prospective comparative study,['F'],D,F,Incorrect
+B: Renal cell carcinoma,['I'],B,I,Incorrect
+C: Colon cancer,['C'],C,C,Correct
+F: Superior clavicle at the sternoclavicular joint,['G'],F,G,Incorrect
+A: Karyotype analysis with Y chromosome probes,['D'],A,D,Incorrect
+C: Initiate treatment with levodopa,['G'],C,G,Incorrect
+A: Counterstrain technique,['I'],A,I,Incorrect
+D: Reduced hepatic clearance,['E'],D,E,Incorrect
+I: CT scan of the abdomen and pelvis,['J'],I,J,Incorrect
+J: Anterior scalene,['F'],J,F,Incorrect
+A: Midstance,['A'],A,A,Correct
+F: The superior aspect of the rib angle of rib 5,['J'],F,J,Incorrect
+I: Normal saline,['F'],I,F,Incorrect
+I: Thyroid-stimulating hormone and prolactin tests,['E'],I,E,Incorrect
+I: Methimazole,['F'],I,F,Incorrect
+D: Insert an intrauterine device,['G'],D,G,Incorrect
+F: Perform the GnRH stimulation test to see the LH response,['A'],F,A,Incorrect
+B: Flumazenil,['B'],B,B,Correct
+"F: Severe scoliosis, concerning for respiratory and cardiovascular compromise",['H'],F,H,Incorrect
+G: One anteroposterior axis,['I'],G,I,Incorrect
+J: AA RR,['I'],J,I,Incorrect
+E: Admission to the hospital and administration of intravenous ceftriaxone,['B'],E,B,Incorrect
+A: Left-on-right backward sacral torsion,['A'],A,A,Correct
+A: Left superior pubic shear,['G'],A,G,Incorrect
+I: Obtain long leg alignment films for pre-op planning,['I'],I,I,Correct
+E: Lymphogranuloma venereum,['H'],E,H,Incorrect
+G: Mesothelioma,['G'],G,G,Correct
+B: Continuous venous rewarming,['A'],B,A,Incorrect
+H: Transfer to operating room immediately,['G'],H,G,Incorrect
+A: Ceftriaxone and doxycycline,['B'],A,B,Incorrect
+A: Structural thoracic dextroscoliosis with lumbar levoscoliosis,['A'],A,A,Correct
+C: Developmental dysplasia of the hip,['A'],C,A,Incorrect
+B: Galbreath technique,['B'],B,B,Correct
+H: Prolonged rupture of membranes,['C'],H,C,Incorrect
+"H: Absent | High | 46,XY",['D'],H,D,Incorrect
+F: Obturator nerve entrapment,['D'],F,D,Incorrect
+I: Measurement of ankle-brachial index,['H'],I,H,Incorrect
+D: Consider surgical evaluation for temporal lobe resection,['G'],D,G,Incorrect
+F: Polysomnography,['A'],F,A,Incorrect
+"B: Begin by extending the spine to C4, sidebend to the right, rotate to the right, add axial compression, then bring the cervical spine toward flexion, left sidebending, and left rotation to that segment.",['B'],B,B,Correct
+G: High tibial osteotomy to decrease tibial slope and correct varus malalignment; reconstruction of the PCL & PLC,['D'],G,D,Incorrect
+E: Combined flexion-rotation,['B'],E,B,Incorrect
+I: Orthostatic hypotension,['B'],I,B,Incorrect
+B: Neonatal vaccination and HBIG,['B'],B,B,Correct
+A: S3 gallop at the apex,['B'],A,B,Incorrect
+J: Sidebend thorax to either side for fine-tuning,['C'],J,C,Incorrect
+B: Weight gain from water retention,['H'],B,H,Incorrect
+A: “Why don’t you tell me what you’ve been told so far?”,['I'],A,I,Incorrect
+H: Semaglutide,['C'],H,C,Incorrect
+A: Giardiasis,['D'],A,D,Incorrect
+E: IV cefepime,['J'],E,J,Incorrect
+F: Hypocalcemia due to parathyroid hypoplasia,['B'],F,B,Incorrect
+G: Along the costal margin at the midclavicular line,['D'],G,D,Incorrect
+H: Intravenous vancomycin for 2 weeks followed by oral linezolid for 2 weeks,['G'],H,G,Incorrect
+"B: High perfusion, low ventilation, low V/Q ratio",['D'],B,D,Incorrect
+B: Mesothelioma,['D'],B,D,Incorrect
+B: Initiate prophylaxis with proton pump inhibitors for stress ulcer prevention,['A'],B,A,Incorrect
+C: Magnetic resonance imaging,['G'],C,G,Incorrect
+"H: hip extension, knee flexion",['H'],H,H,Correct
+D: Normal development,['F'],D,F,Incorrect
+H: TMP-SMX,['H'],H,H,Correct
+F: Neurosurgical consultation,['F'],F,F,Correct
+J: Perform additional posterior femoral resection,['H'],J,H,Incorrect
+H: Inhalation dysfunction of the right 5th rib,['H'],H,H,Correct
+D: Mixed alpha/beta adrenergic agonist,['A'],D,A,Incorrect
+B: Angiotensin receptor blocker (ARB) and a thiazide diuretic,['I'],B,I,Incorrect
+D: Kocher Langenbach,['F'],D,F,Incorrect
+B: Vitamin D deficiency,['E'],B,E,Incorrect
+F: Oral pantoprazole,['B'],F,B,Incorrect
+I: Overflow proteinuria,['I'],I,I,Correct
+E: Oral azithromycin,['A'],E,A,Incorrect
+J: Lumbar puncture demonstrating oligoclonal bands,['J'],J,J,Correct
+B: Inhibit peripheral conversion of androgens to estrogen,['B'],B,B,Correct
+F: Immediate transfer to the operating room,['F'],F,F,Correct
+"D: You plantarflex the ankle and evert it to the barrier, then ask her to invert against resistance",['H'],D,H,Incorrect
+D: Admission for inpatient observation,['J'],D,J,Incorrect
+F: Anteroposterior,['F'],F,F,Correct
+G: Maternal consumption of unpasteurized cheese during pregnancy,['G'],G,G,Correct
+E: Diagnostic angiogram with thrombectomy; Echocardiogram,['C'],E,C,Incorrect
+E: Seizure-related muscle breakdown,['G'],E,G,Incorrect
+C: Lengthened keel multi-axial dynamic-response foot,['B'],C,B,Incorrect
+I: Magnetic resonance imaging (MRI) of the spine,['J'],I,J,Incorrect
+H: Lateral strain,['H'],H,H,Correct
+H: Prematurity,['B'],H,B,Incorrect
+G: Chronic mesenteric ischemia,['J'],G,J,Incorrect
+I: Seminoma is more sensitive to radiation therapy and chemotherapy than nonseminoma germ cell tumors.,['I'],I,I,Correct
+B: Bilateral hilar lymphadenopathy,['H'],B,H,Incorrect
+G: Delayed cord clamping,['F'],G,F,Incorrect
+I: Lipoprotein lipase,['I'],I,I,Correct
+F: Oral iron supplementation,['D'],F,D,Incorrect
+A: The new drug has the same efficacy as the standard of treatment,['H'],A,H,Incorrect
+D: RNA primer degradation,['D'],D,D,Correct
+G: Continue lithium monotherapy,['G'],G,G,Correct
+E: Start empiric treatment with azithromycin,['D'],E,D,Incorrect
+F: Critical limb ischemia requiring amputation,['G'],F,G,Incorrect
+G: Gait ataxia,['D'],G,D,Incorrect
+D: ESRRL,['A'],D,A,Incorrect
+I: Renal biopsy,['I'],I,I,Correct
+G: Cutaneous leishmaniasis,['E'],G,E,Incorrect
+G: X-ray of the ankle,['H'],G,H,Incorrect
+G: Surgical exploration,['G'],G,G,Correct
+I: Serum prolactin level,['B'],I,B,Incorrect
+C: 78-year-old man with dyspnea and LBBB on ECG,['F'],C,F,Incorrect
+G: Risperidone,['G'],G,G,Correct
+G: Sickle-shaped erythrocytes,['I'],G,I,Incorrect
+D: Nitroglycerin,['A'],D,A,Incorrect
+B: HPV vaccination,['J'],B,J,Incorrect
+F: The occiput and sphenoid rotate in opposite directions around an anteroposterior axis,['A'],F,A,Incorrect
+F: Misoprostol,['I'],F,I,Incorrect
+F: Experimental animal study,['D'],F,D,Incorrect
+I: Obtain permission from the patient to have the son act as an interpreter,['A'],I,A,Incorrect
+C: Vascular,['A'],C,A,Incorrect
+D: Focused abdominal sonography for trauma exam,['A'],D,A,Incorrect
+C: Prescribe a proton pump inhibitor and continue the current ibuprofen dose,['I'],C,I,Incorrect
+H: 200 mL,['B'],H,B,Incorrect
+F: Ovarian torsion,['G'],F,G,Incorrect
+C: Digital rectal examination and prostate-specific antigen test,['C'],C,C,Correct
+B: Perform aspiration of the mass with a needle,['H'],B,H,Incorrect
+G: Androgens in the adrenal gland,['C'],G,C,Incorrect
+B: Orthostatic hypotension,['J'],B,J,Incorrect
+B: Immediate ophthalmology consultation,['A'],B,A,Incorrect
+G: Diagnostic abdominal paracentesis,['G'],G,G,Correct
+B: Ureaplasma urealyticum,['B'],B,B,Correct
+J: Increased indirect bilirubin in serum,['A'],J,A,Incorrect
+C: CD4+ T cell-mediated intimal smooth muscle proliferation,['C'],C,C,Correct
+I: Hemoglobin electrophoresis,['A'],I,A,Incorrect
+H: Schistosoma serology test,['J'],H,J,Incorrect
+H: 5 cm / 50% / -1 cm | 6 hours | Ruptured | 240,['B'],H,B,Incorrect
+D: Ovarian cyst rupture,['H'],D,H,Incorrect
+H: Medial displaced bucket-handle tear,['E'],H,E,Incorrect
+F: PCR amplification of viral DNA,['G'],F,G,Incorrect
+A: Elevated serum vascular endothelial growth factor,['G'],A,G,Incorrect
+F: Ingestion of acetazolamide,['E'],F,E,Incorrect
+E: Glecaprevir/pibrentasvir combination,['C'],E,C,Incorrect
+F: Trial of neck stretching exercises,['G'],F,G,Incorrect
+D: Quetiapine,['E'],D,E,Incorrect
+E: Renal ultrasound,['E'],E,E,Correct
+B: Inhaled umeclidinium and vilanterol,['B'],B,B,Correct
+C: Colonoscopy at the age of 40 years,['E'],C,E,Incorrect
+I: Wernicke's area,['C'],I,C,Incorrect
+J: Neutrophilic capillaritis,['J'],J,J,Correct
+F: Infection with an organism not covered by the current antibiotics,['G'],F,G,Incorrect
+A: Salicylate toxicity,['B'],A,B,Incorrect
+H: Pancreatic mass with bile duct compression,['E'],H,E,Incorrect
+C: Conduct a root-cause analysis,['C'],C,C,Correct
+E: Tibial nerve,['C'],E,C,Incorrect
+I: Measurement of vitamin B12 concentration,['F'],I,F,Incorrect
+B: Measure the titer of the anti-I and anti-Lea antibodies,['E'],B,E,Incorrect
+J: Biliary atresia progression,['A'],J,A,Incorrect
+E: Incomplete disc space preparation,['F'],E,F,Incorrect
+A: Adenosine antagonist,['A'],A,A,Correct
+C: Poorly formed granulomas with scattered multinucleated giant cells,['J'],C,J,Incorrect
+D: Anterolateral tibial tubercle osteotomy,['G'],D,G,Incorrect
+C: Administer glucagon,['C'],C,C,Correct
+J: Retinopathy,['J'],J,J,Correct
+"G: Discontinue mirabegron, and recommend nonpharmacologic management with bladder training",['E'],G,E,Incorrect
+A: A 7-year-old boy with a highly comminuted mid-diaphyseal femur fracture,['A'],A,A,Correct
+"G: Normal gross motor, normal fine motor, and normal social developmental milestones",['G'],G,G,Correct
+A: Computed tomography of the abdomen,['A'],A,A,Correct
+F: X-linked,['F'],F,F,Correct
+C: Rapid sequence intubation,['B'],C,B,Incorrect
+D: anterior fibular head dysfunction,['D'],D,D,Correct
+E: Apnea test,['G'],E,G,Incorrect
+G: Decreased sulfonylurea clearance,['B'],G,B,Incorrect
+E: Ceftriaxone and hospital admission,['I'],E,I,Incorrect
+D: Serratus anterior,['I'],D,I,Incorrect
+G: Secondary hyperparathyroidism due to chronic kidney disease,['A'],G,A,Incorrect
+G: Serial transvaginal ultrasounds starting at 16 weeks gestation,['F'],G,F,Incorrect
+F: Left on right backward sacral torsion,['F'],F,F,Correct
+"H: Normal saline, insulin, and potassium",['E'],H,E,Incorrect
+G: Memantine,['B'],G,B,Incorrect
+"E: Inactivated poliovirus, measles-mumps-rubella, and varicella-zoster virus",['G'],E,G,Incorrect
+E: Initiate treatment under the principle of implied consent for emergency situations,['G'],E,G,Incorrect
+B: .15,['B'],B,B,Correct
+H: Posterior spinal fusion should be performed if the curve progresses to greater than 55 degrees,['I'],H,I,Incorrect
+B: Right-sided systolic-diastolic abdominal bruit,['G'],B,G,Incorrect
+"C: Perform a lumbar puncture and initiate cefotaxime and vancomycin, with consideration of dexamethasone",['C'],C,C,Correct
+C: 0.45% saline IV,['G'],C,G,Incorrect
+G: Ventilation/perfusion (V/Q) scan,['J'],G,J,Incorrect
+E: Perform CT of the head,['E'],E,E,Correct
+A: Defective fetal development of the third and fourth pharyngeal pouches,['D'],A,D,Incorrect
+E: Cystoscopy,['G'],E,G,Incorrect
+B: The right lateral recumbent position with both arms crossed over chest,['E'],B,E,Incorrect
+D: Dipyridamole,['D'],D,D,Correct
+I: Confront the colleague in private,['G'],I,G,Incorrect
+J: Epidural abscess formation,['H'],J,H,Incorrect
+B: Direct replantation,['I'],B,I,Incorrect
+B: Administration of IV antibiotics with ceftriaxone,['E'],B,E,Incorrect
+A: Axial-rotational axis,['F'],A,F,Incorrect
+B: Atenolol,['A'],B,A,Incorrect
+A: Ensure proper hydration and prescribe a beta-blocker,['A'],A,A,Correct
+F: Valacyclovir,['H'],F,H,Incorrect
+F: IV fluids and emergency surgery,['H'],F,H,Incorrect
+B: flexion and adduction,['F'],B,F,Incorrect
+F: Systemic lupus erythematosus,['B'],F,B,Incorrect
+"I: Right lateral recumbent, torso extended and rotated left",['J'],I,J,Incorrect
+D: The patient has an inhalation rib dysfunction; treatment should be directed to rib 7.,['J'],D,J,Incorrect
+D: Serum FSH and LH levels,['B'],D,B,Incorrect
+I: Prior incision,['E'],I,E,Incorrect
+E: Flexible laryngoscopy,['J'],E,J,Incorrect
+J: Eculizumab administration,['C'],J,C,Incorrect
+E: Plantarflexion and eversion,['A'],E,A,Incorrect
+C: Install a bedside commode and implement hourly rounding,['B'],C,B,Incorrect
+I: Central hypothyroidism,['J'],I,J,Incorrect
+A: Serum antibody testing,['A'],A,A,Correct
+D: Refer for audiology evaluation now,['F'],D,F,Incorrect
+C: Infantile colic,['J'],C,J,Incorrect
+E: Precordial catch syndrome,['E'],E,E,Correct
+I: -5 cmH2O,['J'],I,J,Incorrect
+E: Assess cervical length via ultrasonography,['J'],E,J,Incorrect
+D: Ovarian teratoma,['D'],D,D,Correct
+D: Initiation of high-intensity statin therapy,['J'],D,J,Incorrect
+I: Fixed coronary artery stenosis,['H'],I,H,Incorrect
+E: Hypokalemic metabolic alkalosis,['G'],E,G,Incorrect
+D: Recurrent kidney stones,['C'],D,C,Incorrect
+E: Surgical consultation,['A'],E,A,Incorrect
+D: Request the patient's permission to perform an HIV nucleic acid amplification test,['F'],D,F,Incorrect
+H: The patient’s obstetric history,['C'],H,C,Incorrect
+I: Trial of living away from the residence,['I'],I,I,Correct
+B: Apnea testing,['B'],B,B,Correct
+A: Liver function tests including bilirubin levels,['G'],A,G,Incorrect
+G: Exhalation dysfunction of ribs 2 through 5,['G'],G,G,Correct
+E: Stimulants increase anaerobic performance.,['E'],E,E,Correct
+"J: Clean site (including any clots) to identify source of bleeding, as most cases are caused by irritation of granulation tissue",['I'],J,I,Incorrect
+B: Frameshift mutation,['G'],B,G,Incorrect
+E: Aspiration event,['D'],E,D,Incorrect
+I: Measurement of 17-hydroxyprogesterone level,['J'],I,J,Incorrect
+E: Observation alone,['E'],E,E,Correct
+E: Postoperative urinary retention due to anesthesia,['J'],E,J,Incorrect
+B: Lactate dehydrogenase level of 250 U/L,['E'],B,E,Incorrect
+C: Coronary artery calcification,['J'],C,J,Incorrect
+E: Occipitoatlantal junction,['J'],E,J,Incorrect
+I: Left atrial appendage thrombus,['F'],I,F,Incorrect
+B: The resident should start carbamazepine,['B'],B,B,Correct
+C: Admission for digoxin therapy,['C'],C,C,Correct
+F: Predamaged heart valve,['B'],F,B,Incorrect
+D: Implementation of a galactose-restricted diet,['I'],D,I,Incorrect
+I: Vertebral compression fracture,['A'],I,A,Incorrect
+A: Pheochromocytoma,['G'],A,G,Incorrect
+A: Prescribe azithromycin,['A'],A,A,Correct
+E: Osteonecrosis,['I'],E,I,Incorrect
+E: Factor X,['E'],E,E,Correct
+D: Intrinsic tightness,['D'],D,D,Correct
+H: Guillain-Barré syndrome following a diarrheal illness,['C'],H,C,Incorrect
+F: Increased serotonin production,['C'],F,C,Incorrect
+H: Magnesium,['H'],H,H,Correct
+"D: Anticardiolipin antibody now and in three months, regardless of initial test results",['H'],D,H,Incorrect
+B: A significant number of patients with this syndrome have had a viral infection recently with varicella or influenza found to be the most common association but any relation to salicylate use in these patients.,['I'],B,I,Incorrect
+F: 0.45% saline plus 40 mEq/liter potassium chloride,['B'],F,B,Incorrect
+C: Fecal calprotectin measurement,['E'],C,E,Incorrect
+D: Bilateral renal artery stenosis,['D'],D,D,Correct
+G: Insert percutaneous nephrostomy tube,['A'],G,A,Incorrect
+H: T12–L2,['H'],H,H,Correct
+C: lateral and proximal,['I'],C,I,Incorrect
+F: Focused physical therapy on aggressive ROM exercises and modalities,['D'],F,D,Incorrect
+D: Parathyroidectomy,['I'],D,I,Incorrect
+G: Lumbar puncture,['B'],G,B,Incorrect
+B: Cystoscopy to rule out malignancy,['G'],B,G,Incorrect
+A: Excessive mobilization of fatty acids,['A'],A,A,Correct
+H: Increased chloride in the patient's sweat,['B'],H,B,Incorrect
+C: Ferritin level,['J'],C,J,Incorrect
+F: Hepatitis B and C,['F'],F,F,Correct
+F: Craniopharyngioma,['F'],F,F,Correct
+H: Development of tolerance,['G'],H,G,Incorrect
+G: Obsessive-compulsive personality disorder (OCPD),['F'],G,F,Incorrect
+G: Serum uric acid,['G'],G,G,Correct
+C: High-fiber diet and lifestyle modification,['B'],C,B,Incorrect
+H: They can result in a Stener-type lesion,['G'],H,G,Incorrect
+"D: Intravenous vancomycin, metronidazole, and cefepime",['D'],D,D,Correct
+B: Consult the ethics committee.,['C'],B,C,Incorrect
+F: Hormone testing,['F'],F,F,Correct
+J: Bile duct loss in more than 50% of the portal tracts,['J'],J,J,Correct
+E: Compression stocking therapy,['D'],E,D,Incorrect
+A: Use of a long intramedullary nail with a small diameter,['J'],A,J,Incorrect
+A: Initiate treatment with colchicine,['E'],A,E,Incorrect
+G: Vitamin K deficiency,['C'],G,C,Incorrect
+E: Obtain an echocardiogram,['E'],E,E,Correct
+F: Hypomagnesemia,['F'],F,F,Correct
+B: Observer bias,['J'],B,J,Incorrect
+C: Administration of vasopressors,['E'],C,E,Incorrect
+I: Tiotropium and olodaterol,['J'],I,J,Incorrect
+B: 30,['D'],B,D,Incorrect
+J: Positive blood cultures for MRSA,['B'],J,B,Incorrect
+H: Transverse axis,['I'],H,I,Incorrect
+J: Right lateral strain,['G'],J,G,Incorrect
+B: Bridge with unfractionated heparin and monitor aPTT levels until surgery,['H'],B,H,Incorrect
+G: Metformin,['G'],G,G,Correct
+C: Pyrazinamide,['C'],C,C,Correct
+E: Basement membrane thickening,['D'],E,D,Incorrect
+H: Radioiodine therapy,['C'],H,C,Incorrect
+J: Urine toxicology screen,['H'],J,H,Incorrect
+F: Oxidation of hemoglobin,['F'],F,F,Correct
+B: Vitamin deficiency,['D'],B,D,Incorrect
+"D: Prophylactic platelet transfusions should be given for adult patients receiving autologous hematopoietic stem cell transplants if the platelet count should fall below 10,000 cells/µL",['I'],D,I,Incorrect
+D: Plantar fasciitis with navicular drop,['E'],D,E,Incorrect
+G: Eliminate fructose and sucrose,['F'],G,F,Incorrect
+D: Methylene blue instillation into the bladder,['D'],D,D,Correct
+F: Initiate therapeutic hypothermia,['E'],F,E,Incorrect
+I: 0.3 mL of intramuscular epinephrine at 1 mg/mL concentration,['I'],I,I,Correct
+G: Alloimmunization cannot occur; anti-D immune globulin is not indicated.,['B'],G,B,Incorrect
+"A: Stop warfarin and start unfractionated heparin now, discontinue 4-6 hours prior to surgery",['E'],A,E,Incorrect
+A: Right unilateral sacral flexion,['D'],A,D,Incorrect
+E: Left lateral Sims position with both legs off the table,['J'],E,J,Incorrect
+H: A 75-year-old Japanese female with hypertension and diabetes,['B'],H,B,Incorrect
+F: CT angiogram of the head and neck,['D'],F,D,Incorrect
+H: T1-T4,['E'],H,E,Incorrect
+E: Fluid resuscitation,['E'],E,E,Correct
+I: Matched ventilation-perfusion defects in bilateral lower lobes,['F'],I,F,Incorrect
+"B: Persistent pain despite non-operative treatment and ""hot"" on bone scan",['I'],B,I,Incorrect
+F: Syncytiotrophoblastic giant cells with multiple nuclei,['A'],F,A,Incorrect
+G: Sequestration of platelets in the spleen,['F'],G,F,Incorrect
+A: Bicarbonate,['A'],A,A,Correct
+D: Alternating rotations starting with right at OA junction,['J'],D,J,Incorrect
+D: Administering a single dose of IV methylprednisolone preoperatively,['F'],D,F,Incorrect
+E: Symptomatic presentation,['H'],E,H,Incorrect
+"E: 3D CRT, VMAT, fixed-gantry IMRT",['E'],E,E,Correct
+D: Administer oral diazepam and observe for 6 hours,['C'],D,C,Incorrect
+B: Refer for aortic valve replacement,['H'],B,H,Incorrect
+D: Measure testosterone levels,['B'],D,B,Incorrect
+B: Common variable immunodeficiency,['H'],B,H,Incorrect
+F: Contemplation,['G'],F,G,Incorrect
+G: Iron chelation,['C'],G,C,Incorrect
+F: Presence of cervical lymphadenopathy on the contralateral side,['E'],F,E,Incorrect
+"F: No treatment, change the catheter in accordance with hospital policy",['F'],F,F,Correct
+D: IgA nephropathy,['J'],D,J,Incorrect
+H: Duodenal ulcer,['C'],H,C,Incorrect
+H: Lack of a comparison group,['F'],H,F,Incorrect
+B: Salt retention,['B'],B,B,Correct
+D: Arthrocentesis,['I'],D,I,Incorrect

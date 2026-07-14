@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+58.86344892728502,"She was delivered preterm at 35 weeks, and her medical history is significant for several ear infections over the last year.",246,MedBullets_df_op4_Q247,B
+46.820764660835266,She seems distracted during the interview and responds only intermittently to the physician’s directions.,246,MedBullets_df_op4_Q247,B
+45.219113066297055,"Her temperature is 98.6°F (37°C), blood pressure is 98/62 mmHg, pulse is 97/min, and respirations are 26/min.",246,MedBullets_df_op4_Q247,B
+44.734673048489825,The patient has become more withdrawn lately and has sometimes been ignoring her parents when asked to perform tasks at home.,246,MedBullets_df_op4_Q247,B
+39.960248706153095,"Her older brother has been diagnosed with attention-deficit hyperactivity disorder (ADHD), but the rest of her family history is otherwise unremarkable.",246,MedBullets_df_op4_Q247,B
+39.17301916648004,"Otherwise, the patient is energetic and started preschool 3 months ago.",246,MedBullets_df_op4_Q247,B
+30.261658959047903,"Her neurological examination is normal, and she is at the 50th percentile for height and weight.",246,MedBullets_df_op4_Q247,B
+17.379768013944563,A 3-year-old girl is brought to the office for a routine well-child appointment.,246,MedBullets_df_op4_Q247,B
+12.855209657553706,This seems to have worsened over the last 8 weeks.,246,MedBullets_df_op4_Q247,B
+3.370068887819093,Her language skills are unchanged from her appointment 6 months ago.,246,MedBullets_df_op4_Q247,B

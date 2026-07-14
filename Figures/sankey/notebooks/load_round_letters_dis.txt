@@ -1,0 +1,542 @@
+   2 LOAD_FAST                      model_name
+   4 LOAD_CONST                     'GPT4o'
+   6 COMPARE_OP                     bool(==)
+  10 POP_JUMP_IF_FALSE              to L1
+  14 LOAD_FAST                      round_kind
+  16 LOAD_CONST                     'r1'
+  18 COMPARE_OP                     bool(==)
+  22 POP_JUMP_IF_FALSE              to L1
+  26 LOAD_FAST                      repo
+  28 LOAD_CONST                     'After_PT_Removal'
+  30 BINARY_OP                      /
+  34 LOAD_CONST                     'GPT4o'
+  36 BINARY_OP                      /
+  40 LOAD_CONST                     'results'
+  42 BINARY_OP                      /
+  46 LOAD_CONST                     'predictions'
+  48 BINARY_OP                      /
+  52 LOAD_CONST                     'gpt4o_predictions_Original_Accuracy.csv'
+  54 BINARY_OP                      /
+  58 STORE_FAST                     p
+  60 LOAD_GLOBAL                    pd
+  70 LOAD_ATTR                      read_csv
+  90 PUSH_NULL                      
+  92 LOAD_FAST                      p
+  94 LOAD_CONST                     'Origin'
+  96 LOAD_CONST                     'gpt_direct_prediction'
+  98 BUILD_LIST                     
+ 100 LOAD_CONST                     ('usecols',)
+ 102 CALL_KW                        
+ 104 LOAD_ATTR                      copy + NULL|self
+ 124 CALL                           
+ 132 STORE_FAST                     df
+ 134 LOAD_FAST                      df
+ 136 LOAD_CONST                     'gpt_direct_prediction'
+ 138 BINARY_SUBSCR                  
+ 142 LOAD_ATTR                      apply + NULL|self
+ 162 LOAD_GLOBAL                    extract_letter
+ 172 CALL                           
+ 180 LOAD_FAST                      df
+ 182 LOAD_CONST                     'letter'
+ 184 STORE_SUBSCR                   
+ 188 EXTENDED_ARG                   
+ 190 JUMP_FORWARD                   to L13
+ 192 LOAD_FAST                      model_name
+ 194 LOAD_CONST                     'GPT4o'
+ 196 COMPARE_OP                     bool(==)
+ 200 POP_JUMP_IF_FALSE              to L2
+ 204 LOAD_FAST                      round_kind
+ 206 LOAD_CONST                     'r2'
+ 208 COMPARE_OP                     bool(==)
+ 212 POP_JUMP_IF_FALSE              to L2
+ 216 LOAD_FAST                      repo
+ 218 LOAD_CONST                     'After_PT_Removal'
+ 220 BINARY_OP                      /
+ 224 LOAD_CONST                     'GPT4o'
+ 226 BINARY_OP                      /
+ 230 LOAD_CONST                     'results'
+ 232 BINARY_OP                      /
+ 236 LOAD_CONST                     'predictions'
+ 238 BINARY_OP                      /
+ 242 LOAD_CONST                     'gpt4o_predictions_on_trainee_irr_removed.csv'
+ 244 BINARY_OP                      /
+ 248 STORE_FAST                     p
+ 250 LOAD_GLOBAL                    pd
+ 260 LOAD_ATTR                      read_csv
+ 280 PUSH_NULL                      
+ 282 LOAD_FAST                      p
+ 284 LOAD_CONST                     'Origin'
+ 286 LOAD_CONST                     'gpt_direct_prediction'
+ 288 BUILD_LIST                     
+ 290 LOAD_CONST                     ('usecols',)
+ 292 CALL_KW                        
+ 294 LOAD_ATTR                      copy + NULL|self
+ 314 CALL                           
+ 322 STORE_FAST                     df
+ 324 LOAD_FAST                      df
+ 326 LOAD_CONST                     'gpt_direct_prediction'
+ 328 BINARY_SUBSCR                  
+ 332 LOAD_ATTR                      apply + NULL|self
+ 352 LOAD_GLOBAL                    extract_letter
+ 362 CALL                           
+ 370 LOAD_FAST                      df
+ 372 LOAD_CONST                     'letter'
+ 374 STORE_SUBSCR                   
+ 378 EXTENDED_ARG                   
+ 380 JUMP_FORWARD                   to L13
+ 382 LOAD_FAST                      model_name
+ 384 LOAD_CONST                     'GPT 5'
+ 386 COMPARE_OP                     bool(==)
+ 390 POP_JUMP_IF_FALSE              to L3
+ 394 LOAD_FAST                      round_kind
+ 396 LOAD_CONST                     'r1'
+ 398 COMPARE_OP                     bool(==)
+ 402 POP_JUMP_IF_FALSE              to L3
+ 406 LOAD_FAST                      repo
+ 408 LOAD_CONST                     'After_PT_Removal'
+ 410 BINARY_OP                      /
+ 414 LOAD_CONST                     'GPT5'
+ 416 BINARY_OP                      /
+ 420 LOAD_CONST                     'results'
+ 422 BINARY_OP                      /
+ 426 LOAD_CONST                     'predictions'
+ 428 BINARY_OP                      /
+ 432 LOAD_CONST                     'gpt5_predictions_Original_Accuracy.csv'
+ 434 BINARY_OP                      /
+ 438 STORE_FAST                     p
+ 440 LOAD_GLOBAL                    pd
+ 450 LOAD_ATTR                      read_csv
+ 470 PUSH_NULL                      
+ 472 LOAD_FAST                      p
+ 474 LOAD_CONST                     'ID_corr'
+ 476 LOAD_CONST                     'majority_vote'
+ 478 BUILD_LIST                     
+ 480 LOAD_CONST                     ('usecols',)
+ 482 CALL_KW                        
+ 484 LOAD_ATTR                      copy + NULL|self
+ 504 CALL                           
+ 512 STORE_FAST                     df
+ 514 LOAD_FAST                      df
+ 516 LOAD_ATTR                      rename + NULL|self
+ 536 LOAD_CONST                     'ID_corr'
+ 538 LOAD_CONST                     'Origin'
+ 540 BUILD_MAP                      
+ 542 LOAD_CONST                     ('columns',)
+ 544 CALL_KW                        
+ 546 STORE_FAST                     df
+ 548 LOAD_FAST                      df
+ 550 LOAD_CONST                     'majority_vote'
+ 552 BINARY_SUBSCR                  
+ 556 LOAD_ATTR                      apply + NULL|self
+ 576 LOAD_GLOBAL                    extract_letter
+ 586 CALL                           
+ 594 LOAD_FAST                      df
+ 596 LOAD_CONST                     'letter'
+ 598 STORE_SUBSCR                   
+ 602 EXTENDED_ARG                   
+ 604 JUMP_FORWARD                   to L13
+ 606 LOAD_FAST                      model_name
+ 608 LOAD_CONST                     'GPT 5'
+ 610 COMPARE_OP                     bool(==)
+ 614 POP_JUMP_IF_FALSE              to L4
+ 618 LOAD_FAST                      round_kind
+ 620 LOAD_CONST                     'r2'
+ 622 COMPARE_OP                     bool(==)
+ 626 POP_JUMP_IF_FALSE              to L4
+ 630 LOAD_FAST                      repo
+ 632 LOAD_CONST                     'After_PT_Removal'
+ 634 BINARY_OP                      /
+ 638 LOAD_CONST                     'GPT5'
+ 640 BINARY_OP                      /
+ 644 LOAD_CONST                     'results'
+ 646 BINARY_OP                      /
+ 650 LOAD_CONST                     'predictions'
+ 652 BINARY_OP                      /
+ 656 LOAD_CONST                     'gpt5_predictions_on_trainee_irr_removed.csv'
+ 658 BINARY_OP                      /
+ 662 STORE_FAST                     p
+ 664 LOAD_GLOBAL                    pd
+ 674 LOAD_ATTR                      read_csv
+ 694 PUSH_NULL                      
+ 696 LOAD_FAST                      p
+ 698 LOAD_CONST                     'Origin'
+ 700 LOAD_CONST                     'gpt5_direct_prediction'
+ 702 BUILD_LIST                     
+ 704 LOAD_CONST                     ('usecols',)
+ 706 CALL_KW                        
+ 708 LOAD_ATTR                      copy + NULL|self
+ 728 CALL                           
+ 736 STORE_FAST                     df
+ 738 LOAD_FAST                      df
+ 740 LOAD_CONST                     'gpt5_direct_prediction'
+ 742 BINARY_SUBSCR                  
+ 746 LOAD_ATTR                      apply + NULL|self
+ 766 LOAD_GLOBAL                    extract_letter
+ 776 CALL                           
+ 784 LOAD_FAST                      df
+ 786 LOAD_CONST                     'letter'
+ 788 STORE_SUBSCR                   
+ 792 EXTENDED_ARG                   
+ 794 JUMP_FORWARD                   to L13
+ 796 LOAD_FAST                      model_name
+ 798 LOAD_CONST                     'Qwen-72B'
+ 800 COMPARE_OP                     bool(==)
+ 804 POP_JUMP_IF_FALSE              to L5
+ 808 LOAD_FAST                      round_kind
+ 810 LOAD_CONST                     'r1'
+ 812 COMPARE_OP                     bool(==)
+ 816 POP_JUMP_IF_FALSE              to L5
+ 820 LOAD_FAST                      repo
+ 822 LOAD_CONST                     'After_PT_Removal'
+ 824 BINARY_OP                      /
+ 828 LOAD_CONST                     'Qwen2.5-72B-Instruct'
+ 830 BINARY_OP                      /
+ 834 LOAD_CONST                     'results'
+ 836 BINARY_OP                      /
+ 840 LOAD_CONST                     'predictions'
+ 842 BINARY_OP                      /
+ 846 LOAD_CONST                     'Qwen_72B_predictions_ORIGINAL.csv'
+ 848 BINARY_OP                      /
+ 852 STORE_FAST                     p
+ 854 LOAD_GLOBAL                    pd
+ 864 LOAD_ATTR                      read_csv
+ 884 PUSH_NULL                      
+ 886 LOAD_FAST                      p
+ 888 LOAD_CONST                     'Origin'
+ 890 LOAD_CONST                     'Extracted_Answer'
+ 892 BUILD_LIST                     
+ 894 LOAD_CONST                     ('usecols',)
+ 896 CALL_KW                        
+ 898 LOAD_ATTR                      copy + NULL|self
+ 918 CALL                           
+ 926 STORE_FAST                     df
+ 928 LOAD_FAST                      df
+ 930 LOAD_CONST                     'Extracted_Answer'
+ 932 BINARY_SUBSCR                  
+ 936 LOAD_ATTR                      apply + NULL|self
+ 956 LOAD_GLOBAL                    extract_letter
+ 966 CALL                           
+ 974 LOAD_FAST                      df
+ 976 LOAD_CONST                     'letter'
+ 978 STORE_SUBSCR                   
+ 982 EXTENDED_ARG                   
+ 984 JUMP_FORWARD                   to L13
+ 986 LOAD_FAST                      model_name
+ 988 LOAD_CONST                     'Qwen-72B'
+ 990 COMPARE_OP                     bool(==)
+ 994 POP_JUMP_IF_FALSE              to L6
+ 998 LOAD_FAST                      round_kind
+1000 LOAD_CONST                     'r2'
+1002 COMPARE_OP                     bool(==)
+1006 POP_JUMP_IF_FALSE              to L6
+1010 LOAD_FAST                      repo
+1012 LOAD_CONST                     'After_PT_Removal'
+1014 BINARY_OP                      /
+1018 LOAD_CONST                     'Qwen2.5-72B-Instruct'
+1020 BINARY_OP                      /
+1024 LOAD_CONST                     'results'
+1026 BINARY_OP                      /
+1030 LOAD_CONST                     'predictions'
+1032 BINARY_OP                      /
+1036 LOAD_CONST                     'Qwen_72B_predictions_trainee_irr_removed.csv'
+1038 BINARY_OP                      /
+1042 STORE_FAST                     p
+1044 LOAD_GLOBAL                    pd
+1054 LOAD_ATTR                      read_csv
+1074 PUSH_NULL                      
+1076 LOAD_FAST                      p
+1078 LOAD_CONST                     'Origin'
+1080 LOAD_CONST                     'qwen72b_direct_prediction'
+1082 BUILD_LIST                     
+1084 LOAD_CONST                     ('usecols',)
+1086 CALL_KW                        
+1088 LOAD_ATTR                      copy + NULL|self
+1108 CALL                           
+1116 STORE_FAST                     df
+1118 LOAD_FAST                      df
+1120 LOAD_CONST                     'qwen72b_direct_prediction'
+1122 BINARY_SUBSCR                  
+1126 LOAD_ATTR                      apply + NULL|self
+1146 LOAD_GLOBAL                    extract_letter
+1156 CALL                           
+1164 LOAD_FAST                      df
+1166 LOAD_CONST                     'letter'
+1168 STORE_SUBSCR                   
+1172 EXTENDED_ARG                   
+1174 JUMP_FORWARD                   to L13
+1176 LOAD_FAST                      model_name
+1178 LOAD_CONST                     'Qwen-14B'
+1180 COMPARE_OP                     bool(==)
+1184 POP_JUMP_IF_FALSE              to L7
+1188 LOAD_FAST                      round_kind
+1190 LOAD_CONST                     'r1'
+1192 COMPARE_OP                     bool(==)
+1196 POP_JUMP_IF_FALSE              to L7
+1200 LOAD_FAST                      repo
+1202 LOAD_CONST                     'After_PT_Removal'
+1204 BINARY_OP                      /
+1208 LOAD_CONST                     'Qwen2.5-14B-Instruct'
+1210 BINARY_OP                      /
+1214 LOAD_CONST                     'results'
+1216 BINARY_OP                      /
+1220 LOAD_CONST                     'predictions'
+1222 BINARY_OP                      /
+1226 LOAD_CONST                     'Qwen_14B_predictions_ORIGINAL.csv'
+1228 BINARY_OP                      /
+1232 STORE_FAST                     p
+1234 LOAD_GLOBAL                    pd
+1244 LOAD_ATTR                      read_csv
+1264 PUSH_NULL                      
+1266 LOAD_FAST                      p
+1268 LOAD_CONST                     'Origin'
+1270 LOAD_CONST                     'Extracted_Answer'
+1272 BUILD_LIST                     
+1274 LOAD_CONST                     ('usecols',)
+1276 CALL_KW                        
+1278 LOAD_ATTR                      copy + NULL|self
+1298 CALL                           
+1306 STORE_FAST                     df
+1308 LOAD_FAST                      df
+1310 LOAD_CONST                     'Extracted_Answer'
+1312 BINARY_SUBSCR                  
+1316 LOAD_ATTR                      apply + NULL|self
+1336 LOAD_GLOBAL                    extract_letter
+1346 CALL                           
+1354 LOAD_FAST                      df
+1356 LOAD_CONST                     'letter'
+1358 STORE_SUBSCR                   
+1362 EXTENDED_ARG                   
+1364 JUMP_FORWARD                   to L13
+1366 LOAD_FAST                      model_name
+1368 LOAD_CONST                     'Qwen-14B'
+1370 COMPARE_OP                     bool(==)
+1374 POP_JUMP_IF_FALSE              to L8
+1378 LOAD_FAST                      round_kind
+1380 LOAD_CONST                     'r2'
+1382 COMPARE_OP                     bool(==)
+1386 POP_JUMP_IF_FALSE              to L8
+1390 LOAD_FAST                      repo
+1392 LOAD_CONST                     'After_PT_Removal'
+1394 BINARY_OP                      /
+1398 LOAD_CONST                     'Qwen2.5-14B-Instruct'
+1400 BINARY_OP                      /
+1404 LOAD_CONST                     'results'
+1406 BINARY_OP                      /
+1410 LOAD_CONST                     'predictions'
+1412 BINARY_OP                      /
+1416 LOAD_CONST                     'Qwen_14B_predictions_trainee_irr_removed.csv'
+1418 BINARY_OP                      /
+1422 STORE_FAST                     p
+1424 LOAD_GLOBAL                    pd
+1434 LOAD_ATTR                      read_csv
+1454 PUSH_NULL                      
+1456 LOAD_FAST                      p
+1458 LOAD_CONST                     'Origin'
+1460 LOAD_CONST                     'qwen14b_direct_prediction'
+1462 BUILD_LIST                     
+1464 LOAD_CONST                     ('usecols',)
+1466 CALL_KW                        
+1468 LOAD_ATTR                      copy + NULL|self
+1488 CALL                           
+1496 STORE_FAST                     df
+1498 LOAD_FAST                      df
+1500 LOAD_CONST                     'qwen14b_direct_prediction'
+1502 BINARY_SUBSCR                  
+1506 LOAD_ATTR                      apply + NULL|self
+1526 LOAD_GLOBAL                    extract_letter
+1536 CALL                           
+1544 LOAD_FAST                      df
+1546 LOAD_CONST                     'letter'
+1548 STORE_SUBSCR                   
+1552 EXTENDED_ARG                   
+1554 JUMP_FORWARD                   to L13
+1556 LOAD_FAST                      model_name
+1558 LOAD_CONST                     'MedGemma-27B'
+1560 COMPARE_OP                     bool(==)
+1564 POP_JUMP_IF_FALSE              to L9
+1568 LOAD_FAST                      round_kind
+1570 LOAD_CONST                     'r1'
+1572 COMPARE_OP                     bool(==)
+1576 POP_JUMP_IF_FALSE              to L9
+1580 LOAD_FAST                      repo
+1582 LOAD_CONST                     'After_PT_Removal'
+1584 BINARY_OP                      /
+1588 LOAD_CONST                     'MedGemma-27b-text-it'
+1590 BINARY_OP                      /
+1594 LOAD_CONST                     'results'
+1596 BINARY_OP                      /
+1600 LOAD_CONST                     'predictions'
+1602 BINARY_OP                      /
+1606 LOAD_CONST                     'MedGemma27B_predictions_ORIGINAL.csv'
+1608 BINARY_OP                      /
+1612 STORE_FAST                     p
+1614 LOAD_GLOBAL                    pd
+1624 LOAD_ATTR                      read_csv
+1644 PUSH_NULL                      
+1646 LOAD_FAST                      p
+1648 LOAD_CONST                     'Origin'
+1650 LOAD_CONST                     'Extracted_Answer'
+1652 BUILD_LIST                     
+1654 LOAD_CONST                     ('usecols',)
+1656 CALL_KW                        
+1658 LOAD_ATTR                      copy + NULL|self
+1678 CALL                           
+1686 STORE_FAST                     df
+1688 LOAD_FAST                      df
+1690 LOAD_CONST                     'Extracted_Answer'
+1692 BINARY_SUBSCR                  
+1696 LOAD_ATTR                      apply + NULL|self
+1716 LOAD_GLOBAL                    extract_letter
+1726 CALL                           
+1734 LOAD_FAST                      df
+1736 LOAD_CONST                     'letter'
+1738 STORE_SUBSCR                   
+1742 EXTENDED_ARG                   
+1744 JUMP_FORWARD                   to L13
+1746 LOAD_FAST                      model_name
+1748 LOAD_CONST                     'MedGemma-27B'
+1750 COMPARE_OP                     bool(==)
+1754 POP_JUMP_IF_FALSE              to L10
+1758 LOAD_FAST                      round_kind
+1760 LOAD_CONST                     'r2'
+1762 COMPARE_OP                     bool(==)
+1766 POP_JUMP_IF_FALSE              to L10
+1770 LOAD_FAST                      repo
+1772 LOAD_CONST                     'After_PT_Removal'
+1774 BINARY_OP                      /
+1778 LOAD_CONST                     'MedGemma-27b-text-it'
+1780 BINARY_OP                      /
+1784 LOAD_CONST                     'results'
+1786 BINARY_OP                      /
+1790 LOAD_CONST                     'predictions'
+1792 BINARY_OP                      /
+1796 LOAD_CONST                     'MedGemma27B_predictions_on_trainee_irr_removed.csv'
+1798 BINARY_OP                      /
+1802 STORE_FAST                     p
+1804 LOAD_GLOBAL                    pd
+1814 LOAD_ATTR                      read_csv
+1834 PUSH_NULL                      
+1836 LOAD_FAST                      p
+1838 LOAD_CONST                     'Origin'
+1840 LOAD_CONST                     'medgemma_direct_prediction'
+1842 BUILD_LIST                     
+1844 LOAD_CONST                     ('usecols',)
+1846 CALL_KW                        
+1848 LOAD_ATTR                      copy + NULL|self
+1868 CALL                           
+1876 STORE_FAST                     df
+1878 LOAD_FAST                      df
+1880 LOAD_CONST                     'medgemma_direct_prediction'
+1882 BINARY_SUBSCR                  
+1886 LOAD_ATTR                      apply + NULL|self
+1906 LOAD_GLOBAL                    extract_letter
+1916 CALL                           
+1924 LOAD_FAST                      df
+1926 LOAD_CONST                     'letter'
+1928 STORE_SUBSCR                   
+1932 JUMP_FORWARD                   to L13
+1934 LOAD_FAST                      model_name
+1936 LOAD_CONST                     'Llama-70B'
+1938 COMPARE_OP                     bool(==)
+1942 POP_JUMP_IF_FALSE              to L11
+1946 LOAD_FAST                      round_kind
+1948 LOAD_CONST                     'r1'
+1950 COMPARE_OP                     bool(==)
+1954 POP_JUMP_IF_FALSE              to L11
+1958 LOAD_FAST                      repo
+1960 LOAD_CONST                     'After_PT_Removal'
+1962 BINARY_OP                      /
+1966 LOAD_CONST                     'Llama-70B'
+1968 BINARY_OP                      /
+1972 LOAD_CONST                     'results'
+1974 BINARY_OP                      /
+1978 LOAD_CONST                     'predictions'
+1980 BINARY_OP                      /
+1984 LOAD_CONST                     'Llama70B_ORIGINAL_predictions.csv'
+1986 BINARY_OP                      /
+1990 STORE_FAST                     p
+1992 LOAD_GLOBAL                    pd
+2002 LOAD_ATTR                      read_csv
+2022 PUSH_NULL                      
+2024 LOAD_FAST                      p
+2026 LOAD_CONST                     'Origin'
+2028 LOAD_CONST                     'Extracted_Answer'
+2030 BUILD_LIST                     
+2032 LOAD_CONST                     ('usecols',)
+2034 CALL_KW                        
+2036 LOAD_ATTR                      copy + NULL|self
+2056 CALL                           
+2064 STORE_FAST                     df
+2066 LOAD_FAST                      df
+2068 LOAD_CONST                     'Extracted_Answer'
+2070 BINARY_SUBSCR                  
+2074 LOAD_ATTR                      apply + NULL|self
+2094 LOAD_GLOBAL                    extract_letter
+2104 CALL                           
+2112 LOAD_FAST                      df
+2114 LOAD_CONST                     'letter'
+2116 STORE_SUBSCR                   
+2120 JUMP_FORWARD                   to L13
+2122 LOAD_FAST                      model_name
+2124 LOAD_CONST                     'Llama-70B'
+2126 COMPARE_OP                     bool(==)
+2130 POP_JUMP_IF_FALSE              to L12
+2134 LOAD_FAST                      round_kind
+2136 LOAD_CONST                     'r2'
+2138 COMPARE_OP                     bool(==)
+2142 POP_JUMP_IF_FALSE              to L12
+2146 LOAD_FAST                      repo
+2148 LOAD_CONST                     'After_PT_Removal'
+2150 BINARY_OP                      /
+2154 LOAD_CONST                     'Llama-70B'
+2156 BINARY_OP                      /
+2160 LOAD_CONST                     'results'
+2162 BINARY_OP                      /
+2166 LOAD_CONST                     'predictions'
+2168 BINARY_OP                      /
+2172 LOAD_CONST                     'Llama70B_predictions_on_trainee_irr_removed.csv'
+2174 BINARY_OP                      /
+2178 STORE_FAST                     p
+2180 LOAD_GLOBAL                    pd
+2190 LOAD_ATTR                      read_csv
+2210 PUSH_NULL                      
+2212 LOAD_FAST                      p
+2214 LOAD_CONST                     'Origin'
+2216 LOAD_CONST                     'llama70b_direct_prediction'
+2218 BUILD_LIST                     
+2220 LOAD_CONST                     ('usecols',)
+2222 CALL_KW                        
+2224 LOAD_ATTR                      copy + NULL|self
+2244 CALL                           
+2252 STORE_FAST                     df
+2254 LOAD_FAST                      df
+2256 LOAD_CONST                     'llama70b_direct_prediction'
+2258 BINARY_SUBSCR                  
+2262 LOAD_ATTR                      apply + NULL|self
+2282 LOAD_GLOBAL                    extract_letter
+2292 CALL                           
+2300 LOAD_FAST                      df
+2302 LOAD_CONST                     'letter'
+2304 STORE_SUBSCR                   
+2308 JUMP_FORWARD                   to L13
+2310 LOAD_GLOBAL                    ValueError + NULL
+2320 LOAD_CONST                     'Unsupported model/round: '
+2322 LOAD_FAST                      model_name
+2324 FORMAT_SIMPLE                  
+2326 LOAD_CONST                     '/'
+2328 LOAD_FAST                      round_kind
+2330 FORMAT_SIMPLE                  
+2332 BUILD_STRING                   
+2334 CALL                           
+2342 RAISE_VARARGS                  
+2344 LOAD_FAST                      df
+2346 LOAD_CONST                     'Origin'
+2348 LOAD_CONST                     'letter'
+2350 BUILD_LIST                     
+2352 BINARY_SUBSCR                  
+2356 LOAD_ATTR                      drop_duplicates + NULL|self
+2376 LOAD_CONST                     'Origin'
+2378 BUILD_LIST                     
+2380 LOAD_CONST                     ('subset',)
+2382 CALL_KW                        
+2384 RETURN_VALUE                   

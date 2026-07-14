@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+25.41847608137208,"He states that he has been working in a hot, humid attic all day and forgot his water bottle.",301,MedBullets df_op4 Q302,
+15.333010142777498,"His temperature is 98.7°F (37.1°C), blood pressure is 149/82 mmHg, pulse is 86/min, respirations are 15/min, and oxygen saturation is 99% on room air.",301,MedBullets df_op4 Q302,
+0.0,The patient is given 2 liters of oral fluids and feels back to his baseline.,301,MedBullets df_op4 Q302,
+0.0,The patient walks with a steady gait and his neurologic exam is non-focal.,301,MedBullets df_op4 Q302,
+-0.0,An ECG is performed as seen in Figure A.,301,MedBullets df_op4 Q302,
+0.0,Physical exam reveals a diaphoretic man.,301,MedBullets df_op4 Q302,
+-0.0,He demonstrates an unremarkable cardiopulmonary exam.,301,MedBullets df_op4 Q302,
+0.0,The patient has a history of hypertension being managed by his primary care doctor.,301,MedBullets df_op4 Q302,
+0.0,He awoke at his neurologic baseline afterwards.,301,MedBullets df_op4 Q302,
+0.0,He felt dizzy when standing up and then fainted and was unconscious for roughly 1 minute.,301,MedBullets df_op4 Q302,
+0.0,A 55-year-old man presents to the emergency department after fainting while moving furniture.,301,MedBullets df_op4 Q302,

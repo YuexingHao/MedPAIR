@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+81.99110328188902,"His temperature is 99.5°F (37.5°C), blood pressure is 177/108 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air.",16,MedBullets df_op4 Q17,B
+77.92492694463826,Physical exam is notable for a murmur after S2 over the left sternal border.,16,MedBullets df_op4 Q17,B
+41.7054689350382,The patient demonstrates a stable gait and 5/5 strength in his upper and lower extremities.,16,MedBullets df_op4 Q17,B
+12.543472815078056,His current medications include lisinopril and metoprolol.,16,MedBullets df_op4 Q17,B

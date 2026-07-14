@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+76.96891984854513,"His temperature is 98.2°F (36.8°C), blood pressure is 149/87 mmHg, pulse is 87/min, and respirations are 12/min.",220,MedBullets_df_op4_Q221,D
+72.30348941209145,"A 72-year-old man with a history of type 2 diabetes mellitus, hypertension, and hyperlipidemia presents to his primary care provider for concerns about his cognitive decline.",220,MedBullets_df_op4_Q221,D
+64.59390400929037,"His wife has noticed that he has a worsening ability to organize, plan, and exhibit impulse control over the last month.",220,MedBullets_df_op4_Q221,D
+39.92495228676223,"Physical exam reveals an elderly man who is oriented to person, place, and time.",220,MedBullets_df_op4_Q221,D
+19.937195287903055,A magnetic resonance imaging study of the brain is shown in Figure A.,220,MedBullets_df_op4_Q221,D
+0.0,A mini-mental status exam reveals he is able to remember 2 out of 3 words after 4 minutes.,220,MedBullets_df_op4_Q221,D
+0.0,He has 4/5 left-sided weakness of the upper and lower extremities and associated pronator drift of the left upper extremity.,220,MedBullets_df_op4_Q221,D
+0.0,"The patient states that he is able to complete his activities of daily living without assistance, but has some weakness of his left upper and lower extremities that began 3 months prior.",220,MedBullets_df_op4_Q221,D

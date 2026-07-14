@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.72052408708209,"Her temperature is 102.2°F (39°C), blood pressure is 118/78 mmHg, pulse is 90/min, respirations are 21/min, and pulse oximetry is 99% on room air.",108,MedBullets df_op4 Q109,B
+33.275895692408085,Her neighbor’s cat bit her last week and her parents attributed the pain to her healing bite.,108,MedBullets df_op4 Q109,B
+20.408190539192496,"At the time of the bite, they cleaned the wound and irrigated it with sterile saline water from a first aid kit.",108,MedBullets df_op4 Q109,B
+15.779192512049294,The open wound remains present on the thigh with surrounding erythema and edema.,108,MedBullets df_op4 Q109,B
+12.306946829518491,A 5-year-old girl presents to the emergency room due to difficulty walking.,108,MedBullets df_op4 Q109,B
+3.88200631698461,MRI is consistent with osteomyelitis.,108,MedBullets df_op4 Q109,B
+0.0,She has no medical history and has never been hospitalized.,108,MedBullets df_op4 Q109,B
+0.0,She has been complaining of pain in her right leg for the last few days.,108,MedBullets df_op4 Q109,B

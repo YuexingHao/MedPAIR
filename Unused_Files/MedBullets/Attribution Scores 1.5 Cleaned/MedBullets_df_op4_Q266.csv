@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.924601166122,"His temperature is 98.1°F (36.7°C), blood pressure is 120/83 mmHg, pulse is 80/min, respirations are 16/min, and oxygen saturation is 98% on room air.",265,MedBullets df_op4 Q266,B
+47.34915767610073,"Today, he was hit in the face with a football, followed by significant swelling of his lips and tongue.",265,MedBullets df_op4 Q266,B
+41.52001982725002,He demonstrates no rash and his abdomen is soft and nontender.,265,MedBullets df_op4 Q266,B
+19.803130469943373,A 22-year-old man presents to the emergency department with difficulty breathing.,265,MedBullets df_op4 Q266,B
+12.643362501814124,The patient speaks with a muffled voice.,265,MedBullets df_op4 Q266,B
+3.304467894029001,"Physical exam reveals swollen lips and a protruding, enlarged tongue.",265,MedBullets df_op4 Q266,B
+1.343220271611942,His breath sounds are clear.,265,MedBullets df_op4 Q266,B

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.52374551333262,"On physical exam, the patient's abdomen is soft, non-distended, and non-tender with normal bowel sounds and without organomegaly or masses.",291,MedBullets df_op4 Q292,B
+49.14604082171089,"The anus is patent without fissures, hemorrhoids, or skin tags.",291,MedBullets df_op4 Q292,B
+43.91460563905424,"He does not endorse fatigue, fever, constipation, diarrhea, nausea, vomiting, abdominal pain, weight loss, or dyspnea.",291,MedBullets df_op4 Q292,B
+38.34158420562744,He has no pain with bowel movements but notes on occasion he may strain.,291,MedBullets df_op4 Q292,B
+37.0553260372733,A 66-year-old man presents to the clinic with a 6-week history of bloody stools.,291,MedBullets df_op4 Q292,B
+26.149331985975227,He has a medical history significant for hypertension that is well-controlled with lisinopril.,291,MedBullets df_op4 Q292,B
+25.15138941416112,His last colonoscopy was 3 years prior to presentation and was benign.,291,MedBullets df_op4 Q292,B
+16.558085791849287,He describes the blood as bright red wisps that float on the surface of the stool.,291,MedBullets df_op4 Q292,B
+4.925581050502875,He had an uncomplicated appendectomy when he was 23 years old.,291,MedBullets df_op4 Q292,B

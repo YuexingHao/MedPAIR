@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+76.98242871556181,"His temperature is 97.6°F (36.4°C), blood pressure is 74/34 mmHg, pulse is 180/min, respirations are 32/min, and oxygen saturation is 98% on room air.",238,MedBullets df_op4 Q239,D
+43.64253656938672,The patient is acutely intoxicated and is attempting to attack the nurses.,238,MedBullets df_op4 Q239,D
+19.10877502770957,An electrocardiogram (ECG) is performed as seen in Figure A.,238,MedBullets df_op4 Q239,D
+16.513242504784888,"Soon after presentation, he is sedated, paralyzed, and intubated.",238,MedBullets df_op4 Q239,D
+11.031868743805681,He was the driver in a head-on collision and was not wearing a seatbelt.,238,MedBullets df_op4 Q239,D
+1.0105971599419725,Physical exam is notable for jugular venous distension.,238,MedBullets df_op4 Q239,D
+0.0,His medical history is unknown.,238,MedBullets df_op4 Q239,D
+0.0,A 24-year-old man presents to the emergency room after a motor vehicle collision.,238,MedBullets df_op4 Q239,D

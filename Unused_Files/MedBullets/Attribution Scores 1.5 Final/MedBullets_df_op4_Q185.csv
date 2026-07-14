@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+93.924176633358,"Her temperature is 98°F (36.7°C), blood pressure is 145/86 mmHg, pulse is 62/min, and respirations are 12/min with an oxygen saturation of 98% on room air.",184,MedBullets_df_op4_Q185,D
+89.37040923360522,"She denies pain, but reports her right eye “feels funny.” The patient’s medical history is significant for a previous myocardial infarction, hypertension, and osteoporosis.",184,MedBullets_df_op4_Q185,D
+57.1451328658052,The patient's pupils are symmetric in size and equally reactive to light with accommodation.,184,MedBullets_df_op4_Q185,D
+43.09592966480842,A 71-year-old woman arrives to clinic with sudden vision loss.,184,MedBullets_df_op4_Q185,D
+37.47303717085638,"Her current medications include aspirin, metoprolol, rosuvastatin, lisinopril, and alendronate.",184,MedBullets_df_op4_Q185,D
+29.167571151223118,A fundoscopic exam of the right eye is shown in Figure A.,184,MedBullets_df_op4_Q185,D

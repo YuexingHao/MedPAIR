@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+85.89867285487023,"Her temperature is 98.6°F (37.0°C), blood pressure is 138/74 mmHg, pulse is 80/min, and respirations are 13/min.",189,MedBullets df_op4 Q190,A
+71.4298907375101,"A pelvic exam reveals a non-tender, 12-week-size uterus with an irregular contour.",189,MedBullets df_op4 Q190,A
+38.893021047115326,"The patient’s mother had breast cancer at age 68, and her sister has endometriosis.",189,MedBullets df_op4 Q190,A
+32.99971048221494,A transvaginal ultrasound is performed and demonstrates two intramural leiomyomas.,189,MedBullets df_op4 Q190,A
+16.161048498297255,Her BMI is 32.4 kg/m^2.,189,MedBullets df_op4 Q190,A
+8.189804500384836,She has a medical history of hypertension for which she takes hydrochlorothiazide.,189,MedBullets df_op4 Q190,A
+7.098796042305666,"A 36-year-old woman, G1P1001, presents to her gynecologist for an annual visit.",189,MedBullets df_op4 Q190,A
+2.4849397375179976,She states that she feels well and has no complaints.,189,MedBullets df_op4 Q190,A

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.59403319777156,She has 3/5 strength to shoulder abduction and hip flexion bilaterally.,135,MedBullets_df_op4_Q136,C
+39.85120157821115,Her strength is 5/5 to wrist extension and ankle plantar flexion.,135,MedBullets_df_op4_Q136,C
+39.331797659397125,Her medical history is significant for hypertension treated with lifestyle modification and gastroesophageal reflux disease (GERD).,135,MedBullets_df_op4_Q136,C
+34.96973659815111,A 53-year-old African-American woman presents to her primary care doctor with increasing difficulty climbing the stairs.,135,MedBullets_df_op4_Q136,C
+19.856272319570238,She noticed the weakness approximately 3 months ago.,135,MedBullets_df_op4_Q136,C
+7.902296829398983,"She has also noticed increasing difficulty combing her hair, standing from a seated position, and experiences muscle aches.",135,MedBullets_df_op4_Q136,C
+0.0,"Her temperature is 98.6°F (37.0°C), blood pressure is 130/65 mmHg, pulse is 80/min, and respirations are 16/min.",135,MedBullets_df_op4_Q136,C
+0.0,It has gotten progressively worse since that time.,135,MedBullets_df_op4_Q136,C
+-0.0,No skin rashes are noted.,135,MedBullets_df_op4_Q136,C

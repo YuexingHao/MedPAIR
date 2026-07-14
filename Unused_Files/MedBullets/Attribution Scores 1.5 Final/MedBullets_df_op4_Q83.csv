@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+158.63436759490273,"A pelvic exam reveals mild clitoromegaly, a normal anteverted uterus, and a large left adnexal mass that is mildly tender.",82,MedBullets_df_op4_Q83,A
+126.47487672735997,"17-hydroxyprogesterone: 214 ng/dL (Normal: < 200 ng/dL) Platelet count: 142,000/mm^3 Leukocyte count: 8,000 cells/mm^3 Testosterone: 256 ng/dL Hemoglobin: 13.9 g/dL She has been gaining weight recently.",82,MedBullets_df_op4_Q83,A
+102.30359707138356,"The patient’s face has coarse stubble along the jawline and on the upper lip, and there is similar hair along the midline of her lower abdomen.",82,MedBullets_df_op4_Q83,A
+89.62922374413152,DHEAS: 73 ug/dL (Normal: 145-395 ug/dL) The patient has a medical history of obesity and prediabetes with a hemoglobin A1c of 6.0% last year.,82,MedBullets_df_op4_Q83,A
+21.081573616964935,"Her temperature is 98.5°F (36.9°C), pulse is 80/min, blood pressure is 139/88 mmHg, and respirations are 13/min.",82,MedBullets_df_op4_Q83,A
+0.3398553002625704,A 27-year-old woman presents to her primary care physician with new hair growth on her face and lower abdomen over the last month.,82,MedBullets_df_op4_Q83,A

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+62.00114274167162,"Upon presentation to the ED today, his temperature is 97.6°F (36.4°C), blood pressure is 64/33 mmHg, pulse is 160/min, respirations are 32/min, and oxygen saturation is 100% on room air.",279,MedBullets df_op4 Q280,A
+28.305214382708073,"His primary care provider was concerned and had advised him to go to the hospital, as the patient is on warfarin for atrial fibrillation.",279,MedBullets df_op4 Q280,A
+15.247610208888078,"A dark, purpuric rash is noted on his torso and extremities.",279,MedBullets df_op4 Q280,A
+13.704438233008046,"However, his bleeding resolved with pressure and nasal packing.",279,MedBullets df_op4 Q280,A
+11.332300720734631,Physical exam reveals an obtunded man who cannot answer questions.,279,MedBullets df_op4 Q280,A
+9.356891516774153,He was seen in the emergency department 2 days ago for profuse epistaxis.,279,MedBullets df_op4 Q280,A
+3.427758696245792,The patient is given IV fluids and blood cultures are drawn.,279,MedBullets df_op4 Q280,A
+1.5108093737652857,A 57-year-old man is brought to the emergency department by his wife with confusion.,279,MedBullets df_op4 Q280,A
+0.0,The patient’s nasal packing is removed with no further bleeding.,279,MedBullets df_op4 Q280,A

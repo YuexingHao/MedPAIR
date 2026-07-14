@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.72067169272992,"Two weeks ago, he had a mitral valve repair for mitral insufficiency secondary to myxomatous degeneration.",177,MedBullets_df_op4_Q178,A
+74.64077862280435,"His temperature is 98.8°F (37.1°C), blood pressure is 85/54 mmHg, pulse is 48/min, and respirations are 22/min.",177,MedBullets_df_op4_Q178,A
+67.57533736526966,His dyspnea began 1 hour ago while he was sitting in a chair watching television.,177,MedBullets_df_op4_Q178,A
+64.34590989395713,He also endorses lightheadedness and fatigue but denies chest pain.,177,MedBullets_df_op4_Q178,A

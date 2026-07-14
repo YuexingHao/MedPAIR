@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+77.01935069928662,"The patient's temperature is 98.6°F (37.0°C), blood pressure is 80/45 mmHg, pulse is 130/min, and respirations are 25/min.",101,MedBullets df_op4 Q102,A
+63.60768855882918,A 6-week-old boy is referred to a pediatric hematologist-oncologist for further evaluation following an abnormal newborn hemoglobinopathy screening.,101,MedBullets df_op4 Q102,A
+59.17001324041883,The physician decides to repeat testing for the patient and his 3-year-old sister.,101,MedBullets df_op4 Q102,A
+30.53574739396572,Parental studies reveal that both mother and father are carriers of the sickle cell gene.,101,MedBullets df_op4 Q102,A
+28.762147556082716,The results are shown in Figure A.,101,MedBullets df_op4 Q102,A
+20.33194257260793,The father’s brother died of sickle cell anemia at an early age.,101,MedBullets df_op4 Q102,A
+0.0,The physician begins counseling the family.,101,MedBullets df_op4 Q102,A

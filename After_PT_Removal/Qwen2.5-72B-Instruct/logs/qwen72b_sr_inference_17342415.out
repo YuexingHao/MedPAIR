@@ -1,0 +1,61 @@
+==========================================
+Job ID: 17342415
+Job Name: qwen72b_sr_inference
+Allocated GPUs: 
+Allocated Memory: 307200 MB
+Number of Nodes: 1
+==========================================
+
+Starting Qwen2.5-72B-Instruct SR inference...
+Start time: Mon Jul  6 19:02:23 EDT 2026
+
+================================================================================
+QWEN2.5-72B-INSTRUCT SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time: 2026-07-06 19:03:12.546525
+Input File: /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv
+Output File: /home/yuexing/NeuRIPS25/After_PT_Removal/Qwen2.5-72B-Instruct/results/predictions/[SR]_Qwen72B_predictions_on_llama70b_removed.csv
+
+Loading input data...
+  • Loaded 1300 rows
+Loading target file...
+  • Loaded 1300 rows
+  • Found 1300 error rows from previous run (will retry)
+  • Required columns found
+
+Loading model: Qwen/Qwen2.5-72B-Instruct
+  • This may take 2-3 minutes...
+  ✓ Model loaded successfully
+
+================================================================================
+Running inference on 1300 samples...
+================================================================================
+
+
+================================================================================
+UPDATING OUTPUT FILE
+================================================================================
+
+Merging predictions (1230 valid predictions)...
+  • Valid predictions to merge: 1230
+  • Skipped 1300 error rows from previous run (will be retried)
+  • Updated 1230 rows in output file
+
+Saving updated file...
+  ✓ Saved to: /home/yuexing/NeuRIPS25/After_PT_Removal/Qwen2.5-72B-Instruct/results/predictions/[SR]_Qwen72B_predictions_on_llama70b_removed.csv
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:           1300
+Valid predictions:       1230
+Unparseable responses:   70
+Error/exception count:   0
+Accuracy (valid only):   61.0% (1230 samples)
+Coverage:                94.6% (1230/1300)
+Output rows updated:     1230
+End Time:                2026-07-06 19:59:28.063375
+================================================================================
+
+Inference complete at: Mon Jul  6 19:59:31 EDT 2026
+==========================================

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+44.06836736592167,"In the doctor’s office, the patient builds a 6-cube tower and imitates a circle.",121,MedBullets df_op4 Q122,C
+31.899049366667317,"On physical exam, she appears well developed and well nourished, and she is following along her growth curves.",121,MedBullets df_op4 Q122,C
+30.092131443846604,The patient enjoys playing near other children and sometimes argues over toys with her older brother.,121,MedBullets df_op4 Q122,C
+26.574860441042482,She seems to have a vocabulary of over 50 words that she uses in 2-word sentences.,121,MedBullets df_op4 Q122,C
+17.538805961608887,She can jump and walk up and down stairs with both feet on each step.,121,MedBullets df_op4 Q122,C
+13.99825735339385,The child is assessed as developmentally normal.,121,MedBullets df_op4 Q122,C
+9.812983421745669,Her mother reports that she is eating well at home and sleeping well throughout the night.,121,MedBullets df_op4 Q122,C
+8.150145429349665,A girl presents to her pediatrician for a well-child visit.,121,MedBullets df_op4 Q122,C
+0.8905941629547847,"Her temperature is 98.6°F (37°C), blood pressure is 92/56 mmHg, pulse is 106/min, and respirations are 23/min.",121,MedBullets df_op4 Q122,C

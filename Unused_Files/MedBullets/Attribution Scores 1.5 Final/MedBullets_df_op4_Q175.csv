@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.61900839763601,"On physical exam, the patient has extensive bruising of the lateral left thigh and tenderness to palpation.",174,MedBullets_df_op4_Q175,
+36.63955517113209,A 6-year-old boy presents to the emergency department after falling from his scooter.,174,MedBullets_df_op4_Q175,
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 112/74 mmHg, pulse is 82/min, and respirations are 11/min.",174,MedBullets_df_op4_Q175,

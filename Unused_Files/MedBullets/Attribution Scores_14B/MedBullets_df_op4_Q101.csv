@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+38.036563498846505,"Her temperature is 98.6°F (37°C), blood pressure is 138/92 mmHg, pulse is 92/min, and respirations are 17/min.",100,MedBullets df_op4 Q101,B
+22.42505343096237,"Approximately 1 month ago, she was diagnosed with calcium phosphate nephrolithiasis.",100,MedBullets df_op4 Q101,B
+19.20144115322083,Medical history is significant for rheumatoid arthritis diagnosed approximately 10 years ago and treated with methotrexate as well as type 2 diabetes mellitus treated with metformin.,100,MedBullets df_op4 Q101,B
+12.011146377772093,She also notices increased urinary frequency.,100,MedBullets df_op4 Q101,B
+8.496253482809086,A 56-year-old woman presents to the emergency department with muscle weakness.,100,MedBullets df_op4 Q101,B
+-0.0,Laboratory testing is shown.,100,MedBullets df_op4 Q101,B
+0.0,"On physical exam, there is mild tenderness to palpation of the metacarpophalangeal and proximal interphalangeal joints.",100,MedBullets df_op4 Q101,B
+0.0,There is 4/5 power throughout the lower extremity.,100,MedBullets df_op4 Q101,B
+0.0,Her symptoms have progressively worsened over the course of 2 weeks and are most significant in her lower extremities.,100,MedBullets df_op4 Q101,B

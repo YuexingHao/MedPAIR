@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+83.9504781919398,"On physical exam, he has a 1.2 x 1.7 cm ulcer on the plantar surface of his left metatarsal head.",219,MedBullets df_op4 Q220,B
+51.67183613934456,"His temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",219,MedBullets df_op4 Q220,B
+48.22938573360443,"His current medications include metformin, aspirin, rosuvastatin, lisinopril, and fluoxetine.",219,MedBullets df_op4 Q220,B
+41.10661774812571,He has a 25-pack-year smoking history and drinks 1 glass of wine a day.,219,MedBullets df_op4 Q220,B
+18.75777395283484,"He has a history of obesity, hypertension, type 2 diabetes mellitus, and depression.",219,MedBullets df_op4 Q220,B
+13.203880607223384,A 52-year-old man presents to the clinic with a left foot ulcer that he noticed 6 days ago.,219,MedBullets df_op4 Q220,B

@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.31359060078228,His electrocardiogram is shown in Figure A. Troponin I level is < 0.017 ng/mL.,248,MedBullets df_op4 Q249,A
+13.429653508290686,"He reports no chest pain while he is resting, and the pain is not worsening.",248,MedBullets df_op4 Q249,A
+4.2531496193043345,A 72-year-old man presents to the clinic for his annual exam.,248,MedBullets df_op4 Q249,A
+4.038156854741439,"His past medical history is notable for hypertension, type 2 diabetes mellitus, and hyperlipidemia.",248,MedBullets df_op4 Q249,A
+2.4160506086199405,"His medications include amlodipine, atorvastatin, and metformin.",248,MedBullets df_op4 Q249,A
+1.789092756807804,The pain goes away after he takes a break.,248,MedBullets df_op4 Q249,A
+0.0,"His anterior, lateral, and posterior chest are non-tender to palpation.",248,MedBullets df_op4 Q249,A
+-0.0,"His temperature is 36.5°C (97.7°F), blood pressure is 132/80 mmHg, pulse is 74/min, respirations are 14/min, and oxygen saturation is 98% on room air.",248,MedBullets df_op4 Q249,A
+0.0,"He has a regular rate and rhythm, normal S1 and S2, and no murmurs, rubs, or gallops.",248,MedBullets df_op4 Q249,A
+0.0,"For the past few months, he has pain in his chest with physical activity.",248,MedBullets df_op4 Q249,A

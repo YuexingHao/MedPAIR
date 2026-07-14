@@ -1,0 +1,5 @@
+data_source,avg_alpha,std_alpha,count,min_alpha,max_alpha,avg_agreement
+medxpert,0.9445,0.229,4052,0.0,1.0,0.9445
+mmlu,0.9434,0.2312,1395,0.0,1.0,0.9434
+medbullets,0.9356,0.2455,1787,0.0,1.0,0.9356
+jama,0.911,0.2847,6619,0.0,1.0,0.911

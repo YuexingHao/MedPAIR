@@ -1,0 +1,286 @@
+{
+  "datasets": {
+    "MMLU": {
+      "max_length": 192,
+      "round1_correct": [
+        185,
+        189,
+        167,
+        164,
+        47,
+        104
+      ],
+      "round2_incorrect": [
+        68,
+        7,
+        15,
+        27,
+        3,
+        17
+      ]
+    },
+    "JAMA": {
+      "max_length": 295,
+      "round1_correct": [
+        242,
+        259,
+        203,
+        176,
+        76,
+        39
+      ],
+      "round2_incorrect": [
+        110,
+        21,
+        39,
+        38,
+        24,
+        8
+      ]
+    },
+    "MedXpert": {
+      "max_length": 286,
+      "round1_correct": [
+        124,
+        205,
+        65,
+        74,
+        30,
+        38
+      ],
+      "round2_incorrect": [
+        83,
+        74,
+        18,
+        26,
+        16,
+        21
+      ]
+    },
+    "MedBullets": {
+      "max_length": 160,
+      "round1_correct": [
+        139,
+        152,
+        99,
+        113,
+        43,
+        69
+      ],
+      "round2_incorrect": [
+        68,
+        14,
+        6,
+        18,
+        10,
+        16
+      ]
+    }
+  },
+  "model_details": [
+    {
+      "name": "GPT4o",
+      "n_origins_joined": 933,
+      "by_dataset": {
+        "MMLU": {
+          "round1_correct": 185,
+          "round2_incorrect": 68
+        },
+        "JAMA": {
+          "round1_correct": 242,
+          "round2_incorrect": 110
+        },
+        "MedXpert": {
+          "round1_correct": 124,
+          "round2_incorrect": 83
+        },
+        "MedBullets": {
+          "round1_correct": 139,
+          "round2_incorrect": 68
+        }
+      },
+      "pairwise_expert933": {
+        "n_correct_round1": 690,
+        "n_correct_round2": 429,
+        "n_spurious_r1_correct_r2_wrong": 329,
+        "n_recovered_r1_wrong_r2_correct": 68,
+        "net_drop_in_correct_answers": 261
+      }
+    },
+    {
+      "name": "GPT 5",
+      "n_origins_joined": 933,
+      "by_dataset": {
+        "MMLU": {
+          "round1_correct": 189,
+          "round2_incorrect": 7
+        },
+        "JAMA": {
+          "round1_correct": 259,
+          "round2_incorrect": 21
+        },
+        "MedXpert": {
+          "round1_correct": 205,
+          "round2_incorrect": 74
+        },
+        "MedBullets": {
+          "round1_correct": 152,
+          "round2_incorrect": 14
+        }
+      },
+      "pairwise_expert933": {
+        "n_correct_round1": 805,
+        "n_correct_round2": 738,
+        "n_spurious_r1_correct_r2_wrong": 116,
+        "n_recovered_r1_wrong_r2_correct": 49,
+        "net_drop_in_correct_answers": 67
+      }
+    },
+    {
+      "name": "Qwen-14B",
+      "n_origins_joined": 933,
+      "by_dataset": {
+        "MMLU": {
+          "round1_correct": 167,
+          "round2_incorrect": 15
+        },
+        "JAMA": {
+          "round1_correct": 203,
+          "round2_incorrect": 39
+        },
+        "MedXpert": {
+          "round1_correct": 65,
+          "round2_incorrect": 18
+        },
+        "MedBullets": {
+          "round1_correct": 99,
+          "round2_incorrect": 6
+        }
+      },
+      "pairwise_expert933": {
+        "n_correct_round1": 534,
+        "n_correct_round2": 530,
+        "n_spurious_r1_correct_r2_wrong": 78,
+        "n_recovered_r1_wrong_r2_correct": 74,
+        "net_drop_in_correct_answers": 4
+      }
+    },
+    {
+      "name": "Qwen 72B",
+      "n_origins_joined": 930,
+      "by_dataset": {
+        "MMLU": {
+          "round1_correct": 164,
+          "round2_incorrect": 27
+        },
+        "JAMA": {
+          "round1_correct": 176,
+          "round2_incorrect": 38
+        },
+        "MedXpert": {
+          "round1_correct": 74,
+          "round2_incorrect": 26
+        },
+        "MedBullets": {
+          "round1_correct": 113,
+          "round2_incorrect": 18
+        }
+      },
+      "pairwise_expert933": {
+        "n_correct_round1": 527,
+        "n_correct_round2": 516,
+        "n_spurious_r1_correct_r2_wrong": 109,
+        "n_recovered_r1_wrong_r2_correct": 98,
+        "net_drop_in_correct_answers": 11
+      }
+    },
+    {
+      "name": "Llama-70B",
+      "n_origins_joined": 933,
+      "by_dataset": {
+        "MMLU": {
+          "round1_correct": 47,
+          "round2_incorrect": 3
+        },
+        "JAMA": {
+          "round1_correct": 76,
+          "round2_incorrect": 24
+        },
+        "MedXpert": {
+          "round1_correct": 30,
+          "round2_incorrect": 16
+        },
+        "MedBullets": {
+          "round1_correct": 43,
+          "round2_incorrect": 10
+        }
+      },
+      "pairwise_expert933": {
+        "n_correct_round1": 196,
+        "n_correct_round2": 605,
+        "n_spurious_r1_correct_r2_wrong": 53,
+        "n_recovered_r1_wrong_r2_correct": 462,
+        "net_drop_in_correct_answers": -409
+      }
+    },
+    {
+      "name": "MedGemma-27B",
+      "n_origins_joined": 933,
+      "by_dataset": {
+        "MMLU": {
+          "round1_correct": 104,
+          "round2_incorrect": 17
+        },
+        "JAMA": {
+          "round1_correct": 39,
+          "round2_incorrect": 8
+        },
+        "MedXpert": {
+          "round1_correct": 38,
+          "round2_incorrect": 21
+        },
+        "MedBullets": {
+          "round1_correct": 69,
+          "round2_incorrect": 16
+        }
+      },
+      "pairwise_expert933": {
+        "n_correct_round1": 250,
+        "n_correct_round2": 504,
+        "n_spurious_r1_correct_r2_wrong": 62,
+        "n_recovered_r1_wrong_r2_correct": 316,
+        "net_drop_in_correct_answers": -254
+      }
+    }
+  ],
+  "models": [
+    "GPT4o",
+    "GPT 5",
+    "Qwen-14B",
+    "Qwen 72B",
+    "Llama-70B",
+    "MedGemma-27B"
+  ],
+  "overall_max_length": 933,
+  "source_csv_933": "/home/yuexing/NeuRIPS25/Physician_Labels/Mar2_2026_Data/933_Clinician_Student_Majority_Vote.csv",
+  "answer_letters_from": "/home/yuexing/NeuRIPS25/After_PT_Removal/GPT4o/results/predictions/gpt4o_predictions_Original_Accuracy.csv",
+  "physicians_round2_mj": {
+    "JAMA": {
+      "round1_correct": 295,
+      "round2_incorrect": 85
+    },
+    "MedBullets": {
+      "round1_correct": 160,
+      "round2_incorrect": 21
+    },
+    "MedXpert": {
+      "round1_correct": 286,
+      "round2_incorrect": 162
+    },
+    "MMLU": {
+      "round1_correct": 192,
+      "round2_incorrect": 5
+    }
+  },
+  "physicians_round2_mj_csv": "/home/yuexing/NeuRIPS25/Physician_Labels/Apr1_2026_Data/Round2_933_MJ_accuracy_by_data_source.csv"
+}

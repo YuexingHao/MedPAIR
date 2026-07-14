@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.03415761560137,"The patient had a myocardial infarction 6 months ago, and she now has multiple drug-eluting stents.",88,MedBullets_df_op4_Q89,A
+44.95480668544769,"On physical exam, she has an irregular heartbeat with normal cardiac sounds.",88,MedBullets_df_op4_Q89,A
+23.79673105093106,"Her temperature is 98.6°F (37°C), blood pressure is 118/75 mmHg, pulse is 92/min, and respirations are 12/min.",88,MedBullets_df_op4_Q89,A
+4.665139362521274,Her current ECG can be seen in Figure A.,88,MedBullets_df_op4_Q89,A
+2.9315241000855363,"Her home medications include methotrexate, atorvastatin, clopidogrel, and aspirin.",88,MedBullets_df_op4_Q89,A

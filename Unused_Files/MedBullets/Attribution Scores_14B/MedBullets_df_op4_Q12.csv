@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+55.03625310957432,He was recently exposed to his grandfather who has vesicular lesions on his skin and is being treated.,11,MedBullets df_op4 Q12,D
+37.0163349999583,A 39-year-old man presents to his doctor for a wellness checkup.,11,MedBullets df_op4 Q12,D
+35.97823547642439,"His temperature is 98.6°F (37.0°C), blood pressure is 137/98 mmHg, pulse is 90/min, respirations are 14/min, and oxygen saturation is 98% on room air.",11,MedBullets df_op4 Q12,D
+30.446320994865008,He is concerned about a rash that does not seem to be improving.,11,MedBullets df_op4 Q12,D
+30.225161053174872,"He has a family history of skin cancer, colon cancer, and ovarian cancer.",11,MedBullets df_op4 Q12,D
+29.04932875613703,Physical exam reveals the finding in Figure A.,11,MedBullets df_op4 Q12,D
+8.644261846822074,The patient has a medical history of asthma and seasonal allergies.,11,MedBullets df_op4 Q12,D

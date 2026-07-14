@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.60572000399914,"His parents are concerned because a few weeks ago he started rolling from back to front in addition to front to back, but he now struggles when placed on his back.",175,MedBullets_df_op4_Q176,
+46.30743408203125,His parents report that he is feeding and stooling well and they have just started experimenting with solid foods.,175,MedBullets_df_op4_Q176,
+39.868800350988664,"His temperature is 98.6°F (37°C), blood pressure is 77/49 mmHg, pulse is 112/min, and respirations are 24/min.",175,MedBullets_df_op4_Q176,
+15.216578467389512,The patient was noted to be developmentally appropriate for his age at his last visit 2 months ago.,175,MedBullets_df_op4_Q176,
+0.0,"On physical exam, the patient seems well-nourished and has no dysmorphic features.",175,MedBullets_df_op4_Q176,

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+110.2058962667162,"His temperature is 105°F (40.6°C), blood pressure is 116/68 mmHg, pulse is 167/min, respirations are 29/min, and oxygen saturation is 99% on room air.",97,MedBullets df_op4 Q98,C
+65.80812747165915,Physical exam reveals a confused man who is moving all 4 extremities and is protecting his airway.,97,MedBullets df_op4 Q98,C
+28.809763569018617,A urine dipstick is positive for red blood cells.,97,MedBullets df_op4 Q98,C
+27.9293622826098,"The patient is given intravenous fluids, and basic laboratory studies are drawn and pending.",97,MedBullets df_op4 Q98,C
+27.219171173656896,He has a history of a seizure disorder.,97,MedBullets df_op4 Q98,C
+24.565398296906626,He was running a marathon but became confused halfway through the race.,97,MedBullets df_op4 Q98,C
+19.139012061059475,He arrives unable to coherently answer questions and is not sure where he is.,97,MedBullets df_op4 Q98,C
+18.97022300856812,"During the exam, he develops a tonic-clonic seizure, which lasts 1 minute and then terminates on its own.",97,MedBullets df_op4 Q98,C
+13.411361289472042,A 27-year-old man presents to the emergency department with altered mental status.,97,MedBullets df_op4 Q98,C

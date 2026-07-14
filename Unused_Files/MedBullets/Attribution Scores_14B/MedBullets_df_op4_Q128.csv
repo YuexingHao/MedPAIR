@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.567327613626816,"Bedside ultrasound reveals a 1x2 cm hypoechogenic nodule with microcalcifications in the right thyroid lobe, which is biopsied.",127,MedBullets df_op4 Q128,B
+32.69348031154024,Pathology results are shown in Figure A.,127,MedBullets df_op4 Q128,B
+32.10417722106661,"He also denies heat intolerance, palpitations, tremors, or diarrhea.",127,MedBullets df_op4 Q128,B
+30.597612469712235,"His temperature is 37.1°C (98.8°F), blood pressure is 130/84 mmHg, pulse is 86/min, respirations are 12/min, and oxygen saturation is 99% on room air.",127,MedBullets df_op4 Q128,B
+25.89116825210795,A 53-year-old man presents to the clinic with a non-tender mass in his right anterior neck.,127,MedBullets df_op4 Q128,B
+11.5960724603777,"He has hypertension and hyperlipidemia, for which he takes lisinopril and atorvastatin.",127,MedBullets df_op4 Q128,B
+9.880885243415833,"He reports no dysphagia, difficulty breathing, or changes to his voice.",127,MedBullets df_op4 Q128,B
+0.0,He has never smoked cigarettes.,127,MedBullets df_op4 Q128,B
+0.0,The mass has been slowly enlarging over the past 1 year.,127,MedBullets df_op4 Q128,B

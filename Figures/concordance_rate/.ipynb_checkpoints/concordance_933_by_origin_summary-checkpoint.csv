@@ -1,0 +1,10 @@
+model,n_origins_933,n_origins_scored,n_origins_no_valid_sentence_pairs,mean_concordance_pct,sd_concordance_pct,mean_sentence_pairs_per_origin,model_csv
+GPT4o,933,933,0,44.58960019779507,28.17978015763735,5.084673097534834,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/GPT4o_MatchRate.csv
+Qwen-14B_CC,933,933,0,56.172853890604976,20.137746453211342,5.088960342979636,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/14B_MatchRate.csv
+Qwen-14B_SR,933,933,0,52.393039499708784,22.02901523744576,9.121114683815648,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/[SR]Qwen14B_annotated_MedPAIR_relevancy.csv
+Qwen-72B_CC,933,933,0,44.268703858673796,27.2626359606053,5.084673097534834,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/72B_MatchRate.csv
+Qwen-72B_SR,933,930,3,70.2491307545612,19.390770317357642,9.105376344086022,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/[SR]Qwen72B_annotated_MedPAIR_relevancy.csv
+Llama-70B_CC,933,930,3,64.84422178777017,25.712149068568344,5.094623655913979,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/70B_MatchRate.csv
+Llama-70B_SR,933,929,4,49.65238200901403,18.008335360609333,9.168998923573735,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/[SR]Llama70B_annotated_ORIGINAL_Accuracy.csv
+MedGemma-27B,933,933,0,55.340143979146795,19.562247861824712,9.187566988210076,/orcd/home/002/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/data/raw/MedGemma_SR_Match_Rate.csv
+GPT5,933,933,0,51.64438427257855,19.66285792841717,19.0,/orcd/home/002/yuexing/NeuRIPS25/Physician_Labels/results/GPT5_MatchRate.csv

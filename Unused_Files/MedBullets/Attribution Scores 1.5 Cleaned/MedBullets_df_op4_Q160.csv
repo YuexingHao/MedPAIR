@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+39.95442964408345,"He is brought in by his home care nurse, who reports that the patient has a history of myasthenia gravis and frequent urinary tract infections.",159,MedBullets df_op4 Q160,B
+34.10706747139624,"A 71-year-old man arrives to the emergency room appearing cyanotic and having weak, shallow respirations.",159,MedBullets df_op4 Q160,B
+33.14387785558456,"The patient’s medications include pyridostigmine and aspirin, both of which he takes as prescribed.",159,MedBullets df_op4 Q160,B
+22.162859749624698,"His temperature is 99.0°F (37.2°C), blood pressure is 128/78 mmHg, pulse is 92/min, and respirations are 28/min with an oxygen saturation of 86% O2 on room air.",159,MedBullets df_op4 Q160,B
+21.73177203697525,He was receiving gentamicin infusions for his infections.,159,MedBullets df_op4 Q160,B
+9.836865033898604,The patient is intubated.,159,MedBullets df_op4 Q160,B
+9.069001944650484,An arterial blood gas is drawn with results as shown below:,159,MedBullets df_op4 Q160,B
+8.580567170811234,"This morning, he experienced poor grip strength and progressive difficulty breathing.",159,MedBullets df_op4 Q160,B
+5.587907134198153,PO2: 55 mmHg,159,MedBullets df_op4 Q160,B
+1.8792263758337429,pH: 7.30,159,MedBullets df_op4 Q160,B

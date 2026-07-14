@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+27.295271516822417,"There is pain, decreased range of motion, and crepitus on exam of her right hip.",75,MedBullets df_op4 Q76,C
+25.723806951792717,She also recently fell off the treadmill while exercising at the gym.,75,MedBullets df_op4 Q76,C
+23.21919954268651,The pain is present in the morning but is nearly unbearable by the end of the day.,75,MedBullets df_op4 Q76,C
+23.149154238402843,"Her medical history is notable for a treated episode of acute renal failure, diabetes mellitus, obesity, and hypertension.",75,MedBullets df_op4 Q76,C
+15.872150593516224,The patient recently started taking high doses of vitamin D as she believes that it could help her symptoms.,75,MedBullets df_op4 Q76,C
+11.110806742239172,A 69-year-old woman presents with pain in her hip and groin.,75,MedBullets df_op4 Q76,C
+8.389169271659723,"Her current medications include losartan, metformin, insulin, and ibuprofen.",75,MedBullets df_op4 Q76,C
+4.250916403276068,The patient points to the areas that cause her pain stating that it is mostly over the groin.,75,MedBullets df_op4 Q76,C
+3.936191092040847,"On exam, an obese woman in no distress is noted.",75,MedBullets df_op4 Q76,C
+2.298135897163125,"Her temperature is 98.6°F (37°C), blood pressure is 135/91 mmHg, pulse is 72/min, and respirations are 12/min.",75,MedBullets df_op4 Q76,C

@@ -1,0 +1,1119 @@
+\documentclass[11pt]{article}
+
+% Packages (adjust as needed)
+\usepackage[utf8]{inputenc}
+\usepackage{authblk} % for author/affiliation formatting
+\usepackage{graphicx} % for figures
+\usepackage{amsmath, amssymb} % math symbols
+\usepackage{hyperref} % clickable refs
+\usepackage{array}
+\usepackage{pdflscape}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{pgfkeys}
+\usepackage{threeparttable}
+\usepackage{makecell}
+\usepackage{tcolorbox}
+\tcbuselibrary{skins, breakable}
+\usepackage{pifont}
+\usepackage[table]{xcolor}
+\usepackage{xcolor}
+\usepackage{graphicx}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{enumitem}
+\usepackage[table]{xcolor}
+\usepackage{pgfplotstable}
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{makecell}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{pifont}   % for \ding{55}
+\usepackage{amssymb}
+\usepackage[table]{xcolor}
+\usepackage{booktabs}
+\usepackage{svg}
+\usepackage{amsmath}
+\usepackage{pdflscape}
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{graphicx}       % graphs
+\usepackage{multicol}       % two-column layout
+\usepackage{mdframed}
+\usepackage{multirow}
+\usepackage{CJKutf8}
+\usepackage{amsmath}
+\usepackage{xspace}
+\usepackage{graphicx,subcaption} 
+\usepackage[most]{tcolorbox}
+\usepackage{wrapfig}
+\usepackage{caption}    % in your preamble
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable}
+\usepackage[table]{xcolor}           % for \cellcolor and friends
+\usepackage{booktabs}                % for \toprule, \midrule, \bottomrule
+\usepackage{pgfplots}                % core pgfplots
+\usepackage{pgfplotstable}           % core table routines
+
+\definecolor{heatmap1}{RGB}{8,48,107}    % Dark Blue (High value)
+\definecolor{heatmap2}{RGB}{33,113,181}  % Medium Blue
+\definecolor{heatmap3}{RGB}{66,146,198}  % Light Blue
+\definecolor{heatmap4}{RGB}{107,174,214} % Lighter Blue
+\definecolor{heatmap5}{RGB}{198,219,239} % Very Light Blue
+\definecolor{heatmap6}{RGB}{237,248,251} % Almost White
+
+
+\usepackage[a4paper, margin=0.8in]{geometry} 
+\usepackage{setspace}
+\singlespacing   % or \onehalfspacing / \doublespacing
+\usepackage{mathptmx}
+
+\tcbset{
+  palebluebox/.style={
+    enhanced jigsaw,     % use the jigsaw engine for flexible breaking
+    breakable,           % allow the box to split across pages
+    colback=gray!10!white,
+    colframe=gray!30!white,
+    boxrule=0pt,
+    sharp corners,
+    width=\textwidth,
+    before skip=10pt,
+    after skip=10pt,
+    left=8pt, right=8pt, top=3pt, bottom=3pt,
+  }
+}
+
+\title{Supplementary Information}
+
+\bibliographystyle{naturemag}  
+
+\author[1*]{Yuexing Hao}
+\author[1]{Kumail Alhamoud}
+\author[1]{Hyewon Jeong}
+\author[1]{Haoran Zhang}
+\author[1]{Grace Yan}
+\author[1]{Isha Puri}
+\author[3]{Philip Torr}
+\author[6]{Mike Schaekermann}
+\author[2]{Saleh Kalantari}
+\author[4,5]{Ariel D. Stern}
+\author[1]{Marzyeh Ghassemi}
+
+\affil[1]{Massachusetts Institute of Technology, Cambridge, MA, USA}
+\affil[2]{Cornell University, Ithaca, NY, USA}
+\affil[3]{University of Oxford, Oxford, UK}
+\affil[4]{Hasso Plattner Institute, Potsdam, Germany}
+\affil[5]{University of Potsdam, Potsdam, Germany}
+\affil[6]{Independent Researcher}
+\affil[*]{Corresponding Author: yuexing@mit.edu}
+
+\begin{document}
+
+\maketitle
+
+\section{Dataset Explanation}
+\label{dataset_explanation}
+
+\begin{table}[h!]
+\centering
+\small
+\setlength{\tabcolsep}{10pt}
+\begin{tabular}{l|c|c|c|c|c}
+\toprule
+\textbf{Dataset} & \textbf{Total QA} & \multicolumn{2}{c}{\textbf{\makecell[c]{Avg Words\\Per Sentence}}} & \multicolumn{2}{c}{\textbf{Perplexity}} \\
+\midrule
+&  & \textbf{High} & \textbf{Low/Irr} & \textbf{High} & \textbf{Low/Irr} \\
+\midrule
+\textbf{\makecell[l]{MMLU \\ {\small (Precision Medicine)}}} 
+& 192 
+& 16.16 {\scriptsize(4.08)}  
+& 12.8 {\scriptsize(4.6)} 
+& 46.4 {\scriptsize(56.3)} 
+& 58.7 {\scriptsize(70.4)} \\
+
+\textbf{\makecell[l]{JAMA \\ Clinical Challenge}} 
+& 295 
+& 20.76 {\scriptsize(4.52)} 
+& 16.0 {\scriptsize(5.4)} 
+& 51.6 {\scriptsize(69.3)} 
+& 68.2 {\scriptsize(92.4)} \\
+
+\textbf{MedBullets} 
+& 160 
+& 15.73 {\scriptsize(3.15)} 
+& 16.0 {\scriptsize(4.3)} 
+& 46.5 {\scriptsize(51.1)} 
+& 48.3 {\scriptsize(65.8)} \\
+
+\textbf{MedXpertQA} 
+& 286 
+& 17.06 {\scriptsize(5.07)} 
+& 15.6 {\scriptsize(4.9)} 
+& 41.4 {\scriptsize(43.8)} 
+& 52.3 {\scriptsize(71.0)} \\
+
+\midrule
+\textbf{Overall} 
+& 933 
+& 17.81 {\scriptsize(4.86)} 
+& 15.4 {\scriptsize(5.1)} 
+& 48.7 {\scriptsize(62.0)} 
+& 61.0 {\scriptsize(82.9)} \\
+\bottomrule
+\end{tabular}
+\vspace{0.7mm}
+\caption{\textbf{Comparative Analysis of Physician Trainee--Annotated \emph{MedPair} Dataset Characteristics.} Values in parentheses represent standard deviations.}
+\label{tab:comparison_1}
+\end{table}
+
+\textbf{Massive Multitask Language Understanding (MMLU)} is a common benchmark which consists of multiple domains and tasks based on real-world exams \cite{hendrycks_measuring_2021}. It includes 57 subjects across STEM, the humanities, the social sciences. Here we only focused on medical related questions (precision\_medicine), which has 272 multiple-choice medical questions. 
+
+The \textbf{JAMA Clinical Challenge dataset} includes 1,034 clinical cases sourced from the JAMA Network Clinical Challenge archive. Each entry summarizes a real and diagnostically complex clinical scenario, presented in the form of a question. These challenges feature an extended case vignette followed by a multiple-choice question with four answer options, accompanied by a detailed discussion explaining both the correct and incorrect responses. The questions span a broad spectrum of medical topics \cite{chen_benchmarking_2025}.
+
+\textbf{Medbullets} consists of 298 United States Medical Licensing Examination (USMLE) Step 2 and Step 3–style questions curated from open-access posts beginning in April 2022. These questions aim to reflect common clinical scenarios encountered in medical education, with difficulty levels comparable to Step 2 and 3 exams. Each item includes a brief case description, five answer choices, and an explanation that clarifies the reasoning behind both correct and incorrect responses. Compared to JAMA, these cases tend to be shorter and potentially less complex \cite{chen_benchmarking_2025}.
+
+\textbf{MedXpertQA} consists of 2450 questions for text evaluation. It is a highly challenging
+and comprehensive medical multiple-choice benchmark. MedXpertQA integrates specialty-specific assessments into medical benchmarking and challenging medical exam questions with real-world clinical information into medical multimodal benchmarking \cite{zuo_medxpertqa_2025}.
+
+
+\subsection{Evaluation Set-Up}
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=0.8\textwidth]{Figures/Evaluation_Benchmark_2.pdf}
+  \caption{\textbf{Aligning Physician Trainee Annotations with LLM ContextCite Raw Scores Using an Identical Input Context Budget.}}
+  \label{evaluation_Benchmark}
+\end{figure}
+
+\subsection{NLP Analysis}
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\textwidth]{Figures/Self-ReportVSCentaurLab.pdf}
+  \caption{\textbf{Sentence Position Analysis.} Plot (a) Distribution of physician trainees’ majority‐vote relevance labels by sentence position. Plot (b) Distribution of GPT-4o self-reported relevance labels by sentence position. Plot (c) ContextCite scores across the context for three open-source models (Qwen-14B, Llama-70B, Qwen-72B).}
+  \label{fig:sentence_position}
+\end{figure}
+
+In order to investigate how sentence relevance shifts according to its position in the clinical vignette, we plotted the labels assigned by physician trainees and those self reported by LLMs (Figure \ref{fig:sentence_position} plots (a), (b)) and LLM ContextCite scores (Figure \ref{fig:sentence_position} plot (c)). Our objective was to determine whether trainees or the model demonstrate systematic attention to particular segments of the patient profile. All three plots indicate that sentences appearing at the beginning of the text receive the highest relevance ratings. GPT-4o marks slightly fewer sentences as highly relevant and more as irrelevant in the central region compared with physician trainees. In contrast, ContextCite scores decline from approximately 0.33 at the outset to 0.22 by the tenth percentile, then plateau between 0.20 and 0.25 with minimal variance. This flat, low-variance profile diverges sharply from the dynamic patterns of expert and self-reported labels, suggesting that ContextCite does not capture the nuanced, position-dependent relevance judgments.
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{Figures/MedPAIR_Dataset_Curation.pdf}
+  \caption{\textbf{MedPAIR Dataset Curation.} We curated a 933 annotated QA dataset MedPAIR. Data are structured into patient profile and query components. In the first step, 52 physician trainees and 6 LLMs independently select the most appropriate answer. In the second step, physician trainees annotate the relevance of each sentence within the patient profile, excluding annotations link to incorrect answers. Majority voting is used to produce binary relevance labels for physician trainees. Concurrently, we prompt close-source LLMs (GPT-4o, GPT-5) to follow the physician annotation instructions and employ ContextCite with open-source LLMs (Qwen-14B, Qwen-72B, Llama-70B, MedGemma-27B) to generate both relevance scores and self-reported labels.}
+  \label{Self_Report_Vs_Centaur_Lab}
+\end{figure}
+
+\subsection{Model Memorizations}
+
+We further investigate memorization in open-source models to determine whether MedPAIR data may already be present or have been used during their pre-training. We apply the Min-K\%++ membership inference attack \cite{zhang2024min} to evaluate whether a specific text segment was included in an LLM’s training set. For each question, we query the model with “what’s the probability of this exact text?” and compute multiple signal scores based on the token-level log-probabilities. 
+
+Since it is an LLM explicitly trained for the medical domain, MedGemma-27B is consistently the most confident on all four medical sources. Among the general-purpose models, Llama-3.1-70B shows slightly higher confidence than the Qwen models. The detailed results are reported in Table \ref{model_memorization}.
+
+\begin{table}[h!]
+  \centering
+  {\scriptsize
+  \begin{tabular}{c|c|c|c|c} 
+    \toprule
+    \textbf{Model} & \textbf{JAMA} (n=295) & \textbf{MedXpert} (n=286) & \textbf{MedBullets} (n=160) & \textbf{MMLU} (n=192)\\
+    \midrule
+    \textbf{Llama 3.1 70B}    & $-1.572 \pm 0.202$ {\tiny[-1.596, -1.549]} & $-1.622 \pm 0.308$ {\tiny[-1.658, -1.586]} & $-1.469 \pm 0.187$ {\tiny[-1.498, -1.439]} & $-1.589 \pm 0.297$ {\tiny[-1.631, -1.546]}\\
+    \textbf{Qwen2.5 72B}      & $-1.523 \pm 0.217$ {\tiny[-1.548, -1.498]} & $-1.572 \pm 0.333$ {\tiny[-1.610, -1.533]} & $-1.381 \pm 0.195$ {\tiny[-1.411, -1.351]} & $-1.485 \pm 0.306$ {\tiny[-1.529, -1.442]}\\
+    \textbf{Qwen2.5 14B}      & $-1.563 \pm 0.214$ {\tiny[-1.588, -1.539]} & $-1.581 \pm 0.322$ {\tiny[-1.619, -1.544]} & $-1.415 \pm 0.200$ {\tiny[-1.446, -1.384]} & $-1.543 \pm 0.289$ {\tiny[-1.584, -1.502]}\\
+    \textbf{MedGemma 27B}     & $-2.010 \pm 0.258$ {\tiny[-2.040, -1.981]} & $-1.945 \pm 0.373$ {\tiny[-1.988, -1.901]} & $-1.726 \pm 0.221$ {\tiny[-1.761, -1.692]} & $-1.894 \pm 0.342$ {\tiny[-1.943, -1.845]}\\
+    \bottomrule
+  \end{tabular}
+  }
+  \caption{\textbf{Model Memorization Metrics across Different Datasets}. All resulting scores are negative. Values that are less negative (i.e., closer to 0) indicate that the model considers the text more predictable, which provides a stronger indication that the text appeared in its training data. Values presented as mean ± standard deviation.}
+  \label{model_memorization}
+\end{table}
+
+
+\section{Expert Annotation Dataset Interpretation}
+
+We instructed each labeler to annotate every sentence as “high relevance,” “low relevance,” or “irrelevant.” Depending on question difficulty and the exclusion of annotations from labelers whose answer classifications proved incorrect, each item received at least two valid annotations. We then assign numeric scores to those labels: high relevance was scored as 1.0, low relevance as 0.5, and irrelevant as 0.0. For each sentence, we calculated the average of those scores. If the average exceeded 0.66, we classified the sentence as high relevance; if it fell between 0.33 and 0.66, we classified it as low relevance; and if it was below 0.33, we classified it as irrelevant. 
+
+After the sentence removal, we have the number of sentences in high or low irrelevant Table \ref{tab:high_low_sentence_dist}.
+
+\begin{table}[h!]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{12pt}
+\begin{tabular}{l|c|c|c|c|c}
+\toprule
+\textbf{Source} & \textbf{#QA} & \textbf{\makecell[c]{High / QA \\ (mean $\pm$ std)}} & \textbf{\makecell[c]{Low / QA \\ (mean $\pm$ std)}} & \textbf{High \%} & \textbf{Low \%} \\
+\midrule
+\textbf{JAMA}     & 295 & $8.1 \pm 3.2$ & $4.4 \pm 2.6$ & 65.0\% & 35.0\% \\
+\textbf{MedXpert}    & 286 & $5.4 \pm 5.9$ & $2.6 \pm 2.1$ & 67.2\% & 32.8\% \\
+\textbf{MedBullets}    & 160 & $5.6 \pm 1.9$ & $3.8 \pm 1.9$ & 59.5\% & 40.5\% \\
+\textbf{MMLU}     & 192 & $4.6 \pm 2.1$ & $3.0 \pm 2.3$ & 60.5\% & 39.5\% \\
+\midrule
+\textbf{Overall}     & 933 & $6.1 \pm 3.4$ & $3.5 \pm 2.4$ & 63.9\% & 36.1\% \\
+\bottomrule
+\end{tabular}
+\vspace{0.7mm}
+\caption{\textbf{Distribution of High and Low or irrelevant Sentences QA Pairs Across Datasets.} Mean and standard deviation represent the average number of high and low/irrelevant annotations per question.}
+\label{tab:high_low_sentence_dist}
+\end{table}
+
+% The specific rules and combinations of relevance labels are displayed in Table \ref{tab:label_landscape_comparison}.
+
+% \begin{table}[h!]
+% \centering
+% % \renewcommand\arraystretch{1.3}
+% \begin{tabular}{l|c|c|c}
+% \toprule
+% \textbf{Labelers} & \textbf{\makecell[c]{High Relevance \\ Labels}} & \textbf{\makecell[c]{Low Relevance \\ Labels}} & \textbf{\makecell[c]{Irrelevant Labels}}\\
+% \midrule
+% \makecell[c]{3 Correct Labels\\ (467 QAs)} & \makecell[c]{High, High, High (947 sents) \\ High, High, Low (883 sents) \\ High, Low, Low (773 sents) \\ High, High, Irr (72 sents) } & \makecell[c]{Low, Low, Low (894 sents)\\ High, Low, Irr (191 sents) } & \makecell[c]{Low, Low, Irr  (443 sents)\\ Low, Irr, Irr (131 sents)\\ Irr, Irr, Irr (47 sents)\\ High, Irr, Irr (38 sents)} \\
+% \hline
+% \makecell[c]{2 Correct Labels\\ (404 QAs)} & \makecell[c]{High, High (1146 sents) \\ High, Low (1099 sents)} & \makecell[c]{Low, Low (1044 sents) \\ Low, Irr (396 sents) \\ High, Irr (113 sents)}  & Irr, Irr (90 sents) \\
+% \hline
+% \makecell[c]{1 Correct Labels \\(419 QAs)} & High (1685 sents) & Low (1775 sents) & Irr (337 sents) \\
+% \bottomrule
+% \end{tabular}
+% \vspace{0.5em}
+
+% \noindent* “High” refers to high relevance; “Low” to low relevance; “Irr” to irrelevant.
+
+% ** "sents" refers to sentences.
+
+% \vspace{0.5em}
+% \caption{\textbf{Rules based on majority label agreement across different label landscapes for each sentence-level analysis.}}
+% \label{tab:label_landscape_comparison}
+% \end{table}
+
+% \begin{table}[h!]
+% \centering
+% \begin{tabular}{l|c|c|c|c|c|c|c}
+% \toprule
+% \textbf{Data Source} & \textbf{2 Correct} & \textbf{3 Correct} & \textbf{4 Correct} & \textbf{5 Correct} & \textbf{6 Correct} & \textbf{7 Correct} & \textbf{8 Correct} \\
+% \midrule
+% MMLU        & 12  & 52  & 117 & 11 & 1 & 0 & 0 \\
+% JAMA        & 146 & 208 & 205 & 10 & 1 & 1 & 2 \\
+% MedXpert    & 176 & 80  & 34  & 5  & 0 & 0 & 0 \\
+% MedBullets  & 36  & 65  & 97  & 7  & 0 & 1 & 0 \\
+% \bottomrule
+% \end{tabular}
+% \caption{\textbf{Distribution of Correct Labels by data source}. Each column indicates the number of origins with exactly $k$ correct QAs.}
+% \label{tab:true_matches}
+% \end{table}
+
+To structure the evaluation, we designed a framework distinguishing between accurate prediction and relevance agreement, summarized in the confusion matrix presented in Table \ref{Confusion_Matrix}. We evaluated the outcomes under both conditions in two ways: (a) \textit{Answer correctness}: did the model get the question right or wrong? and (b) \textit{Relevance agreement}: how well did the model align with the physician trainee’s annotated relevant components? 
+
+We quantified alignment using metrics such as the proportion of the model’s referenced high/low relevance components and the frequency of referencing irrelevant components, comparing these against the ground-truth annotations. Our goal is to ensure that relevance agreement aligns with both accurate prediction (true positives (TP) in Table \ref{Confusion_Matrix}) and correct relevance, using clinicians' relevance labels with correct predictions as ground truth. We seek to minimize cases where the model achieves correct predictions but relies on incorrect relevance (false positives (FP) in Table \ref{Confusion_Matrix}).
+
+
+\begin{table}[h]
+\centering
+\footnotesize  % <-- Make the table font smaller
+\renewcommand{\arraystretch}{1.2}  % Slightly reduce row height
+\begin{tabular}{@{}llcc@{}}
+\toprule
+ & & \multicolumn{2}{c}{\textbf{Relevance Agreement}} \\
+ & & \textbf{Yes} & \textbf{No} \\
+\midrule
+\multirow{2}{*}{\textbf{Accurate Prediction}} 
+& \textbf{Yes}  
+& \cellcolor{green!25}TP (Relevance\checkmark, Accurate \checkmark) 
+& \cellcolor{red!40}FP (Relevance\ding{55}, Accurate \checkmark) \\
+& \textbf{No}  
+& \cellcolor{red!40}FN (Relevance\checkmark, Accurate \ding{55}) 
+& \cellcolor{red!25}TN (Relevance\ding{55}, Accurate \ding{55}) \\
+\bottomrule
+\end{tabular}
+\caption{\textbf{Confusion matrix of prediction accuracy and relevance agreement.} In our MedPAIR benchmark, we evaluated relevance labels from both physician trainee labelers and LLMs.}
+\label{Confusion_Matrix}
+\end{table}
+
+\section{Labeler Instructions \& Prompts}
+
+We asked each physician trainee or physician labeler to follow this instruction during sentence-level relevance labeling:
+
+\begin{tcolorbox}[palebluebox]
+\small
+You are given a list of sentences from a clinical vignette and a multiple-choice clinical question.
+
+Your task is twofold:
+(1) Select the most appropriate answer from the given options.
+(2) Label each sentence as either \textbf{[High Relevance]}, \textbf{[Low Relevance]}, or \textbf{[Irrelevant]}, based on its contribution to answering the question.
+
+\vspace{2mm}
+\textbf{\textsc{Definitions:}} 
+
+\vspace{2mm}
+\textbf{\textsc{[High Relevance]: }} Give this label to sentences that directly answer the medical question with specific and essential information. If this part is missing or altered, the answer would be significantly affected.
+\begin{itemize}
+    \item A sentence that explicitly states the primary cause or contributing factor (history, demographics, etc.)  is considered high relevance. 
+    \item If the question is asking about the treatment plan, a sentence that clearly states the specific indication of the proposed treatment plan is considered high relevance.
+    \item If the question is asking about the diagnosis, a sentence that includes diagnostic criteria for the condition is considered high relevance.
+    \item If the question is asking about test results, a sentence that clearly reports the key findings that confirm or support the test outcome is considered high relevance.
+\end{itemize}
+
+
+\vspace{2mm}
+\textbf{\textsc{[Low Relevance]: }}Give this label to sentences that offer background or contextually related or background information that may be helpful but do not directly answer the question.
+\begin{itemize}
+    \item A sentence that includes a secondary or potential contributing factor (symptoms, history, etc.) of the main patient condition is considered low relevance. 
+    \item A negative history that contradicts or does not support the diagnosis (e.g., no prior epistaxis when the diagnosis is epistaxis) is considered low relevance.
+    \item If the question is asking about the treatment plan, a sentence that includes the intervention or therapy that is not central to the gold standard treatment is considered low relevance.
+    \item If the question is asking about the treatment plan, a sentence that describes the outcome of a previous intervention for the current chief complaint or diagnosis—particularly one that was unsuccessful—is considered low relevance.
+    \item If the question is asking about the treatment plan, a sentence that does not indicate the treatment itself but instead rules out other conditions that would require different treatments is considered low relevance.
+    \item If the question is asking about the diagnosis, a sentence that includes criteria that could rule out the current diagnosis (that provides differential diagnosis of the patient condition) is considered low relevance.
+    \item If the question is asking about test results, a sentence that reports findings that correlate with or commonly co-occur with the expected result—but are not definitive—is considered low relevance.
+
+\end{itemize}
+
+\vspace{2mm}
+\textbf{\textsc{[Irrelevant]: }}Give this label to sentences that do not fall under high or low relevance, or that seem completely unrelated or unhelpful to answering the question. Irrelevant sentences wouldn’t affect anyone answering this QA even if this is removed.
+\begin{itemize}
+    \item Sentence that adds no additional information on solving question and doesn’t help in differentially diagnosing the condition
+    \item General findings, not specific to the diagnosis or management decision.
+\end{itemize}
+
+
+\vspace{2mm}
+Focus on identifying the information that directly contributes to answering the question. This task involves only text and does not include any images. If the text refers to figures or mentions ‘from the image,’ focus only on the information presented in the text.
+Please consider the following clinical question and answer options when labeling each sentence. Then, label each sentence.
+\label{LLM_Self_Report_Prompt}
+\end{tcolorbox}
+
+To ensure both physician labelers and the LLM received identical instructions, we used the same prompt when eliciting self-reported sentence-level relevance annotations.
+
+We also asked LLMs to output the answer while compiling the ContextCite score for each sentence.
+
+\begin{tcolorbox}[palebluebox]
+\small
+You are a clinical reasoning assistant. You will receive a patient case summary and a multiple-choice question. 
+
+Read the question and state your answer. 
+
+Patient Context: [\textit{patient profile text}]
+
+Question and Options: [\textit{question and options}]
+
+\vspace{2mm}
+
+Please select the single most appropriate answer. Respond only in the following format: 
+
+Answer: [LETTER]
+\label{Context_Cite_Prompt}
+\end{tcolorbox}
+
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\textwidth]{Figures/Labeling_Interface.png}
+  \caption{\textbf{Centaur Labs Labeling Interface.} The physician labelers first answer the classification question, then provide "high relevance", "low relevance", and "not relevant" labels to each sentence. Physician labelers can also add comments or flag cases during labeling.}
+  \label{Interface}
+\end{figure}
+
+
+% \begin{table}[h!]
+% \centering
+% \resizebox{\textwidth}{!}{%
+% \begin{tabular}{l|cc|cc|cc|cc|cc}
+% \toprule
+% & \multicolumn{2}{c|}{\makecell[c]{MMLU \\ Precision Medicine \\ (193 QAs)}} 
+% & \multicolumn{2}{c|}{\makecell[c]{JAMA \\ Clinical Challenge \\ (582 QAs)}} 
+% & \multicolumn{2}{c|}{\makecell[c]{Med Bullets \\ (207 QAs)}} 
+% & \multicolumn{2}{c|}{\makecell[c]{MedXpertQA \\ (318 QAs)}} 
+% & \multicolumn{2}{c}{\textbf{\makecell[c]{Overall \\ (1,300 QAs)}}} \\
+% \midrule
+% & Before & After & Before & After & Before & After & Before & After & Before & After \\
+% \midrule
+% \makecell[l]{Trainees}     & 84.2 {\scriptsize(0.4)} & \makecell[c]{[31 QAs] \\89.3 {\scriptsize(0.2)}} & 55.2 {\scriptsize(0.5)} & \makecell[c]{[93 QAs] \\64.5 {\scriptsize(0.2)}} & 65.8 {\scriptsize(0.5)} & \makecell[c]{[31 QAs] \\76.4 {\scriptsize(0.2)}} & \textbf{23.5} {\scriptsize(0.4)} & \makecell[c]{[93 QAs] \\59.5 {\scriptsize(0.2)}} & \textbf{48.3} {\scriptsize(0.5)} & \makecell[c]{[248 QAs] \\67.2 {\scriptsize(0.2)}} \\
+% Physicians     & 69.8 {\scriptsize(0.5)} & - & 51.4 {\scriptsize(0.5)} & - & 40.9 {\scriptsize(0.5)} & - & 18.9  {\scriptsize(0.4)} & - & 45.0 {\scriptsize(0.5)} & -\\
+% \midrule
+% Qwen-14B     & 69.8 {\scriptsize(0.5)} & \textcolor{red}{66.3} {\scriptsize(0.5)} & 51.4 {\scriptsize(0.5)} & 52.8 {\scriptsize(0.5)} & 40.9 {\scriptsize(0.5)} & 44.2 {\scriptsize(0.5)} & 18.9  {\scriptsize(0.4)} & 21.1 {\scriptsize(0.4)} & 45.0 {\scriptsize(0.5)} & 45.7 {\scriptsize(0.5)}\\
+% LLaMA-70B    & 77.9 {\scriptsize(0.42)} & 92.2 {\scriptsize(0.3)} & 48.1 {\scriptsize(0.5)} & 66.8 {\scriptsize(0.47)} & 48.7 {\scriptsize(0.5)} & 69.6 {\scriptsize(0.5)} & 14.9 {\scriptsize(0.4)} & 21.4 {\scriptsize(0.4)} & 30.0 {\scriptsize(0.5)} & 62.2 {\scriptsize(0.5)}\\
+% Qwen-72B    & 89.3 {\scriptsize(0.3)} & 92.2 {\scriptsize(0.3)} & 57.9 {\scriptsize(0.5)} & 67.9 {\scriptsize(0.5)} & 62.4 {\scriptsize(0.49)} & 67.6 {\scriptsize(0.5)} & 16.2 {\scriptsize(0.4)} & 27.0 {\scriptsize(0.4)} & 35.1 {\scriptsize(0.5)} & 61.5 {\scriptsize(0.5)}\\
+% GPT-4o     & \textbf{95.6} {\scriptsize(0.2)} & 96.4 {\scriptsize(0.2)}  & \textbf{68.5} {\scriptsize(0.5)} & 78.7 {\scriptsize(0.4)} & \textbf{74.5} {\scriptsize(0.44)} & 84.1 {\scriptsize(0.4)} & 16.4 {\scriptsize(0.4)} & 41.2 {\scriptsize(0.5)}  & 39.3 {\scriptsize(0.3)} & 73.0 {\scriptsize(0.2)} \\
+% GPT-5     & 98.4 {\scriptsize(0.2)} & 98.0 {\scriptsize(0.2)}  & 88.9 {\scriptsize(0.5)} & 92.2 {\scriptsize(0.4)} & 93.7 {\scriptsize(0.44)} & 92.2 {\scriptsize(0.4)} & 69.7 {\scriptsize(0.4)} & 67.2 {\scriptsize(0.5)}  & 86.4 {\scriptsize(0.3)} & 84.5 {\scriptsize(0.2)} \\
+% \bottomrule
+% \end{tabular}
+% }
+% \vspace{0.7mm}
+
+% \caption{\textbf{Comparison of accuracy (\%) across datasets before and after removing sentences that physician trainees labeled as low relevance or irrelevant.} Values in parentheses represent the corresponding standard deviations. \textbf{Bold} denotes the best performance across all physician trainee labelers and LLMs.  
+% \textcolor{red}{Red highlighting} denotes a drop relative to the baseline.}
+% \label{tab:comparison}
+% \end{table}
+
+For Supplementary Table \ref{tab:comparison}, we calculated trainee and physician accuracy by randomly selecting one response per unique question ID to ensure each question was counted only once to avoid duplicate-response bias.
+
+
+\begin{table}[h!]
+  \centering
+  {\scriptsize
+  \begin{tabular}{c|c|c|c|c|c|c|c|c|c|c} 
+    \toprule
+    \textbf{Data Source} & \multicolumn{2}{c|}{\textbf{Qwen-72B}} & \multicolumn{2}{c|}{\textbf{Llama-70B}} & \multicolumn{2}{c|}{\textbf{Qwen-14B}} & \textbf{MedGemma} & \textbf{GPT-4o} & \textbf{GPT-5} & \textbf{Physicians}\\
+    \midrule
+                & CC  & SR & CC & SR & CC  & SR & SR & SR & SR & SR\\
+    \midrule
+    \textbf{MMLU}       & 26.9 {\tiny(22.2)}  & 72.6 {\tiny(21.2)}   & \textbf{70.7} {\tiny(24.7)} & 57.4 {\tiny(21.3)}  &  56.9 {\tiny(19.6)}  & 53.6 {\tiny(23.9)}  & 66.1 {\tiny(21.9)}  & 50.5 {\tiny(29.4)} & 60.3 {\tiny(17.0)} & 77.1 {\tiny(18.2)}\\
+    \textbf{JAMA}       & 45.5 {\tiny(23.9)}  & 69.0 {\tiny(16.7)}   & \textbf{62.1} {\tiny(22.6)} & 57.5 {\tiny(16.1)} & 59.1 {\tiny(20.1)}  & 55.9 {\tiny(18.3)}  & 63.1 {\tiny(17.4)} & 45.2 {\tiny(29.3)} & 35.7 {\tiny(18.2)} & 69.2 {\tiny(16.8)}\\
+    \textbf{MedBullets} & 49.8 {\tiny(24.8)}  & 68.9 {\tiny(18.7)}   & \textbf{66.6} {\tiny(23.6)} & 52.1 {\tiny(18.7)} & 53.9 {\tiny(17.8)}  & 47.7 {\tiny(20.6)}  & 61.3 {\tiny(19.2)}  & 45.2 {\tiny(28.4)} & 50.2 {\tiny(11.3)} & 72.1 {\tiny(16.0)} \\
+    \textbf{MedXpertQA} & 51.8 {\tiny(30.3)}  & 69.3 {\tiny(21.3)}   & \textbf{69.3} {\tiny(27.2)} & 53.2 {\tiny(22.2)} & 51.9 {\tiny(19.9)}  & 50.4 {\tiny(24.0)}  & 63.3 {\tiny(24.0)}  & 52.1 {\tiny(35.4)} & 64.3 {\tiny(12.2)} & 74.1 {\tiny(19.4)} \\ 
+    \midrule
+    \textbf{Overall}    & 44.9 {\tiny(26.7)}  & 69.6 {\tiny(19.0)}   & \textbf{65.9} {\tiny(24.5)} & 55.6 {\tiny(19.1)} & 56.2 {\tiny(19.8)}  & 52.9 {\tiny(21.2)}  & 63.3 {\tiny(20.2)}  & 47.7 {\tiny(30.9)} & 48.7 {\tiny(20.1)} & 72.0 {\tiny(17.7)}\\
+    \bottomrule
+  \end{tabular}
+  }
+  \caption{\textbf{Relevance Label Concordance (\%)} with Physician Trainee Labels. Standard deviations presented in parentheses. "CC" denotes ContextCite score; "SR" denotes Self-Reported labels.}
+  \label{concordance}
+\end{table}
+
+% \begin{figure}[h!]
+%   \centering
+%   \includegraphics[width=0.8\textwidth]{Figures/MedPAIR_Flowchart.pdf}
+%   \caption{\textbf{MedPAIR Dataset Formation Flowchart.}}
+%   \label{CDF}
+% \end{figure}
+
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\textwidth]{Figures/Labeling_Interface.png}
+  \caption{\textbf{Centaur Labs Labeling Interface.} The physician labelers first answer the classification question, then provide "high relevance", "low relevance", and "not relevant" labels to each sentence. Physician labelers can also add comments or flag cases during labeling.}
+  \label{Interface}
+\end{figure}
+
+
+
+\newpage
+\newpage
+\newpage
+\begin{longtable}{lllllll}
+\toprule
+\textbf{Base Model} & \textbf{Low+Irr Labelers} & \textbf{MMLU} & \textbf{Jama} & \textbf{MedXpert} & \textbf{Medbullets} & \textbf{Total} \\
+\midrule
+\endfirsthead
+%
+\toprule
+\textbf{Base Model} & \textbf{Low+Irr Labelers} & \textbf{MMLU} & \textbf{Jama} & \textbf{MedXpert} & \textbf{Medbullets} & \textbf{Total} \\
+\midrule
+\endhead
+%
+\midrule
+Trainee & Original Accuracy & 89.6 & 67.9 & 50.0 & 75.4 & \textbf{68.0} \\
+Trainee & Trainee Removed (248 QAs) & 89.3 & 64.5 & 59.5 & 76.4 & \textbf{67.2} \\
+\midrule
+Physician & Original Accuracy & 87.1 & 59.1 & 44.6 & 74.2 & \textbf{62.4} \\
+\midrule
+GPT4o & Original Accuracy & 95.6 & 68.5 & 16.4 & 74.5 & \textbf{39.3} \\
+GPT4o & {\color[HTML]{FF0000} Trainee Removed} & {\color[HTML]{FF0000} 96.4} & {\color[HTML]{FF0000} 78.7} & {\color[HTML]{FF0000} 41.2} & {\color[HTML]{FF0000} 84.1} & {\color[HTML]{FF0000} \textbf{73.0}} \\
+GPT4o & Qwen-14B Removed & 95.3 & 76.8 & 40.3 & 79.7 & \textbf{71.1} \\
+GPT4o & Qwen-72B Removed & 93.8 & 72.5 & 76.8 & 41.0 & \textbf{72.3} \\
+GPT4o & Llama-70b Removed & 93.2 & 69.2 & 74.6 & 38.8 & \textbf{69.8} \\
+GPT4o & GPT-4o Removed & 95.9 & 76.0 & 41.5 & 82.1 & \textbf{71.5} \\
+GPT4o & GPT5 Removed & 95.9 & 77.8 & 40.3 & 80.2 & \textbf{71.7} \\
+GPT4o & MedGemma-27B Removed & 94.8 & 74.7 & 39.9 & 77.3 & \textbf{69.6} \\
+\midrule
+GPT 5 & {\color[HTML]{FF0000} Original Accuracy} & {\color[HTML]{FF0000} 98.5} & {\color[HTML]{FF0000} 88.3} & {\color[HTML]{FF0000} 69.2} & {\color[HTML]{FF0000} 93.7} & {\color[HTML]{FF0000} \textbf{86.0}} \\
+GPT 5 & Trainee Removed & 90.2 & 84.4 & 68.2 & 90.3 & \textbf{82.2} \\
+GPT 5 & Qwen-14B Removed & 88.1 & 86.6 & 65.7 & 87 & \textbf{81.8} \\
+GPT 5 & Qwen-72B Removed & 87.1 & 82.3 & 61.9 & 79.2 & \textbf{77.7} \\
+GPT 5 & Llama-70b Removed & 88.1 & 82.0 & 56.8 & 75.4 & \textbf{75.7} \\
+GPT 5 & GPT-4o Removed & 83.9 & 85.2 & 62.9 & 83.6 & \textbf{79.3} \\
+GPT 5 & GPT5 Removed & 97.9 & 86.6 & 67.0 & 91.3 & \textbf{84.2} \\
+\rowcolor[HTML]{FFFFFF} 
+GPT 5 & MedGemma-27B Removed & 96.9 & 86.8 & 69.2 & 87.9 & \textbf{84.2} \\
+\midrule
+Qwen-14B & Original Accuracy & 87 & 64.4 & 21.7 & 58 & \textbf{56.3} \\
+Qwen-14B & Trainee Removed & 82.9 & 62.9 & 23 & 65.2 & \textbf{56.5} \\
+Qwen-14B & Qwen-14B Removed & 87.6 & 64.4 & 21.4 & 62.3 & \textbf{57.0} \\
+Qwen-14B & Qwen-72B Removed & 86.0 & 61.5 & 23.8 & 63.8 & \textbf{56.4} \\
+Qwen-14B & Llama-70b Removed & 75.6 & 62.7 & 11.4 & 30.9 & \textbf{47.1} \\
+Qwen-14B & GPT-4o Removed & 84.5 & 64.6 & 23.6 & 59.9 & \textbf{56.8} \\
+Qwen-14B & {\color[HTML]{FF0000} GPT5 Removed} & {\color[HTML]{FF0000} 82.9} & {\color[HTML]{FF0000} 63.6} & {\color[HTML]{FF0000} 26.1} & {\color[HTML]{FF0000} 62.8} & {\color[HTML]{FF0000} \textbf{57.2}} \\
+Qwen-14B & MedGemma-27B Removed & 81.9 & 65.5 & 21.4 & 57.0 & \textbf{55.8} \\
+\midrule
+\rowcolor[HTML]{FFFFFF} 
+Qwen 72B & Original Accuracy & 85.5 & 54.6 & 24.8 & 65.2 & \textbf{53.7} \\
+Qwen 72B & Trainee Removed & 76.2 & 60.1 & 22.3 & 62.8 & \textbf{53.7} \\
+Qwen 72B & Qwen-14B Removed & 83.4 & 64.6 & 25.8 & 64.3 & \textbf{57.9} \\
+Qwen 72B & Qwen-72B Removed & 83.9 & 63.6 & 25.1 & 63.8 & \textbf{57.3} \\
+Qwen 72B & Llama-70b Removed & 83.9 & 64.8 & 27.9 & 65.2 & \textbf{58.8} \\
+Qwen 72B & {\color[HTML]{FF0000} GPT-4o Removed} & {\color[HTML]{FF0000} 88.6} & {\color[HTML]{FF0000} 67.2} & {\color[HTML]{FF0000} 26.7} & {\color[HTML]{FF0000} 68.1} & {\color[HTML]{FF0000} \textbf{60.6}} \\
+Qwen 72B & GPT5 Removed & 83.4 & 60.7 & 23.2 & 60.7 & \textbf{54.3} \\
+Qwen 72B & MedGemma-27B Removed & 82.4 & 67.9 & 23.8 & 64.3 & \textbf{58.8} \\
+\midrule
+Llama-70B & Original Accuracy & 93.8 & 67.2 & 29.5 & 71.0 & \textbf{62.6} \\
+Llama-70B & Trainee Removed & 61.7 & 52.2 & 21.4 & 48.8 & \textbf{45.5} \\
+Llama-70B & Qwen-14B Removed & 90.2 & 67.5 & 30.8 & 70.0 & \textbf{62.4} \\
+Llama-70B & Qwen-72B Removed & 92.7 & 67.7 & 30.2 & 71.0 & \textbf{62.8} \\
+Llama-70B & Llama-70b Removed & 90.2 & 67.5 & 30.8 & 70.0 & \textbf{62.4} \\
+Llama-70B & {\color[HTML]{FF0000} GPT-4o Removed}  & {\color[HTML]{FF0000} 93.8} & {\color[HTML]{FF0000} 70.3} & {\color[HTML]{FF0000} 34.0} & {\color[HTML]{FF0000} 71.5} & {\color[HTML]{FF0000} \textbf{65.1}} \\
+Llama-70B & GPT5 Removed & 91.7 & 69.4 & 33.3 & 72.0 & \textbf{64.3} \\
+Llama-70B & MedGemma-27B Removed & 90.2 & 69.6 & 31.4 & 66.7 & \textbf{62.9} \\
+\midrule
+MedGemma-27B & Original Accuracy & 48.2 & 10.1 & 11.9 & 33.3 & \textbf{19.9} \\
+MedGemma-27B & Trainee Removed & 58.5 & 38.3 & 15.7 & 50.7 & \textbf{37.8} \\
+MedGemma-27B & Qwen-14B Removed & 72.0 & 44.0 & 6.3 & 44.0 & \textbf{38.9} \\
+MedGemma-27B & {\color[HTML]{FF0000} Qwen-72B Removed} & {\color[HTML]{FF0000} 86.4} & {\color[HTML]{FF0000} 63.1} & {\color[HTML]{FF0000} 33.8} & {\color[HTML]{FF0000} 69.4} & {\color[HTML]{FF0000} \textbf{63.4}} \\
+MedGemma-27B & Llama-70b Removed & 83.2 & 61.7 & 34 & 66.7 & \textbf{61.4} \\
+MedGemma-27B & GPT-4o Removed & 74.6 & 44.2 & 22.3 & 59.9 & \textbf{45.9} \\
+MedGemma-27B & GPT5 Removed & 56.5 & 42.4 & 17.6 & 54.6 & \textbf{40.4} \\
+MedGemma-27B & MedGemma-27B Removed & 71.5 & 41.4 & 17.6 & 43.5 & \textbf{40.4} \\
+\bottomrule
+\caption{\textbf{Comparison of accuracy (\%) across datasets} before and after removing sentences that physician trainees or LLMs labeled as low relevance or irrelevant. \textcolor{red}{Red highlights} denote the best performance across all physician trainee labelers and LLMs.}
+\label{tab:comparison}
+\end{longtable}
+
+
+\begin{table}[b!]
+\centering
+% \small
+\begin{tabular}{l|c|c|c|c}
+\toprule
+\textbf{Dataset} & \multicolumn{2}{c}{\textbf{Readability}} & \multicolumn{2}{c}{\textbf{Top Keywords Frequency}} \\\hline
+& \textbf{High} & \textbf{Low/Irr} & \textbf{High} & \textbf{Low/Irr} \\
+\toprule
+\midrule
+\textbf{\makecell[l]{MMLU \\(Precision \\ Medicine)}}     & 62.0 {\scriptsize(15.3)} & 67.4 {\scriptsize(26.3)} & \makecell[c]{\textcolor{violet}{days}, emergency,\\ department, \textcolor{red}{shortness} \\ \textcolor{orange}{leukocyte, urine}, \\ \textcolor{violet}{previously}} & \makecell[c]{\textcolor{gray}{unremarkable}, \\ \textcolor{violet}{currently}, \textcolor{brown}{smoke}, \textcolor{gray}{controlled}, \\ \textcolor{brown}{illicit, bmi}, illness, \\oral, kgm, weighs}\\\hline
+\textbf{\makecell[l]{JAMA \\ Clinical \\ Challenge}}    & 34.5 {\scriptsize(15.3)} & 40.1 {\scriptsize(18.3)} & \makecell[c]{\textcolor{green}{foveal}, \\hyperreflective,\\ spots, \textcolor{brown}{girl}, \\ \textcolor{violet}{progressively}, \textcolor{blue}{hypopyon}, \\ \textcolor{green}{cytoplasm}, punctate, \\  \textcolor{green}{ventricular}, \textcolor{brown}{man}} & \makecell[c]{\textcolor{orange}{swab}, \textcolor{brown}{travel}, \textcolor{orange}{procedures}, \\ \textcolor{orange}{order}, \textcolor{brown}{allergic}, \\ \textcolor{gray}{noncontributory}, pertinent, \\ \textcolor{green}{digital}, empirically, \\\textcolor{brown}{animals}}\\\hline
+\textbf{MedBullets}    & 67.0 {\scriptsize(12.2)} & 71.9 {\scriptsize(16.4)} & \makecell[c]{\textcolor{green}{extremity}, \textcolor{violet}{increased},\\ meq/L, \textcolor{violet}{developed}, \\flexion, bright, \\\textcolor{green}{right, lateral}, \\poor, \textcolor{violet}{progressively}} & \makecell[c]{\textcolor{teal}{metformin}, sexually,\\ active, \textcolor{blue}{clear}, \textcolor{teal}{medications}, \\ \textcolor{gray}{uncomplicated, known}, \\ \textcolor{green}{cervical}, \textcolor{blue}{nonfocal}, \textcolor{teal}{albuterol}}\\\hline
+\textbf{MedXpertQA}     & 49.8 {\scriptsize(16.0)} & 54.9 {\scriptsize(21.5)} & \makecell[c]{\textcolor{violet}{progressive}, \textcolor{red}{severe},\\ levels, \textcolor{blue}{low}, \textcolor{orange}{urea}, \textcolor{green}{spine}, \\ \textcolor{orange}{nitrogen}, labor, \\ \textcolor{green}{iliac}, mmoll} & \makecell[c]{trauma, \textcolor{brown}{allergies},\\ appropriately, \textcolor{blue}{murmurs}, \\ \textcolor{brown}{vitamin, beers}, \\ personal, \textcolor{orange}{resuscitation}, \\ ordered, \textcolor{brown}{taking}}\\
+\bottomrule
+\textbf{Overall}     & 47.5 {\scriptsize(19.9)} & 52.9 {\scriptsize(23.9)} & \makecell[c]{spots, \textcolor{green}{foveal}, \\ \textcolor{blue}{hyperreflective}, \textcolor{violet}{progressive}, \\ \textcolor{blue}{hypopyon}, \textcolor{blue}{watery}, cytoplasm, \\punctate, particularly, \textcolor{green}{wrist}} & \makecell[c]{\textcolor{blue}{organomegaly}, \\\textcolor{brown}{smoke, walks}, \\ \textcolor{gray}{comfortable}, \textcolor{gray}{noncontributory}, \\ personal, \textcolor{blue}{nonfocal}, \\ \textcolor{teal}{antihypertensive}, \textcolor{violet}{weekends}, case}\\
+\bottomrule
+\end{tabular}
+\vspace{0.7mm}
+\caption{\textbf{Comparison of dataset characteristics focusing on Readability and Top Keywords Frequency.} Values in parentheses represent standard deviations. The readability is calculated through Flesch Reading Ease score, which typically ranges from 0 to 100, where a higher score indicates that the text is easier to read, and a lower score suggests the text is more difficult. We highlighted each clinical term using different colors based on the type of information it conveys: \textcolor{red}{symptoms, severity}, \textcolor{blue}{description on findings}, \textcolor{brown}{demographics / history}, \textcolor{teal}{medicine}, \textcolor{orange}{medical test}, \textcolor{green}{anatomical structure/term}, \textcolor{gray}{negative findings or suggestive of good patient status}, \textcolor{violet}{timeline, comparative}.}
+\label{tab:keyword_readability}
+\end{table}
+
+\clearpage
+\clearpage
+\section{Sample QA Case Study}
+\label{sample}
+\begin{tcolorbox}[colback=blue!3!white, colframe=blue!50!white,
+                  title=Example of QA Data (from MedXpert QA ID0071), left=10mm, breakable]
+\small
+
+\textbf{Patient Profile:}
+\begin{enumerate}
+  \item A 29-year-old female presents with low back pain of five days’ duration.
+  \item Her new job involves walking several miles daily across a large facility.
+  \item The pain is localized without radiation; no traumatic history.
+  \item Medications: only oral contraceptives.
+\end{enumerate}
+
+\bigskip
+\textbf{Question: }What is the most likely diagnosis?
+
+\bigskip
+\textbf{Options:}
+\begin{enumerate}[label=\Alph*.]
+  \item bilateral sacral extension  
+  \item bilateral sacral flexion  
+  \item sacral base posterior  
+  \item right-on-right sacral torsion  
+  \item sacral base anterior  
+  \item right-on-left sacral torsion  
+  \item unilateral sacral flexion on the right  
+  \item left-on-left sacral torsion  
+  \item left-on-right sacral torsion  
+  \item unilateral sacral extension on the left  
+\end{enumerate}
+
+\bigskip
+\textbf{Correct Answer:} (D) right-on-right sacral torsion.
+
+\bigskip
+\noindent
+\label{tab:label_landscape_comparison}
+
+\medskip
+\centering
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{|l|l|l|l|l|}
+  \toprule
+  Sentence \# & Physician Labels & \makecell[c]{GPT4o \\ Self-Reported Labels} & \makecell[c]{Llama70B \\ContextCite Labels}  & \makecell[c]{Qwen14B \\ContextCite Labels} \\
+  \midrule
+  1 & High & High & High & High\\
+  2 & High  & Low  & High & Low\\
+  3 & High  & High & High & Irr\\
+  4 & Irr  & Irr  & Low  & High\\   
+  \bottomrule         
+\end{tabular}
+\end{tcolorbox}
+
+
+In this case study, we observe notable disagreement in informativeness assessments across sentence 2 and sentence 3 among physicians, GPT-4o, and LLaMA-70B ContextCite. Sentence 2 (“Her new job involves walking several miles daily across a large facility”) was labeled as \textit{Low} by both physicians and GPT-4o, yet \textit{High} by LLaMA-70B ContextCite. This sentence describes the patient’s lifestyle, specifically her physical activity level related to her job. This information is of limited relevance to sacral torsion. While one cannot entirely rule out its contribution—since prolonged walking with an asymmetric posture could potentially predispose a patient to sacral dysfunction—it is not a direct cause or a diagnostically decisive factor. As such, it offers minimal value in determining the correct answer to this question. LLaMA-70B may have overemphasized contextual lifestyle clues, interpreting the exertion from walking as highly indicative of a mechanical sacral dysfunction, whereas clinicians likely viewed it as a nonspecific background factor without clear diagnostic utility. 
+
+The sentence 3 (“The pain is localized without radiation; no traumatic history”) received a Low label from physicians but High from GPT-4o and LLaMA-70B. This discrepancy may reflect differing heuristics: while clinicians might not prioritize localization and absence of trauma due to their non-specificity or commonality in musculoskeletal complaints, models may have heuristically linked "localized pain without radiation" to mechanical causes, interpreting it as informative. These examples illustrate how LLMs may misattribute diagnostic weight to surface-level patterns.
+
+
+\clearpage
+\clearpage
+\section{Sample QA Case Study}
+\label{sample}
+\begin{tcolorbox}[colback=blue!3!white, colframe=blue!50!white,
+                  title=Example of QA Data (from JAMA QA ID1049), left=10mm, breakable]
+\small
+
+\textbf{Patient Profile:}
+\begin{enumerate}
+    \item A 10-year-old girl developed an annular skin lesion on her anterior neck.
+    \item The lesion, initially attributed to a bug bite by her mother, enlarged and developed central clearing.
+    \item The patient lived in North Carolina with no recent travel or known tick bite.
+    \item She had no symptoms other than mild local itching.
+    \item After several weeks, the patient's mother applied over-the-counter topical antifungal cream and the lesion faded.
+    \item After 10 days of antifungal therapy, the patient was evaluated by her pediatrician.
+    \item Examination results were normal except for a 2.0-cm annular lesion with central clearing and peripheral flaking (Figure).
+    \item The pediatrician ordered serologic testing for Lyme disease, prescribed 14 days of doxycycline based on the results (Table), and referred the patient to an infectious disease specialist for evaluation.
+    \item Complete 14 days of antibiotic treatment for Lyme disease.
+    \item No further testing is indicated.
+    \item Complete 14 days of antibiotic treatment for Lyme disease.
+    \item Repeat Lyme disease serology in 1 month to evaluate response.
+\end{enumerate}
+
+\bigskip
+\textbf{Question: }What would you do next?
+
+\bigskip
+\textbf{Options:}
+\begin{enumerate}[label=\Alph*.]
+    \item Complete 14 days of antibiotic treatment for Lyme disease. No further testing is indicated.
+    \item Complete 14 days of antibiotic treatment for Lyme disease. Repeat Lyme disease serology in 1 month to evaluate response.
+    \item Obtain skin biopsy for Borrelia burgdorferi PCR.
+    \item Discontinue doxycycline and restart topical antifungal cream.
+\end{enumerate}
+
+\bigskip
+\textbf{Correct Answer:} (D) Discontinue doxycycline and restart topical antifungal cream.
+
+\bigskip
+\noindent
+\label{tab:label_landscape_comparison}
+
+\medskip
+\centering
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{|l|l|l|l|l|}
+  \toprule
+  Sentence \# & Physician Labels & \makecell[c]{GPT4o \\ Self-Reported Labels} & \makecell[c]{Llama70B \\ContextCite Labels}  & \makecell[c]{Qwen14B \\ContextCite Labels} \\
+  \midrule
+  1 & High & High & High & High\\
+  2 & High  & High  & High & Low\\
+  3 & Low  & Low & High & Irr\\
+  4 & Low  & Irr  & Low  & High\\   
+  5 & High & Low & High & High\\
+  6 & Low  & Low  & High & Low\\
+  7 & High  & High & High & Irr\\
+  8 & High & High & High & High\\
+  9 & Irr  & High  & High & Low\\
+  10 & Irr  & High & High & Irr\\
+  11 & Irr & High & High & High\\
+  12 & Irr  & Low  & High & Low\\
+  \bottomrule         
+\end{tabular}
+\end{tcolorbox}
+
+
+
+\begin{tcolorbox}[colback=blue!3!white, colframe=blue!50!white,
+                  title=Example of QA Data (from MedXpert QA ID0200), left=10mm, breakable]
+\small
+
+\textbf{Patient Profile:}
+\begin{enumerate}
+  \item A 41-year-old woman, gravida 3, para 3, presents with heavy menstrual bleeding (HMB), dysmenorrhea, and deep dyspareunia.
+  \item Menses are regular, occurring once every 25 to 26 days and lasting 8 days, with no intermenstrual bleeding.
+  \item The patient soaks through one pad per hour for the first 3 days of her cycle, and she rates cramping on her heaviest bleeding days as 9 on a 10-point scale.
+  \item Her past medical history is significant for 3 prior uncomplicated cesarean births with tubal sterilization during her last birth.
+  \item Vital signs are within normal limits, and body mass index is 22 kg/m2.
+  \item Pelvic exam shows a 10-week-sized boggy uterus with smooth contours that is mildly tender to palpation.
+  \item No discrete masses are palpable, and the adnexa are nontender.
+  \item A urine pregnancy test is negative, and serum bloodwork shows mild anemia.
+  \item A pelvic ultrasound is ordered.
+\end{enumerate}
+
+\bigskip
+\textbf{Question: }Which of the following findings would confirm the most likely diagnosis?
+
+\bigskip
+\textbf{Options:}
+\begin{enumerate}[label=\Alph*.]
+    \item Multiple hyperechoic foci with posterior shadowing in the myometrium
+    \item A focal hypoechoic lesion with irregular borders in the endometrium
+    \item Endometrial polypoid structures with central vascularity
+    \item Thickened endometrial stripe with irregular vascularity
+    \item Symmetrical, homogeneous endometrial thickening
+    \item Asymmetrical, irregular endometrial thickening
+    \item A large, circular hypoechoic structure within the myometrium with posterior shadowing
+    \item Diffuse myometrial calcifications with acoustic shadowing
+    \item Symmetrical, homogeneous myometrial thickening
+    \item Circular anechoic structures within the myometrium without posterior shadowing
+\end{enumerate}
+
+\bigskip
+\textbf{Correct Answer:} (J) Circular anechoic structures within the myometrium without posterior shadowing.
+
+\bigskip
+\noindent
+
+\medskip
+\centering
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{|l|l|l|l|l|}
+  \toprule
+  Sentence \# & Physician Labels & \makecell[c]{GPT4o \\ Self-Reported Labels} & \makecell[c]{Llama70B \\ContextCite Labels}  & \makecell[c]{Qwen72B \\ContextCite Labels} \\
+  \midrule
+  1 & High & High & High & High\\
+  2 & Low  & Low  & Irr & Low \\
+  3 & High  & High & High & High \\
+  4 & Low  & Irr  & Low & Low  \\   
+  5 & Irr  & Irr  & High & High \\   
+  6 & High  & Irr  & Irr  & Low \\   
+  7 & Low  & Irr  & Irr  & Low \\   
+  8 & Low  & Irr  & Low  & Low \\   
+  9 & Irr  & Irr  & Low  & Low \\   
+  \bottomrule         
+\end{tabular}
+\end{tcolorbox}
+
+\section{Qualitative Survey Analysis}
+
+\subsection{Pre-Study Survey}
+\begin{tcolorbox}[palebluebox]
+\small
+Please provide the following demographic and background information:
+
+\vspace{2mm}
+
+\begin{itemize}
+    \item \textbf{Age:} [0-120]
+    \item \textbf{Gender:} [Female/Male/Other]
+    \item \textbf{Medical School Year:} [M1-M4]
+    \item \textbf{USMLE Step 1 Status:} [Yes/No] Has the student passed USMLE Step 1?
+    \item \textbf{Previous Experience:} [0-50] How many previous studies/tasks have they done with Centaur Labs?
+    \item \textbf{Medical School:} [Short Answer] Which medical school do they attend?
+    
+    \vspace{2mm}
+    
+    \item \textbf{Familiarity with Clinical Challenges:} [1: Not familiar, 2: Some familiarity, 3: High familiarity] Are they familiar with any of the following clinical challenges? JAMA Clinical Challenge, NEJM Image Challenge, NEJM Resident 360
+    \begin{itemize}
+        \item \textbf{Follow-up:} [1. not at all; 2. occasionally; 3. every one that is released] If so, how regularly do they follow these challenges?
+    \end{itemize}
+    
+    \vspace{2mm}
+    
+    \item \textbf{Familiarity with MedBullets:} [1: Not familiar, 2: Some familiarity, 3: High familiarity] Are they familiar with the MedBullets website?
+    \begin{itemize}
+        \item \textbf{Follow-up:} [1. not at all; 2. occasionally; 3. every one that is released] If so, how regularly do they follow the clinical challenges released there?
+    \end{itemize}
+    
+    \vspace{2mm}
+    
+    \item \textbf{LLM Experience:} [1-5] Which of the following best describes your experience with large language models (LLMs) in clinical or healthcare-related contexts? (Select the option that most closely matches your experience.)
+    \begin{enumerate}
+        \item I have a technical understanding of how LLMs work (e.g., architecture, training, fine-tuning).
+        \item I have used LLMs in clinical workflows or research (e.g., for documentation, decision support, or data analysis).
+        \item I have interacted with LLMs for general or clinical questions (e.g., using ChatGPT to look up clinical facts or guidelines).
+        \item I am aware of LLMs but have not used them in any clinical or technical setting.
+        \item I am not familiar with LLMs.
+    \end{enumerate}
+    
+    \vspace{2mm}
+    
+    \item \textbf{LLM Readiness Opinion:} [1-5] Which of the following best reflects your view on the readiness of LLMs for clinical deployment? (Select the option that most closely matches your opinion.)
+    \begin{enumerate}
+        \item Not ready at all – LLMs are unreliable and unsafe for any clinical use.
+        \item Ready for limited, low-risk tasks – e.g., documentation assistance, summarization.
+        \item Ready for clinician-in-the-loop tasks – e.g., decision support with human oversight.
+        \item Ready for autonomous use in select areas – e.g., triage or patient education.
+        \item Fully ready for broad clinical deployment with minimal oversight.
+    \end{enumerate}
+\end{itemize}
+
+\end{tcolorbox}
+
+\subsection{Post-Study Survey}
+
+\begin{tcolorbox}[palebluebox]
+\small
+Please answer the following questions about the task you just completed:
+
+\vspace{2mm}
+
+\begin{itemize}
+    \item \textbf{Of the questions you have just labeled, what percentage of them have you seen verbatim beforehand (e.g. in your classes, or when preparing for USMLE)?} [Short answer: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100] Of the questions you have just labeled, what percentage of them have you seen verbatim beforehand (e.g., in your classes, or when preparing for USMLE)?
+    
+    \vspace{2mm}
+    
+    \item \textbf{Of the questions you have just labeled, what do you think your accuracy (percentage) was in answering the multiple choice questions?} [Short answer: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100] Of the questions you have just labeled, what do you think your accuracy (percentage) was in answering the multiple choice questions?
+    
+    \vspace{2mm}
+    
+    \item \textbf{Suppose we were to give the same clinical questions to the current best LLM (e.g. GPT o3, Claude 3.7 Sonnet), what do you think its accuracy would be on the multiple choice questions?} [Short answer: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100] Suppose we were to give the same clinical questions to the current best LLM (e.g., GPT o3, Claude 3.7 Sonnet), what do you think its accuracy would be on the multiple choice questions?
+    
+    \vspace{2mm}
+    
+    \item \textbf{How confident were you, on average, in your answers for the sentence relevance scores?} [1: Not confident, 2: Slightly confident, 3: Moderately confident, 4: Very confident, 5: Extremely confident] How confident were you, on average, in your answers for the sentence relevance scores?
+    
+    \vspace{2mm}
+    
+    \item \textbf{Please rate the degree of ambiguity you perceive in the true relevance labels on a scale from 1 to 5.} [1: Extreme ambiguity, 2: High ambiguity, 3: Moderate ambiguity, 4: Slight ambiguity, 5: No ambiguity at all] Please rate the degree of ambiguity you perceive in the true relevance labels on a scale from 1 to 5.
+    
+    \vspace{2mm}
+    
+    \item \textbf{To what degree do you think the process of answering multiple choice clinical QAs correlates with real-world day-to-day medical practice?} [1: Not at all aligned, 2: Slightly aligned, 3: Moderately aligned, 4: Strongly aligned, 5: Very closely aligned] To what degree do you think the process of answering multiple choice clinical QAs correlates with real-world day-to-day medical practice?
+    
+    \vspace{2mm}
+    
+    \item \textbf{Approximately what percentage of questions did you skip?} [Short answer: 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100] Approximately what percentage of questions did you skip?
+\end{itemize}
+
+\end{tcolorbox}
+
+
+\subsubsection{Physician Survey Analysis}
+
+All 7 physicians have never seen the QAs. Their average of accuracy is 60\%, which is aligned with the final accuracy performance of 62.4\% (SD = 0.5). The average of the physicians' assumptions on best LLM's performance is 70\%, and the best LLM GPT-5 has the performance of 86.4\%. Most physicians are confidence in the sentence-level relevance scores estimation, with the average of the ambiguity in relevance labels is 3 (Moderately Confident), SD = 1.07. Most physicians also indicated that answering multiple choice clinical QAs slightly correlates with real-world day-to-day medical practice. In average, the physician labelers skipped 26.4\% of QAs (SD = 21.2) because the QAs are out of their expertise or other reasons.
+
+\subsubsection{Trainee Survey Analysis}
+In the pre‑study survey all 52 physician trainee labelers provided demographic and background information. The cohort was predominantly male (67.3\%), with female annotators accounting for 30.8\%. Most participants (85.7\%) were in the senior years of their medical training, and 72.2\% had already passed the USMLE Step 1. 
+
+Rare‑case resources were well known to the group: 52.8\% reported familiarity with collections such as the JAMA Clinical Challenge, NEJM Image Challenge, and NEJM Resident 360, and 41.7\% stated that they consult these materials regularly. Exposure to clinical large language models was also high: 91.7\% had used or observed LLMs in practice, whether for answering clinical questions or integrating decision‑support functions. On average, respondents estimated that 49.0\% (SD = 21.8) of existing LLMs are sufficiently mature for deployment in clinical settings.
+
+We received 29 post-study surveys from the 52 participating labelers. On average, only 8.6\% (SD = 0.2) of the questions they labeled had been encountered verbatim before the study. Labelers expected LLMs to outperform them in the QA answering performance, predicting 79.7\% accuracy for the models (SD = 0.1) versus 63.5\% for themselves (SD= 0.2). 
+
+When reflecting on their sentence‑level relevance judgments, a majority of 72.4\% described themselves as “moderately confident,” an 58.6\% characterized the task as exhibiting “moderate” ambiguity. Regarding how well the multiple choice QA format matches real-world clinical practice, 44. 8\% viewed the multiple choice QA format as 'moderately aligned' with clinical practice, while 37. 9\% considered it 'slightly aligned. As labelers are allowed to skip questions if they do not know the answer, an average of 20.9\% (12.9) of questions are skipped, which demonstrates the difficulties of the QAs. These qualitative feedback suggests that relevance labels represent consensus‑based approximations rather than definitive ground truth, and that QA benchmarks should be complemented by richer, practice‑grounded evaluations in future work.
+
+Both the physicians' pre-study and post-study survey results are available in Table \ref{physician_demographic} and Table \ref{physician_post}; the physician trainees' pre-study and post-study survey results are available in Table \ref{trainee_demographic} and Table \ref{trainee_post}. 
+
+\subsection{Physician and Physician Trainee Labeler Information}
+
+\begin{landscape}
+\scriptsize
+\begin{longtable}{rlllllllllll}
+\caption{\textbf{Pre-Survey Demographics and Educational Background of Physician Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} ``N/A'' denotes that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material.}
+\label{physician_demographic} \\
+
+\toprule
+\multicolumn{1}{c}{\textbf{ID}} &
+\multicolumn{1}{c}{\textbf{Age}} &
+\multicolumn{1}{c}{\textbf{Gender}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{Year of \\Postgraduate \\Year (PGY)}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{USMLE\\ Step 3\\ Passed?}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{Medical school}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{Familiarity with \\clinical challenges?}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{How regularly \\follow \\challenges?}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{Familiarity with\\ MedBullets}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{How regularly\\ follow MB?}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{Familiarity with \\LLMs\\ in healthcare}}} &
+\multicolumn{1}{c}{\textbf{\makecell[l]{LLM Clinical \\deployment \\readiness}}} \\
+\midrule
+\endfirsthead
+
+\toprule
+\multicolumn{11}{l}{\textbf{Table \thetable\ (continued)}} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{11}{r}{\textit{Continued on next page}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+01 & 41 & Male & 15 & Yes & University of Rochester & Some familiarity & Some familiarity & Some familiarity & Occasionally & Some familiarity & \makecell[l]{Ready for limited, \\low-risk tasks} \\
+02 & 53 & Female & 24 & Yes & \makecell[l]{Wright State University \\School of Medicine} & Not familiar & Not familiar & Some familiarity & Not at all & High familiarity & \makecell[l]{Ready for limited, \\low-risk tasks} \\
+% 03 & 38 & Male & 12 & UK Based & Norwich Medical School (UK) & Some familiarity & Some familiarity & Some familiarity & Not at all & High familiarity & \makecell[l]{Ready for clinician-in\\-the-loop tasks} \\
+04 & 44 & Female & 17 & Yes & Brown Medical School & Some familiarity & High familiarity & Not familiar & Not at all & High familiarity & \makecell[l]{Ready for clinician-in\\-the-loop tasks} \\
+05 & 42 & Female & 17 & Yes & RWJMS New Brunswick & Some familiarity & Some familiarity & Some familiarity & Not at all & High familiarity & \makecell[l]{Ready for clinician-in\\-the-loop tasks} \\
+06 & 41 & Male & 17 & UK Based & \makecell[l]{Aagazig University Faculty\\ of Medicine} & Not familiar & Not familiar & Not familiar & Occasionally & High familiarity & \makecell[l]{Ready for clinician-in\\-the-loop tasks} \\
+07 & 45 & Male & Attending & Yes & Universidad Anahuac (SP) & Some familiarity & Some familiarity & Not familiar & Not at all & High familiarity & \makecell[l]{Ready for clinician-in\\-the-loop tasks} \\
+\end{longtable}
+% \end{landscape}
+
+
+% \begin{landscape}
+{\scriptsize
+\begin{longtable}{cccccccc}
+\caption{\textbf{Post-Survey of Physician Participants.}}
+\label{physician_post}\\
+\toprule
+\multicolumn{1}{l}{\textbf{Origin\_ID}} & \multicolumn{1}{l}{\textbf{\makecell[l]{Percentage seen \\verbatim before?  (\%)}}} & \multicolumn{1}{l}{\textbf{\makecell[l]{Estimated accuracy\\ percentage? (\%)}}} & \multicolumn{1}{l}{\textbf{\makecell[l]{Assumption on \\Best LLM's accuracy?  (\%)}}} & \textbf{Confidence in relevance scores?} & \textbf{Ambiguity in relevance labels?} & \textbf{\makecell[l]{Correlation with \\real-world practice?}} & \textbf{\makecell[l]{Percentage of questions\\ skipped? (\%)}} \\
+\endfirsthead
+%
+\endhead
+%
+\midrule
+01 & 0 & 40 & 70 & Moderately Confident & 2: High ambiguity & Slightly aligned & 61 - 70 \\
+02 & 0 & 70 & 80 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 21 - 30 \\
+03 & 0 & 90 & 80 & Extremely Confident & 5: No ambiguity at all & Not at all aligned & 0 -10 \\
+04 & 0 & 60 & 90 & Moderately Confident & 3: Moderate ambiguity & Strongly aligned & 31 - 40 \\
+05 & 0 & 30 & 40 & Slightly confident & 2: High ambiguity & Not at all aligned & 11 - 20 \\
+06 & 0 & 70 & 90 & Moderately Confident & 4: Slight ambiguity & Moderately aligned & 31 - 40 \\
+07 & 0 & 60 & 40 & Moderately Confident & 2: High ambiguity & Slightly aligned & 0 -10 \\
+\bottomrule
+\end{longtable}
+}
+\end{landscape}
+
+
+\begin{landscape}
+{
+\scriptsize
+\begin{longtable}{rlllllllllll}
+\caption{\textbf{Pre-Survey Demographics and Educational Background of Medical Student Participants, Including Self-Reported Familiarity with Clinical Challenges and LLMs in Healthcare.} Empty cells denotes that the labeler chose not to disclose this information. The complete list of pre-survey questions is available in the supplementary material.}
+\label{trainee_demographic}\\
+\toprule
+\textbf{ID} &
+\textbf{Age} &
+\textbf{Gender} &
+\textbf{\makecell[l]{Year of \\ medical school}} &
+\textbf{\makecell[l]{USMLE \\ Step 1 \\ passed?}} &
+\textbf{\makecell[l]{Medical school}} &
+\textbf{\makecell[l]{Familiarity with \\ clinical challenges}} &
+\textbf{\makecell[l]{How regularly \\ follow challenges}} &
+\textbf{\makecell[l]{Familiarity \\ with MedBullets}} &
+\textbf{\makecell[l]{How regularly \\ follow MB}} &
+\textbf{\makecell[l]{Familiarity \\ with LLMs}} &
+\textbf{\makecell[l]{LLM deployment \\ readiness \%}} \\
+\midrule
+\endfirsthead
+
+\multicolumn{12}{c}{\textit{(Continued from previous page)}}\\
+\toprule
+\textbf{ID} &
+\textbf{Age} &
+\textbf{Gender} &
+\textbf{\makecell[l]{Year of \\ medical school}} &
+\textbf{\makecell[l]{USMLE \\ Step 1 \\ passed?}} &
+\textbf{\makecell[l]{Medical school}} &
+\textbf{\makecell[l]{Familiarity with \\ clinical challenges}} &
+\textbf{\makecell[l]{How regularly \\ follow challenges}} &
+\textbf{\makecell[l]{Familiarity \\ with MedBullets}} &
+\textbf{\makecell[l]{How regularly \\ follow MB}} &
+\textbf{\makecell[l]{Familiarity \\ with LLMs}} &
+\textbf{\makecell[l]{LLM deployment \\ readiness \%}} \\
+% 
+\endhead
+
+\midrule
+\multicolumn{12}{r}{\textit{(Continued on next page)}}\\
+\endfoot
+
+\bottomrule
+\endlastfoot
+% \midrule
+1 & 26 & Male & M3 & No & Rush Medical College & Some familiarity & Occasionally & Some familiarity & Occasionally & High familiarity & 25 \\
+2 & 22 & Male & M1 & No & Dartmouth Geisel School of Medicine & Some familiarity & Not at all & High familiarity & Occasionally & High familiarity & 80 \\
+3 & 27 & Female & M3 & Yes & UNC Chapel Hill SOM & Not familiar &  & Some familiarity & Not at all & Some familiarity & 30 \\
+4 & 26 & Female & M3 & No & Tufts University School of Medicine & Not familiar &  & Not familiar &  & Some familiarity & 70 \\
+5 & \multicolumn{1}{l}{} & Male & M4 & Yes & Dell Medical School & Not familiar &  & Some familiarity & Not at all & Not familiar & 20 \\
+6 & 25 & Male & M3 & Yes & \makecell[l]{Warren Alpert Medical School\\ of Brown University} & Some familiarity & Occasionally & High familiarity & Not at all & Some familiarity & 45 \\
+7 & 26 & Female & M4 & Yes & George Washington University SOM & High familiarity & Occasionally & High familiarity & Occasionally & High familiarity & 90 \\
+8 & 28 & Male & G3 (MD/PhD) & Yes & UC San Diego & Some familiarity & Not at all & Not familiar &  & High familiarity & 30 \\
+9 & 29 & Male & M4 & Yes & Emory University & Some familiarity & Occasionally & Not familiar & Not at all & High familiarity & 60 \\
+10 & 25 & Male & M3 & Yes & Indiana University School of Medicine & Some familiarity &  & Some familiarity & Not at all & High familiarity & 58 \\
+11 & 26 & Female & M3 & Yes & Tufts University School of Medicine & Not familiar & Not at all & Not familiar & Not at all & Some familiarity & 40 \\
+12 & 24 & Male & M3 & Yes & Columbia VP\&S & Not familiar &  & Not familiar &  & High familiarity & 20 \\
+13 & \multicolumn{1}{l}{} & Male & M2 & Yes & NYU Grossman School of Medicine & Some familiarity & Not at all & Not familiar & Not at all & Some familiarity & 70 \\
+14 & 27 & gender queer & M3 & Yes & KPSOM & Some familiarity & Not at all & Some familiarity & Not at all & Not familiar & NA \\
+15 & \multicolumn{1}{l}{} & Male & M2 & Yes & Harvard & High familiarity & Occasionally & High familiarity & Occasionally & High familiarity & 25 \\
+16 & 26 & Male & M4 & Yes & Dell Medical school & Some familiarity & Not at all & Not familiar & Not at all & Some familiarity & 30 \\
+17 & 32 & Male & M4 & Yes & Northwestern & Not familiar & Not at all & Some familiarity & Not at all & Some familiarity & 5 \\
+18 & 25 & Male & M1 & No & University of Texas Medical Branch & Some familiarity & Occasionally & Not familiar & Not at all & Some familiarity & 50 \\
+19 & 28 & Female & M3 & Yes & KPSOM & Some familiarity & Occasionally & High familiarity & Occasionally & High familiarity & 40 \\
+20 & 26 & Male & M4 & Yes & UNC School of Medicine & Some familiarity & Occasionally & High familiarity & Occasionally & High familiarity & 75 \\
+21 & 27 & Female & M4 & Yes & \makecell[l]{Alabama College of\\ Osteopathic Medicine} & Not familiar &  & Not familiar &  & Some familiarity & 50 \\
+22 & 23 & Male & M1 & No & \makecell[l]{University of Maryland \\School of medicine} & Some familiarity & Occasionally & Some familiarity & Not at all & Some familiarity & 45 \\
+23 & 33 & Female & M4 & Yes & \makecell[l]{Touro College of Osteopathic\\ Medicine Middletown NY} & Not familiar &  & Not familiar &  & Some familiarity & 70 \\
+24 & \multicolumn{1}{l}{} & Female & M3 & No & Case Western & Some familiarity & Not at all & High familiarity & Not at all & High familiarity & 30\% \\
+25 & \multicolumn{1}{l}{} & Male & M4 & Yes & Harvard & High familiarity & Occasionally & Not familiar & Not at all & High familiarity & 60 \\
+26 & 25 & Male & M3 & Yes & UNC School of Medicine & Not familiar &  & Not familiar &  & High familiarity & 80 \\
+27 & 23 & Male & M1 & No & UC Irvine & Not familiar & Not at all & Not familiar & Not at all & High familiarity & 50 \\
+28 & 25 & Male & M3 & No & WUSM & Not familiar & Not at all & Some familiarity & Not at all & High familiarity & 70 \\
+29 & 25 & Male & M3 & Yes & Indiana University School of Medicine & Some familiarity & Not at all & Some familiarity & Not at all & High familiarity & 20 \\
+30 & 27 & Female & M3 & Yes & UNC & Not familiar & Not at all & Some familiarity & Not at all & Some familiarity & 35 \\
+31 & 26 & Female & M3 & No & Tufts University School of Medicine & Not familiar & Not at all & Not familiar &  & Not familiar & 70 \\
+32 & 22 & Male & M1 & No & Dartmouth Geisel SOM & Some familiarity & Occasionally & Some familiarity & Occasionally & Some familiarity & 75 \\
+33 & 28 & Male & M4 & Yes & Alabama College of Osteopathic Medicine & Some familiarity & Occasionally & Not familiar & Not at all & Some familiarity & 60 \\
+34 & 25 & Male & M4 & Yes & University of Toledo & Some familiarity & Not at all & High familiarity & Not at all & Some familiarity & 25\% \\
+35 & 26 & Male & M4 & Yes & UNC Chapel Hill & Not familiar & Not at all & Not familiar & Not at all & Some familiarity & 30 \\
+36 & 26 & Male & M4 & Yes & UNC School of Medicine & Some familiarity & Occasionally & Some familiarity & Occasionally & High familiarity & 40 \\
+37 & 26 & Female & M4 & Yes & Medical College of Georgia & Not familiar &  & Some familiarity & Not at all & Some familiarity & 45 \\
+38 & 25 & Male & M4 & Yes & University of Toledo & Some familiarity & Occasionally & Some familiarity & Occasionally & High familiarity & 80 \\
+39 & 28 & Female & M4 & Yes & Dartmouth & Not familiar &  & Some familiarity & Not at all & High familiarity & 80 \\
+40 & 29 & Male & M4 & Yes & Emory & Some familiarity & Occasionally & Not familiar & Not at all & High familiarity & 60 \\
+41 & 27 & Male & M3 & Yes & University of Cincinnati & Not familiar & Not at all & Some familiarity & Occasionally & High familiarity & 75 \\
+42 & 25 & Male & M4 & Yes & University of Toledo & Some familiarity & Not at all & High familiarity & Not at all & Some familiarity & 25\% \\
+43 & 28 & Male & Graduate School & Yes & UC San Diego & Not familiar & Not at all & Not familiar & Not at all & High familiarity & 50 \\
+44 & 28 & Female & M4 & Yes & Geisel School of Medicine at Dartmouth & Some familiarity & Not at all & Not familiar &  & Not familiar & 10 \\
+45 & 33 & Female & M4 & Yes & TouroCOM NY & Not familiar &  & Not familiar &  & Not familiar & 50 \\
+46 & 30 & Male & M4 & Yes & Dell Medical School & Not familiar & Not at all & Not familiar & Not at all & Some familiarity & 50 \\
+47 & 25 & Male & M3 & Yes & Columbia VP\&S & Not familiar &  & Not familiar &  & Some familiarity & 10 \\
+48 & 26 & Male & M4 & Yes & Dell Medical School & Not familiar &  & Not familiar &  & High familiarity & 40 \\
+49 & 25 & Male & M1 & No & St Georges University School of Medicine & Some familiarity & Not at all & Not familiar & Not at all & High familiarity & 75 \\
+50 & 28 & Female & M4 & Yes & Geisel School of Medicine & Not familiar &  & Some familiarity & Not at all & Some familiarity & 55 \\
+51 & 29 & Male & M4 & Yes & UCLA & High familiarity & Occasionally & Some familiarity & Not at all & High familiarity & 70 \\
+52 & 24 & Female & M1 & No & kansas city university & Not familiar & Not at all & Not familiar & Not at all & Some familiarity & 50 \\
+% \bottomrule
+% \end{tabular}
+\label{demographic}
+\end{longtable}
+}
+\end{landscape}
+
+\begin{landscape}
+{\scriptsize
+\begin{longtable}{cccccccc}
+\caption{\textbf{Post-Survey of Physician Trainee Participants.} 29 physician trainees participate in the optional post-survey. Column Origin ID corresponds to the labeler ID in Table \ref{trainee_demographic}. The complete list of post-survey questions is available in the supplementary material.}
+\label{trainee_post}\\
+\toprule
+\multicolumn{1}{l}{\textbf{Origin\_ID}} & \multicolumn{1}{l}{\textbf{\makecell[l]{Percentage seen \\verbatim before? (\%)}}} & \multicolumn{1}{l}{\textbf{\makecell[l]{Estimated accuracy\\ percentage? (\%)}}} & \multicolumn{1}{l}{\textbf{\makecell[l]{Assumption on Best \\LLM's accuracy? (\%)}}} & \textbf{Confidence in relevance scores?} & \textbf{Ambiguity in relevance labels?} & \textbf{\makecell[l]{Correlation with \\real-world practice?}} & \textbf{\makecell[l]{Percentage of questions\\ skipped? (\%)}} \\
+\endfirsthead
+%
+\endhead
+%
+\midrule
+2 & 10 & 80 & 90 & Very Confident & 3: Moderate ambiguity & Very closely aligned & 11 - 20 \\
+3 & 0 & 70 & 90 & Moderately Confident & 2: High ambiguity & Moderately aligned & 31 - 40 \\
+4 & 0 & 50 & 70 & Very Confident & 3: Moderate ambiguity & Slightly aligned & 11 - 20 \\
+5 & 0 & 60 & 100 & Moderately Confident & 5: No ambiguity at all & Moderately aligned & 0 -10 \\
+6 & 0 & 60 & 70 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 11 - 20 \\
+6 & 0 & 60 & 70 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 11 - 20 \\
+8 & 0 & 90 & 80 & Moderately Confident & 3: Moderate ambiguity & Moderately aligned & 11 - 20 \\
+9 & 0 & 70 & 80 & Moderately Confident & 2: High ambiguity & Moderately aligned & 0 -10 \\
+10 & 30 & 70 & 90 & Moderately Confident & 4: Slight ambiguity & Moderately aligned & 11 - 20 \\
+11 & 80 & 60 & 70 & Moderately Confident & 4: Slight ambiguity & Moderately aligned & 31 - 40 \\
+14 & 0 & 70 & 40 & Moderately Confident & 4: Slight ambiguity & Not at all aligned & 0 -10 \\
+15 & 30 & 70 & 90 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 21 - 30 \\
+18 & 0 & 70 & 80 & Slightly confident & 4: Slight ambiguity & Moderately aligned & 21 - 30 \\
+20 & 0 & 90 & 80 & Very Confident & 3: Moderate ambiguity & Strongly aligned & 0 -10 \\
+23 & 0 & 60 & 90 & Very Confident & 4: Slight ambiguity & Slightly aligned & 21 - 30 \\
+24 & 0 & 60 & 80 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 0 -10 \\
+25 & 0 & 70 & 80 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 0 -10 \\
+26 & 0 & 70 & 90 & Moderately Confident & 2: High ambiguity & Slightly aligned & 31 - 40 \\
+27 & 10 & 70 & 80 & Moderately Confident & 2: High ambiguity & Moderately aligned & 31 - 40 \\
+34 & 10 & 70 & 90 & Moderately Confident & 4: Slight ambiguity & Moderately aligned & 41 - 50 \\
+35 & 30 & 40 & 90 & Slightly confident & 3: Moderate ambiguity & Slightly aligned & 31 - 40 \\
+37 & 0 & 70 & 70 & Moderately Confident & 4: Slight ambiguity & Strongly aligned & 31 - 40 \\
+38 & 20 & 80 & 70 & Moderately Confident & 3: Moderate ambiguity & Strongly aligned & 11 - 20 \\
+41 & 10 & 20 & 70 & Slightly confident & 3: Moderate ambiguity & Moderately aligned & 11 - 20 \\
+46 & 0 & 50 & 50 & Moderately Confident & 3: Moderate ambiguity & Moderately aligned & 0 -10 \\
+47 & 0 & 60 & 90 & Very Confident & 3: Moderate ambiguity & Moderately aligned & 41 - 50 \\
+49 & \multicolumn{1}{l}{} & 50 & 80 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 21 - 30 \\
+50 & 0 & 70 & 90 & Moderately Confident & 3: Moderate ambiguity & Moderately aligned & 21 - 30 \\
+51 & 10 & 30 & 90 & Moderately Confident & 3: Moderate ambiguity & Slightly aligned & 11 - 20 \\
+\bottomrule
+\end{longtable}
+}
+\end{landscape}
+
+\bibliography{references}
+
+\end{document}

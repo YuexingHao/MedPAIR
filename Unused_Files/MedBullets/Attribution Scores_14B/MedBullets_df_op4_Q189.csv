@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.02292294058483,A 46-year-old man presents with his wife to his primary care provider for depression and strange movements.,188,MedBullets df_op4 Q189,
+45.95082944241091,The patient met his mother once and never knew his father but was told he died in his 50s.,188,MedBullets df_op4 Q189,
+38.207107544033946,"His temperature is 98.6°F (37°C), blood pressure is 141/87 mmHg, pulse is 81/min, and respirations are 12/min.",188,MedBullets df_op4 Q189,
+31.331106118211036,"On physical exam, the patient has a flat affect with a facial grimace and sudden jerky movements of his upper extremities.",188,MedBullets df_op4 Q189,
+28.21196950832834,"He is a partner at an accounting firm, but his colleagues are threatening to fire him if he continues to perform poorly at work.",188,MedBullets df_op4 Q189,
+6.762189181521535,"Whereas he was previously outgoing and “the life of the party,” the patient is now irritable and withdrawn.",188,MedBullets df_op4 Q189,
+0.0,He drinks a few glasses of wine per week and has never smoked.,188,MedBullets df_op4 Q189,
+0.0,His family history is unknown as he was adopted.,188,MedBullets df_op4 Q189,
+0.0,The patient cannot explain the recent changes to his mood and tearfully admits he fears there is something seriously wrong with him.,188,MedBullets df_op4 Q189,
+0.0,His wife says that he is getting worse.,188,MedBullets df_op4 Q189,
+0.0,"The patient’s medical history is significant for hypertension, for which he takes lisinopril.",188,MedBullets df_op4 Q189,
+0.0,His wife reports that her husband has not been himself for the last 2 months.,188,MedBullets df_op4 Q189,

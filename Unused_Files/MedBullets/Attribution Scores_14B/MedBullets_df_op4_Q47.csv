@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+135.15892294439575,Serum: Na+: 139 mEq/L K+: 3.3 mEq/L Cl-: 100 mEq/L HCO3-: 25 mEq/L BUN: 20 mg/dL Glucose: 70 mg/dL Creatinine: 1.1 mg/dL Ca2+: 10.2 mg/dL AST: 12 U/L ALT: 10 U/L A muscle biopsy is obtained as seen in Figure A.,46,MedBullets df_op4 Q47,A
+63.61282551661134,"She was recently treated for an ear infection with an antibiotic which she completed 3 weeks ago, and experienced a rash which she believes was an allergic reaction to her treatment.",46,MedBullets df_op4 Q47,A
+39.95815669684614,"Her temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 80/min, respirations are 17/min, and oxygen saturation is 98% on room air.",46,MedBullets df_op4 Q47,A
+36.01975799069633,"Physical exam is notable for 2/5 strength in the patient's upper and lower extremities, sparse fine hair on her body, and a rash on her face and arms.",46,MedBullets df_op4 Q47,A
+30.272540579149833,"She feels fatigued, depressed, and has gained 10 pounds which she attributes to feeling too weak to go to the gym.",46,MedBullets df_op4 Q47,A
+18.905323050054648,A 57-year-old woman presents to her primary care physician with weakness for the past 6 months with symptoms that have worsened recently.,46,MedBullets df_op4 Q47,A
+13.27224250769863,She has been admitted multiple times for hypoglycemia secondary to missing meals.,46,MedBullets df_op4 Q47,A
+-0.0,Laboratory values are ordered as seen below.,46,MedBullets df_op4 Q47,A
+0.0,The patient has a medical history of diabetes mellitus that is well-controlled with insulin and metformin.,46,MedBullets df_op4 Q47,A

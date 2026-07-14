@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+65.36458363763106,"Over the past several weeks, the child has been more fatigued and his parents state that “he always seems to be sick.” They state that sometimes he complains about his bones hurting and they note that he is less playful.",282,MedBullets df_op4 Q283,B
+62.65210601197977,"A 5-year-old boy presents to his primary care physician for recurrent colds, fatigue, and fussiness.",282,MedBullets df_op4 Q283,B
+44.91714519716495,"His temperature is 102°F (38.9°C), blood pressure is 92/60 mmHg, pulse is 115/min, respirations are 23/min, and oxygen saturation is 99% on room air.",282,MedBullets df_op4 Q283,B
+28.145855164263562,Physical exam is notable for diffuse non-tender lymphadenopathy.,282,MedBullets df_op4 Q283,B
+2.7894970137599238,Abdominal exam reveals hepatosplenomegaly.,282,MedBullets df_op4 Q283,B
+-0.0,Laboratory studies are ordered as seen below.,282,MedBullets df_op4 Q283,B
+0.0,He is up to date on his vaccinations.,282,MedBullets df_op4 Q283,B

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+136.5881449516536,"His physical exam demonstrates no tenderness of the neck, a normal oropharynx, palpable crepitus above the clavicles, and minor lymphadenopathy.",64,MedBullets_df_op4_Q65,
+6.0178655087947845,"Given this patient's suspected diagnosis, the gastroenterologist performs a diagnostic test.",64,MedBullets_df_op4_Q65,
+3.435035454703243,"Several hours later, the patient presents to the emergency department with chest pain and shortness of breath.",64,MedBullets_df_op4_Q65,
+0.0,"On physical exam, the patient demonstrates a normal cardiopulmonary exam.",64,MedBullets_df_op4_Q65,
+0.0,A 25-year-old man presents to his gastroenterologist for trouble swallowing.,64,MedBullets_df_op4_Q65,
+0.0,"Whenever he eats solids, he regurgitates them back up.",64,MedBullets_df_op4_Q65,

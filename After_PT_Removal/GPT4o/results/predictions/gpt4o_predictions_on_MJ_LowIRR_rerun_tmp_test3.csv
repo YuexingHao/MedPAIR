@@ -1,0 +1,57 @@
+Origin,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,ID_corr,sentence_number_corr,answer_corr,data_source_corr,REMOVED_Sentences,sentence_number_df3,step1_excerpts,question_options,Filtered_Sentences,New_Sentences,Clinician_Student_MJ_Low/IRR_Sentences,gpt_direct_prediction
+ID0002,1,0.833333333,REMOVED,1,REMOVED,0.833333333,REMOVED,REMOVED,REMOVED,REMOVED,0.75,,,,,,,,,,ID0002,11,D,jama,6,11,"1. A woman in her 60s with a history of hyperlipidemia, hypothyroidism, and chronic migraines presented with 9 months of progressively worsening left-sided ptosis, which was more notable at night and with fatigue.
+2. She denied experiencing pain, diplopia, muscle weakness, dysarthria, dysphagia, difficulty breathing, or other neurologic deficits.
+3. On examination, corrected visual acuity was 20/20 bilaterally, with normal color vision, visual fields, intraocular pressure, extraocular movements, alignment, and pupils.
+4. External examination was notable for left upper eyelid ptosis (Figure 1), with a margin-to-reflex distance 1 of 3.5 mm on the right and 0.5 mm on the left, intact levator function, and no fatiguability on sustained upgaze.
+5. There was no evidence of eyelid edema, erythema, or tenderness to palpation.
+6. There were no palpable adnexal masses or orbital rim deformities, but there was mild fullness in the left superior sulcus and mildly increased left-sided resistance to retropulsion.
+7. However, Hertel exophthalmometry did not reveal any relative proptosis.
+8. No lacrimal gland abnormalities or conjunctival masses were seen with upper eyelid eversion.
+9. There was no palpable preauricular or cervical lymphadenopathy.
+10. Slitlamp and fundus examination findings were normal.
+11. Serological testing results for antiacetylcholine receptor antibody were negative.","What Would You Do Next?
+
+A: Perform left upper eyelid ptosis repair  
+B: Request single-fiber electromyography  
+C: Biopsy the left levator palpebrae superioris  
+D: Obtain orbital imaging with intravenous contrast","3. On examination, corrected visual acuity was 20/20 bilaterally, with normal color vision, visual fields, intraocular pressure, extraocular movements, alignment, and pupils. | 5. There was no evidence of eyelid edema, erythema, or tenderness to palpation. | 7. However, Hertel exophthalmometry did not reveal any relative proptosis. | 8. No lacrimal gland abnormalities or conjunctival masses were seen with upper eyelid eversion. | 9. There was no palpable preauricular or cervical lymphadenopathy. | 10. Slitlamp and fundus examination findings were normal.","3. On examination, corrected visual acuity was 20/20 bilaterally, with normal color vision, visual fields, intraocular pressure, extraocular movements, alignment, and pupils. | 5. There was no evidence of eyelid edema, erythema, or tenderness to palpation. | 7. However, Hertel exophthalmometry did not reveal any relative proptosis. | 8. No lacrimal gland abnormalities or conjunctival masses were seen with upper eyelid eversion. | 9. There was no palpable preauricular or cervical lymphadenopathy. | 10. Slitlamp and fundus examination findings were normal.","3. On examination, corrected visual acuity was 20/20 bilaterally, with normal color vision, visual fields, intraocular pressure, extraocular movements, alignment, and pupils. | 5. There was no evidence of eyelid edema, erythema, or tenderness to palpation. | 7. However, Hertel exophthalmometry did not reveal any relative proptosis. | 8. No lacrimal gland abnormalities or conjunctival masses were seen with upper eyelid eversion. | 9. There was no palpable preauricular or cervical lymphadenopathy. | 10. Slitlamp and fundus examination findings were normal.",<answer>Option D</answer>
+ID0003,1,1,REMOVED,1,1,1,REMOVED,,,,,,,,,,,,,,ID0003,7,G,medxpert,1,7,"1. A 20-year-old woman comes to the primary care clinic with complaints of a progressively worsening sore throat, dry cough, and ear pain.
+2. She reports feeling mildly unwell for two weeks prior, with symptoms including fever, fatigue, muscle aches, and headache.
+3. Her medical history is unremarkable, and her only daily medication is a combined oral contraceptive pill.
+4. She works as a waitress at a local diner and mentions exposure to sick patrons.
+5. On examination, her temperature is 101.5 ºF, blood pressure is 118/76 mmHg, pulse is 78/min, and respiratory rate is 14/min.
+6. Chest auscultation is unremarkable, but a chest X-ray reveals bilateral multifocal opacities in the lungs.
+7. Sputum culture and Gram stain are negative.","Which of the following components is essential for culturing the most likely causative organism?
+
+A. Iron  
+B. Urea  
+C. Magnesium  
+D. Cysteine  
+E. Glucose  
+F. Nicotinamide  
+G. Cholesterol  
+H. Hemin  
+I. Sulfate  
+J. Pyridoxine","3. Her medical history is unremarkable, and her only daily medication is a combined oral contraceptive pill.","3. Her medical history is unremarkable, and her only daily medication is a combined oral contraceptive pill.","3. Her medical history is unremarkable, and her only daily medication is a combined oral contraceptive pill.","The context involves a patient with no significant medical history other than the use of a combined oral contraceptive pill, and the question refers to identifying the essential component for culturing the most likely causative organism. This scenario is often related to infections caused by bacteria like *Neisseria gonorrhoeae* or *Haemophilus influenzae*. Based on the given options, *Haemophilus influenzae*, for instance, requires specific growth factors like hemin (factor X) or NAD (factor V) for cultivation.
+
+However, without explicit details in this scenario, a common consideration is organisms that rely on specific requirements beyond standard media. Among the listed options, ""Hemin"" is commonly associated with organisms like *Haemophilus species*.
+
+<answer>Option H</answer>"
+ID0010,1,REMOVED,REMOVED,REMOVED,REMOVED,REMOVED,1,,,,,,,,,,,,,,ID0010,7,H,medxpert,3,7,"1. A 17-year-old high school student accidentally amputated part of his right index finger during shop class.  
+2. His teacher applied dressings and pressure to the wound and transported him to the emergency department within 20 minutes of the incident.  
+3. The patient’s medical history includes asthma, and his only medication is albuterol.  
+4. Vital signs show a temperature of 98.0°F (36.6°C), blood pressure of 120/70 mmHg, pulse of 105/min, and respirations of 17/min.  
+5. Examination reveals pulsatile bleeding from a clean-cut wound at the distal interphalangeal joint of the right second finger.  
+6. The wound was cleaned, compression applied, analgesics given, and hand surgeons were notified.  
+7. The amputated finger was left in the classroom, but the principal is bringing it to the hospital.","What is the proper method for transporting the amputated finger?
+
+A. Wrap the finger in moist gauze and place in a plastic bag  
+B. Rinse the finger with hydrogen peroxide, wrap the finger in moist gauze, and place on ice  
+C. Rinse the finger with tap water, wrap in moist gauze, and place directly on ice  
+D. Wrap the finger in dry gauze, place in a plastic bag, and submerge the bag in ice water  
+E. Rinse the finger in sterile water, wrap in dry gauze, and place directly on ice  
+F. Submerge the finger in sterile saline and place the container on ice  
+G. Place the finger in a sealed plastic bag without rinsing and keep it on ice  
+H. Rinse the finger in normal saline, wrap the finger in moist gauze, put in a plastic bag, and place the bag in ice water  
+I. Rinse the finger in normal saline, place in a dry plastic container, and keep at room temperature  
+J. Submerge the finger directly in ice water","3. The patient’s medical history includes asthma, and his only medication is albuterol. | 4. Vital signs show a temperature of 98.0°F (36.6°C), blood pressure of 120/70 mmHg, pulse of 105/min, and respirations of 17/min. | 6. The wound was cleaned, compression applied, analgesics given, and hand surgeons were notified.","3. The patient’s medical history includes asthma, and his only medication is albuterol. | 4. Vital signs show a temperature of 98.0°F (36.6°C), blood pressure of 120/70 mmHg, pulse of 105/min, and respirations of 17/min. | 6. The wound was cleaned, compression applied, analgesics given, and hand surgeons were notified.","3. The patient’s medical history includes asthma, and his only medication is albuterol. | 4. Vital signs show a temperature of 98.0°F (36.6°C), blood pressure of 120/70 mmHg, pulse of 105/min, and respirations of 17/min. | 6. The wound was cleaned, compression applied, analgesics given, and hand surgeons were notified.",<answer>Option H</answer>

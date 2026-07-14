@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+11.823966979980469,"She has a medical history of anxiety, depression, irritable bowel syndrome, and dysmenorrhea.",38,MedBullets_df_op4_Q39,
+4.077333975425433,There is a perpetual uneasiness and feeling of a need to move at night which is relieved by getting up and walking around.,38,MedBullets_df_op4_Q39,
+0.0,"When she goes to bed at night, she has an urge to get up out of bed and walk around.",38,MedBullets_df_op4_Q39,
+-0.0,"Physical exam reveals 5/5 strength in the upper and lower extremities, 2+ reflexes in the upper and lower extremities, a stable gait pattern, and normal sensation.",38,MedBullets_df_op4_Q39,
+0.0,A 59-year-old woman presents to her primary care physician for trouble sleeping.,38,MedBullets_df_op4_Q39,
+0.0,The patient denies symptoms during the day.,38,MedBullets_df_op4_Q39,
+0.0,The patient often wakes her husband when she does this which irritates him.,38,MedBullets_df_op4_Q39,
+0.0,"Her temperature is 99.5°F (37.5°C), blood pressure is 157/98 mmHg, pulse is 80/min, respirations are 17/min, and oxygen saturation is 98% on room air.",38,MedBullets_df_op4_Q39,

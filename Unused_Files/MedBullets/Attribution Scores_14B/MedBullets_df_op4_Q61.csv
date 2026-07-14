@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+0.0,Sedative and paralytic agents are withdrawn.,60,MedBullets df_op4 Q61,
+-0.0,"Laboratory studies do not show significant electrolyte, acid-base, or endocrine disturbances.",60,MedBullets df_op4 Q61,
+0.0,"One week later, the patient’s GCS score is now 3.",60,MedBullets df_op4 Q61,
+0.0,The patient is admitted to the intensive care unit and appropriate care is initiated.,60,MedBullets df_op4 Q61,
+-0.0,Initial urine toxicology is negative.,60,MedBullets df_op4 Q61,
+0.0,His Glasgow coma score (GCS) on presentation is 6.,60,MedBullets df_op4 Q61,
+0.0,"His temperature is 98.6°F (37.0°C), blood pressure is 110/80 mmHg, pulse is 60/min, and respirations are 12/min on a ventilator.",60,MedBullets df_op4 Q61,
+-0.0,His medical history is significant for hypertension but he does not take any medications.,60,MedBullets df_op4 Q61,
+-0.0,He was driving under the influence of alcohol when he sustained a crash against a pole.,60,MedBullets df_op4 Q61,
+-0.0,A 47-year-old man is brought in after a motor vehicle accident.,60,MedBullets df_op4 Q61,

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+103.40305019335314,"Her temperature is 99.2°F (37.3°C), blood pressure is 129/64 mmHg, pulse is 63/min, respirations are 13/min, and oxygen saturation is 99% on room air.",15,MedBullets df_op4 Q16,A
+69.54236205901906,An electrocardiogram is obtained as shown in Figure A. Dipstick urinalysis is notable for 4+ blood and dark colored urine.,15,MedBullets df_op4 Q16,A
+40.43773879087964,A 70-year-old woman is brought to the emergency department by ambulance.,15,MedBullets df_op4 Q16,A
+37.8000833714859,"Physical exam reveals, a confused, ill-appearing woman.",15,MedBullets df_op4 Q16,A
+34.232240192592144,"She is confused and is unable to provide any history, but complains of generalized pain.",15,MedBullets df_op4 Q16,A
+5.75794772456221,Lungs are clear to auscultation bilaterally.,15,MedBullets df_op4 Q16,A

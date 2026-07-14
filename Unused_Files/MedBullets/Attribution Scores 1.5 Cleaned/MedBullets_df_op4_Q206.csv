@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.62459510646062,"Though he is no longer aggressive, he is seen making ""armor"" out of paper plates and plastic silverware to defend himself.",205,MedBullets df_op4 Q206,A
+72.46807908714202,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",205,MedBullets df_op4 Q206,A
+70.30143092763109,"The patient's treatment history is significant for failure to obtain symptom control with risperidone, haloperidol, and ziprasidone.",205,MedBullets df_op4 Q206,A
+66.91350733861327,The patient claims that little people were trying to kill him and he was acting within his rights to defend himself.,205,MedBullets df_op4 Q206,A
+32.56638123528311,The patient has a medical history of marijuana and IV drug use as well as multiple suicide attempts.,205,MedBullets df_op4 Q206,A
+20.500462212599707,He is given IM haloperidol and diphenhydramine.,205,MedBullets df_op4 Q206,A
+20.312686646265607,The patient is transferred to the inpatient psychiatric unit and is continued on haloperidol throughout the next week.,205,MedBullets df_op4 Q206,A

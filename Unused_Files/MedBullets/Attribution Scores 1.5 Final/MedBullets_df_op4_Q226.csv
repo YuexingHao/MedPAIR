@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+66.96595974899884,A 24-year-old motorcyclist is involved in a head-on collision with a motor vehicle and suffers various traumatic injuries.,225,MedBullets_df_op4_Q226,C
+21.00294429063797,"She has no significant medical history, is up to date on all vaccinations, and her last tetanus shot was 3 years ago.",225,MedBullets_df_op4_Q226,C
+20.691644367750317,"A CT scan of the abdomen is obtained, which is shown in Figure A.",225,MedBullets_df_op4_Q226,C
+6.841576599200914,"On arrival, her temperature is 36.7°C (98°F), blood pressure is 82/63 mmHg, pulse is 120/min, respirations are 20/min, and oxygen saturation is 97% on 2L oxygen nasal cannula.",225,MedBullets_df_op4_Q226,C
+0.0,"On physical exam, there are extensive ecchymoses and abrasions along her left posterior ribs and left flank.",225,MedBullets_df_op4_Q226,C

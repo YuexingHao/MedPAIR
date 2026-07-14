@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+109.70382168737771,"The prenatal course was complicated by chlamydia in the mother during the first trimester, for which she and the partner were both treated with a confirmatory test of cure.",128,MedBullets_df_op4_Q129,A
+91.39890458962432,"The neonate’s temperature is 98.5°F (36.9°C), blood pressure is 56/35 mmHg, pulse is 138/min, and respirations are 51/min.",128,MedBullets_df_op4_Q129,A
+73.26997302472591,"The biological father is no longer involved in the patient's life, but her mother’s boyfriend has been caring for the baby whenever the mother rests.",128,MedBullets_df_op4_Q129,A
+47.58621098611651,The neonate was delivered at 39 weeks gestation via an uncomplicated vaginal delivery and was discharged home after 2 days.,128,MedBullets_df_op4_Q129,A
+41.998019784457185,A 4-day-old neonate is brought to the pediatrician with vaginal discharge for the last 2 days.,128,MedBullets_df_op4_Q129,A
+36.49766134777882,"She appears comfortable, and cardiopulmonary and abdominal exams are unremarkable.",128,MedBullets_df_op4_Q129,A
+17.788031350525245,Her daughter has been feeding and voiding well.,128,MedBullets_df_op4_Q129,A
+0.0,Examination of the genitals reveals no vulvar irritation or skin changes but there is scant pink mucoid discharge at the introitus.,128,MedBullets_df_op4_Q129,A

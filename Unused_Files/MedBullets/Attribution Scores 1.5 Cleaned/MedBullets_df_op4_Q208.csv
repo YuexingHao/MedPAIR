@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.74151224683499,"A 57-year-old immigrant from Nigeria presents to the emergency department for sudden, severe pain and swelling in her lower extremity.",207,MedBullets df_op4 Q208,A
+55.89025146514177,"The patient has a medical history of obesity, diabetes, bipolar disorder, and tonic-clonic seizures.",207,MedBullets df_op4 Q208,A
+39.55272611207954,Physical exam reveals anasarca and asymmetric lower extremity swelling.,207,MedBullets df_op4 Q208,A
+28.17149267958811,The patient has IV drug and alcohol use disorder and has presented to the ED many times for intoxication.,207,MedBullets df_op4 Q208,A
+25.31892441216193,"Her current medications include metformin, insulin, lisinopril, and valproic acid.",207,MedBullets df_op4 Q208,A
+24.444304427010724,She was at a rehabilitation hospital when her symptoms started.,207,MedBullets df_op4 Q208,A

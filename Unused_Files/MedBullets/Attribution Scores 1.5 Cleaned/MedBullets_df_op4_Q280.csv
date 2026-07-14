@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+94.8277043039156,"Upon presentation to the ED today, his temperature is 97.6°F (36.4°C), blood pressure is 64/33 mmHg, pulse is 160/min, respirations are 32/min, and oxygen saturation is 100% on room air.",279,MedBullets df_op4 Q280,
+69.87918853759766,"His primary care provider was concerned and had advised him to go to the hospital, as the patient is on warfarin for atrial fibrillation.",279,MedBullets df_op4 Q280,
+28.16799228677281,"However, his bleeding resolved with pressure and nasal packing.",279,MedBullets df_op4 Q280,
+17.233722932590933,"A dark, purpuric rash is noted on his torso and extremities.",279,MedBullets df_op4 Q280,

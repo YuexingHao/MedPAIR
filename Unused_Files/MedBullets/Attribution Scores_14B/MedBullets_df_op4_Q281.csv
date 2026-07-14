@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.6407842928527,A bedside echocardiograph is notable for a dilated and hypokinetic right ventricle with septal bowing into a hyperkinetic left ventricle.,280,MedBullets df_op4 Q281,C
+27.17994175473384,Her right lower extremity is in a post-operative splint.,280,MedBullets df_op4 Q281,C
+27.11791693009858,The patient regains her pulse after several rounds of CPR and epinephrine.,280,MedBullets df_op4 Q281,C
+12.36253621429205,Cardiopulmonary resuscitation is ongoing and 2 intravenous lines are placed.,280,MedBullets df_op4 Q281,C
+11.154327126510392,A 37-year-old woman presents to the emergency department in cardiac arrest.,280,MedBullets df_op4 Q281,C
+7.397312561154489,She otherwise is known to smoke cigarettes on occasion.,280,MedBullets df_op4 Q281,C
+7.394916368666646,"The patient is obese, and her only medication is an oral contraceptive pill.",280,MedBullets df_op4 Q281,C
+6.501440185723283,She recently underwent Achilles tendon repair.,280,MedBullets df_op4 Q281,C
+6.015192726045661,Physical exam is notable for a critically ill patient with chest compressions ongoing.,280,MedBullets df_op4 Q281,C
+0.0,The monitor shows pulseless electrical activity.,280,MedBullets df_op4 Q281,C
+0.0,"She was found to have altered mental status at home, and during transport to the hospital, she became pulseless.",280,MedBullets df_op4 Q281,C

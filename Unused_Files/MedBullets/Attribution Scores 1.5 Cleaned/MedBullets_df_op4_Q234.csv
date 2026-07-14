@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+86.24108399043334,The patient is easily arousable to voice and sternal rub but falls asleep rapidly.,233,MedBullets df_op4 Q234,A
+75.87339716827134,"His temperature is 98.0°F (36.7°C), blood pressure is 130/80 mmHg, pulse is 80/min, and respirations are 12/min with a saturation of 97% on room air.",233,MedBullets df_op4 Q234,A
+40.07296353350157,Physical exam reveals a sleeping man with miotic pupils.,233,MedBullets df_op4 Q234,A
+38.31809167178108,He is able to state his name and knows that he is at the hospital and has an otherwise normal neurologic exam.,233,MedBullets df_op4 Q234,A
+34.44874558180327,A 25-year-old man is brought to the emergency department by paramedics for altered mental status.,233,MedBullets df_op4 Q234,A
+27.03189192339778,"On arrival, the patient has slurred speech and is somnolent.",233,MedBullets df_op4 Q234,A
+22.394113795342797,He was found lying down at a bus stop unresponsive.,233,MedBullets df_op4 Q234,A
+14.44279530410435,He has decreased bowel sounds.,233,MedBullets df_op4 Q234,A
+7.902067296940715,Further is unable to be elicited.,233,MedBullets df_op4 Q234,A

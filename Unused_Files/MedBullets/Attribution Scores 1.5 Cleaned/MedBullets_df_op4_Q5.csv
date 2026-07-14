@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+124.23088484184952,Serum laboratory results are shown below: Na+: 120 mEq/L Cl-: 92 mEq/L K+: 3.9 mEq/L HCO3-: 26 mEq/L BUN: 32 mg/dL Creatinine: 1.0 mg/dL Serum osmolality is 265 mEq/L and urine osmolality is 340 mEq/L.,4,MedBullets df_op4 Q5,A
+102.92061571142798,"The headache started suddenly while she was eating dinner and she says it feels like the “worst headache of my life.” An emergent CT scan of the head without contrast confirms the diagnosis, and a CT angiogram identifies the source of bleeding.",4,MedBullets df_op4 Q5,A
+72.4491043198591,"Her medical problems consist of heart failure for which she takes furosemide, spironolactone, and metoprolol, which were continued at admission.",4,MedBullets df_op4 Q5,A
+51.02644192104162,"Her temperature is 99.6°F (37.6°C), blood pressure is 100/60 mmHg, pulse is 112/min, and respirations are 16/min.",4,MedBullets df_op4 Q5,A
+31.63273739202445,"On hospital day 3, she is found to be disoriented to person, place, and time.",4,MedBullets df_op4 Q5,A
+19.72973435894348,A 55-year-old woman is brought to the emergency department by her husband with a 1 hour history of an unremitting headache.,4,MedBullets df_op4 Q5,A
+13.303591626307092,Capillary refill time is 4 seconds.,4,MedBullets df_op4 Q5,A
+7.501328888874794,She also develops nausea and vomiting.,4,MedBullets df_op4 Q5,A
+5.583281949906937,Physical examination shows poor skin turgor.,4,MedBullets df_op4 Q5,A

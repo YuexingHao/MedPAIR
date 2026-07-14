@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+102.493559807539,"His temperature is 97.5°F (36.4°C), blood pressure is 92/52 mmHg, pulse is 145/min, respirations are 33/min, and oxygen saturation is 90% on room air.",111,MedBullets df_op4 Q112,D
+79.92319171776226,"He is intubated to protect his airway, given 2 units of packed red blood cells, and sent to the operating room for an exploratory laparotomy.",111,MedBullets df_op4 Q112,D
+48.28321016855845,A 44-year-old homeless man presents to the emergency department after being stabbed multiple times in the abdomen.,111,MedBullets df_op4 Q112,D
+30.73941290854556,It is held together only by the sutures with minimal underlying healing.,111,MedBullets df_op4 Q112,D
+25.03891074229622,The patient has multiple loose bowel movements and on day 6 the patient’s surgical wound does not appear to be healing.,111,MedBullets df_op4 Q112,D
+15.529594670424803,The patient is intoxicated and is unable to offer further history.,111,MedBullets df_op4 Q112,D
+14.59031339205254,Physical exam reveals sparse hair that is falling out throughout the patient’s body.,111,MedBullets df_op4 Q112,D
+8.685699131059524,He has a rash by the corners of his mouth.,111,MedBullets df_op4 Q112,D

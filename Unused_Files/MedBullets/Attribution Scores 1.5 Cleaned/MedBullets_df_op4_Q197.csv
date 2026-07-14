@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+45.32130996223805,"Her temperature is 100.8°F (38.2°C), blood pressure is 133/74 mmHg, pulse is 105/min, and respirations are 14/min.",196,MedBullets df_op4 Q197,A
+35.62100195809392,"Her medical history is significant for hyperlipidemia, mild intermittent asthma, and type 2 diabetes mellitus.",196,MedBullets df_op4 Q197,A
+24.736558738319506,"Two months ago, the patient had a root canal on a left molar.",196,MedBullets df_op4 Q197,A
+24.533133924915195,She has never smoked and has 10-15 alcoholic drinks per week.,196,MedBullets df_op4 Q197,A
+20.23745519207813,A 3x4 cm non-tender mass can be palpated inferior to the angle of the left mandible.,196,MedBullets df_op4 Q197,A
+18.91116962209344,"This morning, she was unable to close her mouth for several minutes after taking a bite of her breakfast.",196,MedBullets df_op4 Q197,A
+10.585475841127986,The gram stain of the exudate can be seen in Figure A.,196,MedBullets df_op4 Q197,A
+10.098935257516406,A 38-year-old woman presents to the emergency department with difficulty eating.,196,MedBullets df_op4 Q197,A
+6.904022514717413,Thick exudate is draining from an opening in the skin.,196,MedBullets df_op4 Q197,A
+6.231888580598843,"Over the past week, she has had increasing difficulty chewing her food and progressive pain in the left side of her jaw.",196,MedBullets df_op4 Q197,A
+3.0715873585112274,"On physical exam, there is a bluish hue to the skin on the lower left side of the patient’s face.",196,MedBullets df_op4 Q197,A

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.258982084691525,"Approximately 20 minutes after receiving the medication, he developed pain and stiffness in his neck and eventually was unable to move his neck.",66,MedBullets df_op4 Q67,C
+36.15844532980041,He underwent a laparoscopic appendectomy and was treated for post-operative nausea and vomiting with metoclopramide.,66,MedBullets df_op4 Q67,C
+32.10036512213271,His neck is rotated to the right and is unable to return to midline.,66,MedBullets df_op4 Q67,C
+10.147590623767828,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 130/80 mmHg, respirations are 16/min, and oxygen saturation is 98% on room air.",66,MedBullets df_op4 Q67,C
+5.95914715946601,A 30-year-old man is evaluated in the post-anesthesia care unit for neck pain.,66,MedBullets df_op4 Q67,C
+0.0,Examination reveals an uncomfortable appearing man.,66,MedBullets df_op4 Q67,C
+0.0,Examination of the patient is shown in Figure A.,66,MedBullets df_op4 Q67,C

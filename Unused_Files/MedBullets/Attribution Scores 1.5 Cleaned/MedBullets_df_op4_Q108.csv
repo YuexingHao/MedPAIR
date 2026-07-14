@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.34455712719937,A 27-year-old G1P0000 woman presents to her obstetrician’s office at 24 weeks gestation complaining of new hair growth on her upper lip.,107,MedBullets df_op4 Q108,
+26.181779445872785,"Her pregnancy thus far has been complicated by gestational diabetes, which is managed by diet and exercise.",107,MedBullets df_op4 Q108,
+19.42947666302308,A pelvic exam reveals an unremarkable closed cervix and a right-sided adnexal mass without tenderness.,107,MedBullets df_op4 Q108,
+8.098739624023438,She also has worsening acne that started several weeks ago.,107,MedBullets df_op4 Q108,
+7.407873934982693,"The patient’s temperature is 98.5°F (36.9°C), blood pressure is 121/76 mmHg, pulse is 70/min, and respirations are 13/min.",107,MedBullets df_op4 Q108,
+4.053479327368412,"The cardiopulmonary exam is normal, and the patient’s abdomen has a fundal height of 31 cm.",107,MedBullets df_op4 Q108,
+0.8856876893470768,She has a male fetus based on her 20 week anatomy ultrasound.,107,MedBullets df_op4 Q108,
+0.1926973024091601,Transvaginal ultrasound is performed and shown in Figure A.,107,MedBullets df_op4 Q108,

@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+46.29855157483711,"He was celebrating his birthday last night and admits having ""too much to drink"" and vomited profusely overnight.",240,MedBullets df_op4 Q241,B
+15.269104203363515,Rectal exam reveals grossly bloody stool.,240,MedBullets df_op4 Q241,B
+12.110522983225321,"His temperature is 99.2°F (37.3°C), blood pressure is 110/75 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air.",240,MedBullets df_op4 Q241,B
+8.113449508082695,"He noticed this yesterday as well, but it was much scanter.",240,MedBullets df_op4 Q241,B
+-0.0,Laboratory studies are ordered as shown below.,240,MedBullets df_op4 Q241,B
+0.0,Physical exam reveals a nontender abdomen with normal bowel sounds.,240,MedBullets df_op4 Q241,B
+0.0,He currently feels well and is not nauseous.,240,MedBullets df_op4 Q241,B
+0.0,He has no other significant medical history and does not take any medications.,240,MedBullets df_op4 Q241,B
+0.0,The patient is otherwise healthy.,240,MedBullets df_op4 Q241,B
+-0.0,A 43-year-old man presents to the emergency department with bright red blood in his stool this morning.,240,MedBullets df_op4 Q241,B

@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+38.808053566744775,A 29-year-old woman comes to the emergency department complaining of painful genital ulcers that have been present for 4 days as well as low-grade fever and malaise.,30,MedBullets df_op4 Q31,A
+25.561963200241433,"She denies any recent travel, new sexual partners, or antibiotic use.",30,MedBullets df_op4 Q31,A
+20.453009605407715,Physical examination reveals multiple clustered vesicles and shallow ulcers in the vulvar region.,30,MedBullets df_op4 Q31,A
+14.551738785386663,A Tzanck smear shows multinucleated giant cells.,30,MedBullets df_op4 Q31,A

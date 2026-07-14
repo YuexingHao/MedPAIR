@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+101.34928130994945,"Flexion of the hip with the knee extended while the patient is supine does not elicit any pain, nor does forced dorsiflexion of the foot at terminal hip extension.",65,MedBullets df_op4 Q66,B
+58.2449504211545,"She has never experienced this pain in the past and denies fever, night sweats, unintentional weight loss, and bowel or bladder incontinence.",65,MedBullets df_op4 Q66,B
+47.188718344763544,She has hypertension for which she takes hydrochlorothiazide and had a recent asthma flare requiring a prednisone taper.,65,MedBullets df_op4 Q66,B
+30.61524015264074,A 60-year-old woman presents to the emergency department with back pain after gardening.,65,MedBullets df_op4 Q66,B
+17.536074233250325,"Her temperature is 98.6°F (37.0°C), blood pressure is 120/80 mmHg, pulse is 90/min, and respirations are 18/min.",65,MedBullets df_op4 Q66,B
+7.073176768640709,"Her pain is 7/10 in severity, non-radiating, and not relieved by rest.",65,MedBullets df_op4 Q66,B
+5.792134077601894,Bilateral patellar and Achilles reflexes are 2+.,65,MedBullets df_op4 Q66,B
+1.323294095921351,"She has 5/5 strength to hip flexion, extension, abduction, and adduction; knee flexion and extension; and ankle dorsiflexion and plantarflexion bilaterally.",65,MedBullets df_op4 Q66,B
+0.0,She does not drink alcohol or smoke.,65,MedBullets df_op4 Q66,B
+0.0,There is no tenderness to palpation of the spinous processes.,65,MedBullets df_op4 Q66,B
+0.0,Physical exam reveals an uncomfortable middle-aged woman in no acute distress.,65,MedBullets df_op4 Q66,B

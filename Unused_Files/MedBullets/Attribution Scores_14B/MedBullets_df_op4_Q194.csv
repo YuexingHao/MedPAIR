@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.90891830093928,His medical history includes type 1 diabetes mellitus and an episode of herpes zoster on his right flank 1 year ago.,193,MedBullets df_op4 Q194,C
+38.6081959719287,"His temperature is 98.6°F (37°C), blood pressure is 112/69 mmHg, pulse is 61/min, and respirations are 14/min.",193,MedBullets df_op4 Q194,C
+36.4388838424896,"The headaches self-resolve over the course of 2-3 hours, but the patient complains that he is avoiding going to sleep for fear of waking up in pain.",193,MedBullets df_op4 Q194,C
+19.92762746429801,"The episodes start suddenly and feel like a stabbing, electrical pain over his left eye.",193,MedBullets df_op4 Q194,C
+18.738913265023097,A CT of the head and sinuses shows no acute abnormalities.,193,MedBullets df_op4 Q194,C
+14.979162127899208,He reports that he has headaches at night several times a week.,193,MedBullets df_op4 Q194,C
+14.197148615364359,He also reports tearing of the left eye during these episodes.,193,MedBullets df_op4 Q194,C
+7.505264263638481,"On physical exam, his extraocular muscles are intact and his eyes are not injected.",193,MedBullets df_op4 Q194,C
+6.3644718043506145,"He first developed these headaches over 1 year ago, but they started up again 3 weeks ago.",193,MedBullets df_op4 Q194,C
+-0.0,His only home medication is insulin.,193,MedBullets df_op4 Q194,C
+0.0,A 32-year-old man presents to his primary care provider for a headache.,193,MedBullets df_op4 Q194,C

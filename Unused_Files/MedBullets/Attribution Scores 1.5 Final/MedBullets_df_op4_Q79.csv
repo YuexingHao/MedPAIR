@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+72.91362869559407,"Two months ago, he was started on citalopram after several weeks of depressed mood, loss of interest in activities, depressed appetite, and inability to sleep.",78,MedBullets_df_op4_Q79,C
+0.0,"He had some nausea after starting the medication, but this has resolved.",78,MedBullets_df_op4_Q79,C
+0.0,He denies thoughts of suicide or self-harm.,78,MedBullets_df_op4_Q79,C
+0.0,A 36-year-old man presents to the office for follow up after initiating antidepressant therapy.,78,MedBullets_df_op4_Q79,C
+0.0,"Today, he reports minimal improvement in his symptoms.",78,MedBullets_df_op4_Q79,C
+0.0,"Exam reveals a depressed, tired appearing man.",78,MedBullets_df_op4_Q79,C

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.00916580251987,The head impulse test reveals a corrective saccade and there is no skew deviation.,261,MedBullets_df_op4_Q262,
+56.879350033387766,"His temperature is 98.0°F (36.7°C), blood pressure is 122/84 mmHg, pulse is 80/min, respirations are 16/min, and oxygen saturation is 98% on room air.",261,MedBullets_df_op4_Q262,
+26.89160859909155,His gait is ataxic and he exhibits rightward nystagmus.,261,MedBullets_df_op4_Q262,
+16.580322265625,His dizziness is constant and unchanged with performance of the Dix-Hallpike maneuver.,261,MedBullets_df_op4_Q262,
+0.0,Physical exam reveals a young man who is vomiting.,261,MedBullets_df_op4_Q262,
+0.0,A 33-year-old man presents to the emergency department with dizziness.,261,MedBullets_df_op4_Q262,
+0.0,He states he has a constant sensation that the room is spinning.,261,MedBullets_df_op4_Q262,
+-0.0,He is now having trouble walking and has been vomiting intermittently.,261,MedBullets_df_op4_Q262,

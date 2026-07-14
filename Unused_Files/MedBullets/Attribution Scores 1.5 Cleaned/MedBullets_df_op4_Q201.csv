@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+80.41520731373473,A 67-year-old man presents to the emergency room reporting sudden-onset abdominal and back pain that began 3 hours ago.,200,MedBullets df_op4 Q201,A
+43.5249372124672,He denies any diarrhea or hematochezia and says the pain is not affected by movement.,200,MedBullets df_op4 Q201,A
+37.88650226555279,Physical exam is notable for diffuse abdominal tenderness without rigidity or guarding.,200,MedBullets df_op4 Q201,A
+35.9265847618018,"He has a 45-pack-year smoking history, but he does not drink alcohol or use any illicit drugs.",200,MedBullets df_op4 Q201,A
+28.15908320564041,"During evaluation, the patient becomes diaphoretic and pale and reports that he feels fatigued.",200,MedBullets df_op4 Q201,A
+26.70296727493104,He currently takes amlodipine and atorvastatin and is compliant with his medications.,200,MedBullets df_op4 Q201,A
+20.35670660361894,"He has a history of hypertension, hyperlipidemia, and depression.",200,MedBullets df_op4 Q201,A
+2.8309706591534822,Intravenous fluid boluses are administered.,200,MedBullets df_op4 Q201,A

@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+75.61078107738685,A 35-year-old man is brought into the emergency department by ambulance for a stab wound to the left leg near the inguinal ligament.,103,MedBullets df_op4 Q104,C
+59.80524074321478,"His temperature is 98.6°F (37.0°C), pulse is 130, blood pressure is 85/50, and respirations are 22.",103,MedBullets df_op4 Q104,C
+47.029293665156544,Primary and secondary survey and FAST exam are unremarkable for other associated injuries.,103,MedBullets df_op4 Q104,C
+44.12513307376207,"Pressure is removed from the wound, and pulsatile bleeding from the wound is noted.",103,MedBullets df_op4 Q104,C
+2.0322907343506813,He was not stabbed or otherwise injured elsewhere.,103,MedBullets df_op4 Q104,C

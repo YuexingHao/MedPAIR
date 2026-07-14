@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.112220495939255,"On exam, the boy is holding his right wrist with his left hand and cries upon palpation of a region that is 2 cm proximal to his elbow.",70,MedBullets_df_op4_Q71,A
+63.00585596640779,The radial head is palpated just distal to the lateral epicondyle.,70,MedBullets_df_op4_Q71,A
+38.734571768713145,He is unable to make a pincer with his right thumb and index finger.,70,MedBullets_df_op4_Q71,A
+32.45995208447841,The radial pulse is diminished on the right.,70,MedBullets_df_op4_Q71,A
+16.852162938359722,He immediately clutched his right elbow in pain and began crying.,70,MedBullets_df_op4_Q71,A
+10.603041584986448,A 6-year-old boy is brought to the emergency department by his father for elbow pain.,70,MedBullets_df_op4_Q71,A
+0.0,He was riding his bicycle when he fell onto his outstretched right hand.,70,MedBullets_df_op4_Q71,A
+0.0,"His temperature is 98.4°F (36.9°C), blood pressure is 108/64 mmHg, pulse is 100/min, and respirations are 20/min.",70,MedBullets_df_op4_Q71,A

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+66.33694426286405,A 26-year-old woman presents to the emergency department with 1 day of vaginal bleeding and lower abdominal pain.,183,MedBullets_df_op4_Q184,A
+64.93073268926298,"Leukocyte count: 6,000/mm^3 Hemoglobin: 9.5 g/dL Her last menstrual period was 7 weeks ago.",183,MedBullets_df_op4_Q184,A
+60.808270156383514,"Serum beta-human chorionic gonadotropin (hCG): 2,700 IU/L Physical examination is notable for diffuse abdominal tenderness upon palpation.",183,MedBullets_df_op4_Q184,A
+54.15001724924168,She uses a copper intrauterine device and is in a monogamous relationship.,183,MedBullets_df_op4_Q184,A
+9.191283543892434,Pelvic examination demonstrates uterine and adnexal tenderness and uterine bleeding.,183,MedBullets_df_op4_Q184,A
+0.0,She denies any recent abdominal or vaginal trauma.,183,MedBullets_df_op4_Q184,A

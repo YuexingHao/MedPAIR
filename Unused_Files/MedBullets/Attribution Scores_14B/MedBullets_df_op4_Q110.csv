@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+148.16489240308678,"Hemoglobin: 14 g/dL Hematocrit: 42% Leukocyte count: 6,500/mm^3 with normal differential Platelet count: 197,000/mm^3 Serum: Na+: 139 mEq/L Cl-: 101 mEq/L K+: 4.3 mEq/L HCO3-: 24 mEq/L BUN: 12 mg/dL Glucose: 99 mg/dL Creatinine: 0.5 mg/dL Ca2+: 10.0 mg/dL AST: 12 U/L ALT: 10 U/L An electrocardiogram is obtained as seen in Figure B.",109,MedBullets df_op4 Q110,D
+49.58563040616549,"The newborn's temperature is 99.5°F (37.5°C), blood pressure is 70/30 mmHg, pulse is 160/min, respirations are 27/min, and oxygen saturation is 80% on room air.",109,MedBullets df_op4 Q110,D
+32.42406263133195,A newborn boy is assessed in the newborn nursery due to central cyanosis that does not respond to oxygen therapy.,109,MedBullets df_op4 Q110,D
+15.408894234071338,The mother has never been vaccinated and did not follow routine prenatal care.,109,MedBullets df_op4 Q110,D
+14.435853634029627,The mother had diabetes that was managed with exercise and insulin during the pregnancy.,109,MedBullets df_op4 Q110,D
+5.115631579873342,The initial workup of the patient includes a chest radiograph seen in Figure A as well as lab values as seen below.,109,MedBullets df_op4 Q110,D
+0.0,The patient was born to a G1P1 mother at 39 weeks gestation.,109,MedBullets df_op4 Q110,D

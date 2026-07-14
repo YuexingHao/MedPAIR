@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+155.4525967503041,"On exam, he has bright red blood in his mouth and pharynx, and also displays a distended abdomen with a fluid wave, jaundice, scattered spider angiomas, and multiple ecchymoses.",296,MedBullets df_op4 Q297,A
+67.74049630845754,"A rapid point-of-care hemoglobin and platelet count is 8.8 g/dL and 80,000/mm^3, respectively.",296,MedBullets df_op4 Q297,A
+47.35530295394908,"His wife states that he began vomiting bright red blood this evening while eating dinner, and has produced about 5 cups total.",296,MedBullets df_op4 Q297,A
+29.12866315618157,"He has a history of alcohol use disorder and has vomited small streaks of blood in the past, but has never undergone formal medical workup for it.",296,MedBullets df_op4 Q297,A
+28.69520250438814,A 52-year-old man presents to the emergency department by ambulance for evaluation of hematemesis.,296,MedBullets df_op4 Q297,A
+19.88881874408665,The patient is given 1L of normal saline.,296,MedBullets df_op4 Q297,A

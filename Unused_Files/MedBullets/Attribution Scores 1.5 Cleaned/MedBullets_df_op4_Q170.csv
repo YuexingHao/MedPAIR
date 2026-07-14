@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+84.0242890997278,"A review of systems is significant for a low-grade fever, night sweats, cough, malaise, poor appetite, and unintentional weight loss of 12 pounds in the last 2 months.",169,MedBullets df_op4 Q170,
+55.55070495605469,It is constant and “all over” but gets worse when she is lying down or in the setting of bright lights.,169,MedBullets df_op4 Q170,
+53.90062928692816,"Her temperature is 100.4°F (38.0°C), blood pressure is 110/78 mmHg, pulse is 88/min, and respirations are 14/min with an oxygen saturation of 98% O2 on room air.",169,MedBullets df_op4 Q170,
+21.33853626564244,The patient is sexually active with multiple male partners and reports inconsistent condom use.,169,MedBullets df_op4 Q170,
+3.5846888557461987,She has a history of intravenous drug use and has not been to a doctor in the last 2 years.,169,MedBullets df_op4 Q170,

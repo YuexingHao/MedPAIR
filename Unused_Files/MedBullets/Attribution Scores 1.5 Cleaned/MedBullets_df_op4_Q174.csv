@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+105.14563148660334,A 34-year-old nulliparous woman presents to the clinic with 2 weeks of copper-colored discharge from her right nipple.,173,MedBullets df_op4 Q174,A
+98.215496217926,"Her temperature is 36.5°C (97.7°F), blood pressure is 110/82 mmHg, pulse is 68/min, respirations are 12/min, and oxygen saturation is 99% on room air.",173,MedBullets df_op4 Q174,A
+63.78674816108436,"Her breast has not been tender, and she has not noticed any changes to the skin.",173,MedBullets df_op4 Q174,A
+27.326218828300718,Bloody discharge is expressed from the right nipple.,173,MedBullets df_op4 Q174,A
+26.343238838016987,She is otherwise healthy and does not take any medications.,173,MedBullets df_op4 Q174,A
+19.11387613324101,Exam of the right breast reveals no mass on palpation.,173,MedBullets df_op4 Q174,A
+7.98831397970836,There is no axillary lymphadenopathy.,173,MedBullets df_op4 Q174,A

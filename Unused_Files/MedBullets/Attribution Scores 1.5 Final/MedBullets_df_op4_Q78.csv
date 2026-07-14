@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+17.697270220081236,She has a vocabulary of 10-25 words that she uses in the form of 1 word commands.,77,MedBullets_df_op4_Q78,
+13.085368812707362,She is doing well in daycare and enjoys parallel play with the other children.,77,MedBullets_df_op4_Q78,
+9.460662841796875,"She is in the 42nd percentile for height and 48th percentile for weight, which is consistent with her growth curves.",77,MedBullets_df_op4_Q78,
+7.568615828288497,The patient has trouble falling asleep for naps but does nap for 1-2 hours a few times per week.,77,MedBullets_df_op4_Q78,
+5.113399457561772,Her mother is concerned that the patient is a picky eater and refuses to eat vegetables.,77,MedBullets_df_op4_Q78,
+0.0,"On physical exam, she appears well nourished.",77,MedBullets_df_op4_Q78,
+-0.0,A 2-year-old girl presents to the pediatrician with her mother for a routine well-child visit.,77,MedBullets_df_op4_Q78,
+0.0,She goes to sleep easily at night and usually sleeps for 11-12 hours.,77,MedBullets_df_op4_Q78,
+0.0,She can copy a line and throw a ball.,77,MedBullets_df_op4_Q78,
+0.0,She drinks milk with meals and has juice sparingly.,77,MedBullets_df_op4_Q78,
+-0.0,"Her temperature is 98.6°F (37°C), blood pressure is 92/56 mmHg, pulse is 106/min, and respirations are 23/min.",77,MedBullets_df_op4_Q78,
+0.0,Her mother reports that she can walk downstairs with both feet on each step.,77,MedBullets_df_op4_Q78,

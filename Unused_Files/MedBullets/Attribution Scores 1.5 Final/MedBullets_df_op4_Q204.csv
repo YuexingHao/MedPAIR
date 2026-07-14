@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+18.818867096000446,He has tried going to bed early for the past month but is unable to fall asleep until 2 hours prior to his alarm.,203,MedBullets_df_op4_Q204,
+18.252863200986674,The patient states that he feels fatigued all the time and sometimes will suddenly fall asleep while operating equipment.,203,MedBullets_df_op4_Q204,
+17.578940568491817,"His boss often observes him ""daydreaming"" with a blank stare off into space.",203,MedBullets_df_op4_Q204,
+5.6722108309349855,He states that he lives at home with his parents his entire life and recently was able to get a job at a local factory.,203,MedBullets_df_op4_Q204,
+-0.0,A physical exam is within normal limits.,203,MedBullets_df_op4_Q204,
+0.0,The patient fears that if this continues he will lose his job.,203,MedBullets_df_op4_Q204,
+0.0,A 25-year-old man presents to his primary care physician for trouble with focus and concentration.,203,MedBullets_df_op4_Q204,
+-0.0,"His temperature is 98.6°F (37°C), blood pressure is 112/68 mmHg, pulse is 81/min, and respirations are 12/min.",203,MedBullets_df_op4_Q204,
+0.0,"Ever since the patient started working, he has had trouble focusing on his job.",203,MedBullets_df_op4_Q204,

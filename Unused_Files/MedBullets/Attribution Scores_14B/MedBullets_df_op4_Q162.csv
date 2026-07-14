@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+38.05432586397158,The patient’s abdominal radiograph can be seen in Figure A.,161,MedBullets df_op4 Q162,C
+28.634611949961798,Digital rectal exam evacuates a small amount of stool and flatulence.,161,MedBullets df_op4 Q162,C
+21.651240654289722,The patient has urinated several times since he was born but has not passed any stool.,161,MedBullets df_op4 Q162,C
+20.68597291156875,The vomitus was described as “bright green” without any traces of blood.,161,MedBullets df_op4 Q162,C
+15.644804159022971,"His temperature is 98.6°F (37°C), blood pressure is 67/43 mmHg, pulse is 135/min, and respirations are 34/min.",161,MedBullets df_op4 Q162,C
+14.226321110802967,"On physical exam, the patient has upslanting palpebral fissures, epicanthal folds, and a single transverse palmar crease.",161,MedBullets df_op4 Q162,C
+8.818926694628791,A 2-day-old boy has an episode of vomiting in the hospital nursery.,161,MedBullets df_op4 Q162,C
+7.373591059437167,A nasogastric tube is placed to decompress the stomach.,161,MedBullets df_op4 Q162,C
+0.0,Bowel sounds are hypoactive.,161,MedBullets df_op4 Q162,C
+0.0,"His abdomen is non-tender, firm, and distended.",161,MedBullets df_op4 Q162,C
+0.0,The patient’s 2 older siblings are both healthy.,161,MedBullets df_op4 Q162,C
+-0.0,The pregnancy was uncomplicated and the patient’s mother refused all prenatal testing.,161,MedBullets df_op4 Q162,C
+0.0,He was born at 37 weeks of gestation to a 38-year-old G3P3 woman.,161,MedBullets df_op4 Q162,C

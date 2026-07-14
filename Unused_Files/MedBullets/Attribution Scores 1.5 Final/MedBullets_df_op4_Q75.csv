@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+94.722615534004,"Her medical problems include hypertension and chronic obstructive pulmonary disease for which she takes amlodipine, albuterol, ipratropium, and a fluticasone inhaler.",74,MedBullets_df_op4_Q75,A
+70.54912004223846,"Physical exam is notable for slowed movements and difficulty with balance at rest, which were not present at her wellness visit 1 year ago.",74,MedBullets_df_op4_Q75,A
+66.36613646149635,"She also frequently sees ""small people"" and animals on the dining room table, which is disturbing to her.",74,MedBullets_df_op4_Q75,A
+55.95669017395739,"Her temperature is 98.6°F (37°C), blood pressure is 120/80 mmHg, pulse is 80/min, and respirations are 12/min.",74,MedBullets_df_op4_Q75,A
+42.91957332725862,She was formerly an executive at a software company but had to retire due to frequent memory lapses.,74,MedBullets_df_op4_Q75,A
+3.4236959087279444,A 62-year-old woman is brought to a physician by her husband for fluctuating changes in behavior and hallucinations over the past 2 years.,74,MedBullets_df_op4_Q75,A
+0.0,"On occasion, she becomes difficult to understand and her speech becomes disorganized.",74,MedBullets_df_op4_Q75,A

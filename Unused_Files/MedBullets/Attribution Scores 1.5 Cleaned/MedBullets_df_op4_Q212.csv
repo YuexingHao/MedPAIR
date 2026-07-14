@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+83.35589124541,"His temperature is 99.0°F (37.2°C), blood pressure is 130/84 mmHg, pulse is 92/min, and respirations are 11/min.",211,MedBullets df_op4 Q212,D
+63.211411427869045,"He received a dose of the 13-valent pneumococcal vaccine and a dose of the 23-valent pneumococcal vaccine 15 years ago, as well as a second dose of the 23-valent pneumococcal vaccine 10 years ago.",211,MedBullets df_op4 Q212,D
+38.35446369275451,"His past medical history is significant for human immunodeficiency virus (HIV) infection, diagnosed 15 years ago.",211,MedBullets df_op4 Q212,D
+1.0940078974831695,A 65-year-old man presents to his primary care physician for a routine appointment.,211,MedBullets df_op4 Q212,D

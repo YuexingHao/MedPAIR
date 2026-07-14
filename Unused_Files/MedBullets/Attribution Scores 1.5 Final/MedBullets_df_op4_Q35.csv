@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+148.21023230483118,"His temperature is 98.6°F (37.0°C), blood pressure is 177/118 mmHg, pulse is 127/min, respirations are 11/min, and oxygen saturation is 98% on room air.",34,MedBullets_df_op4_Q35,B
+56.15031741173396,"An ECG is performed and notable for ST elevation in leads II, III, and aVF.",34,MedBullets_df_op4_Q35,B
+46.013948732694665,His serum lipase is 272 U/L and his creatinine is 1.6 mg/dL.,34,MedBullets_df_op4_Q35,B
+7.617645233869553,"On the 2nd day of his hospitalization, the patient has abdominal pain.",34,MedBullets_df_op4_Q35,B

@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.68888023921893,A 6-week-old girl presents with her parents to the pediatrician for blood-streaked diapers.,114,MedBullets_df_op4_Q115,D
+70.03710865974426,The patient is breastfed every 2-3 hours and voids 10-12 times daily.,114,MedBullets_df_op4_Q115,D
+55.014794783724305,The patient previously had several soft stools per day that ranged in color from mustard yellow to dark green.,114,MedBullets_df_op4_Q115,D
+47.52157755038475,"Over the past 2 days, the patient’s stools have become looser and streaked with blood.",114,MedBullets_df_op4_Q115,D
+40.51864545100094,"On physical exam, the patient appears well nourished and is cooing.",114,MedBullets_df_op4_Q115,D
+39.77846810122573,Neither the vomit nor bloody stools have seemed to bother the patient.,114,MedBullets_df_op4_Q115,D
+36.78641739758168,Physical exam reveals the finding seen in Figure A.,114,MedBullets_df_op4_Q115,D
+31.92408169802949,The patient has also regurgitated several of her feedings in the last few days.,114,MedBullets_df_op4_Q115,D
+28.475618187226303,"The patient’s temperature is 98.4°F (36.9°C), blood pressure is 66/51 mmHg, pulse is 127/min, and respirations are 26/min.",114,MedBullets_df_op4_Q115,D
+19.323380649785804,The patient’s weight continues to trend along the 50th percentile.,114,MedBullets_df_op4_Q115,D

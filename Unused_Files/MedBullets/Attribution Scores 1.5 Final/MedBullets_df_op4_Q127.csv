@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+27.59734344482422,A 36-year-old G3P2002 woman presents to her obstetrician’s office for her 1st prenatal visit at 10 weeks and 2 days gestation.,126,MedBullets_df_op4_Q127,
+23.80909846878758,"She has a history of generalized anxiety disorder, atopic dermatitis, and she is currently on escitalopram.",126,MedBullets_df_op4_Q127,
+23.266755893735333,"The patient appears anxious, but overall comfortable, and cardiopulmonary and abdominal exams are unremarkable.",126,MedBullets_df_op4_Q127,
+18.646004086868615,The patient has had 2 uncomplicated spontaneous vaginal deliveries at full term with her last child born 6 years ago.,126,MedBullets_df_op4_Q127,
+4.219477220483809,"She is concerned about the risk of Down syndrome in this fetus, as her sister gave birth to an affected child at age 43.",126,MedBullets_df_op4_Q127,
+0.0,She has felt nauseous the last several mornings and has been tired for a few weeks.,126,MedBullets_df_op4_Q127,
+0.0,"Her temperature is 98.6°F (37.0°C), pulse is 70/min, blood pressure is 121/67 mmHg, and respirations are 13/min.",126,MedBullets_df_op4_Q127,

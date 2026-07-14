@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.71777434334688,"His temperature is 98.6°F (37°C), blood pressure is 130/80 mmHg, pulse is 70/min, and respirations are 15/min.",21,MedBullets df_op4 Q22,B
+50.73184917281388,"On examination, strength is 5/5 in the right upper and lower extremities and 3/5 in the left upper and lower extremities.",21,MedBullets df_op4 Q22,B
+37.74593085128124,"On cranial nerve examination, his tongue deviates to the right side.",21,MedBullets df_op4 Q22,B
+34.875340153275985,There is also decreased sensation to light touch and vibration on the left side of his body.,21,MedBullets df_op4 Q22,B
+23.54809547385428,"His current medications include metformin, atorvastatin, and lisinopril.",21,MedBullets df_op4 Q22,B
+9.398280070190356,A 67-year-old man presents to the emergency room with difficulty speaking for the past 1 hour.,21,MedBullets df_op4 Q22,B
+7.796178273044647,"His medical history is significant for type 2 diabetes mellitus, hypertension, and hyperlipidemia.",21,MedBullets df_op4 Q22,B

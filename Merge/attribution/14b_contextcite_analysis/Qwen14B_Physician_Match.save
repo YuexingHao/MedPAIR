@@ -1,0 +1,42 @@
+
+import os
+import pandas as pd
+
+# Define input folder
+input_folder = "Merge_Attribution_Scores_14B_Analysis/'Merge Attribution Scores 14B'"
+
+# Initialize list to collect statistics
+stats_list = []
+
+# Loop over all CSVs in the folder
+for filename in os.listdir(input_folder):
+    if filename.endswith(".csv") and filename.startswith("Merge_Q"):
+        filepath = os.path.join(input_folder, filename)
+        
+        try:
+            df = pd.read_csv(filepath)
+
+            # Check if necessary columns exist
+            if "Score" in df.columns and "Extracted_Answer" in df.columns:
+                mean_score = df["Score"].mean()
+                std_score = df["Score"].std()
+                extracted_answer = df["Extracted_Answer"].dropna().astype(str).iloc[0] if not df["Extracted_Answer"].dropna().empty else None
+
+                stats_list.append({
+                    "QA_ID": filename.replace(".csv", ""),
+                    "Mean_Score": mean_score,
+                    "Std_Score": std_score,
+                    "Extracted_Answer": extracted_answer
+                })
+            else:
+                print(f"⚠️ Skipped {filename} (missing 'Score' or 'Extracted_Answer' column)")
+
+        except Exception as e:
+            print(f"❌ Error processing {filename}: {e}")
+
+# Create summary DataFrame
+stats_df = pd.DataFrame(stats_list)
+
+# Display the first few rows
+stats_df.head(30)
+print(len(stats_df))

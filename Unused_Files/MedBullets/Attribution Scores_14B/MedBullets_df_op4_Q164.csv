@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+54.13486495159023,"On physical exam, he appears fatigued and the cardiovascular exam reveals an additional heart sound after S2.",163,MedBullets df_op4 Q164,D
+33.25282483734075,"His temperature is 99.5°F (37.5°C), pulse is 100/min, blood pressure is 130/90 mmHg, respirations are 18/min, and oxygen saturation is 96% on room air.",163,MedBullets df_op4 Q164,D
+30.30651142448187,He states his shortness of breath started when he was walking from his car to a local restaurant.,163,MedBullets df_op4 Q164,D
+29.869164666373468,A pulmonary exam is notable for bilateral crackles and an abdominal exam reveals an obese abdomen without pain in any of the quadrants.,163,MedBullets df_op4 Q164,D
+11.129219395494562,A 69-year-old man presents to the emergency department with shortness of breath.,163,MedBullets df_op4 Q164,D
+5.075951309261763,The patient has presented 3 times this month with similar complaints.,163,MedBullets df_op4 Q164,D
+0.19632369138464548,He drinks alcohol socially and does not smoke.,163,MedBullets df_op4 Q164,D
+0.0,Lower extremity pitting edema is noted bilaterally.,163,MedBullets df_op4 Q164,D
+0.0,He does not see a primary care physician and is not currently taking any medications.,163,MedBullets df_op4 Q164,D

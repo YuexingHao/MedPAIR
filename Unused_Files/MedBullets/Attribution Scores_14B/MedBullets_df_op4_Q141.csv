@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.99083361095869,"Over the previous several months she has had episodes of joint swelling and pain in her hands as well as redness, burning pain, and swelling of her hands and feet.",140,MedBullets df_op4 Q141,B
+26.640121768939874,A 64-year-old woman presents to the emergency room with whole-body itching.,140,MedBullets df_op4 Q141,B
+18.283612288771824,"Her medical history is significant for type 2 diabetes mellitus, hypertension, and osteoporosis for which she takes metformin, enalapril, and alendronate.",140,MedBullets df_op4 Q141,B
+12.537774211863697,She was found to have a deep vein thrombosis of her left leg 3 months prior to presentation.,140,MedBullets df_op4 Q141,B
+0.4163347963932948,She noticed her symptoms while in the bathtub at home.,140,MedBullets df_op4 Q141,B
+-0.0,Laboratory tests are shown below.,140,MedBullets df_op4 Q141,B
+0.0,"Her temperature is 98.6°F (37.0°C), pulse is 80/min, blood pressure is 135/85 mmHg, and respirations are 13/min.",140,MedBullets df_op4 Q141,B
+0.0,Physical exam is notable for a woman in discomfort with excoriations over the skin on her forearms.,140,MedBullets df_op4 Q141,B
+0.0,She has never had symptoms like this before.,140,MedBullets df_op4 Q141,B

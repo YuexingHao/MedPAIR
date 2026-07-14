@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+86.43922192268964,"A 69-year-old man passes away after a 3-week hospitalization for liver failure, complicated by a myocardial infarction.",252,MedBullets df_op4 Q253,C
+86.09467743718804,A medical student rotating in the intensive care unit asked if she can practice performing intubations during her rotation.,252,MedBullets df_op4 Q253,C
+81.01250499486923,"The resident suggests performing one on the deceased patient, as the student cannot harm him.",252,MedBullets df_op4 Q253,C

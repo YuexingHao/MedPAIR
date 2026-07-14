@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+92.82961910963058,She returned from a recent missionary trip to South America 12 months prior where she endorsed eating a local delicacy as well as a period of fevers and eyelid swelling during her stay.,245,MedBullets df_op4 Q246,A
+54.64092494746037,Physical exam is notable for a laterally displaced point of maximal impulse as well as a 2/6 diastolic murmur radiating to the axilla.,245,MedBullets df_op4 Q246,A
+48.27640129628438,"Her temperature is 99.1°F (37.3°C), pulse is 95/min, blood pressure is 130/85 mmHg, respirations are 15/min, and oxygen saturation is 97% on room air.",245,MedBullets df_op4 Q246,A
+26.88982778937708,A 24-year-old woman with no significant medical history presents to the emergency department for progressive shortness of breath.,245,MedBullets df_op4 Q246,A
+17.882030174758754,A blood smear is shown in Figure A.,245,MedBullets df_op4 Q246,A
+14.223274710872623,She endorses decreased exercise tolerance as well as intermittent palpitations.,245,MedBullets df_op4 Q246,A

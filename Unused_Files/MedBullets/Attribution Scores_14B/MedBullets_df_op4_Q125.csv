@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.17243043726233,"His temperature is 36.8°C (98.2°F), blood pressure is 118/90 mmHg, pulse is 92/min, respirations are 13/min, and oxygen saturation is 99% on room air.",124,MedBullets df_op4 Q125,B
+29.721597769498054,The pain is localized to 1 spot in his lower back and is worse with physical activity.,124,MedBullets df_op4 Q125,B
+21.20748368752352,A 54-year-old man presents to the clinic with 4 weeks of persistently worsening back pain.,124,MedBullets df_op4 Q125,B
+15.878290085247523,Laboratory workup reveals an erythrocyte sedimentation rate of 112 mm/h and C-reactive protein of 10 mg/dL.,124,MedBullets df_op4 Q125,B
+13.739108798458851,"On physical exam, he has midline back tenderness to palpation at L2-L3.",124,MedBullets df_op4 Q125,B
+8.082738388329744,His medical history is pertinent for intravenous drug use.,124,MedBullets df_op4 Q125,B
+0.0,He has no past surgical history.,124,MedBullets df_op4 Q125,B

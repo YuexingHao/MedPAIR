@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.04553157975359,"He has a medical history of anxiety, diabetes, a fracture of his foot sustained when he tripped, and a recent cold that caused him to miss work for 1 week.",20,MedBullets_df_op4_Q21,
+42.28422816592911,"His current medications include metformin, insulin, buspirone, vitamin D, calcium, and sodium docusate.",20,MedBullets_df_op4_Q21,
+2.02093505859375,"In general, he has been in good health; however, he recently has experienced weight loss, abdominal pain, and general fatigue.",20,MedBullets_df_op4_Q21,
+0.0,A 59-year-old man presents to his primary care physician for fatigue.,20,MedBullets_df_op4_Q21,

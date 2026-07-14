@@ -1,0 +1,7 @@
+model,n_expert_qa,round1_correct,round2_incorrect_spurious,round2_still_correct,pct_spurious_among_round1_correct
+GPT4o,933,690,329,361,47.6812
+GPT 5,933,805,116,689,14.4099
+Qwen-14B,933,534,78,456,14.6067
+Qwen 72B,933,527,109,418,20.6831
+Llama-70B,933,196,53,143,27.0408
+MedGemma-27B,933,250,62,188,24.8

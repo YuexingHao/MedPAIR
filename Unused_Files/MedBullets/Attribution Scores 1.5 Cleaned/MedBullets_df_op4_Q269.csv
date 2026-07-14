@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+54.8436607606709,"He states that since starting the medication, his sexual drive has increased, yet he is unable to achieve orgasm.",268,MedBullets df_op4 Q269,A
+39.8918474451757,Physical exam reveals an obese man in no acute distress with a normal affect and non-focal neurologic exam.,268,MedBullets df_op4 Q269,A
+22.73550551783617,A 45-year-old man with a past medical history of obesity presents with a concern about his sexual performance.,268,MedBullets df_op4 Q269,A
+10.965185093971234,He has a past medical history of diabetes and notes that his home blood glucose readings have been higher lately.,268,MedBullets df_op4 Q269,A
+6.446019382901291,He has a history of depression which is well managed with fluoxetine.,268,MedBullets df_op4 Q269,A
+6.111961651655009,The physician agrees to change the patient’s antidepressant.,268,MedBullets df_op4 Q269,A

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+90.19251093268394,"His temperature is 98.7°F (37.1°C), blood pressure is 120/72 mmHg, pulse is 183/min, respirations are 25/min, and oxygen saturation is 99% on room air.",270,MedBullets_df_op4_Q271,A
+53.76847491777041,He has a history of anxiety managed with fluoxetine and lorazepam.,270,MedBullets_df_op4_Q271,A
+35.55988392879355,He also has hypertension but does not take any medications.,270,MedBullets_df_op4_Q271,A
+33.86616228251395,"Today, his symptoms have been persistent despite taking his medications.",270,MedBullets_df_op4_Q271,A
+31.26579603874584,Physical exam reveals a somnolent and uncomfortable man.,270,MedBullets_df_op4_Q271,A
+25.355535087037932,He says that he feels lightheaded and can’t walk.,270,MedBullets_df_op4_Q271,A

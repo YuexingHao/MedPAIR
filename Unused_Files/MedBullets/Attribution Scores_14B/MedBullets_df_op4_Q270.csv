@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+17.670330797602073,A 33-year-old woman presents to the emergency department with foul-smelling vaginal discharge.,269,MedBullets df_op4 Q270,D
+13.588337883353233,She is sexually active and uses condoms.,269,MedBullets df_op4 Q270,D
+6.729423019337409,A urine pregnancy test is negative.,269,MedBullets df_op4 Q270,D
+0.6518662029853851,She does not complain of any abdominal or pelvic pain but states she has some mild burning when urinating.,269,MedBullets df_op4 Q270,D
+0.0,Some whitish discharge is noted from the urethra.,269,MedBullets df_op4 Q270,D
+0.0,"Her temperature is 97.6°F (36.4°C), blood pressure is 111/74 mmHg, pulse is 81/min, respirations are 12/min, and oxygen saturation is 98% on room air.",269,MedBullets df_op4 Q270,D
+0.0,"Physical exam is notable for thick, white discharge from the cervix.",269,MedBullets df_op4 Q270,D
+0.0,There is no cervical motion or adnexal tenderness or masses.,269,MedBullets df_op4 Q270,D
+0.0,She states that it started 1 day ago and has not improved with hygiene products.,269,MedBullets df_op4 Q270,D

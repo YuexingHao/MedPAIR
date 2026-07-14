@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+71.3468191658392,"On physical exam, you note a healthy young man who is dressed in an all-burlap ensemble.",166,MedBullets df_op4 Q167,A
+63.70065339938028,He states that he typically can converse with animals via telepathy but is having trouble right now due to the weather.,166,MedBullets df_op4 Q167,A
+52.8867445728141,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",166,MedBullets df_op4 Q167,A
+45.79824327529371,"A 25-year-old man presents to his primary care physician with a chief complaint of ""failing health.""",166,MedBullets df_op4 Q167,A
+45.68459409475327,He has begun taking an assortment of Peruvian herbs to little avail.,166,MedBullets df_op4 Q167,A
+42.034765596417294,"When obtaining the patient's medical history, there are several times he attempts to telepathically connect with the animals in the vicinity.",166,MedBullets df_op4 Q167,A
+30.084707113787147,He states that his symptoms have persisted for the past 8 months.,166,MedBullets df_op4 Q167,A
+21.742250720969672,The patient lives alone and works in a health food store.,166,MedBullets df_op4 Q167,A
+0.3304189111203754,"Otherwise, he is not currently taking any medications.",166,MedBullets df_op4 Q167,A

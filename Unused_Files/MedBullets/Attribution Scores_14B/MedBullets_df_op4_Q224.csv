@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+31.779968976974487,Her husband tells the physician that he is concerned that the patient has been increasingly obsessed about her weight recently.,223,MedBullets df_op4 Q224,C
+30.388518835785078,A 27-year-old nurse presents to the emergency department with a 30-minute history of palpitations and chest pain.,223,MedBullets df_op4 Q224,C
+27.88108343458104,"She has been experiencing nausea, vomiting, and diarrhea after eating leftovers 2 days ago.",223,MedBullets df_op4 Q224,C
+26.257613797628846,"Her temperature is 98.6°F (37.0°C), blood pressure is 110/72 mmHg, pulse is 110/min, and respirations are 11/min.",223,MedBullets df_op4 Q224,C
+9.551965220935378,She has a history of major depressive disorder for which she takes escitalopram.,223,MedBullets df_op4 Q224,C
+6.210856374265519,Venous blood gas shows a pH of 7.52.,223,MedBullets df_op4 Q224,C
+1.027562766990469,K+: 2.9 mEq/L,223,MedBullets df_op4 Q224,C
+0.458691716000393,Physical examination is notable for dry mucous membranes and tachycardia with regular rhythm.,223,MedBullets df_op4 Q224,C
+0.0,HCO3-: 36 mEq/L,223,MedBullets df_op4 Q224,C
+0.0,Na+: 135 mEq/L,223,MedBullets df_op4 Q224,C
+0.0,Cl-: 96 mEq/L,223,MedBullets df_op4 Q224,C
+-0.0,Serum:,223,MedBullets df_op4 Q224,C
+-0.0,Laboratory testing shows the following results:,223,MedBullets df_op4 Q224,C

@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.32646745012338,The patient has not yet regained her birth weight and is in the 46th percentile for height and the 36th percentile for weight.,80,MedBullets df_op4 Q81,B
+43.6650839970497,"The patient’s temperature is 99.2°F (37.3°C), blood pressure is 68/46 mmHg, pulse is 132/min, and respirations are 32/min.",80,MedBullets df_op4 Q81,B
+31.28284514553492,The patient’s abdominal radiograph can be seen in Figure A and the patient’s upper gastrointestinal series can be seen in Figure B.,80,MedBullets df_op4 Q81,B
+30.663654673844576,The parents describe the vomitus as “bright green” and the patient has shown little interest in feeding since then.,80,MedBullets df_op4 Q81,B
+1.4051522852272658,Her abdomen is distended and firm without guarding.,80,MedBullets df_op4 Q81,B
+0.549015204975321,She has no dysmorphic features.,80,MedBullets df_op4 Q81,B
+0.0,Bowel sounds are hypoactive.,80,MedBullets df_op4 Q81,B
+0.0,"On physical exam, the patient is in mild distress.",80,MedBullets df_op4 Q81,B
+-0.0,"The pregnancy was complicated by gestational diabetes, and all prenatal testing was unremarkable.",80,MedBullets df_op4 Q81,B
+0.0,She was born at 36 weeks gestation to a 37-year-old G2P2 mother.,80,MedBullets df_op4 Q81,B
+0.0,She was feeding well until this morning when she had several episodes of vomiting.,80,MedBullets df_op4 Q81,B
+0.0,A 4-day-old girl presents with her parents to the pediatrician for a routine visit.,80,MedBullets df_op4 Q81,B

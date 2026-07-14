@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+104.47560828843145,"Her temperature is 102°F (38.9°C), blood pressure is 84/54 mmHg, pulse is 160/min, respirations are 22/min, and oxygen saturation is 99% on room air.",113,MedBullets_df_op4_Q114,D
+98.59560422599316,She had nasal septoplasty performed 1 week prior and has had nasal packing in place since that time.,113,MedBullets_df_op4_Q114,D
+58.27135760071152,"A diffuse, macular, erythematous rash is noted with desquamation over the patient's hands as shown in Figure A.",113,MedBullets_df_op4_Q114,D
+51.03176415333288,"The patient's nasal packing is removed revealing copious, foul-smelling, purulent discharge.",113,MedBullets_df_op4_Q114,D
+16.94177108367904,Bilateral conjunctivitis is noted.,113,MedBullets_df_op4_Q114,D
+15.563027854201147,A 23-year-old woman presents to the emergency department for evaluation of fever and chills over the last several days along with a progressive rash and diarrhea.,113,MedBullets_df_op4_Q114,D
+0.0,She has no significant medical history and takes no medications.,113,MedBullets_df_op4_Q114,D
+0.0,"Her rash has progressed and the skin on her hands is ""peeling.""",113,MedBullets_df_op4_Q114,D

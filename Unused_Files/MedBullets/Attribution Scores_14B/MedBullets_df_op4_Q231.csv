@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.53187592003523,He has multiple lacerations on his face and arms and smells of alcohol and marijuana.,230,MedBullets df_op4 Q231,A
+37.549400354285616,"His temperature is 97.9°F (36.6°C), blood pressure is 131/88 mmHg, pulse is 89/min, and respirations are 14/min.",230,MedBullets df_op4 Q231,A
+30.80644985393917,A 34-year-old man is brought to a rural emergency department by ambulance after being involved in a motor vehicle accident.,230,MedBullets df_op4 Q231,A
+22.86252777989522,"He is speaking but is confused, opens his eyes to voice commands, and follows simple commands.",230,MedBullets df_op4 Q231,A
+18.3690189982897,"He has bruising over his abdomen without any tenderness to palpation, distension, or rigidity.",230,MedBullets df_op4 Q231,A
+16.65716813877225,There were no passengers and he was awake but disoriented at the scene.,230,MedBullets df_op4 Q231,A
+5.060935479877799,His cardiac exam is normal and his lungs are clear to auscultation bilaterally.,230,MedBullets df_op4 Q231,A
+0.8247091740416931,Paramedics report that the patient was driving the car and crashed into a tree at roughly 25 miles per hour.,230,MedBullets df_op4 Q231,A

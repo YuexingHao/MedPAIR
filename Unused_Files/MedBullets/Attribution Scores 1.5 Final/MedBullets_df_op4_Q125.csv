@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.0670628429516,"On physical exam, he has midline back tenderness to palpation at L2-L3.",124,MedBullets_df_op4_Q125,C
+62.86571879684925,Laboratory workup reveals an erythrocyte sedimentation rate of 112 mm/h and C-reactive protein of 10 mg/dL.,124,MedBullets_df_op4_Q125,C
+48.78485718527705,The pain is localized to 1 spot in his lower back and is worse with physical activity.,124,MedBullets_df_op4_Q125,C
+27.004204872235857,His medical history is pertinent for intravenous drug use.,124,MedBullets_df_op4_Q125,C
+23.421472036691135,A 54-year-old man presents to the clinic with 4 weeks of persistently worsening back pain.,124,MedBullets_df_op4_Q125,C
+1.0299832576554826,"His temperature is 36.8°C (98.2°F), blood pressure is 118/90 mmHg, pulse is 92/min, respirations are 13/min, and oxygen saturation is 99% on room air.",124,MedBullets_df_op4_Q125,C
+0.0,He has no past surgical history.,124,MedBullets_df_op4_Q125,C

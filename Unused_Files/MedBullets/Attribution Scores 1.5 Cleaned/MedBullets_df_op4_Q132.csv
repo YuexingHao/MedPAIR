@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.04281036149465,The patient’s mother is exclusively breastfeeding and would prefer not to switch to formula but worries that the patient is not getting the nutrition he needs.,131,MedBullets df_op4 Q132,A
+67.39712930397322,"His temperature is 98.2°F (36.8°C), blood pressure is 58/37 mmHg, pulse is 144/min, and respirations are 34/min.",131,MedBullets df_op4 Q132,A
+54.08178890134996,His mother reports he was eating well until 1 week ago when he began vomiting after breastfeeding.,131,MedBullets df_op4 Q132,A
+47.12295389175415,"His mother has tried increasing the frequency of feeds and decreasing the amount of each feed, but the vomiting seems to be getting worse.",131,MedBullets df_op4 Q132,A
+45.87969268838885,A 4-week-old boy presents with his parents to the pediatrician for a well-child visit.,131,MedBullets df_op4 Q132,A
+27.96468667488687,"Two weeks ago, the patient was in the 75th percentile for weight and 70th for height.",131,MedBullets df_op4 Q132,A
+19.560730587788424,The patient now vomits after every feed.,131,MedBullets df_op4 Q132,A
+17.011929659360582,His abdomen is soft and non-distended.,131,MedBullets df_op4 Q132,A
+14.692616661494052,The vomitus looks like breast milk.,131,MedBullets df_op4 Q132,A
+11.205974621467114,"On physical exam, the patient has dry mucous membranes.",131,MedBullets df_op4 Q132,A

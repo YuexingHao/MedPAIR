@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+47.28228586454579,"She lives with her mother who has diabetes whose medications include metformin, insulin, lisinopril, amlodipine, and glyburide.",257,MedBullets df_op4 Q258,B
+42.932715644976284,"Her temperature is 98.0°F (36.7°C), blood pressure is 132/81 mmHg, pulse is 85/min, respirations are 16/min, and oxygen saturation is 98% on room air.",257,MedBullets df_op4 Q258,B
+18.61665067076683,Each time her symptoms improved with eating.,257,MedBullets df_op4 Q258,B
+11.306767504367008,This has happened several times this past month with increasing frequency.,257,MedBullets df_op4 Q258,B
+5.810353774160628,She is moving all her extremities but follows commands poorly.,257,MedBullets df_op4 Q258,B
+3.9009805268577735,She is otherwise healthy.,257,MedBullets df_op4 Q258,B
+-0.0,Laboratory studies are ordered as seen below.,257,MedBullets df_op4 Q258,B
+0.0,Physical exam reveals a confused woman.,257,MedBullets df_op4 Q258,B
+0.0,A 44-year-old nurse presents to the emergency department with confusion.,257,MedBullets df_op4 Q258,B

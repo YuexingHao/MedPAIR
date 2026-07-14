@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.22242923080921,Exercising does not affect the loss of urine.,299,MedBullets df_op4 Q300,B
+27.642532315063523,"A 48-year-old woman, gravida 3 para 3, presents to the clinic with a 5-month history of intermittent loss of urine.",299,MedBullets df_op4 Q300,B
+18.587985893120333,"On pelvic examination, there is no dribbling of urine when the patient coughs.",299,MedBullets df_op4 Q300,B
+17.89752751731287,"Her urinary leaking occurs throughout the day and night, and she often has to get up to use the bathroom while asleep.",299,MedBullets df_op4 Q300,B
+11.024959353443524,Her last menstrual period was 2 weeks ago.,299,MedBullets df_op4 Q300,B
+9.247845376427446,"Her urinalysis is unremarkable, and her postvoid residual volume is 40 mL.",299,MedBullets df_op4 Q300,B
+7.261944553807712,She states that she often cannot make it to the bathroom in time once she senses a need to void.,299,MedBullets df_op4 Q300,B
+-0.0,Physical exam is otherwise unremarkable.,299,MedBullets df_op4 Q300,B

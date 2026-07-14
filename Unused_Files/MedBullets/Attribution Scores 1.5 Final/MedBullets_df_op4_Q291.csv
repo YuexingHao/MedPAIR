@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+68.07935216164758,The patient is not able to follow any commands for further neurologic evaluation but does not appear to be moving his right upper extremity.,290,MedBullets_df_op4_Q291,D
+60.01655459409379,"His temperature is 98.0°F (36.7°C), blood pressure is 150/90 mmHg, pulse is 115/min, and respirations are 17/min.",290,MedBullets_df_op4_Q291,D
+52.25193488034415,A 65-year-old man presents to the emergency department with sudden-onset altered mental status.,290,MedBullets_df_op4_Q291,D
+50.57419344782829,"His wife noticed that he was confused, slurring his speech, and had notable weakness that caused him to drop his cup of coffee.",290,MedBullets_df_op4_Q291,D
+32.00663873935659,He has a past medical history of diabetes and atrial fibrillation and is currently taking warfarin.,290,MedBullets_df_op4_Q291,D

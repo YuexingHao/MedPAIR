@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+100.90666195968981,A 55-year-old man with a history of polysubstance abuse is found down in his home acutely obtunded.,302,MedBullets_df_op4_Q303,D
+86.03391661377044,"His temperature is 96.0°F (35.6°C), blood pressure is 120/68 mmHg, pulse is 102/min, respirations are 26/min, and oxygen saturation is 88% on room air.",302,MedBullets_df_op4_Q303,D
+58.45094832459967,He has a history of cocaine-induced cardiomyopathy and myocardial infarction from cocaine use 2 years ago.,302,MedBullets_df_op4_Q303,D
+49.3120473921299,Emergency medical services administered naloxone which immediately woke the patient up and improved his oxygen saturation from 40% to 90%.,302,MedBullets_df_op4_Q303,D
+48.86867013479522,The patient arrives alert and oriented claiming he feels short of breath.,302,MedBullets_df_op4_Q303,D
+38.154894977990686,"Physical exam reveals increased work of breathing, pulmonary crackles, and wheezing.",302,MedBullets_df_op4_Q303,D
+9.664227442361254,He denies any chest pain or other symptoms aside from shortness of breath.,302,MedBullets_df_op4_Q303,D
+7.46973212309332,"However, they noted subsequently that the patient demonstrated increased work of breathing and had crackles and wheezing on pulmonary exam.",302,MedBullets_df_op4_Q303,D
+6.305043309920954,A chest radiograph is performed as seen in Figure A.,302,MedBullets_df_op4_Q303,D

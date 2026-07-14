@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.0019581822445,"The patient’s temperature is 98.5°F (36.9°C), blood pressure is 121/76 mmHg, pulse is 70/min, and respirations are 13/min.",107,MedBullets_df_op4_Q108,
+56.199339896949006,A 27-year-old G1P0000 woman presents to her obstetrician’s office at 24 weeks gestation complaining of new hair growth on her upper lip.,107,MedBullets_df_op4_Q108,
+30.127149877908945,"Her pregnancy thus far has been complicated by gestational diabetes, which is managed by diet and exercise.",107,MedBullets_df_op4_Q108,
+23.32961406931281,A pelvic exam reveals an unremarkable closed cervix and a right-sided adnexal mass without tenderness.,107,MedBullets_df_op4_Q108,
+15.500533020851067,"The cardiopulmonary exam is normal, and the patient’s abdomen has a fundal height of 31 cm.",107,MedBullets_df_op4_Q108,
+6.15121677320984,She has a male fetus based on her 20 week anatomy ultrasound.,107,MedBullets_df_op4_Q108,
+-0.0,Transvaginal ultrasound is performed and shown in Figure A.,107,MedBullets_df_op4_Q108,
+0.0,She also has worsening acne that started several weeks ago.,107,MedBullets_df_op4_Q108,

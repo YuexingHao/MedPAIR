@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+76.83101161624548,"He does not appear to respond to visual stimuli, and further examination reveals bilateral clouding of the lens.",130,MedBullets_df_op4_Q131,C
+75.973749653697,He was born at home via spontaneous vaginal delivery at 37 weeks of gestation to a G1P1 mother.,130,MedBullets_df_op4_Q131,C
+52.74514885202287,His weight is 3 kg (4th percentile) compared with 3.5 kg at birth (45th percentile).,130,MedBullets_df_op4_Q131,C
+32.55859686434269,"On physical exam, he is jaundiced with an enlarged liver and spleen.",130,MedBullets_df_op4_Q131,C
+11.751907773493182,His mother did not receive prenatal care.,130,MedBullets_df_op4_Q131,C
+0.0,A 4-week-old boy is brought to the pediatrician by his parents for an initial evaluation.,130,MedBullets_df_op4_Q131,C
+0.0,"His blood pressure is 70/44 mmHg, pulse is 151/min, and respirations are 41/min.",130,MedBullets_df_op4_Q131,C

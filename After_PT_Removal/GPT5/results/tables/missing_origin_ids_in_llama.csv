@@ -1,0 +1,174 @@
+Origin,data_source_df3,Patient_Profile,Low+Irr,High,question_options_x,answer_corr,step1_excerpts,question_options_y,non_none_sentence_count,MedGemma27B_answer,GPT5_Removal,Original,Qwen14B_Removed,70B_prediction,72B_prediction,gpt4o_Removed,Trainee Removal
+ID0291,medxpert,"1. A 39-year-old male presents to the clinic complaining of throbbing pain at the base of his skull since last night.  
+2. He was mopping his kitchen when he slipped backward, hitting his head on the floor.  
+3. He denies loss of consciousness and review of systems is otherwise negative.  
+4. He has no significant past medical history and takes no medications.  
+5. Vital signs reveal:  
+
+| Temperature | 36.7°C (98.1°F) |  
+| --- | --- |  
+| Blood pressure | 124/78 mm Hg |  
+| Heart rate | 82/min |  
+| Respiratory rate | 14/min |  
+
+On examination, the patient is in mild discomfort but is appropriately alert and oriented.  
+6. A complete neurological exam is unremarkable.  
+7. There is a 2 cm superficial laceration within a well-circumscribed area of erythema, edema, and ecchymosis at the base of the skull.  
+8. The cranial rhythmic impulse (CRI) is about 6 cycles per minute, and there is a moderate decrease in the amplitude of the components of its cycles.","['3. He denies loss of consciousness and review of systems is otherwise negative.  ', '4. He has no significant past medical history and takes no medications.  ', '5. Vital signs reveal:  \n\n| Temperature | 36.7°C (98.1°F) |  \n| --- | --- |  \n| Blood pressure | 124/78 mm Hg |  \n| Heart rate | 82/min |  \n| Respiratory rate | 14/min |  \n\nOn examination, the patient is in mild discomfort but is appropriately alert and oriented.  ', '6. A complete neurological exam is unremarkable.  ', '7. There is a 2 cm superficial laceration within a well-circumscribed area of erythema, edema, and ecchymosis at the base of the skull.  ']","['1. A 39-year-old male presents to the clinic complaining of throbbing pain at the base of his skull since last night.  ', '2. He was mopping his kitchen when he slipped backward, hitting his head on the floor.  ', '8. The cranial rhythmic impulse (CRI) is about 6 cycles per minute, and there is a moderate decrease in the amplitude of the components of its cycles.']","Which of the following would be an expected additional finding in this patient?  
+
+B. Unilateral sacral flexion  
+C. Torsion of the sacrum around an oblique axis  
+D. Decreased sacral nutation  
+E. Decreased amplitude of the occipital motion during cranial flexion  
+F. Bilateral sacral flexion  
+G. Bilateral sacral extension  
+H. Compression of the sphenobasilar synchondrosis  
+I. Increased sacral nutation  
+J. Unilateral sacral extension",D,"1. A 39-year-old male presents to the clinic complaining of throbbing pain at the base of his skull since last night.  
+2. He was mopping his kitchen when he slipped backward, hitting his head on the floor.  
+3. He denies loss of consciousness and review of systems is otherwise negative.  
+4. He has no significant past medical history and takes no medications.  
+5. Vital signs reveal:  
+
+| Temperature | 36.7°C (98.1°F) |  
+| --- | --- |  
+| Blood pressure | 124/78 mm Hg |  
+| Heart rate | 82/min |  
+| Respiratory rate | 14/min |  
+
+On examination, the patient is in mild discomfort but is appropriately alert and oriented.  
+6. A complete neurological exam is unremarkable.  
+7. There is a 2 cm superficial laceration within a well-circumscribed area of erythema, edema, and ecchymosis at the base of the skull.  
+8. The cranial rhythmic impulse (CRI) is about 6 cycles per minute, and there is a moderate decrease in the amplitude of the components of its cycles.","Which of the following would be an expected additional finding in this patient?  
+
+B. Unilateral sacral flexion  
+C. Torsion of the sacrum around an oblique axis  
+D. Decreased sacral nutation  
+E. Decreased amplitude of the occipital motion during cranial flexion  
+F. Bilateral sacral flexion  
+G. Bilateral sacral extension  
+H. Compression of the sphenobasilar synchondrosis  
+I. Increased sacral nutation  
+J. Unilateral sacral extension",8,H,<answer>Option H</answer>,H,<answer>Option H</answer>,<answer>Option J</answer>,<answer>Option J</answer>,<answer>Option [H]</answer>,<answer>Option H</answer>
+ID0698,medxpert,"1. A 56-year-old female presents to the clinic for left-sided, dull, non-radiating pain in her chest for the past month.
+2. This pain lasts a few minutes intermittently throughout the day.
+3. She denies recent life changes or increased stress.
+4. The patient has a past medical history of hyperlipidemia and hypertension.
+5. Current medications include simvastatin and lisinopril.
+6. Vital signs are relatively unchanged from her previous visit and reveal:
+
+
+
+
+| Temperature | 37.3°C (99.1°F) |
+| --- | --- |
+| Blood pressure | 128/76 mm Hg |
+| Heart rate | 68/min |
+| Respiratory rate | 14/min |
+
+
+The patient is alert and oriented, though has moderate discomfort with deep breaths.
+7. Auscultation of the heart reveals regular rate and rhythm with no murmurs.
+8. Auscultation of the lungs reveals clear breath sounds bilaterally.
+9. There is sharp tenderness to palpation along the left sternocostal joints.
+10. The rib cage moves symmetrically with exhalation; however, ribs 2–8 on the left are not as dynamic on inhalation.
+11. A 12-lead electrocardiogram is unremarkable and unchanged from 3 months ago.
+12. Plain radiograph of the chest is negative for fractures, cardiomegaly, and effusion.","['3. She denies recent life changes or increased stress.', '4. The patient has a past medical history of hyperlipidemia and hypertension.', '5. Current medications include simvastatin and lisinopril.', '6. Vital signs are relatively unchanged from her previous visit and reveal:\n\n\n\n\n| Temperature | 37.3°C (99.1°F) |\n| --- | --- |\n| Blood pressure | 128/76 mm Hg |\n| Heart rate | 68/min |\n| Respiratory rate | 14/min |\n\n\nThe patient is alert and oriented, though has moderate discomfort with deep breaths.', '7. Auscultation of the heart reveals regular rate and rhythm with no murmurs.', '8. Auscultation of the lungs reveals clear breath sounds bilaterally.', '11. A 12-lead electrocardiogram is unremarkable and unchanged from 3 months ago.', '12. Plain radiograph of the chest is negative for fractures, cardiomegaly, and effusion.']","['1. A 56-year-old female presents to the clinic for left-sided, dull, non-radiating pain in her chest for the past month.', '2. This pain lasts a few minutes intermittently throughout the day.', '9. There is sharp tenderness to palpation along the left sternocostal joints.', '10. The rib cage moves symmetrically with exhalation; however, ribs 2–8 on the left are not as dynamic on inhalation.']","This patient’s diagnosis is primarily caused by a restriction of motion about which axis?
+
+A. Transverse axis  
+B. Oblique axis  
+C. Anteroposterior axis  
+D. Superior-inferior axis  
+E. Rotational axis  
+F. Longitudinal axis  
+G. Coronal axis  
+H. Sagittal axis  
+I. Mediolateral axis  
+J. Vertical axis",A,"1. A 56-year-old female presents to the clinic for left-sided, dull, non-radiating pain in her chest for the past month.
+2. This pain lasts a few minutes intermittently throughout the day.
+3. She denies recent life changes or increased stress.
+4. The patient has a past medical history of hyperlipidemia and hypertension.
+5. Current medications include simvastatin and lisinopril.
+6. Vital signs are relatively unchanged from her previous visit and reveal:
+
+
+
+
+| Temperature | 37.3°C (99.1°F) |
+| --- | --- |
+| Blood pressure | 128/76 mm Hg |
+| Heart rate | 68/min |
+| Respiratory rate | 14/min |
+
+
+The patient is alert and oriented, though has moderate discomfort with deep breaths.
+7. Auscultation of the heart reveals regular rate and rhythm with no murmurs.
+8. Auscultation of the lungs reveals clear breath sounds bilaterally.
+9. There is sharp tenderness to palpation along the left sternocostal joints.
+10. The rib cage moves symmetrically with exhalation; however, ribs 2–8 on the left are not as dynamic on inhalation.
+11. A 12-lead electrocardiogram is unremarkable and unchanged from 3 months ago.
+12. Plain radiograph of the chest is negative for fractures, cardiomegaly, and effusion.","This patient’s diagnosis is primarily caused by a restriction of motion about which axis?
+
+A. Transverse axis  
+B. Oblique axis  
+C. Anteroposterior axis  
+D. Superior-inferior axis  
+E. Rotational axis  
+F. Longitudinal axis  
+G. Coronal axis  
+H. Sagittal axis  
+I. Mediolateral axis  
+J. Vertical axis",12,A,<answer>Option A</answer>,A,<answer>Option A</answer>,<answer>Option C</answer>,<answer>Option C</answer>,<answer>Option A</answer>,<answer>Option A</answer>
+ID1617,medxpert,"1. A 23-year-old woman presents to the emergency department with worsening abdominal pain, nausea, and vomiting that began suddenly four hours ago following intercourse with her partner.
+2. She denies fever, diarrhea, vaginal bleeding, or discharge.
+3. She experienced menarche at age 13, and her last menstrual period was four weeks ago.
+4. Her only medication is an oral combination contraceptive.
+5. Vital signs are as follows:
+
+| Temperature | 37.5°C (99.5°F) |
+| --- | --- |
+| Heart rate | 100/min |
+| Respirations | 22/min |
+| Blood pressure | 110/70 mm Hg |
+
+On abdominal examination, there is severe tenderness in the right lower quadrant with rebound and guarding.
+6. Pelvic examination reveals right adnexal tenderness.
+7. Laboratory findings include a hemoglobin concentration of 12 g/dL, leukocyte count of 9,000/mm³, and platelet count of 250,000/mm³.
+8. A urine pregnancy test is negative.","['2. She denies fever, diarrhea, vaginal bleeding, or discharge.', '3. She experienced menarche at age 13, and her last menstrual period was four weeks ago.', '4. Her only medication is an oral combination contraceptive.', '7. Laboratory findings include a hemoglobin concentration of 12 g/dL, leukocyte count of 9,000/mm³, and platelet count of 250,000/mm³.', '8. A urine pregnancy test is negative.']","['1. A 23-year-old woman presents to the emergency department with worsening abdominal pain, nausea, and vomiting that began suddenly four hours ago following intercourse with her partner.', '5. Vital signs are as follows:\n\n| Temperature | 37.5°C (99.5°F) |\n| --- | --- |\n| Heart rate | 100/min |\n| Respirations | 22/min |\n| Blood pressure | 110/70 mm Hg |\n\nOn abdominal examination, there is severe tenderness in the right lower quadrant with rebound and guarding.', '6. Pelvic examination reveals right adnexal tenderness.']","Which Chapman reflex point corresponds to this patient’s condition?
+
+A. paraspinal muscles at T12  
+B. intertransverse space between L1 and L2  
+C. McBurney's point  
+D. intertransverse space between T10 and T11  
+E. sacroiliac joint  
+F. transverse process of L2  
+G. posterior superior iliac spine  
+H. costovertebral angle at T8  
+I. tip of the 12th rib  
+J. spinous process of L4",D,"1. A 23-year-old woman presents to the emergency department with worsening abdominal pain, nausea, and vomiting that began suddenly four hours ago following intercourse with her partner.
+2. She denies fever, diarrhea, vaginal bleeding, or discharge.
+3. She experienced menarche at age 13, and her last menstrual period was four weeks ago.
+4. Her only medication is an oral combination contraceptive.
+5. Vital signs are as follows:
+
+| Temperature | 37.5°C (99.5°F) |
+| --- | --- |
+| Heart rate | 100/min |
+| Respirations | 22/min |
+| Blood pressure | 110/70 mm Hg |
+
+On abdominal examination, there is severe tenderness in the right lower quadrant with rebound and guarding.
+6. Pelvic examination reveals right adnexal tenderness.
+7. Laboratory findings include a hemoglobin concentration of 12 g/dL, leukocyte count of 9,000/mm³, and platelet count of 250,000/mm³.
+8. A urine pregnancy test is negative.","Which Chapman reflex point corresponds to this patient’s condition?
+
+A. paraspinal muscles at T12  
+B. intertransverse space between L1 and L2  
+C. McBurney's point  
+D. intertransverse space between T10 and T11  
+E. sacroiliac joint  
+F. transverse process of L2  
+G. posterior superior iliac spine  
+H. costovertebral angle at T8  
+I. tip of the 12th rib  
+J. spinous process of L4",8,D,<answer>Option I</answer>,D,<answer>Option D</answer>,<answer>Option H</answer>,<answer>Option H</answer>,<answer>Option D</answer>,<answer>Option D</answer>

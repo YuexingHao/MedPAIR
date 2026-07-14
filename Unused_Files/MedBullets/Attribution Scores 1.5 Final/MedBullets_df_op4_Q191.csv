@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+57.87855630796814,"His temperature is 98.6°F (37°C), blood pressure is 147/91 mmHg, pulse is 62/min, and respirations are 12/min.",190,MedBullets_df_op4_Q191,
+44.495720291934376,"He suddenly developed a throbbing, bitemporal headache about 5 hours ago ""out of nowhere.""",190,MedBullets_df_op4_Q191,
+16.317718505859375,"He has a history of migraine headaches, but he feels that this headache is significantly more painful than his typical migraines.",190,MedBullets_df_op4_Q191,
+9.863630281150236,"On physical exam, he appears to be in moderate distress and has pain with neck flexion.",190,MedBullets_df_op4_Q191,

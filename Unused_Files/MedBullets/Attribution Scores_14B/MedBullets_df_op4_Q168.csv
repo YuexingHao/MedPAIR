@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+44.58241481333971,The family cannot recall the types of pill bottles that they found and did not bring them to the ED.,167,MedBullets df_op4 Q168,B
+39.482161656053634,"Her temperature is 99.5°F (37.5°C), pulse is 82/min, blood pressure is 125/85 mmHg, respirations are 11/min, and oxygen saturation is 97% on room air.",167,MedBullets df_op4 Q168,B
+38.164076285407276,They found her somnolent next to her computer with an empty pill bottle around 3 hours ago.,167,MedBullets df_op4 Q168,B
+34.17095659102352,The patient begins communicating with the physician and states that she did take acetaminophen but it was only a few pills.,167,MedBullets df_op4 Q168,B
+5.192645927935516,Her parents are certain the bottle was new.,167,MedBullets df_op4 Q168,B
+0.0,Physical exam is within normal limits.,167,MedBullets df_op4 Q168,B
+0.0,She is currently not on any medications.,167,MedBullets df_op4 Q168,B
+0.0,She was given an exercise program but she has not been compliant with these exercises.,167,MedBullets df_op4 Q168,B
+0.0,"The patient's medical history is notable for anxiety, obesity, hypertension, and polycystic ovarian syndrome.",167,MedBullets df_op4 Q168,B
+0.0,A 25-year-old woman is brought to the emergency department by her family.,167,MedBullets df_op4 Q168,B

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+41.72226076771007,"Physical exam is significant for a jugular venous pressure of 15 cm, an S3 heart sound, bibasilar crackles, and 2+ pitting edema to the knees bilaterally.",267,MedBullets df_op4 Q268,B
+29.339382145553827,The patient’s only home medication is omeprazole.,267,MedBullets df_op4 Q268,B
+23.82952081565527,"His past medical history is significant for previous myocardial infarction, a 30-pack-year smoking history, gastroesophageal reflux disease, and poorly controlled hypertension.",267,MedBullets df_op4 Q268,B
+17.366663026600325,"His temperature is 98.6°F (37°C), blood pressure is 140/90 mmHg, pulse is 90/min, respirations are 30/min, and oxygen saturation is 88% on room air.",267,MedBullets df_op4 Q268,B
+2.2299938766362795,A 67-year-old man presents to the emergency room with a 2 day history of progressively worsening fatigue and shortness of breath.,267,MedBullets df_op4 Q268,B
+-0.0,His abdomen is soft and non-tender.,267,MedBullets df_op4 Q268,B
+0.0,His neurological exam is nonfocal and he walks with a steady gait.,267,MedBullets df_op4 Q268,B

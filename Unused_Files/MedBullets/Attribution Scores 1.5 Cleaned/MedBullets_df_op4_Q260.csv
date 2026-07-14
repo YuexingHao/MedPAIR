@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+113.90583969859506,"His temperature is 99.3°F (37.4°C), blood pressure is 142/88 mmHg, pulse is 107/min, respirations are 14/min, and oxygen saturation is 99% on room air.",259,MedBullets df_op4 Q260,B
+63.503920768494496,"He was outside tending to his lawn for several hours in the heat, when he stood up suddenly from pulling weeds and fainted.",259,MedBullets df_op4 Q260,B
+49.77816525380126,He recently used a friend's prescription for ondansetron for nausea.,259,MedBullets df_op4 Q260,B
+44.18987936194734,"Physical exam reveals intact cranial nerves, normal strength and sensation, and a stable gait.",259,MedBullets df_op4 Q260,B
+42.21784685924649,He denies any preceding symptoms and returned to baseline within 1 minute.,259,MedBullets df_op4 Q260,B
+38.81524494572994,The patient is not aware of any medical problems and just started seeing a primary care physician last week.,259,MedBullets df_op4 Q260,B
+17.433581149188985,A 67-year-old man presents to the emergency department after fainting.,259,MedBullets df_op4 Q260,B

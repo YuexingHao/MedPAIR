@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+102.69142019748688,A pulmonary exam is notable for bilateral crackles and an abdominal exam reveals an obese abdomen without pain in any of the quadrants.,163,MedBullets_df_op4_Q164,A
+79.78103804014086,"His temperature is 99.5°F (37.5°C), pulse is 100/min, blood pressure is 130/90 mmHg, respirations are 18/min, and oxygen saturation is 96% on room air.",163,MedBullets_df_op4_Q164,A
+69.2919913325942,"On physical exam, he appears fatigued and the cardiovascular exam reveals an additional heart sound after S2.",163,MedBullets_df_op4_Q164,A
+24.07680292692525,He does not see a primary care physician and is not currently taking any medications.,163,MedBullets_df_op4_Q164,A

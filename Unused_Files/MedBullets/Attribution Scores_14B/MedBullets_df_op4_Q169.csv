@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+65.46613177657127,When running and at rest he has a burning and aching pain along the bottom of his foot that sometimes turns to numbness.,168,MedBullets df_op4 Q169,C
+47.754721052643,"On physical exam, the patient states that he is currently not experiencing any pain in his foot but rather is experiencing numbness/tingling along the plantar surface of his foot.",168,MedBullets df_op4 Q169,C
+40.51958739676361,"The patient has a medical history of surgical repair of his Achilles tendon, ACL, and medial meniscus.",168,MedBullets df_op4 Q169,C
+32.59088400192356,Taking time off from training does not improve his symptoms.,168,MedBullets df_op4 Q169,C
+31.884713827742527,The patient is a long-time runner but states that the pain has been getting worse recently.,168,MedBullets df_op4 Q169,C
+19.507649576931367,Strength is 5/5 and reflexes are 2+ in the lower extremities.,168,MedBullets df_op4 Q169,C
+5.885886912829588,A 35-year-old man presents to his primary care physician with pain along the bottom of his foot.,168,MedBullets df_op4 Q169,C
+2.3065312950922463,The patient lives with his wife and they both practice a vegan lifestyle.,168,MedBullets df_op4 Q169,C
+0.0,He is currently not taking any medications.,168,MedBullets df_op4 Q169,C
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 114/72 mmHg, pulse is 81/min, and respirations are 12/min.",168,MedBullets df_op4 Q169,C

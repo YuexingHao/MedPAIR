@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+32.25523586068648,"Synovial fluid aspiration is performed and sent for analysis, which reveals 20,000 leukocytes/mm^3, and no organisms visualized.",85,MedBullets df_op4 Q86,
+25.77800750732422,He denies recent trauma and he has no known medical problems.,85,MedBullets df_op4 Q86,
+18.75343949011292,"Physical exam reveals an erythematous, edematous right knee.",85,MedBullets df_op4 Q86,
+17.25376593045507,"His temperature is 98.6°F (37.0°C), pulse is 90/min, blood pressure is 140/90 mmHg, respirations are 16/min, and oxygen saturation is 97% on room air.",85,MedBullets df_op4 Q86,

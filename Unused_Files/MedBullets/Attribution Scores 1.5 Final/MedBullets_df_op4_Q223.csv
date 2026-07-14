@@ -1,0 +1,5 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+107.49938615114489,"On exam, her abdomen is soft, non-distended, and non-tender to palpation; however she has diffuse discomfort upon palpation of the abdomen with no rebound, rigidity, or guarding.",222,MedBullets_df_op4_Q223,A
+87.43987125190696,"Her temperature is 37.0°C (98.6°F), blood pressure is 118/82 mmHg, pulse is 98/min, respirations are 14/min, and oxygen saturation is 98% on room air.",222,MedBullets_df_op4_Q223,A
+64.01187770068645,"A 68-year-old woman presents to the emergency room with several days of frequent, nonbloody, watery stools.",222,MedBullets_df_op4_Q223,A
+30.907760394843397,Her medical history is notable for hypertension and hyperlipidemia for which she takes amlodipine and atorvastatin.,222,MedBullets_df_op4_Q223,A

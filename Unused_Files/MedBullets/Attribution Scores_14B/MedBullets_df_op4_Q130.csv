@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+59.14928708824264,"The patient's temperature is 98.2°F (36.8°C), blood pressure is 48/32 mmHg, pulse is 164/min, and respirations are 48/min.",129,MedBullets df_op4 Q130,B
+42.05638931468032,An abdominal radiograph is performed and the result can be seen in Figure A.,129,MedBullets df_op4 Q130,B
+40.87310750978438,A 3-day-old boy is evaluated in the neonatal intensive care unit for failure to pass meconium.,129,MedBullets df_op4 Q130,B
+39.14767080860491,A digital rectal exam fails to relieve the obstruction.,129,MedBullets df_op4 Q130,B
+22.375401599970413,The patient has had 2 episodes of vomiting that were described as green in color.,129,MedBullets df_op4 Q130,B
+20.495283584942392,"His abdomen is firm, non-tender, and distended with hypoactive bowel sounds.",129,MedBullets df_op4 Q130,B
+19.233546495437622,He is urinating 8-10 times per day.,129,MedBullets df_op4 Q130,B
+8.044210581679339,"The pregnancy was uncomplicated, and the patient’s mother received routine prenatal care.",129,MedBullets df_op4 Q130,B
+5.622254994285886,She declined prenatal testing.,129,MedBullets df_op4 Q130,B
+3.516483956222677,The patient is otherwise doing well and feeding every 2 hours.,129,MedBullets df_op4 Q130,B
+0.19784051802220673,One of the patient’s older siblings has Down syndrome.,129,MedBullets df_op4 Q130,B
+0.0,"On physical exam, the patient is in no acute distress.",129,MedBullets df_op4 Q130,B
+0.0,He was born at 39 weeks gestation to a 38-year-old G3P3 mother.,129,MedBullets df_op4 Q130,B

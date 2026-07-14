@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.86229943848898,"His temperature is 99.5°F (37.5°C), pulse is 96/min, blood pressure is 180/120 mmHg, respirations are 18/min, and oxygen saturation is 97% on room air.",145,MedBullets df_op4 Q146,
+27.176490783691406,"The patient's prescribed medications are metoprolol, aspirin, lisinopril, hydrochlorothiazide, fluoxetine, metformin, and insulin.",145,MedBullets df_op4 Q146,
+20.790389453681925,The patient has not been filling his prescriptions regularly and can not remember what medications he has been taking.,145,MedBullets df_op4 Q146,
+4.19568746159152,"He has a medical history of type 2 diabetes mellitus, hypertension, depression, obesity, and a myocardial infarction 7 years ago.",145,MedBullets df_op4 Q146,
+0.0,A 69-year-old man presents to his primary care provider for a general checkup.,145,MedBullets df_op4 Q146,

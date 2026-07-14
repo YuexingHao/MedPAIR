@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+48.28168216691641,"Her temperature is 99.5°F (37.5°C), blood pressure is 90/58 mmHg, pulse is 120/min, respirations are 18/min, and oxygen saturation is 94% on room air.",33,MedBullets_df_op4_Q34,D
+34.02860550118346,"Since birth, the patient has had repeated episodes of pain/pressure over her frontal sinuses and a chronic cough that produces mucus.",33,MedBullets_df_op4_Q34,D
+26.19942818228735,The patient has a history of tricuspid stenosis.,33,MedBullets_df_op4_Q34,D
+18.866012021516994,A 10-year-old girl is admitted to the medical floor for a respiratory infection.,33,MedBullets_df_op4_Q34,D
+14.803555907204238,She was recently treated with amoxicillin for an infection.,33,MedBullets_df_op4_Q34,D
+13.882766865918024,The patient is in the 25th percentile for height and weight which has been constant since birth.,33,MedBullets_df_op4_Q34,D
+0.4769744239747524,Physical exam is notable for bruises along the patient's shins which the guardians state are from playing soccer.,33,MedBullets_df_op4_Q34,D
+0.0,The rest of the exam is deferred because the patient starts crying.,33,MedBullets_df_op4_Q34,D
+0.0,She also recently had magnetic resonance imaging (MRI) of her chest which demonstrated dilation of her airways.,33,MedBullets_df_op4_Q34,D
+0.0,Her guardians state that the patient has normal bowel movements and has been gaining weight appropriately.,33,MedBullets_df_op4_Q34,D

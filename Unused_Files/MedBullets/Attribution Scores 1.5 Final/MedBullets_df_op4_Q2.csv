@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+86.57727408494429,"Her temperature is 99.5°F (37.5°C), blood pressure is 60/35 mmHg, pulse is 190/min, respirations are 33/min, and oxygen saturation is 98% on room air.",1,MedBullets_df_op4_Q2,
+39.91222518024998,"Her mother says that last night her daughter felt ill, and her condition has been worsening.",1,MedBullets_df_op4_Q2,
+0.628976931428357,"This morning she was minimally responsive, vomited several times, and produced a small amount of dark cloudy urine.",1,MedBullets_df_op4_Q2,
+0.0,She also was treated for a urinary tract infection 10 weeks ago.,1,MedBullets_df_op4_Q2,
+-0.0,The patient was born at 39 weeks and met all her developmental milestones.,1,MedBullets_df_op4_Q2,
+-0.0,Her daughter experienced a severe headache and had a stiff neck.,1,MedBullets_df_op4_Q2,
+0.0,"The patient is started on intravenous fluids, vasopressors, and broad-spectrum antibiotics.",1,MedBullets_df_op4_Q2,
+0.0,A 9-year-old girl presents to the emergency department with a fever and a change in her behavior.,1,MedBullets_df_op4_Q2,
+0.0,She is currently up to date on her vaccinations and did not have infections during early childhood.,1,MedBullets_df_op4_Q2,
+0.0,Her parents are divorced and her father has noted she does not seem to get sick when he takes care of her.,1,MedBullets_df_op4_Q2,
+0.0,She presented with similar symptoms 6 weeks ago and was treated for an Escherchia coli infection.,1,MedBullets_df_op4_Q2,

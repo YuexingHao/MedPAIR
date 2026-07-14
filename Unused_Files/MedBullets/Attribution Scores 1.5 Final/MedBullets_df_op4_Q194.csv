@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+85.17134613355663,"The headaches self-resolve over the course of 2-3 hours, but the patient complains that he is avoiding going to sleep for fear of waking up in pain.",193,MedBullets_df_op4_Q194,A
+50.97128894752164,"The episodes start suddenly and feel like a stabbing, electrical pain over his left eye.",193,MedBullets_df_op4_Q194,A
+50.00088268518448,His medical history includes type 1 diabetes mellitus and an episode of herpes zoster on his right flank 1 year ago.,193,MedBullets_df_op4_Q194,A
+31.34763804506873,He also reports tearing of the left eye during these episodes.,193,MedBullets_df_op4_Q194,A
+15.297537894592152,A 32-year-old man presents to his primary care provider for a headache.,193,MedBullets_df_op4_Q194,A
+12.50188038594576,His only home medication is insulin.,193,MedBullets_df_op4_Q194,A
+3.4575863898950963,"He first developed these headaches over 1 year ago, but they started up again 3 weeks ago.",193,MedBullets_df_op4_Q194,A

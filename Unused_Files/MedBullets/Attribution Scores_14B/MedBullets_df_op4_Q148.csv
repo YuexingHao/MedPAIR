@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+30.85610113822884,Inspection of the patient's scalp reveals the finding shown in Figure A.,147,MedBullets df_op4 Q148,D
+26.89234360679984,He has a medical history of poorly managed type 2 diabetes mellitus and irritable bowel syndrome.,147,MedBullets df_op4 Q148,D
+21.561040656573965,The patient's glucose journal reveals an average blood glucose of 175 mg/dL.,147,MedBullets df_op4 Q148,D
+21.04577445125224,"His temperature is 98.8°F (37.1°C), blood pressure is 134/86 mmHg, pulse is 80/min, and respirations are 13/min.",147,MedBullets df_op4 Q148,D
+18.11179143781898,"On inspection of the patient's scalp, the finding in Figure B is noted.",147,MedBullets df_op4 Q148,D
+16.66385759833669,"In addition, he complains of a cut on his scalp that is not seeming to heal.",147,MedBullets df_op4 Q148,D
+16.182355825377638,"His current medications include lisinopril, metformin, insulin, fiber supplements, and a multivitamin.",147,MedBullets df_op4 Q148,D
+12.775817587754057,"Three months later, the patient returns with his glucose journal.",147,MedBullets df_op4 Q148,D
+4.481773455374863,The patient is sent home and instructed to keep a blood glucose journal.,147,MedBullets df_op4 Q148,D
+0.0,"On physical exam, there is a calm, obese gentleman.",147,MedBullets df_op4 Q148,D
+0.0,The patient works as a farmer and gardens in his spare time.,147,MedBullets df_op4 Q148,D
+0.0,A 69-year-old man presents to his primary care physician for a general checkup.,147,MedBullets df_op4 Q148,D

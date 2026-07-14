@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+55.55255717670505,He states that he typically can converse with animals via telepathy but is having trouble right now due to the weather.,166,MedBullets df_op4 Q167,C
+53.54432062744782,"On physical exam, you note a healthy young man who is dressed in an all-burlap ensemble.",166,MedBullets df_op4 Q167,C
+44.17889086508354,"When obtaining the patient's medical history, there are several times he attempts to telepathically connect with the animals in the vicinity.",166,MedBullets df_op4 Q167,C
+23.105585176498536,"A 25-year-old man presents to his primary care physician with a chief complaint of ""failing health.""",166,MedBullets df_op4 Q167,C
+19.539939377456903,He has begun taking an assortment of Peruvian herbs to little avail.,166,MedBullets df_op4 Q167,C
+15.863914549483527,He states that his symptoms have persisted for the past 8 months.,166,MedBullets df_op4 Q167,C
+15.520617321974282,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",166,MedBullets df_op4 Q167,C
+5.714515037762373,The patient lives alone and works in a health food store.,166,MedBullets df_op4 Q167,C
+0.0,"Otherwise, he is not currently taking any medications.",166,MedBullets df_op4 Q167,C

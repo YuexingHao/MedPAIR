@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+79.2450720338631,"His temperature is 98.6°F (37°C), blood pressure is 117/72 mmHg, pulse is 72/min, and respirations are 13/min.",102,MedBullets_df_op4_Q103,C
+78.83054785430431,He denies any feeling of regurgitation or nighttime cough but endorses nausea.,102,MedBullets_df_op4_Q103,C
+50.43728066777887,He tried ibuprofen with food and thinks it helped.,102,MedBullets_df_op4_Q103,C
+42.58347459434049,A stool guaiac test is positive.,102,MedBullets_df_op4_Q103,C
+38.96734541430387,"On physical exam, he is tender to palpation above the umbilicus.",102,MedBullets_df_op4_Q103,C
+26.475634643965826,A 41-year-old man presents to his primary care provider with a 2-month history of abdominal pain.,102,MedBullets_df_op4_Q103,C
+0.0,The pain is above his umbilicus.,102,MedBullets_df_op4_Q103,C
+0.0,He used to eat 3 large meals per day but has found that eating smaller meals more frequently improves his pain.,102,MedBullets_df_op4_Q103,C

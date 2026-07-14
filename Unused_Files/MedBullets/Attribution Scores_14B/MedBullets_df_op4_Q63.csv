@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+51.32299269300576,The patient’s underwear is wet and a bladder scan reveals 800 mL of urine.,62,MedBullets df_op4 Q63,D
+31.91461262167437,"His temperature is 99.6°F (37.6°C), blood pressure is 140/70 mmHg, pulse is 90/min, and respirations are 20/min.",62,MedBullets df_op4 Q63,D
+30.384989250451326,The pain is rated as 10/10 in severity and radiates down the posterior aspect of the right thigh.,62,MedBullets df_op4 Q63,D
+27.253957763498253,"Physical examination reveals 3/5 strength to hip extension, knee flexion and extension, and plantar flexion bilaterally.",62,MedBullets df_op4 Q63,D
+12.109101371984046,The pain started 6 hours ago when he was gardening and carrying a heavy bag.,62,MedBullets df_op4 Q63,D
+11.457834246102042,Sensation to pinprick is diminished over the posterolateral legs and lateral aspects of both feet.,62,MedBullets df_op4 Q63,D
+5.242402209392322,He reports no fevers or chills.,62,MedBullets df_op4 Q63,D
+1.722479980596551,A 65-year-old man presents to the emergency department with low back pain.,62,MedBullets df_op4 Q63,D
+0.0,Ankle and knee reflexes are absent bilaterally.,62,MedBullets df_op4 Q63,D
+0.0,His only medical problem is hypertension for which he takes amlodipine.,62,MedBullets df_op4 Q63,D
+0.0,"The patient is a non-smoker, uses alcohol infrequently, and has never used illicit drugs.",62,MedBullets df_op4 Q63,D

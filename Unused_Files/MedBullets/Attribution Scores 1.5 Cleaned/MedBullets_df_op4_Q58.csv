@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.79222704273239,A chaotic pattern of slowing and multifocal epileptiform charges is seen.,57,MedBullets df_op4 Q58,A
+76.06614309640295,"His temperature is 98.6°F (37°C), blood pressure is 92/46 mmHg, pulse is 115/min, and respirations are 34/min.",57,MedBullets df_op4 Q58,A
+68.5279587502796,"His mother's pregnancy, labor, delivery, and his neonatal course have been unremarkable.",57,MedBullets df_op4 Q58,A
+43.13168814405799,"These episodes last 1-2 seconds, but occur in clusters every 20-30 seconds for several minutes.",57,MedBullets df_op4 Q58,A
+23.38990951993904,"He is rolling over less frequently than before, has worse head control, and no longer smiles socially.",57,MedBullets df_op4 Q58,A
+20.22470502199012,A 6-month-old boy is brought to the physician by his mother for abnormal movements.,57,MedBullets df_op4 Q58,A
+14.39637171218608,"Several times a day, he experiences paroxysmal episodes of crying, bending at the waist, and jerking of the arms and legs.",57,MedBullets df_op4 Q58,A
+7.981295785097061,"On examination, no dysmorphic features are noted.",57,MedBullets df_op4 Q58,A

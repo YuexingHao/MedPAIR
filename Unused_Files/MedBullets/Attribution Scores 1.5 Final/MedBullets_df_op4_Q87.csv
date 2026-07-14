@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.89118632883507,"The patient has a medical history of sinusitis, constipation, diabetes, and pelvic inflammatory disease.",86,MedBullets_df_op4_Q87,D
+43.887395828962326,"Neurological exam reveals a confused woman who is now complaining of ""seeing double.""",86,MedBullets_df_op4_Q87,D
+43.15371994482879,"Her current medications include fexofenadine, oral contraceptive pills, and metformin.",86,MedBullets_df_op4_Q87,D
+35.28043947687217,She is currently taking amoxicillin for a sinus infection.,86,MedBullets_df_op4_Q87,D
+18.845500734451488,A 57-year-old woman presents to the emergency department for a headache.,86,MedBullets_df_op4_Q87,D
+2.3448758968943637,"Her temperature is 99.5°F (37.5°C), blood pressure is 187/118 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air.",86,MedBullets_df_op4_Q87,D
+-0.0,"On physical exam, the patient is noted to be uncomfortable with the appearance shown in Figure A.",86,MedBullets_df_op4_Q87,D
+0.0,She presented within 30 minutes of symptom onset.,86,MedBullets_df_op4_Q87,D
+-0.0,Abdominal exam is within normal limits.,86,MedBullets_df_op4_Q87,D
+-0.0,Cardiopulmonary exam reveals mild bibasilar crackles and tachycardia.,86,MedBullets_df_op4_Q87,D
+-0.0,She smokes 1 pack of cigarettes per day and drinks 2-3 alcoholic beverages daily.,86,MedBullets_df_op4_Q87,D

@@ -1,0 +1,36 @@
+Model,Data Source,Spurious Rate (%),Spurious Count,Total Original Correct
+MedGemma27B_answer,Overall,7.334525939177102,82,1118
+GPT5_Removal,Overall,6.529516994633274,73,1118
+Qwen14B_Removed,Overall,5.456171735241503,61,1118
+70B_prediction,Overall,11.806797853309481,132,1118
+72B_prediction,Overall,11.001788908765652,123,1118
+gpt4o_Removed,Overall,5.903398926654741,66,1118
+Trainee Removal,Overall,5.992844364937388,67,1118
+MedGemma27B_answer,jama,7.198443579766536,37,514
+GPT5_Removal,jama,6.614785992217899,34,514
+Qwen14B_Removed,jama,5.252918287937743,27,514
+70B_prediction,jama,10.505836575875486,54,514
+72B_prediction,jama,9.922178988326849,51,514
+gpt4o_Removed,jama,5.836575875486381,30,514
+Trainee Removal,jama,7.003891050583658,36,514
+MedGemma27B_answer,medbullets,8.762886597938143,17,194
+GPT5_Removal,medbullets,4.639175257731959,9,194
+Qwen14B_Removed,medbullets,3.608247422680412,7,194
+70B_prediction,medbullets,13.402061855670103,26,194
+72B_prediction,medbullets,12.371134020618557,24,194
+gpt4o_Removed,medbullets,2.0618556701030926,4,194
+Trainee Removal,medbullets,3.0927835051546393,6,194
+MedGemma27B_answer,medxpert,10.454545454545453,23,220
+GPT5_Removal,medxpert,12.727272727272727,28,220
+Qwen14B_Removed,medxpert,11.363636363636363,25,220
+70B_prediction,medxpert,20.454545454545457,45,220
+72B_prediction,medxpert,19.545454545454547,43,220
+gpt4o_Removed,medxpert,12.727272727272727,28,220
+Trainee Removal,medxpert,10.454545454545453,23,220
+MedGemma27B_answer,mmlu,2.631578947368421,5,190
+GPT5_Removal,mmlu,1.0526315789473684,2,190
+Qwen14B_Removed,mmlu,1.0526315789473684,2,190
+70B_prediction,mmlu,3.684210526315789,7,190
+72B_prediction,mmlu,2.631578947368421,5,190
+gpt4o_Removed,mmlu,2.1052631578947367,4,190
+Trainee Removal,mmlu,1.0526315789473684,2,190

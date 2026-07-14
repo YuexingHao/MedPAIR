@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+69.81112594902515,His teacher began chest compressions and he has received epinephrine and defibrillation from paramedics while in transport.,256,MedBullets df_op4 Q257,C
+57.841407103933086,The patient’s laboratory studies were unremarkable from a visit to the pediatrician 3 weeks ago.,256,MedBullets df_op4 Q257,C
+41.89475287611298,He was in class when he suddenly fainted and became unresponsive.,256,MedBullets df_op4 Q257,C
+15.78262259885652,A previously healthy 15-year-old boy presents to the emergency department in cardiac arrest.,256,MedBullets df_op4 Q257,C
+15.57245902587943,"On arrival, the patient remains pulseless and is pronounced dead.",256,MedBullets df_op4 Q257,C
+14.048614529764368,An autopsy is performed and is notable for no clear abnormalities.,256,MedBullets df_op4 Q257,C
+2.9136446065130626,A previous ECG is seen in Figure A.,256,MedBullets df_op4 Q257,C

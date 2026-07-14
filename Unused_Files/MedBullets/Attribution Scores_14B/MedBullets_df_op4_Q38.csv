@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+81.18836635668639,A 23-year-old woman is admitted to the inpatient psychiatry unit after her boyfriend reported she was “acting funny and refusing to talk.” The patient’s boyfriend states that he came home from work and found the patient sitting up in bed staring at the wall.,37,MedBullets df_op4 Q38,C
+26.119918494910575,She was recently switched from phenelzine to fluoxetine.,37,MedBullets df_op4 Q38,C
+14.293143293888043,"Her temperature is 99°F (37.2°C), blood pressure is 122/79 mmHg, pulse is 68/min, and respirations are 12/min with an oxygen saturation of 98% on room air.",37,MedBullets df_op4 Q38,C
+9.4019905477451,The patient remains mute and ignores any external stimuli.,37,MedBullets df_op4 Q38,C
+4.55550380982821,She resists any attempt to change her position.,37,MedBullets df_op4 Q38,C
+1.258144700457343,The patient is lying on the bed with her left arm raised and pointing at the ceiling.,37,MedBullets df_op4 Q38,C
+0.0,The patient’s medical history is significant for depression.,37,MedBullets df_op4 Q38,C
+0.0,"When he tried to move her, she would remain in whatever position she was placed.",37,MedBullets df_op4 Q38,C
+0.0,"When he said her name or waved his hand in front of her, she did not respond.",37,MedBullets df_op4 Q38,C

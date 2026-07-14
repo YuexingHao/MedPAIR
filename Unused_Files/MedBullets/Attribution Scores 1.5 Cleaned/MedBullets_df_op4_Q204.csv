@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.32038722677175,The patient states that he feels fatigued all the time and sometimes will suddenly fall asleep while operating equipment.,203,MedBullets df_op4 Q204,A
+34.938211323045486,He states that he lives at home with his parents his entire life and recently was able to get a job at a local factory.,203,MedBullets df_op4 Q204,A
+31.70129776824062,"His boss often observes him ""daydreaming"" with a blank stare off into space.",203,MedBullets df_op4 Q204,A
+18.523298412561417,"Ever since the patient started working, he has had trouble focusing on his job.",203,MedBullets df_op4 Q204,A
+15.09750236923342,He has tried going to bed early for the past month but is unable to fall asleep until 2 hours prior to his alarm.,203,MedBullets df_op4 Q204,A
+13.199337253680389,The patient fears that if this continues he will lose his job.,203,MedBullets df_op4 Q204,A
+10.956055368685533,A 25-year-old man presents to his primary care physician for trouble with focus and concentration.,203,MedBullets df_op4 Q204,A
+6.294708578949881,"His temperature is 98.6°F (37°C), blood pressure is 112/68 mmHg, pulse is 81/min, and respirations are 12/min.",203,MedBullets df_op4 Q204,A
+2.211605705375161,A physical exam is within normal limits.,203,MedBullets df_op4 Q204,A

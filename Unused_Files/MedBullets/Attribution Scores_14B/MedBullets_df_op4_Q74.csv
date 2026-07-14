@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+40.7704405747354,"The headaches are constant and dull, and they typically worsen when she sneezes or laughs.",73,MedBullets df_op4 Q74,A
+16.20656829768226,A 66-year-old woman presents to the emergency room after experiencing a tonic-clonic seizure.,73,MedBullets df_op4 Q74,A
+5.423813488479953,Her medical history is significant for type 2 diabetes mellitus and hypertension for which she takes metformin and losartan.,73,MedBullets df_op4 Q74,A
+5.406987040993571,Her CT scan findings are presented in Figure A.,73,MedBullets df_op4 Q74,A
+0.18568368556786055,"She is noted to have papilledema on fundoscopy, but physical exam is otherwise normal.",73,MedBullets df_op4 Q74,A
+0.0,"Her temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",73,MedBullets df_op4 Q74,A
+0.0,"Recently, she has become increasingly nauseous and has vomited twice in the past 10 days.",73,MedBullets df_op4 Q74,A
+0.0,She has been having worsening headaches and intermittent nausea over the past 5 months.,73,MedBullets df_op4 Q74,A

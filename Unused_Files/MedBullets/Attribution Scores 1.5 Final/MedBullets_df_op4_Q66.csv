@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.09941228422365,She has hypertension for which she takes hydrochlorothiazide and had a recent asthma flare requiring a prednisone taper.,65,MedBullets_df_op4_Q66,A
+48.091386641616104,"Her pain is 7/10 in severity, non-radiating, and not relieved by rest.",65,MedBullets_df_op4_Q66,A
+46.653921365737915,"She has never experienced this pain in the past and denies fever, night sweats, unintentional weight loss, and bowel or bladder incontinence.",65,MedBullets_df_op4_Q66,A
+29.631757340143654,A 60-year-old woman presents to the emergency department with back pain after gardening.,65,MedBullets_df_op4_Q66,A
+13.910666645532036,"Flexion of the hip with the knee extended while the patient is supine does not elicit any pain, nor does forced dorsiflexion of the foot at terminal hip extension.",65,MedBullets_df_op4_Q66,A

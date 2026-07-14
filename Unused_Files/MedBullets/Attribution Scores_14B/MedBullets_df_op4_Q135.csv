@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+79.25238021239319,"On physical exam, he is found to have a 3 cm full-thickness defect in the abdominal wall to the right of the umbilicus with evisceration of a loop of the bowel.",134,MedBullets df_op4 Q135,A
+35.79382722446587,"His weight is 3.0 kg (6.6 lb), and his height and his head circumference are in the 30th and 40th percentiles, respectively.",134,MedBullets df_op4 Q135,A
+34.5908676520575,The mother declined all prenatal screening tests during this pregnancy.,134,MedBullets df_op4 Q135,A
+19.99744062590569,"His temperature is 98.6°F (37°C), blood pressure is 63/41 mmHg, pulse is 133/min, and respirations are 39/min.",134,MedBullets df_op4 Q135,A
+17.35364354401827,The mother initially labored at home with a midwife but was transferred to the hospital for failure to progress.,134,MedBullets df_op4 Q135,A
+14.243136165091668,A 1-hour-old newborn boy is evaluated in the delivery room.,134,MedBullets df_op4 Q135,A
+0.0,The abdominal defect is immediately covered in sterile saline dressings and an orogastric tube and 2 peripheral intravenous lines are placed.,134,MedBullets df_op4 Q135,A
+0.0,"His Apgar scores were 7 and 8 at 1 and 5 minutes, respectively.",134,MedBullets df_op4 Q135,A
+-0.0,The infant was eventually delivered via Caesarean section.,134,MedBullets df_op4 Q135,A
+0.0,He was born at 37 weeks gestation to a 39-year-old G3P3 mother.,134,MedBullets df_op4 Q135,A

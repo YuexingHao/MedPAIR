@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.48362533084808,A 45-year-old man with history of IV drug use presents to the outpatient clinic with a history of fever for 5 days.,198,MedBullets_df_op4_Q199,C
+0.0,He reports that he traveled to Africa last year and returned from a vacation to Thailand 10 days ago.,198,MedBullets_df_op4_Q199,C
+0.0,"His temperature is 101.5°F (38.6°C), blood pressure is 125/80 mmHg, pulse is 105/min, and respirations are 14/min.",198,MedBullets_df_op4_Q199,C
+0.0,"He also endorses sweats, headache behind the eyes, sore throat, muscle and joint pain, and a new rash seen in Figure A.",198,MedBullets_df_op4_Q199,C
+0.0,"His immunizations are up to date, although he missed the pre-departure travel medicine consult before his trip to Thailand.",198,MedBullets_df_op4_Q199,C

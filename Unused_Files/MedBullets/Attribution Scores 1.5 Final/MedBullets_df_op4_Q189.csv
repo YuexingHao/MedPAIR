@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+88.65872893998431,"On physical exam, the patient has a flat affect with a facial grimace and sudden jerky movements of his upper extremities.",188,MedBullets_df_op4_Q189,B
+77.41353988647461,"His temperature is 98.6°F (37°C), blood pressure is 141/87 mmHg, pulse is 81/min, and respirations are 12/min.",188,MedBullets_df_op4_Q189,B
+39.00398016065531,"Whereas he was previously outgoing and “the life of the party,” the patient is now irritable and withdrawn.",188,MedBullets_df_op4_Q189,B
+36.88353531524439,He drinks a few glasses of wine per week and has never smoked.,188,MedBullets_df_op4_Q189,B
+32.89058233208874,His wife reports that her husband has not been himself for the last 2 months.,188,MedBullets_df_op4_Q189,B
+20.511939880556938,A 46-year-old man presents with his wife to his primary care provider for depression and strange movements.,188,MedBullets_df_op4_Q189,B
+0.0,"He is a partner at an accounting firm, but his colleagues are threatening to fire him if he continues to perform poorly at work.",188,MedBullets_df_op4_Q189,B
+0.0,The patient cannot explain the recent changes to his mood and tearfully admits he fears there is something seriously wrong with him.,188,MedBullets_df_op4_Q189,B

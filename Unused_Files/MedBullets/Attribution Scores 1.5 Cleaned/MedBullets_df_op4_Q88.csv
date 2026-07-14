@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.77634928937995,A 29-year-old woman is recovering on the obstetrics floor after the vaginal delivery of 8-pound twin boys born at 42 weeks gestation.,87,MedBullets df_op4 Q88,D
+24.281181556140798,"The next morning, the patient experiences chills and a light red voluminous discharge from her vagina.",87,MedBullets df_op4 Q88,D
+19.42335822243968,The patient's medical history is notable for diabetes which was managed during her pregnancy with insulin.,87,MedBullets df_op4 Q88,D
+17.08983514085412,"Currently, she is complaining that her vagina hurts.",87,MedBullets df_op4 Q88,D
+9.159935901726634,She states that she feels pain and cramps in her abdomen.,87,MedBullets df_op4 Q88,D
+8.01303961583617,The patient is fatigued but states that she is doing well.,87,MedBullets df_op4 Q88,D

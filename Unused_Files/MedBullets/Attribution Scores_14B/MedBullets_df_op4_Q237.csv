@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+56.71366643376405,Physical exam is notable for a 2 x 2.5 cm nodular lesion of the dorsal hand as seen in Figure A.,236,MedBullets df_op4 Q237,C
+49.15810963511467,He endorses trauma to the area when he accidentally scraped his hand against a window and notes that there was some bleeding.,236,MedBullets df_op4 Q237,C
+33.71355144014455,"His medical history is significant for chronic renal failure for which he received a renal transplant 5 years prior, as well as multiple surgeries for skin cancer.",236,MedBullets df_op4 Q237,C
+26.02687184498038,"His current medications include aspirin, atorvastatin, prednisone, tacrolimus, and mycophenolate mofetil.",236,MedBullets df_op4 Q237,C
+14.113668424402725,The lesion has grown rapidly over the previous 2 weeks.,236,MedBullets df_op4 Q237,C
+0.0,"His temperature is 98.6°F (37°C), blood pressure is 136/91 mmHg, pulse is 82/min, and respirations are 11/min.",236,MedBullets df_op4 Q237,C
+0.0,A 66-year-old man presents to the clinic for evaluation of a skin lesion on his hand.,236,MedBullets df_op4 Q237,C

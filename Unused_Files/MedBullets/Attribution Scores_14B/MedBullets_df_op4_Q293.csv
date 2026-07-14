@@ -1,0 +1,14 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+32.09636294104142,"A repeat ECG in the emergency department is performed, also seen in Figure A.",292,MedBullets df_op4 Q293,B
+25.122219014037643,"He is given aspirin and an ECG is performed in triage, as seen in Figure A.",292,MedBullets df_op4 Q293,B
+25.054799790493615,"The patient’s chest pain is worse when the ECG in the emergency department is taken, compared to the one taken in triage.",292,MedBullets df_op4 Q293,B
+19.85761334318746,A 55-year-old man presents to the emergency department with chest pressure and diaphoresis.,292,MedBullets df_op4 Q293,B
+17.124376574658513,"He is given nitroglycerin, with minimal improvement in his symptoms.",292,MedBullets df_op4 Q293,B
+9.424432503526491,His symptoms started at work when he was lifting boxes.,292,MedBullets df_op4 Q293,B
+8.845827401816633,A troponin level is drawn.,292,MedBullets df_op4 Q293,B
+8.623985646539557,"His temperature is 97.9°F (36.6°C), blood pressure is 155/99 mmHg, pulse is 110/min, respirations are 22/min, and oxygen saturation is 98% on room air.",292,MedBullets df_op4 Q293,B
+-0.0,His heart and breath sounds are unremarkable.,292,MedBullets df_op4 Q293,B
+0.0,His past medical history is notable for diabetes and obesity.,292,MedBullets df_op4 Q293,B
+0.0,He has smoked 1 pack of cigarettes per day for the past 30 years.,292,MedBullets df_op4 Q293,B
+-0.0,"Physical exam reveals an uncomfortable, diaphoretic man.",292,MedBullets df_op4 Q293,B
+0.0,He states that he currently feels crushing pressure over his chest.,292,MedBullets df_op4 Q293,B

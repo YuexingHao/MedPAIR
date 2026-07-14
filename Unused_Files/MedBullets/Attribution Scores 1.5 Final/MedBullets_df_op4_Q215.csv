@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.54758991447711,A 59-year-old woman comes to the clinic due to a 3-month history of “always feeling the urge to urinate” as well as vaginal pruritis.,214,MedBullets_df_op4_Q215,A
+66.76455390489645,She has a history of chlamydial infection in her 20's and has had 3 urinary tract infections over the past year.,214,MedBullets_df_op4_Q215,A
+65.67057670652866,The vaginal mucosa also has a loss of rugae and several areas of friable irritation.,214,MedBullets_df_op4_Q215,A
+63.40364133765124,"On physical examination, the vulvar skin is pale and atrophic with reduced elasticity and multiple areas of petechiae.",214,MedBullets_df_op4_Q215,A
+47.0683957329237,"Her temperature is 98.6°F (37.0°C), blood pressure is 115/70 mmHg, pulse is 70/min, and respirations are 12/min.",214,MedBullets_df_op4_Q215,A
+41.25204032524597,She states that she has had involuntary loss of urine about 4 times each day over the past 3 months.,214,MedBullets_df_op4_Q215,A
+30.01201470185422,"Pelvic ultrasound reveals a small, retroverted uterus.",214,MedBullets_df_op4_Q215,A
+16.15035272798148,There is minimal clear vaginal discharge.,214,MedBullets_df_op4_Q215,A
+12.495770384858302,Menopause occurred at age 52.,214,MedBullets_df_op4_Q215,A
+2.1494748357150812,She has no other significant medical history and does not take any medications.,214,MedBullets_df_op4_Q215,A
+0.0,Urinalysis is normal and fecal occult blood test is negative.,214,MedBullets_df_op4_Q215,A
+-0.0,The patient has not been sexually active with her husband due to pain with intercourse.,214,MedBullets_df_op4_Q215,A

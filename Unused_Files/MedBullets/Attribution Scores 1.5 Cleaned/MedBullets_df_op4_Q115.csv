@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.74641919136048,The patient previously had several soft stools per day that ranged in color from mustard yellow to dark green.,114,MedBullets df_op4 Q115,A
+56.41742423109872,"The patient’s temperature is 98.4°F (36.9°C), blood pressure is 66/51 mmHg, pulse is 127/min, and respirations are 26/min.",114,MedBullets df_op4 Q115,A
+50.78952524722967,The patient is breastfed every 2-3 hours and voids 10-12 times daily.,114,MedBullets df_op4 Q115,A
+47.84698467908257,"Over the past 2 days, the patient’s stools have become looser and streaked with blood.",114,MedBullets df_op4 Q115,A
+47.31189976649988,A 6-week-old girl presents with her parents to the pediatrician for blood-streaked diapers.,114,MedBullets df_op4 Q115,A
+35.02517942071763,Neither the vomit nor bloody stools have seemed to bother the patient.,114,MedBullets df_op4 Q115,A
+34.91782389212575,The patient has also regurgitated several of her feedings in the last few days.,114,MedBullets df_op4 Q115,A
+28.13162802334964,"On physical exam, the patient appears well nourished and is cooing.",114,MedBullets df_op4 Q115,A
+24.30173418268103,Physical exam reveals the finding seen in Figure A.,114,MedBullets df_op4 Q115,A
+6.4701866940558,The patient’s weight continues to trend along the 50th percentile.,114,MedBullets df_op4 Q115,A

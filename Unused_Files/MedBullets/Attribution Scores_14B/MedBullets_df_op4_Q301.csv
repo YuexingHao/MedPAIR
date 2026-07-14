@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+80.80219895717991,"His temperature is 97.5°F (36.4°C), blood pressure is 62/32 mmHg, pulse is 185/min, respirations are 25/min, and oxygen saturation is 98% on room air.",300,MedBullets df_op4 Q301,A
+34.733756423069444,"The patient is given 3L of ringer lactate and subsequently appears less confused, with a blood pressure of 100/70 mmHg.",300,MedBullets df_op4 Q301,A
+25.33240829231721,"The patient has profuse, bloody diarrhea while in the emergency department.",300,MedBullets df_op4 Q301,A
+25.137185659259558,He has been sick the past week with diarrhea and has been staying home from work.,300,MedBullets df_op4 Q301,A
+12.441851148931503,A 44-year-old man presents to the emergency department acutely confused.,300,MedBullets df_op4 Q301,A
+11.264929293910944,He is able to drink oral fluids and protect his airway.,300,MedBullets df_op4 Q301,A
+8.065486986833413,An ECG is performed as seen in Figure A.,300,MedBullets df_op4 Q301,A
+0.9210107843685975,The patient’s wife states she found him lethargic at home.,300,MedBullets df_op4 Q301,A
+0.0,He continues to have diarrhea while in the emergency department.,300,MedBullets df_op4 Q301,A
+0.0,He is otherwise healthy and does not take any medications.,300,MedBullets df_op4 Q301,A

@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.99544148147106,Primary and secondary survey and FAST exam are unremarkable for other associated injuries.,103,MedBullets_df_op4_Q104,B
+65.95396333214691,"His temperature is 98.6°F (37.0°C), pulse is 130, blood pressure is 85/50, and respirations are 22.",103,MedBullets_df_op4_Q104,B
+60.193951430728575,A 35-year-old man is brought into the emergency department by ambulance for a stab wound to the left leg near the inguinal ligament.,103,MedBullets_df_op4_Q104,B
+46.353043120734455,"Pressure is removed from the wound, and pulsatile bleeding from the wound is noted.",103,MedBullets_df_op4_Q104,B
+22.634544295947407,He was not stabbed or otherwise injured elsewhere.,103,MedBullets_df_op4_Q104,B

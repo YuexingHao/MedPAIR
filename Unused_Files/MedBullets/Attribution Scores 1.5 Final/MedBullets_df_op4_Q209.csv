@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.23752503645073,"Her temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",208,MedBullets_df_op4_Q209,D
+63.20933112628441,She also has abdominal pain and trouble focusing that has been worsening and has lost 5 pounds recently.,208,MedBullets_df_op4_Q209,D
+24.107884714661196,The patient is a non-smoker and has a history of GERD for which she takes antacids.,208,MedBullets_df_op4_Q209,D
+14.76123796775937,Her gastroesophageal reflux disease (GERD) has been poorly controlled recently.,208,MedBullets_df_op4_Q209,D
+3.050762088338371,A 45-year-old African American woman presents to her primary care physician for not feeling well.,208,MedBullets_df_op4_Q209,D

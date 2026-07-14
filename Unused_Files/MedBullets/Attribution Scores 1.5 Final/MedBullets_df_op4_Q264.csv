@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+52.07834051549435,"A 57-year-old man presents to the emergency department with several days of malaise, weakness, and night sweats.",263,MedBullets_df_op4_Q264,D
+29.748528182590203,Physical exam is notable for a thin man but is otherwise unremarkable.,263,MedBullets_df_op4_Q264,D
+11.455049667957459,The patient has a history of diabetes and is followed closely by an endocrinologist.,263,MedBullets_df_op4_Q264,D
+0.0,"Otherwise, he has lost 10 pounds over the past month.",263,MedBullets_df_op4_Q264,D
+0.0,"His visual acuity is 20/100 in both eyes, though he says that he normally has 20/20 vision.",263,MedBullets_df_op4_Q264,D
+0.0,"His gait is mildly ataxic as well, but his neurological exam is otherwise nonfocal.",263,MedBullets_df_op4_Q264,D

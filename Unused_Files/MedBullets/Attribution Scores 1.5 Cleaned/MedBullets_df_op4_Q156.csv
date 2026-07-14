@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+60.872427268536114,A 41-year-old man presents to his primary care provider after seeing bright red blood in the toilet bowl after his last 2 bowel movements.,155,MedBullets df_op4 Q156,
+14.977984294765214,"His temperature is 97.6°F (36.4°C), blood pressure is 135/78 mmHg, pulse is 88/min, and respirations are 14/min.",155,MedBullets df_op4 Q156,
+11.989066643515232,He drinks 2-3 beers on the weekend and he has never smoked.,155,MedBullets df_op4 Q156,
+9.577543331017257,His medical history is significant for an episode of pancreatitis 2 years ago for which he was hospitalized for several days.,155,MedBullets df_op4 Q156,
+5.650289446763867,He notes a weight loss of 8 pounds in the last 2 months with no changes in his diet or exercise habits.,155,MedBullets df_op4 Q156,
+3.3211708068847656,The patient denies abdominal pain or any changes in his stool habits.,155,MedBullets df_op4 Q156,

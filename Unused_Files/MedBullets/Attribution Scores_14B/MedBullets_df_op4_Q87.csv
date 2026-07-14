@@ -1,0 +1,13 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.742345930806586,"Her temperature is 99.5°F (37.5°C), blood pressure is 187/118 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air.",86,MedBullets df_op4 Q87,A
+26.647541477704518,Cardiopulmonary exam reveals mild bibasilar crackles and tachycardia.,86,MedBullets df_op4 Q87,A
+23.45375236751666,"On physical exam, the patient is noted to be uncomfortable with the appearance shown in Figure A.",86,MedBullets df_op4 Q87,A
+23.05106522478682,"Her current medications include fexofenadine, oral contraceptive pills, and metformin.",86,MedBullets df_op4 Q87,A
+20.987274760158556,"The patient has a medical history of sinusitis, constipation, diabetes, and pelvic inflammatory disease.",86,MedBullets df_op4 Q87,A
+12.487255908548832,She presented within 30 minutes of symptom onset.,86,MedBullets df_op4 Q87,A
+7.842144245661018,A 57-year-old woman presents to the emergency department for a headache.,86,MedBullets df_op4 Q87,A
+5.184487785115878,"Neurological exam reveals a confused woman who is now complaining of ""seeing double.""",86,MedBullets df_op4 Q87,A
+0.0,Abdominal exam is within normal limits.,86,MedBullets df_op4 Q87,A
+0.0,She smokes 1 pack of cigarettes per day and drinks 2-3 alcoholic beverages daily.,86,MedBullets df_op4 Q87,A
+0.0,She is currently taking amoxicillin for a sinus infection.,86,MedBullets df_op4 Q87,A
+0.0,She was at home when a sudden headache began with greater severity than she had experienced in the past.,86,MedBullets df_op4 Q87,A

@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+78.67557495761402,A 30-year-old man presents to the emergency room with a laceration over the 4th metacarpophalangeal (MCP) joint of his right hand.,76,MedBullets_df_op4_Q77,D
+57.0701015740633,"He reports that he is a mailman, and his closed fist was bitten by a dog while he was delivering mail yesterday.",76,MedBullets_df_op4_Q77,D
+36.19902522555315,"He reports pain but denies fevers, chills, drainage, or any other symptoms.",76,MedBullets_df_op4_Q77,D
+29.14685547819911,The dog is up to date on vaccinations.,76,MedBullets_df_op4_Q77,D
+19.000090600546244,His last tetanus vaccine was 3 years ago.,76,MedBullets_df_op4_Q77,D
+0.0,"His temperature is 98.6°F (37.0°C), pulse is 80/min, blood pressure is 125/75 mmHg, and respirations are 16/min.",76,MedBullets_df_op4_Q77,D

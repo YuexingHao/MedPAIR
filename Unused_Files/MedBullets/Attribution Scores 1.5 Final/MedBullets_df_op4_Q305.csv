@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+85.11501985693093,"His temperature is 88.0°F (31.1°C), blood pressure is 92/62 mmHg, pulse is 35/min, respirations are 9/min, and oxygen saturation is 92% on room air.",304,MedBullets_df_op4_Q305,B
+69.53560250997543,"The patient is started on IV fluids and hydrocortisone, is externally warmed, and is started on a norepinephrine drip.",304,MedBullets_df_op4_Q305,B
+38.796802479141824,"His pupils are reactive and sluggish, and he does not follow commands.",304,MedBullets_df_op4_Q305,B
+30.540467867204047,"He has a past medical history of hypothyroidism, depression, and diabetes.",304,MedBullets_df_op4_Q305,B
+29.861172712050774,The patient is cold to the touch and moves all extremities to painful stimuli.,304,MedBullets_df_op4_Q305,B
+23.8932435210181,A 77-year-old man presents to the emergency department acutely obtunded.,304,MedBullets_df_op4_Q305,B
+21.66596964039147,An ECG is performed as seen in Figure A.,304,MedBullets_df_op4_Q305,B
+14.875566783105004,The patient lives alone and was found unresponsive by his son.,304,MedBullets_df_op4_Q305,B
+-0.0,There are no signs of trauma or skin infections.,304,MedBullets_df_op4_Q305,B

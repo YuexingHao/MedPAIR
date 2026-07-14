@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+31.26104043564166,"His lungs are clear to auscultation bilaterally, and his electrocardiogram can be seen in Figure A.",177,MedBullets df_op4 Q178,D
+23.59575785331606,"His temperature is 98.8°F (37.1°C), blood pressure is 85/54 mmHg, pulse is 48/min, and respirations are 22/min.",177,MedBullets df_op4 Q178,D
+21.046164321363847,A 67-year-old man presents to the emergency department with shortness of breath.,177,MedBullets df_op4 Q178,D
+19.95552835415097,The patient is given an initial dose of atropine but this has no effect.,177,MedBullets df_op4 Q178,D
+17.878011951912463,"Two weeks ago, he had a mitral valve repair for mitral insufficiency secondary to myxomatous degeneration.",177,MedBullets df_op4 Q178,D
+16.25636410577885,"His medical history is otherwise significant for hypertension and diabetes mellitus, for which he takes metformin and lisinopril.",177,MedBullets df_op4 Q178,D
+3.1691718152754147,He has normal cardiac sounds with an irregular rhythm.,177,MedBullets df_op4 Q178,D
+1.2592516094446182,He also endorses lightheadedness and fatigue but denies chest pain.,177,MedBullets df_op4 Q178,D
+0.0,"On physical exam, he appears to be in moderate distress.",177,MedBullets df_op4 Q178,D
+-0.0,His dyspnea began 1 hour ago while he was sitting in a chair watching television.,177,MedBullets df_op4 Q178,D

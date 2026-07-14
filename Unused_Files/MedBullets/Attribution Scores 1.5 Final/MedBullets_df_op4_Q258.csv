@@ -1,0 +1,4 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+18.843365643841715,A 44-year-old nurse presents to the emergency department with confusion.,257,MedBullets_df_op4_Q258,
+15.24639892578125,This has happened several times this past month with increasing frequency.,257,MedBullets_df_op4_Q258,
+0.0,She is moving all her extremities but follows commands poorly.,257,MedBullets_df_op4_Q258,

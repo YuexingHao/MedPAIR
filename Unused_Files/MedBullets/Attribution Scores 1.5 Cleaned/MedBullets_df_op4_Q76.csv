@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+73.48083026707172,"Her medical history is notable for a treated episode of acute renal failure, diabetes mellitus, obesity, and hypertension.",75,MedBullets df_op4 Q76,B
+55.91347827708548,The patient recently started taking high doses of vitamin D as she believes that it could help her symptoms.,75,MedBullets df_op4 Q76,B
+42.72481587957562,"Her current medications include losartan, metformin, insulin, and ibuprofen.",75,MedBullets df_op4 Q76,B
+40.596998533335125,She also recently fell off the treadmill while exercising at the gym.,75,MedBullets df_op4 Q76,B
+39.15493192451895,A 69-year-old woman presents with pain in her hip and groin.,75,MedBullets df_op4 Q76,B
+26.565938111214862,The pain is present in the morning but is nearly unbearable by the end of the day.,75,MedBullets df_op4 Q76,B
+22.41249225366228,"On exam, an obese woman in no distress is noted.",75,MedBullets df_op4 Q76,B
+22.05436412092911,"There is pain, decreased range of motion, and crepitus on exam of her right hip.",75,MedBullets df_op4 Q76,B
+15.832527507308145,The patient points to the areas that cause her pain stating that it is mostly over the groin.,75,MedBullets df_op4 Q76,B

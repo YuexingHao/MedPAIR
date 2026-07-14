@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+100.91061864541686,A 23-year-old woman presents to the emergency room for a self-inflicted laceration of her distal volar forearm.,185,MedBullets_df_op4_Q186,D
+80.20328478610284,"The patient states she knew her boyfriend was having sexual thoughts about the woman from the grocery store, prompting her decision to cut her own wrist.",185,MedBullets_df_op4_Q186,D
+74.12813167057534,"Of note, the patient has presented to the emergency department before for a similar reason when she was struggling with online dating.",185,MedBullets_df_op4_Q186,D
+43.487711906433105,"On physical exam, you note a frightened young woman who is wearing a revealing dress that prominently displays her breasts.",185,MedBullets_df_op4_Q186,D
+28.868191403781452,"When interviewing the patient, she is teary and apologizes for her behavior.",185,MedBullets_df_op4_Q186,D
+21.949423843868026,She is grateful to you for her care and regrets her actions.,185,MedBullets_df_op4_Q186,D

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+82.66452212184923,"Urine: Epithelial cells: Scant Glucose: Negative Protein: 3+ WBC: 3/hpf Bacteria: None Leukocyte esterase: Negative Nitrites: Negative The patient is told to return in 3 days for a follow-up appointment; however, his urinalysis at that time is similar.",22,MedBullets_df_op4_Q23,D
+65.04524670541286,"His temperature is 98.6°F (37°C), blood pressure is 110/70 mmHg, pulse is 76/min, and respirations are 15/min.",22,MedBullets_df_op4_Q23,D
+48.10844189872842,His urine appears more amber than usual but he suspects dehydration.,22,MedBullets_df_op4_Q23,D
+29.078340621089435,"The patient denies any abdominal pain, fevers, chills, nausea, vomiting, diarrhea, or constipation.",22,MedBullets_df_op4_Q23,D
+26.532817172519362,He eats solids and drinks liquids without difficulty.,22,MedBullets_df_op4_Q23,D
+20.055301846768053,A 15-year-old boy presents to his pediatrician after an appendectomy 1 week ago.,22,MedBullets_df_op4_Q23,D
+17.27586070608971,He is back to playing basketball for his school team without any difficulty.,22,MedBullets_df_op4_Q23,D
+2.993381714401648,His physical exam is unremarkable.,22,MedBullets_df_op4_Q23,D

@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+74.89569690308623,"The patient also reports difficulty seeing out of his right eye, which he attributes to excessive tearing.",213,MedBullets_df_op4_Q214,A
+29.8601897880435,"When asked to indicate the area of pain, he says that it surrounds his eye and upper forehead.",213,MedBullets_df_op4_Q214,A
+28.229872970409144,He reports that he was rocking his grandson to sleep when the symptoms began.,213,MedBullets_df_op4_Q214,A
+22.398734653751628,He had one episode of vomiting.,213,MedBullets_df_op4_Q214,A
+15.071708497700794,He states the pain is constant and is primarily located on his right side.,213,MedBullets_df_op4_Q214,A
+9.396311889107666,The patient’s past medical history is significant for hypertension.,213,MedBullets_df_op4_Q214,A
+0.0,His medications include hydrochlorothiazide.,213,MedBullets_df_op4_Q214,A
+0.0,A 64-year-old man presents to the emergency room with a headache and nausea.,213,MedBullets_df_op4_Q214,A

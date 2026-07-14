@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+86.58348798751831,The patient has sparse facial hair and a moderate amount of coarse pubic hair that extends across the pubis and spares the medial thighs.,165,MedBullets_df_op4_Q166,D
+49.93472612441327,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",165,MedBullets_df_op4_Q166,D
+44.67350821903431,He was started on methylphenidate at that time and the patient now reports improvement in his ability to concentrate in school and at home.,165,MedBullets_df_op4_Q166,D
+44.344593622891765,He hopes to play baseball in college and has begun lifting weights daily in preparation for baseball season.,165,MedBullets_df_op4_Q166,D
+13.907555833836748,His chest has a normal appearance other than mild gynecomastia.,165,MedBullets_df_op4_Q166,D
+12.30602873998015,"On physical exam, the patient has tall stature with average muscle mass for his age.",165,MedBullets_df_op4_Q166,D

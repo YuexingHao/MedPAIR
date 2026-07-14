@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.28048478066921,"His medical history is significant for IV drug use, HIV (CD4: 47/mm^3), hypertension, hyperlipidemia, diabetes mellitus, and seasonal allergies.",244,MedBullets df_op4 Q245,D
+42.26099352749503,"His home medications include hydrochlorothiazide, atorvastatin, metformin, cetirizine, darunavir, tenofovir, and emtricitabine.",244,MedBullets df_op4 Q245,D
+18.012198189451812,A MRI of the brain is performed and can be seen in Figure A.,244,MedBullets df_op4 Q245,D
+16.65732309386329,"His temperature is 100.8°F (38.2°C), blood pressure is 127/85 mmHg, pulse is 78/min, and respirations are 12/min.",244,MedBullets df_op4 Q245,D
+6.493157427806156,"A 38-year-old man presents to the emergency department with nasal congestion, blurry vision, and diplopia.",244,MedBullets df_op4 Q245,D
+0.0,He denies recent IV drug use.,244,MedBullets df_op4 Q245,D
+0.0,He has injected conjunctiva and rhinorrhea.,244,MedBullets df_op4 Q245,D
+0.0,"His cranial nerves are intact, and his motor and sensory neurologic exam is normal.",244,MedBullets df_op4 Q245,D
+0.0,His nasal congestion started about 1 week ago and he noticed the blurry vision this morning when he struggled to read the words on his television screen.,244,MedBullets df_op4 Q245,D

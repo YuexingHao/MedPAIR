@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+120.79471588134766,"The patient's treatment history is significant for failure to obtain symptom control with risperidone, haloperidol, and ziprasidone.",205,MedBullets_df_op4_Q206,
+93.57999864818845,"Though he is no longer aggressive, he is seen making ""armor"" out of paper plates and plastic silverware to defend himself.",205,MedBullets_df_op4_Q206,
+59.07164870372406,"His temperature is 98.6°F (37°C), blood pressure is 115/71 mmHg, pulse is 72/min, and respirations are 12/min.",205,MedBullets_df_op4_Q206,
+47.2816661448508,The patient claims that little people were trying to kill him and he was acting within his rights to defend himself.,205,MedBullets_df_op4_Q206,
+28.744003953246487,He is given IM haloperidol and diphenhydramine.,205,MedBullets_df_op4_Q206,
+0.0,The patient has a medical history of marijuana and IV drug use as well as multiple suicide attempts.,205,MedBullets_df_op4_Q206,
+0.0,The patient is transferred to the inpatient psychiatric unit and is continued on haloperidol throughout the next week.,205,MedBullets_df_op4_Q206,

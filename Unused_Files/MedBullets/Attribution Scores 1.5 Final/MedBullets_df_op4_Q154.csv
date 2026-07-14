@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+98.80994834383024,A 9-hour-old newborn girl is found in the newborn nursery with diffuse swelling of the scalp not present at birth.,153,MedBullets_df_op4_Q154,B
+92.95404135467311,"On physical exam, she appears to be in mild distress and has a 4x5 cm ecchymotic area of swelling over the bilateral parietal bones.",153,MedBullets_df_op4_Q154,B
+72.6828297568944,The mother went into spontaneous labor but the delivery was complicated by a prolonged 2nd stage of labor.,153,MedBullets_df_op4_Q154,B
+67.09429415610876,The child was born at 38 weeks of gestation to a 28-year-old G3P3 mother.,153,MedBullets_df_op4_Q154,B
+63.334834694862366,"Her temperature is 98.6°F (37°C), blood pressure is 67/43 mmHg, pulse is 135/min, and respirations are 34/min.",153,MedBullets_df_op4_Q154,B
+25.466123958309886,The pregnancy was complicated by preeclampsia in the mother which was well-controlled throughout the pregnancy.,153,MedBullets_df_op4_Q154,B
+18.551349048983635,Serial assessments of the child’s head circumference over the next 12 hours show no change in the size of the swelling.,153,MedBullets_df_op4_Q154,B
+18.333385990349434,"The child’s Apgar scores were 8 and 9 at 1 and 5 minutes, respectively.",153,MedBullets_df_op4_Q154,B

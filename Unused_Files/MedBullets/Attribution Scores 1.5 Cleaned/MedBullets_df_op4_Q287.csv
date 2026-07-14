@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+90.35947815506336,"His temperature is 99.2°F (37.3°C), blood pressure is 140/85 mmHg, pulse is 82/min, respirations are 16/min, and oxygen saturation is 100% on room air.",286,MedBullets df_op4 Q287,A
+51.83809240936377,A 59-year-old man presents to the emergency department after a sudden onset of slurred speech and right upper extremity weakness.,286,MedBullets df_op4 Q287,A
+50.84518019928896,Finger-nose testing and tandem gait are unremarkable.,286,MedBullets df_op4 Q287,A
+50.705741616828384,"Physical exam reveals normal vision, strength, and sensation with a stable gait.",286,MedBullets df_op4 Q287,A
+44.07560523991899,A CT scan of the head is performed and is unremarkable.,286,MedBullets df_op4 Q287,A
+37.16827689473938,His symptoms lasted 20 minutes but by the time he arrived at the emergency department he was symptom-free.,286,MedBullets df_op4 Q287,A
+31.78954241050696,"He has a history of diabetes, obesity, and hypertension but does not see a physician for his underlying conditions.",286,MedBullets df_op4 Q287,A
+13.552495956420898,The patient denies any preceding symptoms.,286,MedBullets df_op4 Q287,A

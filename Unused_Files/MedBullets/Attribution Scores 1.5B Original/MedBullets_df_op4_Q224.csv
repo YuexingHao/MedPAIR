@@ -1,0 +1,24 @@
+Sentence_x,sentence_ID,Original_Position,Score,Source,row_index,QA_ID,Extracted_Answer,Sentence_y,sentence_ID_x,sentence_ID_y
+A 27-year-old nurse presents to the emergency department with a 30-minute history of palpitations and chest pain.,0,0.0,43.30898537075208,A 27-year-old nurse presents to the emergency department with a 30-minute history of palpitations and chest pain.,223.0,MedBullets df_op4 Q224,A,A 27-year-old nurse presents to the emergency department with a 30-minute history of palpitations and chest pain.,0.0,0.0
+"She has been experiencing nausea, vomiting, and diarrhea after eating leftovers 2 days ago.",1,2.0,30.760064459083587,"She has been experiencing nausea, vomiting, and diarrhea after eating leftovers 2 days ago.",223.0,MedBullets df_op4 Q224,A,Her husband tells the physician that he is concerned that the patient has been increasingly obsessed about her weight recently.,2.0,2.0
+Her husband tells the physician that he is concerned that the patient has been increasingly obsessed about her weight recently.,2,6.0,15.095619801431894,Her husband tells the physician that he is concerned that the patient has been increasingly obsessed about her weight recently.,223.0,MedBullets df_op4 Q224,A,"Laboratory testing shows the following results:
+
+Serum:
+Na+: 135 mEq/L
+Cl-: 96 mEq/L
+K+: 2.9 mEq/L
+HCO3-: 36 mEq/L
+
+Venous blood gas shows a pH of 7.52.",6.0,6.0
+She has a history of major depressive disorder for which she takes escitalopram.,3,5.0,18.6676828492759,She has a history of major depressive disorder for which she takes escitalopram.,223.0,MedBullets df_op4 Q224,A,Physical examination is notable for dry mucous membranes and tachycardia with regular rhythm.,5.0,5.0
+"Her temperature is 98.6°F (37.0°C), blood pressure is 110/72 mmHg, pulse is 110/min, and respirations are 11/min.",4,1.0,32.03146314728726,"Her temperature is 98.6°F (37.0°C), blood pressure is 110/72 mmHg, pulse is 110/min, and respirations are 11/min.",223.0,MedBullets df_op4 Q224,A,"She has been experiencing nausea, vomiting, and diarrhea after eating leftovers 2 days ago.",1.0,1.0
+Physical examination is notable for dry mucous membranes and tachycardia with regular rhythm.,5,4.0,25.33329219565675,Physical examination is notable for dry mucous membranes and tachycardia with regular rhythm.,223.0,MedBullets df_op4 Q224,A,"Her temperature is 98.6°F (37.0°C), blood pressure is 110/72 mmHg, pulse is 110/min, and respirations are 11/min.",4.0,4.0
+"Laboratory testing shows the following results:
+
+Serum:
+Na+: 135 mEq/L
+Cl-: 96 mEq/L
+K+: 2.9 mEq/L
+HCO3-: 36 mEq/L
+
+Venous blood gas shows a pH of 7.52.",6,,,,,,,,,

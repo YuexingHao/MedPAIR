@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+42.48877180711273,Examination of the external ear reveals findings shown in Figure A. Granulation tissue and purulent drainage are noted in the external auditory canal.,118,MedBullets df_op4 Q119,
+41.44204665248191,"A 68-year-old man presents to the emergency department with right ear pain that he developed 4 days prior, and it has progressively worsened.",118,MedBullets df_op4 Q119,
+10.295458004590984,"He takes metformin, insulin, and lisinopril.",118,MedBullets df_op4 Q119,
+9.570158931245611,The patient is toxic in appearance and in mild distress due to pain.,118,MedBullets df_op4 Q119,
+8.860764038429746,"His temperature is 102.2°F (39.0°C), blood pressure is 130/87 mmHg, pulse is 110/min, and respirations are 16/min.",118,MedBullets df_op4 Q119,

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+49.79286305488504,A 27-year-old woman presents to her primary care physician for an abnormal vaginal discharge.,53,MedBullets_df_op4_Q54,A
+46.999049723148346,"She has a medical history of asthma, IV drug abuse, and depression.",53,MedBullets_df_op4_Q54,A
+31.1398338445539,The patient has engaged in unprotected intercourse with 12 different partners.,53,MedBullets_df_op4_Q54,A
+29.154920575130912,The patient is given antibiotics and is advised on safe sex practices.,53,MedBullets_df_op4_Q54,A
+21.420975922087017,She has 1 to 2 alcoholic drinks per day.,53,MedBullets_df_op4_Q54,A
+20.836627858750095,She states that every time she has sex a rash has emerged on her skin.,53,MedBullets_df_op4_Q54,A
+13.612444021082537,"Her temperature is 99.5°F (37.5°C), blood pressure is 127/68 mmHg, pulse is 91/min, respirations are 14/min, and oxygen saturation is 98% on room air.",53,MedBullets_df_op4_Q54,A
+7.984786301312083,She feels ashamed of her behavior and is requesting treatment for her condition and advice for safe sex.,53,MedBullets_df_op4_Q54,A
+1.8141548465298294,The patient presents to the emergency department 3 days later with a complaint of a rash.,53,MedBullets_df_op4_Q54,A

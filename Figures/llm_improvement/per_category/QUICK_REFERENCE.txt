@@ -1,0 +1,161 @@
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                     QUICK REFERENCE: CSV DATA ALIGNMENT GUIDE                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+📋 TWO MAIN CSV FILES
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+1️⃣  PhysicianEval_Result_Report.csv
+    ├─ Size: 10K, 49 rows
+    ├─ Type: PRIMARY results table
+    ├─ Content: 6 LLMs × 8+ labeler configurations
+    ├─ Columns: Base Model, Low+Irr Labelers, Total, MMLU, Jama, MedXpert, Medbullets, STD columns
+    └─ Note: NO Physician+Trainee rows
+
+2️⃣  medpair_all_x_sig_inferred_counts.csv [ENHANCED]
+    ├─ Size: 3.1K, 28 rows
+    ├─ Type: DERIVED statistics table
+    ├─ Content: Original vs Best comparison + significance testing
+    ├─ Columns: scope, x_label, original_acc_pct, best_acc_pct, abs_delta_pct_points,
+    │           original_k, original_n_inferred, best_k, best_n_inferred, p_raw, star,
+    │           source_from_report [NEW]
+    └─ Contains: 6 LLMs + Physician+Trainee, 1 row per dataset per model
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+🔗 HOW THEY CONNECT
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+medpair CSV shows accuracy improvements by comparing two configurations from the report:
+
+Example: GPT4o on MMLU
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ PhysicianEval_Result_Report.csv:                                                                │
+│   • Row: GPT4o | Original Accuracy | MMLU = 68.81%                                             │
+│   • Row: GPT4o | Trainee Removed   | MMLU = 73.95%                                             │
+│                                                                                                 │
+│ medpair_all_x_sig_inferred_counts.csv:                                                         │
+│   • scope: mmlu                                                                                 │
+│   • x_label: GPT4o                                                                              │
+│   • original_acc_pct: 68.81%  ←─ from report row 1                                            │
+│   • best_acc_pct: 73.95%      ←─ from report row 2                                            │
+│   • abs_delta_pct_points: +5.14%                                                               │
+│   • source_from_report: "Original Accuracy → Trainee Removed"  ←─ NEW column!                 │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+✅ DATA ALIGNMENT STATUS
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+All LLM Models:           ✓ PERFECTLY MATCHED (24/24 entries)
+Sample Sizes:             ✓ CONSISTENT
+Delta Calculations:       ✓ CORRECT
+P-values & Significance:  ✓ PROPERLY COMPUTED
+Physician+Trainee:        ✓ CUSTOM (with documentation)
+Traceability Column:      ✓ ADDED
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📊 WHAT EACH COLUMN IN medpair CSV MEANS
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+scope
+  └─ Dataset: mmlu, jama, medxpert, or medbullets
+
+x_tick, x_label
+  └─ Position and name for visualization (x-axis)
+
+original_acc_pct
+  └─ Accuracy with all original labelers (from PhysicianEval report)
+
+best_acc_pct
+  └─ Accuracy with best labeler removal configuration (from PhysicianEval report)
+
+abs_delta_pct_points
+  └─ Improvement = best_acc_pct - original_acc_pct (percentage points)
+
+original_k, original_n_inferred
+  └─ Number correct and total samples with original labelers
+  └─ Calculated backward from accuracy percentage
+
+best_k, best_n_inferred
+  └─ Number correct and total samples with best configuration
+  └─ Can differ from original because different labeler sets have different cohort sizes
+
+p_raw
+  └─ P-value from two-proportion statistical test
+
+star
+  └─ Significance level: "" (ns), "*" (p<0.05), "***" (p<0.001)
+
+source_from_report ⭐ NEW COLUMN
+  └─ For LLMs:           "Original Accuracy → [Best Config]"
+  └─ For Physician+Trainee: "Physician+Trainee (custom computation)"
+  └─ Enables traceability to source report rows
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+⚡ COMMON TASKS & HOW TO DO THEM
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+Task 1: Find where a medpair row comes from
+  Step 1: Look at the source_from_report column
+  Step 2: Example result: "Original Accuracy → Trainee Removed"
+  Step 3: Go to PhysicianEval_Result_Report.csv
+  Step 4: Find row with matching Base Model and "Original Accuracy"
+  Step 5: Find row with matching Base Model and "Trainee Removed"
+  Step 6: Compare the dataset column (MMLU, Jama, etc.)
+  Step 7: ✓ Values should match medpair CSV exactly
+
+Task 2: Verify a specific result
+  Step 1: Pick a row from medpair CSV (e.g., GPT4o on JAMA)
+  Step 2: Read original_acc_pct and best_acc_pct
+  Step 3: Verify against source_from_report (e.g., Qwen-72B Removed)
+  Step 4: Find those rows in PhysicianEval CSV
+  Step 5: Check that accuracies match
+  Step 6: Confirm delta calculation: best - original
+
+Task 3: Understand why Physician+Trainee is different
+  Step 1: Look at source_from_report: "Physician+Trainee (custom computation)"
+  Step 2: This means the data is NOT in PhysicianEval_Result_Report.csv
+  Step 3: It's computed from raw physician label files
+  Step 4: See CSV_ALIGNMENT_DOCUMENTATION.md for details
+
+Task 4: Check if there's a discrepancy in Physician+Trainee
+  Step 1: Compare medpair CSV value with PDF visualization
+  Step 2: If values differ significantly, it means different source data was used
+  Step 3: Check make_medpair_combined_figure.py to see which data it uses
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+⚠️  KNOWN ISSUES
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+Issue: PDF shows different Physician+Trainee improvements than CSV
+
+  CSV shows:    JAMA +8.39%, MedXpert +16.05%, MedBullets +14.19%, MMLU +22.2%
+  PDF shows:    JAMA +37.2%, MedXpert +72.7%, MedBullets +27.3%, MMLU +24.8%
+
+  Status: INVESTIGATE
+  Reason: Likely different source data used for PDF generation
+  Action: Check which data source was used in make_medpair_combined_figure.py
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+📚 DOCUMENTATION
+═════════════════════════════════════════════════════════════════════════════════════════════════════
+
+For detailed information, see:
+
+  • CSV_ALIGNMENT_DOCUMENTATION.md
+    └─ Complete technical documentation
+    └─ FAQ section
+    └─ Data flow diagrams
+
+  • DATA_ALIGNMENT_SUMMARY.txt
+    └─ Quick reference summary
+    └─ Verification results
+    └─ Known issues
+
+═════════════════════════════════════════════════════════════════════════════════════════════════════

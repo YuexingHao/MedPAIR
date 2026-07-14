@@ -1,0 +1,7 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+80.84817268120112,His physical exam is significant for hyperpigmentation of the oral mucosa and temporal muscle wasting.,281,MedBullets_df_op4_Q282,A
+63.11582106945021,"He has a medical history significant for high blood pressure, hyperlipidemia, and seasonal allergies with no prior surgical history.",281,MedBullets_df_op4_Q282,A
+32.98844376951456,Radiography of the abdomen demonstrates bilateral adrenal calcifications.,281,MedBullets_df_op4_Q282,A
+26.996526286220643,"His temperature is 99°F (37.2°C), blood pressure is 100/70 mmHg, pulse is 76/min, and respirations are 16/min.",281,MedBullets_df_op4_Q282,A
+0.0,A 49-year-old man presents with 3 months of generalized weakness.,281,MedBullets_df_op4_Q282,A
+0.0,He currently lives in Oregon and has not left the west coast since moving.,281,MedBullets_df_op4_Q282,A

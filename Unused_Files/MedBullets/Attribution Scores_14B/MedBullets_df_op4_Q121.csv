@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+36.818426102399826,He had sudden weakness in his left leg and was unable to grasp a handrail with his left hand.,120,MedBullets df_op4 Q121,A
+26.196400780178116,"His temperature is 98.0°F (36.6°C), blood pressure is 128/89 mmHg, pulse is 130/min, and respirations are 18/min.",120,MedBullets df_op4 Q121,A
+22.55566031558299,"On exam, he has 3/5 strength in the left upper and lower extremities and a left-sided facial droop.",120,MedBullets df_op4 Q121,A
+14.32029323273819,He is given intravenous alteplase with rapid improvement in his strength deficits and facial asymmetry.,120,MedBullets df_op4 Q121,A
+12.409961766829722,A 65-year-old man presents to the emergency department for evaluation of left arm and leg weakness.,120,MedBullets df_op4 Q121,A
+11.84205070757282,"A non-contrast CT scan of the head is performed, which suggests parenchymal ischemia in the distribution of the right middle cerebral artery.",120,MedBullets df_op4 Q121,A
+6.356543147233645,He currently takes no medications.,120,MedBullets df_op4 Q121,A
+2.4699241618667487,He was walking in the park about 45 minutes prior to arrival when the patient stumbled and fell.,120,MedBullets df_op4 Q121,A
+0.0,"An ECG is performed, as shown in Figure A.",120,MedBullets df_op4 Q121,A

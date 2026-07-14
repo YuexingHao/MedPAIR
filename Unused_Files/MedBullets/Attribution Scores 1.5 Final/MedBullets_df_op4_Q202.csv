@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+83.2637728880318,The patient asks for an emergency contraceptive pill and would prefer that her parents not be notified about her visit.,201,MedBullets_df_op4_Q202,B
+59.36678360402584,"She has had regular menses since menarche, and her last menstrual period ended 8 days ago.",201,MedBullets_df_op4_Q202,B
+29.10347382407577,She had unprotected sexual intercourse earlier that morning and requests emergency contraception.,201,MedBullets_df_op4_Q202,B
+25.35347723896815,A 15-year-old girl presents to the clinic due to concern that she may be pregnant.,201,MedBullets_df_op4_Q202,B
+10.85898545980266,"Her temperature is 98.6°F (37°C), blood pressure is 114/71 mmHg, pulse is 81/min, and respirations are 12/min.",201,MedBullets_df_op4_Q202,B
+6.1325475471159265,She has no significant medical history.,201,MedBullets_df_op4_Q202,B
+0.0,A urine pregnancy test is negative.,201,MedBullets_df_op4_Q202,B

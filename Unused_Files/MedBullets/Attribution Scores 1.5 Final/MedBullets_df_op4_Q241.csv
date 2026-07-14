@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+98.64834571726335,"He was celebrating his birthday last night and admits having ""too much to drink"" and vomited profusely overnight.",240,MedBullets_df_op4_Q241,C
+55.44476191189834,A 43-year-old man presents to the emergency department with bright red blood in his stool this morning.,240,MedBullets_df_op4_Q241,C
+45.82047361135483,Rectal exam reveals grossly bloody stool.,240,MedBullets_df_op4_Q241,C
+40.65816822776448,Physical exam reveals a nontender abdomen with normal bowel sounds.,240,MedBullets_df_op4_Q241,C
+28.20968637650944,He has no other significant medical history and does not take any medications.,240,MedBullets_df_op4_Q241,C
+27.66962042064368,He currently feels well and is not nauseous.,240,MedBullets_df_op4_Q241,C
+16.323094338209636,"He noticed this yesterday as well, but it was much scanter.",240,MedBullets_df_op4_Q241,C
+-0.0,The patient is otherwise healthy.,240,MedBullets_df_op4_Q241,C

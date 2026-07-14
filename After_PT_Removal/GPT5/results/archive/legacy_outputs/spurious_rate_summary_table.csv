@@ -1,0 +1,8 @@
+Model,Overall,JAMA,MedBullets,MedXpertQA,MMLU
+MedGemma-27B,39.0,35.21,40.72,61.82,21.05
+GPT-5 Removal,6.53,6.61,4.64,12.73,1.05
+Qwen-14B Removed,5.46,5.25,3.61,11.36,1.05
+Llama-70B,70.66,67.7,68.56,77.73,72.63
+Qwen-72B,70.75,67.32,68.56,78.18,73.68
+GPT-4o Removed,5.9,5.84,2.06,12.73,2.11
+Trainee Removal,79.43,75.88,79.38,87.27,80.0

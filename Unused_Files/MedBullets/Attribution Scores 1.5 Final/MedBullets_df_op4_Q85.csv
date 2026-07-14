@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+53.979932694846156,"A pelvic exam reveals a normal cervix, an anteverted uterus without tenderness, and no adnexal masses.",84,MedBullets_df_op4_Q85,
+53.947897672727464,She feels flushed without provocation and is experiencing occasional dyspareunia with post-coital spotting.,84,MedBullets_df_op4_Q85,
+44.33441323414445,"Her temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min.",84,MedBullets_df_op4_Q85,
+8.34493349949611,The patient has a medical history of Hashimoto thyroiditis and takes levothyroxine daily.,84,MedBullets_df_op4_Q85,
+0.0,A 35-year-old G0P0000 woman presents to her gynecologist with complaints of irregular menstruation.,84,MedBullets_df_op4_Q85,

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+43.74551721023225,The teacher applied dressings and pressure to the patient's injured digit and immediately transported the patient to the emergency department.,180,MedBullets df_op4 Q181,A
+25.818786488617803,"The teacher states that he left the amputated finger in the classroom, but the principal would be transporting it to the hospital.",180,MedBullets df_op4 Q181,A
+7.91820421766322,A 17-year-old high school student was in shop class when he accidentally sawed off a portion of his right index finger.,180,MedBullets df_op4 Q181,A
+-0.0,"The wound was cleaned, compression applied, analgesics administered, and the hand surgeons were notified.",180,MedBullets df_op4 Q181,A
+-0.0,Radiography of the hand revealed a complete amputation of the right finger from the distal interphalangeal joint.,180,MedBullets df_op4 Q181,A
+-0.0,"His temperature is 98.0°F (36.6°C), blood pressure is 120/70 mmHg, pulse is 105/min, and respirations are 17/min.",180,MedBullets df_op4 Q181,A
+0.0,Exam was significant for pulsatile bleeding from a clean-cut wound on his right second finger.,180,MedBullets df_op4 Q181,A
+0.0,He arrived within 20 minutes of the accident.,180,MedBullets df_op4 Q181,A
+-0.0,The patient has a medical history of asthma and his only medication is albuterol.,180,MedBullets df_op4 Q181,A

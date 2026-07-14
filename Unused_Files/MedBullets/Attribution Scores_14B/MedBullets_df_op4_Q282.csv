@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+26.60636894539094,He currently lives in Oregon and has not left the west coast since moving.,281,MedBullets df_op4 Q282,C
+26.25970533596703,Radiography of the abdomen demonstrates bilateral adrenal calcifications.,281,MedBullets df_op4 Q282,C
+25.128627772295268,"His temperature is 99°F (37.2°C), blood pressure is 100/70 mmHg, pulse is 76/min, and respirations are 16/min.",281,MedBullets df_op4 Q282,C
+19.264151162385772,His physical exam is significant for hyperpigmentation of the oral mucosa and temporal muscle wasting.,281,MedBullets df_op4 Q282,C
+12.076581322798713,A 49-year-old man presents with 3 months of generalized weakness.,281,MedBullets df_op4 Q282,C
+3.6360229495497345,He has had a chronic cough and a 20 pound unintentional weight loss over the past 6 months.,281,MedBullets df_op4 Q282,C
+2.0560258142650127,"He has a medical history significant for high blood pressure, hyperlipidemia, and seasonal allergies with no prior surgical history.",281,MedBullets df_op4 Q282,C
+0.0,He moved from India 7 years prior to presentation.,281,MedBullets df_op4 Q282,C
+0.0,He has no history of tobacco use.,281,MedBullets df_op4 Q282,C

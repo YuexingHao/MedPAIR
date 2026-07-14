@@ -1,0 +1,25 @@
+model,source,r1_correct,r2_correct,r2_incorrect_spurious
+Qwen-72B,mmlu,164,160,4
+Qwen-72B,jama,176,155,21
+Qwen-72B,medxpert,74,61,13
+Qwen-72B,medbullets,113,107,6
+Qwen-14B,mmlu,167,155,12
+Qwen-14B,jama,203,171,32
+Qwen-14B,medxpert,65,50,15
+Qwen-14B,medbullets,99,88,11
+Llama-70B,mmlu,153,147,6
+Llama-70B,jama,186,160,26
+Llama-70B,medxpert,73,53,20
+Llama-70B,medbullets,95,88,7
+MedGemma-27B,mmlu,104,41,63
+MedGemma-27B,jama,39,7,32
+MedGemma-27B,medxpert,38,7,31
+MedGemma-27B,medbullets,69,31,38
+GPT4o,mmlu,185,97,88
+GPT4o,jama,242,127,115
+GPT4o,medxpert,124,65,59
+GPT4o,medbullets,139,73,66
+GPT 5,mmlu,189,162,27
+GPT 5,jama,259,222,37
+GPT 5,medxpert,205,175,30
+GPT 5,medbullets,152,130,22

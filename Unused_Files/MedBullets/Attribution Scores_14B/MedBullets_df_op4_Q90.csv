@@ -1,0 +1,15 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+31.049296959615234,HEENT exam reveals non-tender posterior and anterior chain lymphadenopathy.,89,MedBullets df_op4 Q90,D
+25.694141533722554,A 62-year-old man presents to the emergency department with increased fatigue and changes in his vision.,89,MedBullets df_op4 Q90,D
+15.766919540236726,"There are large, non-tender palpable lymph nodes in the patient's inguinal region.",89,MedBullets df_op4 Q90,D
+15.713845335783741,A neurological exam is notable for decreased sensation in the patient's hands and feet.,89,MedBullets df_op4 Q90,D
+14.783313967248489,The dermatologic exam is notable for multiple bruises on his upper and lower extremities.,89,MedBullets df_op4 Q90,D
+14.391975551903883,"His temperature is 99.5°F (37.5°C), blood pressure is 157/98 mmHg, pulse is 90/min, respirations are 17/min, and oxygen saturation is 98% on room air.",89,MedBullets df_op4 Q90,D
+12.908816695213318,The patient also endorses increased sweating at night and new-onset headaches.,89,MedBullets df_op4 Q90,D
+9.97427112061822,He also complains of numbness and tingling pain in his extremities that has been persistent during this time.,89,MedBullets df_op4 Q90,D
+4.5327986418557185,Abdominal exam reveals splenomegaly and hepatomegaly.,89,MedBullets df_op4 Q90,D
+-0.0,A cardiopulmonary exam is within normal limits.,89,MedBullets df_op4 Q90,D
+0.0,The patient has a medical history of diabetes and hypertension.,89,MedBullets df_op4 Q90,D
+0.0,"His current medications include insulin, metformin, and lisinopril.",89,MedBullets df_op4 Q90,D
+0.0,He currently feels dizzy.,89,MedBullets df_op4 Q90,D
+0.0,"For the past month, he has felt abnormally tired and today noticed his vision is blurry.",89,MedBullets df_op4 Q90,D

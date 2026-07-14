@@ -1,0 +1,9 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+37.14853549034126,She has started teething and sometimes becomes “fussy.” Vital signs are within normal limits.,47,MedBullets df_op4 Q48,C
+30.82764882508367,"The patient’s father brought a 4-week follow-up chest radiograph taken at the hospital, as shown in Figure A.",47,MedBullets df_op4 Q48,C
+23.945073474010776,"She often babbles but sometimes does make identifiable sounds like “dada” and “baba.” They recently started feeding her mushy cereal, which she seems to like but occasionally spits up.",47,MedBullets df_op4 Q48,C
+20.554806121571875,Her father reports that she seems “back to normal.” She can roll over by herself and can sit up without support.,47,MedBullets df_op4 Q48,C
+9.725685691835622,She was in her usual state of health until 6 weeks ago when she was hospitalized for bacterial pneumonia.,47,MedBullets df_op4 Q48,C
+5.795172745057094,A 6-month-old girl is brought to the pediatrician by her father for a scheduled check-up.,47,MedBullets df_op4 Q48,C
+0.0,A physical examination is unremarkable.,47,MedBullets df_op4 Q48,C
+0.0,She received amoxicillin and had a resolution of her symptoms.,47,MedBullets df_op4 Q48,C

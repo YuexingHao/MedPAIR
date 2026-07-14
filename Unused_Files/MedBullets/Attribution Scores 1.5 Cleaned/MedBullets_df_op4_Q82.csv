@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+67.89546301960945,His medical and surgical history is significant for the reconstruction of a torn anterior cruciate ligament in his right knee.,81,MedBullets df_op4 Q82,A
+37.83192527681532,His family history is significant for a mother with “thyroid problems” and a father with coronary artery disease.,81,MedBullets df_op4 Q82,A
+34.837396948166784,His abdomen is soft and non-tender without hepatosplenomegaly.,81,MedBullets df_op4 Q82,A
+34.09651380585554,A single nodule can be palpated on the patient’s thyroid.,81,MedBullets df_op4 Q82,A
+29.595054354629035,"His temperature is 98.6°F (37.0°C), blood pressure is 124/82 mmHg, pulse is 71/min, and respirations are 12/min.",81,MedBullets df_op4 Q82,A
+26.45328486383836,He has palpable cervical lymphadenopathy.,81,MedBullets df_op4 Q82,A
+19.333423805972,A physical exam of the perioral region can be seen in Figure A.,81,MedBullets df_op4 Q82,A
+17.784624533797246,The patient is an information technology specialist at a local company.,81,MedBullets df_op4 Q82,A
+10.180950070393544,"On cardiac exam, he has a normal S1/S2 with no murmurs, rubs, or gallops, and his lungs are clear bilaterally.",81,MedBullets df_op4 Q82,A
+9.09305879295676,A 25-year-old man presents to his primary care provider for a routine appointment.,81,MedBullets df_op4 Q82,A

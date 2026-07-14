@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+16.354471943830013,A 17-year-old boy presents to the emergency department after a car accident.,273,MedBullets_df_op4_Q274,
+7.199344439163979,He drove his car into a pole while speeding at night.,273,MedBullets_df_op4_Q274,
+0.0,He is complaining of a headache.,273,MedBullets_df_op4_Q274,
+-0.0,Physical exam reveals a confused young man.,273,MedBullets_df_op4_Q274,
+0.0,He knows his name and address and is able to remember other information about himself.,273,MedBullets_df_op4_Q274,
+0.0,"Throughout the exam, he continuously asks what happened to him.",273,MedBullets_df_op4_Q274,
+0.0,He has no past medical history and takes no medications.,273,MedBullets_df_op4_Q274,
+0.0,The patient is unable to offer a history and repetitively asks the nurses what happened.,273,MedBullets_df_op4_Q274,
+0.0,Cranial nerves 2-12 are intact and the patient has normal strength and sensation.,273,MedBullets_df_op4_Q274,
+0.0,"His temperature is 97.6°F (36.4°C), blood pressure is 122/74 mmHg, pulse is 90/min, respirations are 12/min, and oxygen saturation is 98% of room air.",273,MedBullets_df_op4_Q274,

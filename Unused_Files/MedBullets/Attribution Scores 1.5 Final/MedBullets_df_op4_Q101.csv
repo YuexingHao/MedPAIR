@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+54.343397727852114,"Her temperature is 98.6°F (37°C), blood pressure is 138/92 mmHg, pulse is 92/min, and respirations are 17/min.",100,MedBullets_df_op4_Q101,
+43.5308837890625,"On physical exam, there is mild tenderness to palpation of the metacarpophalangeal and proximal interphalangeal joints.",100,MedBullets_df_op4_Q101,
+39.68178922968609,"Approximately 1 month ago, she was diagnosed with calcium phosphate nephrolithiasis.",100,MedBullets_df_op4_Q101,
+37.385351725782144,Medical history is significant for rheumatoid arthritis diagnosed approximately 10 years ago and treated with methotrexate as well as type 2 diabetes mellitus treated with metformin.,100,MedBullets_df_op4_Q101,
+0.0,Her symptoms have progressively worsened over the course of 2 weeks and are most significant in her lower extremities.,100,MedBullets_df_op4_Q101,

@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+97.44683392345905,She feels flushed without provocation and is experiencing occasional dyspareunia with post-coital spotting.,84,MedBullets df_op4 Q85,D
+53.38142344345795,A 35-year-old G0P0000 woman presents to her gynecologist with complaints of irregular menstruation.,84,MedBullets df_op4 Q85,D
+12.578026758919329,She has also had more frequent headaches than usual.,84,MedBullets df_op4 Q85,D
+10.552632803654102,The patient has a medical history of Hashimoto thyroiditis and takes levothyroxine daily.,84,MedBullets df_op4 Q85,D
+3.1190322915481605,Her mother has type 1 diabetes mellitus.,84,MedBullets df_op4 Q85,D
+0.0,"A pelvic exam reveals a normal cervix, an anteverted uterus without tenderness, and no adnexal masses.",84,MedBullets df_op4 Q85,D
+0.0,The patient has Tanner 5 breasts and pubic hair.,84,MedBullets df_op4 Q85,D
+0.0,"Her temperature is 98.5°F (36.9°C), pulse is 70/min, blood pressure is 118/76 mmHg, and respirations are 13/min.",84,MedBullets df_op4 Q85,D
+-0.0,Cardiopulmonary and abdominal exams are unremarkable.,84,MedBullets df_op4 Q85,D
+0.0,She has had only 2 periods in the last year.,84,MedBullets df_op4 Q85,D

@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+114.73685438316653,"His temperature is 99.2°F (37.3°C), blood pressure is 130/87 mmHg, pulse is 99/min, respirations are 22/min, and oxygen saturation is 100% on room air.",237,MedBullets_df_op4_Q238,C
+54.27137960428092,His wife noticed he fainted after the pain started but regained consciousness shortly after.,237,MedBullets_df_op4_Q238,C
+49.22980634868145,He also believes the pain is worse when leaning back and improved when leaning forward.,237,MedBullets_df_op4_Q238,C
+42.44245695033296,He has a medical history of diabetes and hypertension for which he is on metformin and losartan.,237,MedBullets_df_op4_Q238,C
+5.968927995844781,A normal S1 and S2 are auscultated with clear breath sounds.,237,MedBullets_df_op4_Q238,C
+1.695470427638227,"He states that the pain is dull in quality, started 30 minutes ago, has been gradually worsening, and is worse with exertion.",237,MedBullets_df_op4_Q238,C
+0.0,A 50-year-old man presents to the emergency department with chest pain.,237,MedBullets_df_op4_Q238,C
+-0.0,He also endorses some shortness of breath.,237,MedBullets_df_op4_Q238,C
+0.0,Physical exam reveals an overweight man.,237,MedBullets_df_op4_Q238,C

@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+60.25213467208874,"He has never had epistaxis before and has been unable to control it with pressure, head elevation, and ice.",288,MedBullets df_op4 Q289,B
+32.93752591270105,"There is not a clear, single bleeding vessel.",288,MedBullets df_op4 Q289,B
+24.50451593612457,"His temperature is 98.5°F (36.9°C), blood pressure is 123/81 mmHg, pulse is 90/min, respirations are 13/min, and oxygen saturation is 97% on room air.",288,MedBullets df_op4 Q289,B
+16.297453865408897,The patient has a past medical history of atrial fibrillation and is currently taking metoprolol and warfarin.,288,MedBullets df_op4 Q289,B
+5.266979707087191,Inspection reveals active bleeding in the anterior nares.,288,MedBullets df_op4 Q289,B
+1.7776703824311915,A 55-year-old man presents to the emergency department with epistaxis for the past hour.,288,MedBullets df_op4 Q289,B
+0.0,Physical exam reveals a comfortable man in no distress.,288,MedBullets df_op4 Q289,B

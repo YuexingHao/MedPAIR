@@ -1,0 +1,12 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+40.59404115147894,"On physical exam, the patient has a wide nasal bridge, down slanting palpebral fissures, and widely spaced eyes.",7,MedBullets df_op4 Q8,B
+25.040282191887417,A newborn boy is evaluated in the hospital nursery 2 hours after birth.,7,MedBullets df_op4 Q8,B
+20.26851592740845,The patient’s APGAR scores were notable for poor muscle tone at both 1 and 5 minutes of life.,7,MedBullets df_op4 Q8,B
+19.594858490703704,He has good respiratory effort with a high-pitched cry.,7,MedBullets df_op4 Q8,B
+14.698492778735307,"His temperature is 97.1°F (36.2°C), blood pressure is 57/42 mmHg, pulse is 140/min, and respirations are 38/min.",7,MedBullets df_op4 Q8,B
+12.649186881547248,"The patient’s birth weight is 2.6 kg (5 lb 11 oz), which is at the 5th percentile.",7,MedBullets df_op4 Q8,B
+4.943051470904906,"His height and head circumference are in the 15th and 3rd percentile, respectively.",7,MedBullets df_op4 Q8,B
+4.041445048678315,The patient’s anatomy ultrasound at 20 weeks of gestation was unremarkable.,7,MedBullets df_op4 Q8,B
+0.8328606882098024,The patient was born at 39 weeks of gestation to a 30-year-old primigravid via vaginal delivery.,7,MedBullets df_op4 Q8,B
+0.7008788175880909,The patient’s mother received routine prenatal care and the pregnancy was uncomplicated.,7,MedBullets df_op4 Q8,B
+0.0,The patient’s mother denies any family history of genetic diseases.,7,MedBullets df_op4 Q8,B

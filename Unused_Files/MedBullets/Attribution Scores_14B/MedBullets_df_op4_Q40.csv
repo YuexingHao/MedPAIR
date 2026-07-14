@@ -1,0 +1,8 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+87.15690785873893,"A 24-year-old man with epilepsy refractory to valproic acid, phenytoin, and levetiracetam undergoes magnetic resonance imaging of his brain while monitored by anesthetic care.",39,MedBullets df_op4 Q40,C
+61.998363508641056,"Overnight, the nurse continued to increase the patient's midazolam infusion rate, but she also noticed that his left toes were cold to the touch with significant edema.",39,MedBullets df_op4 Q40,C
+50.86901025851472,"His temperature is now 100°F (37.8°C), blood pressure is 110/75 mmHg, pulse is 80/min, respirations are 10/min and oxygen saturation is 95% on 2 liters nasal cannula.",39,MedBullets df_op4 Q40,C
+50.77170333266258,He is admitted to the medical intensive care unit for continuous electroencephalogram monitoring while on a midazolam infusion for seizure suppression and supportive care for his burn.,39,MedBullets df_op4 Q40,C
+50.048678519794315,He wakes up screaming in pain due to an electrocardiogram lead having caused a significant thermal burn circumferentially around his left leg.,39,MedBullets df_op4 Q40,C
+37.5147189161531,A delta pressure of 25 mmHg is obtained in the left leg.,39,MedBullets df_op4 Q40,C
+15.746785753766641,No dorsalis pedis or posterior tibial pulses are detected on the left lower extremity.,39,MedBullets df_op4 Q40,C

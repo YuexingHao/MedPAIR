@@ -1,0 +1,10 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+64.27017140251698,"At this visit, his temperature is 99.5°F (37.5°C), blood pressure is 130/87 mmHg, pulse is 80/min, respirations are 11/min, and oxygen saturation is 96% on room air.",186,MedBullets df_op4 Q187,D
+62.77789487086982,"The patient is managed appropriately and is discharged on atorvastatin, metoprolol, aspirin, clopidogrel, and sodium docusate.",186,MedBullets df_op4 Q187,D
+30.86129732432556,A 69-year-old patient presents to the emergency department with shortness of breath and substernal pain.,186,MedBullets df_op4 Q187,D
+25.456853392999875,An ECG is obtained and is seen in Figure A.,186,MedBullets df_op4 Q187,D
+19.969960506397058,The patient visits his primary care physician 4 weeks later and claims to be doing better.,186,MedBullets df_op4 Q187,D
+14.308664336800575,He is currently not taking any medications and has not filled his prescriptions for over 1 year.,186,MedBullets df_op4 Q187,D
+10.394630993774573,"The patient has a medical history of obesity, anxiety, and constipation.",186,MedBullets df_op4 Q187,D
+7.812639723230564,He has been taking his medications and resting.,186,MedBullets df_op4 Q187,D
+0.0,The patient states he feels better since the incident.,186,MedBullets df_op4 Q187,D

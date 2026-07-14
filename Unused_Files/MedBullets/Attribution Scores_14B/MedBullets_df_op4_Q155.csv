@@ -1,0 +1,11 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+45.770832307739305,All prenatal screening was normal and the 20-week anatomy ultrasound was unremarkable.,154,MedBullets df_op4 Q155,B
+38.351868659698845,She denies that the lump was present at birth and is concerned about an infection.,154,MedBullets df_op4 Q155,B
+28.728604586515086,A 6-hour-old newborn boy is noted to have a “lump on his head” by his mother.,154,MedBullets df_op4 Q155,B
+18.61260716632178,He has a 3x3 cm fluctuant swelling over the right parietal bone that does not cross the midline.,154,MedBullets df_op4 Q155,B
+12.648557586941463,"His temperature is 98.6°F (37°C), blood pressure is 65/42 mmHg, pulse is 131/min, and respirations are 36/min.",154,MedBullets df_op4 Q155,B
+0.0,There is no discoloration of the overlying scalp.,154,MedBullets df_op4 Q155,B
+0.0,The mother was diagnosed during this pregnancy with gestational diabetes mellitus and received prenatal care throughout.,154,MedBullets df_op4 Q155,B
+-0.0,"On physical exam, the child is in no acute distress.",154,MedBullets df_op4 Q155,B
+0.0,The child was born at 39 weeks gestation to a 34-year-old G2P2 mother by vacuum-assisted vaginal delivery after prolonged labor.,154,MedBullets df_op4 Q155,B
+0.0,"His birth weight was 3.8 kg (8.4 lb) and his length and head circumference are at the 40th and 60th percentiles, respectively.",154,MedBullets df_op4 Q155,B

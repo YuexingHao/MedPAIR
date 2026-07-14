@@ -1,0 +1,6 @@
+Score,Source,row_index,QA_ID,Extracted_Answer
+63.19249804317951,"According to her boyfriend, the patient has a medical history of bipolar disorder for which she takes lithium, as well as chronic lower back pain for which she sees a pain specialist.",67,MedBullets df_op4 Q68,B
+62.04760235393694,"Her temperature is 100.5°F (38.1°C), blood pressure is 102/78 mmHg, pulse is 127/min, respirations are 19/min, and oxygen saturation is 99% on room air.",67,MedBullets df_op4 Q68,B
+27.07950978239729,An ECG is performed as seen in Figure A.,67,MedBullets df_op4 Q68,B
+26.47060348183913,Her boyfriend found her at home next to a suicide note and brought her into the emergency department.,67,MedBullets df_op4 Q68,B
+22.251610921867915,A 27-year-old woman presents to the emergency department with altered mental status.,67,MedBullets df_op4 Q68,B
