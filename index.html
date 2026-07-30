@@ -223,7 +223,14 @@
             <div class="image-container">
                 <img src="static/images/Result.png" alt="Evaluation Pipeline Overview">
                 <h2 class="subtitle">
-                    Effect of Filtering Context on Final Performance.  GPT-4o outperforms all tested open-source language models. After removing irrelevant and low-relevance sentences, LLaMA 70B and Qwen 14B demonstrated the most substantial accuracy improvements. In contrast, Qwen 72B occasionally experiences performance drops following the removal process. 
+                    Effect of Filtering Context on Final Performance. Accuracy on four medical benchmarks (MMLU, JAMA, MedXpert, MedBullets) when predictions use only the sentences a given labeler marked highly relevant. Solid lines give the original accuracy and dotted lines the best across labeler configurations; coloured markers show each configuration (CC: ContextCite, SR: self-reported). Annotations give best minus original in percentage points. Stars are McNemar's paired test with Bonferroni correction, * p&lt;0.01/7 and ** p&lt;0.01/28, shown only for improvements.
+                </h2>
+            </div>
+            <br>            <br>
+            <div class="image-container">
+                <img src="static/images/Result_Total.png" alt="Pooled results across all four datasets">
+                <h2 class="subtitle">
+                    Pooled Results Across All Four Datasets. The same comparison with MMLU, JAMA, MedXpert and MedBullets combined into a single 933-question total. Accuracy is the number of correct answers over the full cohort, so a question a model does not answer counts as incorrect and every condition shares one denominator.
                 </h2>
             </div>
             <br>            <br>
