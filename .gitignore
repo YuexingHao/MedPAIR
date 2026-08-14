@@ -1,0 +1,45 @@
+# ---- Python environments (never commit these) ----
+Unused_Files/myenv/
+.conda/
+venv/
+env/
+.venv/
+*.egg-info/
+
+# ---- Python caches ----
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# ---- LaTeX working copy ----
+# medpair_paper/ is a separate Overleaf git repo checked out inside this tree.
+# It is versioned there, not here.
+medpair_paper/
+
+# ---- LaTeX build artifacts (in case a .tex is ever added here) ----
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.xdv
+
+# Cluster job logs (*.out / *.err / *.log) are intentionally NOT ignored:
+# they record the exact run that produced each result file.
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# ---- Secrets ----
+.env
+*.key
+credentials.json
+
+# Working backups
+*.bak

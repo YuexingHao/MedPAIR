@@ -1,0 +1,24 @@
+# MedPAIR dependencies.
+# Versions are those the analyses were last run against (Python 3.13).
+# Install:  pip install -r requirements.txt
+
+# --- core analysis (needed for every table and figure) ---
+pandas==3.0.0
+numpy==2.4.6
+scipy==1.16.2
+matplotlib==3.10.7
+tqdm==4.67.3
+
+# --- figures ---
+plotly==6.5.2
+pillow==12.0.0
+
+# --- LLM inference (only needed to re-run model predictions, not to
+#     reproduce tables/figures from the shipped prediction CSVs) ---
+torch==2.11.0
+transformers==5.13.0
+vllm==0.24.0
+
+# --- hosted model APIs (only for GPT-4o / GPT-5 stages) ---
+openai==2.24.0
+azure-identity
