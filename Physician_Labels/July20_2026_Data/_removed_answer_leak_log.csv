@@ -1,0 +1,211 @@
+Origin,letter,is_gold,n_words,removed,kind
+ID0018,D,True,9,"Initiate admission, high-dose systemic steroids, and a rheumatology consult",full_option
+ID0041,A,True,11,Perform rapid plasma reagin and confirmatory fluorescent treponemal antibody absorption testing,full_option
+ID0060,B,False,8,Admit to the hospital for intravenous antiviral therapy,full_option
+ID0060,C,True,8,Instruct the patient to take only the valacyclovir,full_option
+ID0060,D,False,8,Instruct the patient to take only the clindamycin,full_option
+ID0069,D,True,9,Discuss carefully observing vs surgical repair of the ptosis,full_option
+ID0110,C,False,8,High-grade carcinoma of the breast with occult primary,full_option
+ID0149,C,False,8,Perform tissue culture for bacterial and fungal organisms,full_option
+ID0155,C,True,13,"Perform a lumbar puncture with opening pressure, routine chemistry, and cell count analysis",full_option
+ID0186,A,False,9,Prescribe laboratory testing to investigate causes of intraocular inflammation,full_option
+ID0186,C,True,8,Genetic testing to rule out a mitochondrial disease,full_option
+ID0215,B,True,14,Further taper her corticosteroid dosage and start a cycloplegic agent to break posterior synechiae,full_option
+ID0215,C,False,12,Perform AC paracentesis and send fluid for viral polymerase chain reaction analysis,full_option
+ID0232,C,False,10,Switch vancomycin to linezolid for refractory methicillin-resistant Staphylococcus aureus pneumonia,full_option
+ID0232,B,True,10,Add trimethoprim and sulfamethoxazole and corticosteroids for Pneumocystis jiroveci pneumonia,full_option
+ID0236,B,False,8,Order a repeat CT scan in 3-6 months,full_option
+ID0243,C,True,8,Magnetic resonance angiography of the brain and neck,full_option
+ID0268,D,False,8,Recommend a temporal craniotomy with a brain biopsy,full_option
+ID0328,C,False,8,Retinal detachment repair with vitrectomy and/or scleral buckle,full_option
+ID0337,B,False,8,Pars plana vitrectomy with drainage of subretinal fluid,full_option
+ID0368,A,False,15,"Perform conjunctival cultures on blood, chocolate, Löwenstein-Jensen, Sabouraud, and thioglycolate media before restarting antibiotic therapy",full_option
+ID0368,D,True,9,Perform serologic testing for Bartonella henselae and Francisella tularensis,full_option
+ID0368,C,False,8,Provide reassurance that the diagnosis is typically self-limited,full_option
+ID0393,D,True,11,Pars plana vitrectomy with removal of the intraocular lens and capsule,full_option
+ID0393,B,False,8,Repeat vitreous biopsy and intravitreal injection of antibiotics,full_option
+ID0405,B,True,8,Order urgent magnetic resonance imaging of the brain,full_option
+ID0417,D,True,13,Perform an anterior orbitotomy with abscess drainage in conjunction with endoscopic sinus surgery,full_option
+ID0417,C,False,15,"Refer to an ear, nose, and throat physician for removal of frontal sinus cystic lining",full_option
+ID0449,C,True,9,"Perform intraocular lens explantation, capsulectomy, and intravitreal vancomycin injection",full_option
+ID0449,D,False,9,Inject intravitreal vancomycin and administer systemic vancomycin and prednisone,full_option
+ID0449,A,False,9,Prescribe topical moxifloxacin and consult an infectious diseases specialist,full_option
+ID0449,B,False,8,Perform another vitreous tap and intravitreal vancomycin injection,full_option
+ID0463,D,True,8,Prescribe oral prednisone and HSV viral suppression therapy,full_option
+ID0483,B,False,10,Obtain a polymerase chain reaction (PCR) panel for gastrointestinal pathogens,full_option
+ID0483,C,False,8,Order measurement of antineutrophil cytoplasmic antibody (ANCA) level,full_option
+ID0508,C,False,8,Order polymerase chain reaction (PCR) assay for Ascaris,full_option
+ID0528,B,True,13,Order brain magnetic resonance imaging to look for associated central nervous system tumors,full_option
+ID0533,A,False,9,Recommend intravitreal anti-VEGF injections for exudative age-related macular degeneration,full_option
+ID0533,C,True,10,Perform pars plana vitrectomy and excisional biopsy of the membrane.,full_option
+ID0552,A,False,11,Initiate an oral corticosteroid plus intravitreal anti–vascular endothelial growth factor therapy,full_option
+ID0552,C,True,12,"Complete serum immunoglobulin level tests, DNA molecular analysis, and bone marrow biopsy",full_option
+ID0552,B,False,10,Administer topical interferon 4 times a day for 3 months,full_option
+ID0553,C,True,10,Serum and urine testing for various inflammatory and infectious processes,full_option
+ID0561,A,False,9,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,full_option
+ID0584,C,True,10,Inject a local anesthetic into the area of maximal tenderness,full_option
+ID0596,C,False,8,Order magnetic resonance imaging of the sacroiliac joint,full_option
+ID0609,C,False,10,"Order computed tomography imaging of the chest, abdomen, and pelvis",full_option
+ID0635,B,False,8,Reassure the patient that no treatment is necessary,full_option
+ID0635,D,True,8,Perform a diagnostic test to clarify the diagnosis,full_option
+ID0636,C,True,10,Search for nematodes under a high-magnification fundus contact lens examination,full_option
+ID0647,C,True,15,"Order antinuclear antibody, anti-Ro/SS-A, and anti-La/SS-B antibody testing for both the infant and his mother",full_option
+ID0647,A,False,8,Provide education on proper facial cleansing and moisturizing,full_option
+ID0647,D,False,9,Order a serologic test for syphilis for the infant.,full_option
+ID0656,D,False,16,Reassure the patient that her findings are consistent with longstanding changes caused by a congenital defect,full_option
+ID0656,C,False,10,Monitor closely with serial examinations and repeated visual field testing,full_option
+ID0675,A,True,9,Avoid further ibuprofen use and prescribe a topical steroid,full_option
+ID0692,A,False,10,Perform an intravitreous injection of an antivascular endothelial growth factor,full_option
+ID0692,B,True,10,Refer the patient to a hematology service for possible anticoagulation,full_option
+ID0699,C,True,9,Obtain cerebral magnetic resonance venography or computed tomographic venography.,full_option
+ID0708,D,False,13,Order magnetic resonance imaging of the brain with contrast and perform lumbar puncture,full_option
+ID0708,C,True,9,Refer to the health department for 4-drug antituberculous treatment,full_option
+ID0716,D,True,9,"Computed tomography scan of the chest, abdomen, and pelvis",full_option
+ID0731,C,True,9,Perform magnetic resonance imaging of the brain and spine,full_option
+ID0733,D,True,8,Right thoracotomy with primary closure and mesh placement,full_option
+ID0740,D,False,14,Perform an endothelial keratoplasty (Descemet stripping and endothelial keratoplasty or Descemet membrane endothelial keratoplasty),full_option
+ID0740,B,False,15,Provide medical management with topical corticosteroids and hypertonic saline solution for an additional 3 months,full_option
+ID0746,C,True,8,"Check parathyroid hormone, vitamin D, and calcium levels",full_option
+ID0754,C,False,9,Check vitamin B12 levels and ask about smoking history,full_option
+ID0769,B,True,8,Obtain serum antinuclear antibody and lupus anticoagulant assay,full_option
+ID0769,C,False,8,Obtain a bacterial culture of the skin lesions,full_option
+ID0779,C,True,8,Antimelanoma differentiation associated gene 5 clinically amyopathic dermatomyositis,full_option
+ID0780,D,False,10,Order chest radiography and an angiotensin-converting enzyme serum level test,full_option
+ID0780,B,False,10,Start a longer trial of topical steroid with topical antihistamine,full_option
+ID0803,A,False,11,"Complete blood cell count, erythrocyte sedimentation rate, and C-reactive protein tests",full_option
+ID0803,B,False,9,Computed tomography or magnetic resonance angiography of the head,full_option
+ID0803,C,False,8,Magnetic resonance imaging of the orbits with contrast.,full_option
+ID0809,B,True,10,"Start diuretic, implant cardioverter defibrillator, and evaluate for cardiac transplantation",full_option
+ID0826,C,True,17,Perform angioplasty of the right renal artery and angioplasty with stenting of the right external iliac artery.,full_option
+ID0826,A,False,12,Perform angioplasty and stenting of the right renal and external iliac arteries.,full_option
+ID0826,D,False,9,Administer cilostazol for claudication and continue lisinopril for hypertension,full_option
+ID0826,B,False,9,Manage medically with antihypertensive agents and a walking program.,full_option
+ID0846,C,True,8,Order anti-GQ1b antibody and start intravenous immune globulin,full_option
+ID0866,A,False,12,Perform surgical plugging of the carotid cavernous fistula with a muscle patch,full_option
+ID0866,D,True,9,Digital subtraction angiography with embolization of carotid cavernous fistula,full_option
+ID0867,B,True,8,Referral for outpatient exposure and response prevention therapy,full_option
+ID0869,B,True,8,Scrotal ulceration secondary to induction chemotherapy with ATRA,full_option
+ID0878,A,False,9,Request a magnetic resonance image of orbits and sinuses,full_option
+ID0899,A,False,8,Change dressings daily and implement hyperbaric oxygen therapy,full_option
+ID0899,C,False,8,"Surgically excise the lesion, followed by skin grafting",full_option
+ID0937,D,False,14,"Order measurement of serum ferritin level, serum iron level, and serum total iron-binding capacity",full_option
+ID0937,A,False,11,Perform microscopy of nail scrapings after keratolysis with potassium hydroxide solution,full_option
+ID0962,B,False,9,Administer cytarabine and daunorubicin chemotherapy after consulting a hematologist,full_option
+ID0962,D,False,11,Place a central venous catheter in preparation for replacing blood products,full_option
+ID0962,A,True,9,Administer all-trans retinoic acid (ATRA) after consulting a hematologist,full_option
+ID0973,D,True,9,Myeloid/lymphoid neoplasms with eosinophilia and tyrosine kinase gene fusions,full_option
+ID0976,B,False,10,"Check rapid plasma reagin, thyroid-stimulating hormone level, and lead level",full_option
+ID0976,D,False,8,Empirically treat patient and close contacts with dapsone.,full_option
+ID0982,A,False,18,Order computed tomography angiography of the head to rule out aneurysmal compression of the left third cranial nerve,full_option
+ID0982,B,False,13,Order magnetic resonance imaging of the brain to rule out a brainstem stroke,full_option
+ID0982,D,False,9,Perform pharmacologic testing with apraclonidine to confirm Horner syndrome,full_option
+ID0982,C,True,8,Perform detailed review of systemic and topical medications,full_option
+ID0998,D,False,9,Perform emergency canthotomy and cantholysis to decompress the orbits,full_option
+ID0998,B,True,8,Order a computed tomographic scan of the orbits,full_option
+ID1016,A,False,9,Order a complete blood cell count and coagulation testing,full_option
+ID1035,B,False,8,Obtain complete blood cell count and creatinine level,full_option
+ID1038,B,False,17,Add a second antiarrhythmic drug and reassess the need for epicardial intervention after 3 to 6 months,full_option
+ID1038,D,True,9,Perform cardiac magnetic resonance imaging to define pathologic substrate,full_option
+ID1047,B,True,14,"Order a hormone profile (thyrotropin, adrenocorticotrophic hormone, growth hormone, and testosterone) and consult endocrinology",full_option
+ID1073,D,True,11,Magnetic resonance imaging with magnetic resonance angiography or digital subtraction angiography,full_option
+ID1077,D,True,13,Obtain a whole-body fluorodeoxyglucose positron emission tomography (FDG-PET)/CT scan and paraneoplastic antibody evaluation,full_option
+ID1079,B,False,18,Perform lumbar puncture with patient in upright position to measure opening pressure and examine cerebrospinal fluid (CSF) components,full_option
+ID1079,C,True,15,Order magnetic resonance imaging (MRI) or magnetic resonance venography (MRV) of the brain and orbits,full_option
+ID1087,D,False,9,Obtain magnetic resonance imaging of the brain and orbits,full_option
+ID1087,B,True,8,Perform a complete excisional biopsy of the lesion,full_option
+ID1101,A,False,17,Obtain bacterial and mycobacterial cultures of ulcerated area and pursue treatment with a longer course of antibiotics,full_option
+ID1101,C,True,11,Obtain a computed tomography (CT) scan of the chest and abdomen,full_option
+ID1101,D,False,8,Check the patient’s human immunodeficiency virus (HIV) status,full_option
+ID1127,D,False,9,Refer the child for a biopsy of the lesion,full_option
+ID1135,B,True,8,"Cancer-associated pancreatitis, panniculitis, and polyarthritis syndrome (PPP) syndrome",full_option
+ID1149,D,True,8,Obtain a detailed list of the patient’s medications,full_option
+ID1150,A,True,8,Computed tomographic scan of the orbits with contrast,full_option
+ID1164,C,False,11,Start insulin to promote magnesium reabsorption at the proximal convoluted tubule.,full_option
+ID1164,D,False,10,Stop ranitidine due to concern for reduced gastrointestinal magnesium absorption.,full_option
+ID1164,B,True,10,Improve glycemic control due to urinary magnesium loss from polyuria.,full_option
+ID1164,A,False,8,Evaluate for alcoholism as the cause of hypomagnesemia.,full_option
+ID1167,B,False,15,Obtain periodic outpatient complete blood cell counts and treat with supportive transfusions as clinically indicated,full_option
+ID1167,A,True,10,"Check serum trace element levels, including iron, copper, and zinc",full_option
+ID1167,C,False,8,Perform endoscopy of upper and lower gastrointestinal tract,full_option
+ID1170,C,True,10,Intravitreal anti–vascular endothelial growth factor injections and laser panretinal photocoagulation,full_option
+ID1185,C,True,12,Order urgent computed tomography scan and computed tomography angiography of the brain,full_option
+ID1185,A,False,11,Check thyrotropin and thyroid receptor autoantibody levels and order orbital imaging,full_option
+ID1197,C,True,14,Diagnose postinfectious altered bowel habits with C difficile colonization and recommend a high-fiber diet.,full_option
+ID1197,A,False,9,Diagnose recurrent Clostridium difficile infection (CDI) and prescribe metronidazole.,full_option
+ID1197,D,False,8,Diagnose refractory CDI and consider fecal microbiota transplantation,full_option
+ID1201,B,False,14,Prescribe analgesia to treat atypical trigeminal neuralgia and refer the patient to a neurologist,full_option
+ID1201,C,True,8,Order contrast-enhanced magnetic resonance imaging of the brain,full_option
+ID1201,A,False,8,Order computed tomography of the brain with angiography,full_option
+ID1217,D,True,10,Perform a biopsy of a skin lesion for pathologic evaluation,full_option
+ID1217,A,False,9,Order a computed tomography scan of the lower extremities,full_option
+ID1217,B,False,10,Order a urine toxicology screen to check for cocaine use,full_option
+ID1266,D,False,11,Repeat the testing for angiotensin-converting enzyme in serum and cerebrospinal fluid,full_option
+ID1266,B,False,8,Repeat the magnetic resonance imaging of the brain,full_option
+ID1273,D,False,9,"Order additional coagulation tests (thrombin time, platelet function assay)",full_option
+ID1288,B,False,9,"Order antinuclear antibody, antineutrophil cytoplasmic antibody, and complement levels",full_option
+ID1290,C,False,15,Administer combined intravitreal anti–vascular endothelial growth factor therapy and laser photocoagulation to areas of nonperfusion,full_option
+ID1290,A,True,11,Observe or perform laser photocoagulation to areas of peripheral retinal nonperfusion,full_option
+ID1290,B,False,8,Administer intravitreal anti–vascular endothelial growth factor therapy again,full_option
+ID1308,D,False,8,"Spinal cord infarct: underlying cause workup, supportive care",full_option
+ID1318,D,False,15,"Order tests of inflammatory markers: erythrocyte sedimentation rate, C-reactive protein, and complete blood cell count",full_option
+ID1318,B,False,10,Perform lumbar puncture to analyze cellular composition of cerebrospinal fluid,full_option
+ID1318,C,True,9,Obtain magnetic resonance imaging of the brain with contrast,full_option
+ID1320,C,True,14,Obtain a sample of the hypopyon through anterior chamber paracentesis and inject intravitreal antibiotics,full_option
+ID1320,A,False,11,"Observe, as this is expected inflammation after voretigene neparvovec gene therapy",full_option
+ID1320,D,False,9,Await results from systemic laboratory tests and blood culture,full_option
+ID1332,B,True,11,"Discontinue cidofovir therapy, and start therapy with topical corticosteroids and cycloplegia",full_option
+ID1346,A,False,9,Obtain a brain fluorodeoxyglucose positron emission tomography (FDG-PET) scan.,full_option
+ID1346,B,False,9,Order cerebrospinal fluid (CSF) testing for Alzheimer disease biomarkers.,full_option
+ID1346,C,True,11,Reassure and address patient’s concerns and follow up in 1 year,full_option
+ID1359,A,True,11,Transorbital biopsy of the right optic nerve for grading and immunohistochemistry,full_option
+ID1359,B,False,10,"Transcranial resection of the orbital, canalicular, and prechiasmal optic nerve",full_option
+ID1359,C,False,8,Chemotherapy and/or radiation for presumptive optic nerve glioma,full_option
+ID1359,D,False,8,Observation given progression to no light perception vision,full_option
+ID1388,D,False,11,Treat with doxycycline (100 mg orally twice daily for 7 days),full_option
+ID1388,B,False,11,Prescribe acyclovir (400 mg orally 3 times daily for 7 days),full_option
+ID1388,A,False,9,Perform a skin biopsy at the mastectomy incision site,full_option
+ID1388,C,True,9,Start topical steroids and perform a skin patch test,full_option
+ID1401,C,True,9,Inquire about history of frequent infections and abnormal bleeding,full_option
+ID1402,C,True,13,Instill atropine and IOP-lowering drops and place the patient in a supine position,full_option
+ID1469,C,True,11,Review medical and family history for hypercoagulable or inflammatory systemic diseases,full_option
+ID1491,D,False,9,Phacoemulsification with intraocular lens placement in the left eye.,full_option
+ID1491,C,False,8,Magnetic resonance imaging of the orbits without contrast,full_option
+ID1491,B,True,8,Computed tomography scan of the orbits without contrast,full_option
+ID1520,A,True,12,"Check levels of serum protein, albumin, prealbumin, and other nutritional laboratory measures",full_option
+ID1520,B,False,11,Check urinalysis and urine microscopy to evaluate for protein in urine,full_option
+ID1525,B,False,8,Recommend pars plana vitrectomy with epiretinal membrane peel,full_option
+ID1525,A,True,8,Obtain a family medical history and genetic testing,full_option
+ID1530,C,False,17,"Perform magnetic resonance imaging and magnetic resonance venogram of the brain and orbits, then perform lumbar puncture",full_option
+ID1530,A,False,13,Control the systemic blood pressure and workup underlying possible cause of the hypertension,full_option
+ID1575,C,True,9,Obtain blood sample to investigate for autoimmune autonomic ganglionopathy,full_option
+ID1581,B,False,13,Obtain a magnetic resonance imaging study to further delineate the soft tissue injury,full_option
+ID1581,D,True,10,Repair canalicular lacerations and perform an orbitotomy for FB removal,full_option
+ID1581,C,False,10,Repair canalicular lacerations and leave the foreign body in place,full_option
+ID1594,A,False,8,Observation with systemic cidofovir and CMV immune globulin,full_option
+ID1612,C,True,8,"Initiate rifampin, isoniazid, pyrazinamide, and ethambutol (RIPE) therapy",full_option
+ID1638,B,False,13,"Adult-onset cerebellar ataxia, areflexia, pes cavus, optic atrophy, and sensorineural hearing loss syndrome",full_option
+ID1664,D,True,9,Treat with combined systemic chemotherapy and pars plana vitrectomy,full_option
+ID1678,A,False,13,Administer an intravitreous anti-vascular endothelial growth factor (anti-VEGF) agent in the left eye,full_option
+ID1678,C,True,8,Obtain serum chemistry with radiographs of the extremities.,full_option
+ID1699,D,True,8,Observe periocular lesions while psychiatric treatment is continued,full_option
+ID1762,A,False,9,Begin treatment with calcium channel blockers for migraine prevention,full_option
+ID1819,C,True,11,Clinical follow-up for at least 3 years and indicated primary prevention,full_option
+ID1819,A,False,8,Discharge to general practitioner with no clinical recommendations,full_option
+ID1837,A,False,23,"Suggest supportive strategies (eg, cold compresses, ocular lubricants) and consider increasing the topical corticosteroid treatment or prescribing a topical nonsteroidal anti-inflammatory drug (NSAID)",full_option
+ID1837,B,False,19,"Prescribe an oral NSAID and/or systemic immunosuppression (oral corticosteroid) and perform chest radiography, urinalysis, blood tests, and other studies",full_option
+ID1837,D,False,11,Perform a general examination (for a port-wine stain) and dilated ophthalmoscopy,full_option
+ID1865,B,False,8,Test the aqueous fluid for Human herpesvirus 1,full_option
+ID1875,D,True,8,Advise the patient to discontinue the nutritional supplement,full_option
+ID1893,C,True,10,Review and adjust systemic medications and treat with topical corticosteroids,full_option
+ID1893,A,False,8,Pars plana vitrectomy with hyperemia of intravitreal antibiotics,full_option
+ID1900,C,True,8,Perform skin scraping of burrows from multiple sites,full_option
+ID1902,B,False,14,"Check antinuclear antibodies, anticardiolipin antibodies, anti–double-stranded DNA antibodies, antineutrophil cytoplasmic antibodies, and angiotensin-converting enzyme",full_option
+ID1928,D,False,8,Order testing for anticyclic citrullinated peptide (CCP) antibody,full_option
+ID1931,C,False,10,Await peritoneal dialysis fluid culture results before starting intraperitoneal antibiotics,full_option
+ID1934,C,False,8,Obtain serum enzyme-linked immunosorbent assay for Toxocara canis,full_option
+ID1934,D,False,8,Start urgent anti-inflammatory or steroid therapy for uveitis.,full_option
+ID1934,B,False,8,Reassure parents and follow up in 3 months,full_option
+ID1940,B,True,9,Proceed with expectant treatment over the next few months,full_option
+ID1049,A,False,9,Complete 14 days of antibiotic treatment for Lyme disease,fragment
+ID1585,C,True,11,"Because of high negative predictive value, no further testing is necessary.",fragment
+ID1585,D,False,8,Relevant coronary stenosis cannot be excluded by CT,fragment
