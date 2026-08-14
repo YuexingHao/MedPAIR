@@ -34,7 +34,7 @@ echo "Starting GPT-4o SR inference via OpenAI API..."
 echo "Start time: $(date)"
 echo ""
 
-python run_gpt4o_sr_inference.py
+python -u run_gpt4o_sr_inference.py "$@"
 
 echo ""
 echo "Inference complete at: $(date)"

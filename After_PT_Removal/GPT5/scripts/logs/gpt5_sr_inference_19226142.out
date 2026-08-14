@@ -1,0 +1,45 @@
+==========================================
+Job ID: 19226142
+Job Name: gpt5_sr_inference
+==========================================
+
+Starting GPT-5 SR inference via OpenAI API...
+Start time: Wed Jul 29 19:48:39 EDT 2026
+
+================================================================================
+GPT-5 SR INFERENCE - REDUCED CONTEXT (OpenAI API)
+================================================================================
+Start Time:      2026-07-29 19:48:41.867137
+Model:           gpt-5
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/GPT5/results/predictions/[SR]_GPT5_predictions_on_llama70b_removed.csv
+Prediction col:  gpt5_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_completion_tokens: 3000  extra: {'reasoning_effort': 'low'}
+
+Loaded 1300 input rows
+Loaded 1300 output rows
+
+================================================================================
+Running inference on 1300 samples...
+================================================================================
+
+  [sample raw response row 0]: '<answer>Option D</answer>'
+  [sample raw response row 1]: '<answer>Option G</answer>'
+
+  ✓ Saved 1300 predictions to: /home/yuexing/NeuRIPS25/After_PT_Removal/GPT5/results/predictions/[SR]_GPT5_predictions_on_llama70b_removed.csv
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         1300
+Parsed predictions:    1300
+Unparsed responses:    0
+Coverage:              100.0% (1300/1300)
+Accuracy (parsed):     84.7% (1101/1300)
+Accuracy (all rows):   84.7% (1101/1300)
+Output rows updated:   1300
+End Time:              2026-07-29 21:58:17.410831
+================================================================================
+
+Inference complete at: Wed Jul 29 21:58:17 EDT 2026
+==========================================

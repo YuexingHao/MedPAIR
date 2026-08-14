@@ -1,0 +1,53 @@
+==========================================
+Job ID: 19233503
+Job Name: medgemma27b_sr_batched
+Node: node5102
+Allocated GPUs: 0,1,2
+==========================================
+
+Starting MedGemma-27B SR inference (batched)...
+Start time: Wed Jul 29 22:27:35 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (batched) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-29 22:29:06.408672
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   batch_size: 16
+
+Loaded 32 input rows
+Loaded 1300 output rows
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded
+Built 32 prompts (length-sorted for efficient padding)
+
+================================================================================
+Running inference on 32 samples...
+================================================================================
+
+  batch 0: RuntimeError: cuDNN Frontend error: [cudnn_frontend] Error: No valid execution plans built.
+  [sample raw response ID0027]: 'Error: cuDNN Frontend error: [cudnn_frontend] Error: No valid execution plans built.'
+  [sample raw response ID0024]: 'Error: cuDNN Frontend error: [cudnn_frontend] Error: No valid execution plans built.'
+  batch 1: RuntimeError: cuDNN Frontend error: [cudnn_frontend] Error: No valid execution plans built.
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         32
+Parsed predictions:    0
+Unparsed responses:    32
+Coverage:              0.0% (0/32)
+Accuracy (parsed):     nan% (0/0)
+Accuracy (all rows):   0.0% (0/32)
+Output rows updated:   0
+End Time:              2026-07-29 22:30:42.547360
+================================================================================
+
+Inference complete at: Wed Jul 29 22:30:47 EDT 2026
+==========================================

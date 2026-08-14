@@ -1,0 +1,63 @@
+==========================================
+Job ID: 19217994
+Job Name: qwen14b_sr_inference
+Node: node3801
+Allocated GPUs: 0,1
+==========================================
+
+Starting Qwen2.5-14B-Instruct SR inference...
+Start time: Wed Jul 29 18:11:36 EDT 2026
+
+================================================================================
+QWEN2.5-14B-INSTRUCT SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time: 2026-07-29 18:11:57.050461
+Input File: /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv
+Output File: /home/yuexing/NeuRIPS25/After_PT_Removal/Qwen2.5-14B-Instruct/results/predictions/[SR]_Qwen14B_predictions_on_llama70b_removed.csv
+Chat template: True | max_new_tokens: 50
+
+Loading input data...
+  • Loaded 1300 rows
+  • Pilot mode: limited to 20 rows
+Loading target file...
+  • Loaded 1300 rows
+  • Found 1292 error rows from previous run (will retry)
+  • Required columns found
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--Qwen--Qwen2.5-14B-Instruct/snapshots/cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8
+  • This may take 2-3 minutes...
+  ✓ Model loaded successfully
+
+================================================================================
+Running inference on 20 samples...
+================================================================================
+
+  [sample raw response row 0]: "<answer>Option D</answer>\n\nGiven the patient's symptoms of progressive left-sided ptosis over 9 months, along with the clinical findings of mild fullness in the left superior sulcus and mildly increased left-sided resistance to retropulsion,"
+  [sample raw response row 1]: "The patient's symptoms, including a sore throat, dry cough, ear pain, fever, fatigue, muscle aches, and headache, along with the chest X-ray findings of bilateral multifocal opacities, suggest a possible pneumonia or other severe respiratory"
+
+================================================================================
+UPDATING OUTPUT FILE
+================================================================================
+
+Merging predictions (14 valid predictions)...
+  • Valid predictions to merge: 14
+  • Skipped 1292 error rows from previous run (will be retried)
+  • Updated 14 rows in output file
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:           20
+Valid predictions:       14
+Unparseable responses:   6
+Error/exception count:   0
+Accuracy (valid only):   78.6% (14 samples)
+Coverage:                70.0% (14/20)
+Output rows updated:     14
+End Time:                2026-07-29 18:13:14.187778
+================================================================================
+
+Inference complete at: Wed Jul 29 18:13:15 EDT 2026
+==========================================

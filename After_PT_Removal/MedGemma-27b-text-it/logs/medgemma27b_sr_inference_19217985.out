@@ -1,0 +1,63 @@
+==========================================
+Job ID: 19217985
+Job Name: medgemma27b_sr_inference
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B-Text-It SR inference...
+Start time: Wed Jul 29 18:10:00 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time: 2026-07-29 18:10:20.897999
+Input File: /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv
+Output File: /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Chat template: True | max_new_tokens: 50
+
+Loading input data...
+  • Loaded 1300 rows
+  • Pilot mode: limited to 20 rows
+Loading target file...
+  • Loaded 1300 rows
+  • Found 1300 error rows from previous run (will retry)
+  • Required columns found
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  • This may take 2-3 minutes...
+  ✓ Model loaded successfully
+
+================================================================================
+Running inference on 20 samples...
+================================================================================
+
+  [sample raw response row 0]: '<unused94>thought\nThe user wants me to analyze the provided clinical context and choose the most appropriate next step from the given options.\n\n**Clinical Context Analysis:**\n- **Patient:** 60s woman.\n- **History:** Hyperlipidemia,'
+  [sample raw response row 1]: '<unused94>thought\nThe user wants me to identify the essential component for culturing the most likely causative organism based on the provided clinical context.\n\n1.  **Analyze the clinical presentation:**\n    *   20-year-old woman.'
+
+================================================================================
+UPDATING OUTPUT FILE
+================================================================================
+
+Merging predictions (2 valid predictions)...
+  • Valid predictions to merge: 2
+  • Skipped 1300 error rows from previous run (will be retried)
+  • Updated 2 rows in output file
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:           20
+Valid predictions:       2
+Unparseable responses:   18
+Error/exception count:   0
+Accuracy (valid only):   100.0% (2 samples)
+Coverage:                10.0% (2/20)
+Output rows updated:     2
+End Time:                2026-07-29 18:11:53.370040
+================================================================================
+
+Inference complete at: Wed Jul 29 18:11:54 EDT 2026
+==========================================

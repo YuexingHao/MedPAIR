@@ -1,0 +1,89 @@
+==========================================
+Job ID: 19226477
+Job Name: medgemma27b_sr_vllm
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B SR inference (vLLM)...
+Start time: Wed Jul 29 20:07:34 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (vLLM) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-29 20:07:55.664154
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   TP size: 2
+
+Loaded 40 input rows
+Loaded 1300 output rows
+Built 40 prompts
+
+Loading model into vLLM...
+INFO 07-29 20:08:09 [api_utils.py:273] non-default args: {'tokenizer': '/orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c', 'dtype': 'bfloat16', 'max_model_len': 3072, 'tensor_parallel_size': 2, 'gpu_memory_utilization': 0.9, 'disable_log_stats': True, 'model': '/orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c'}
+ERROR 07-29 20:08:15 [registry.py:975] Error in inspecting model architecture 'Gemma3ForCausalLM'
+ERROR 07-29 20:08:15 [registry.py:975] Traceback (most recent call last):
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/model_executor/models/registry.py", line 1410, in _run_in_subprocess
+ERROR 07-29 20:08:15 [registry.py:975]     returned.check_returncode()
+ERROR 07-29 20:08:15 [registry.py:975]     ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/subprocess.py", line 508, in check_returncode
+ERROR 07-29 20:08:15 [registry.py:975]     raise CalledProcessError(self.returncode, self.args, self.stdout,
+ERROR 07-29 20:08:15 [registry.py:975]                              self.stderr)
+ERROR 07-29 20:08:15 [registry.py:975] subprocess.CalledProcessError: Command '['/home/yuexing/miniconda/bin/python', '-m', 'vllm.model_executor.models.registry']' returned non-zero exit status 1.
+ERROR 07-29 20:08:15 [registry.py:975] 
+ERROR 07-29 20:08:15 [registry.py:975] The above exception was the direct cause of the following exception:
+ERROR 07-29 20:08:15 [registry.py:975] 
+ERROR 07-29 20:08:15 [registry.py:975] Traceback (most recent call last):
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/model_executor/models/registry.py", line 973, in _try_inspect_model_cls
+ERROR 07-29 20:08:15 [registry.py:975]     return model.inspect_model_cls()
+ERROR 07-29 20:08:15 [registry.py:975]            ~~~~~~~~~~~~~~~~~~~~~~~^^
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/logging_utils/log_time.py", line 21, in _wrapper
+ERROR 07-29 20:08:15 [registry.py:975]     result = func(*args, **kwargs)
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/model_executor/models/registry.py", line 934, in inspect_model_cls
+ERROR 07-29 20:08:15 [registry.py:975]     mi = _run_in_subprocess(
+ERROR 07-29 20:08:15 [registry.py:975]         lambda: _ModelInfo.from_model_cls(self.load_model_cls())
+ERROR 07-29 20:08:15 [registry.py:975]     )
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/model_executor/models/registry.py", line 1413, in _run_in_subprocess
+ERROR 07-29 20:08:15 [registry.py:975]     raise RuntimeError(
+ERROR 07-29 20:08:15 [registry.py:975]         f"Error raised in subprocess:\n{returned.stderr.decode()}"
+ERROR 07-29 20:08:15 [registry.py:975]     ) from e
+ERROR 07-29 20:08:15 [registry.py:975] RuntimeError: Error raised in subprocess:
+ERROR 07-29 20:08:15 [registry.py:975] Traceback (most recent call last):
+ERROR 07-29 20:08:15 [registry.py:975]   File "<frozen runpy>", line 189, in _run_module_as_main
+ERROR 07-29 20:08:15 [registry.py:975]   File "<frozen runpy>", line 112, in _get_module_details
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/model_executor/__init__.py", line 4, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from vllm.model_executor.parameter import BasevLLMParameter, PackedvLLMParameter
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/model_executor/parameter.py", line 12, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from vllm.distributed import (
+ERROR 07-29 20:08:15 [registry.py:975]     ...<2 lines>...
+ERROR 07-29 20:08:15 [registry.py:975]     )
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/distributed/__init__.py", line 4, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from .communication_op import *
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/distributed/communication_op.py", line 9, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from .parallel_state import get_tp_group
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/distributed/parallel_state.py", line 49, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from vllm.distributed.utils import (
+ERROR 07-29 20:08:15 [registry.py:975]     ...<2 lines>...
+ERROR 07-29 20:08:15 [registry.py:975]     )
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/distributed/utils.py", line 33, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from vllm.utils.network_utils import get_tcp_uri
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/vllm/utils/network_utils.py", line 17, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     import zmq
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/zmq/__init__.py", line 52, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from zmq import backend
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/zmq/backend/__init__.py", line 30, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     raise original_error from None
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/zmq/backend/__init__.py", line 25, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     _ns = select_backend(first)
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/zmq/backend/select.py", line 31, in select_backend
+ERROR 07-29 20:08:15 [registry.py:975]     mod = import_module(name)
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/importlib/__init__.py", line 88, in import_module
+ERROR 07-29 20:08:15 [registry.py:975]     return _bootstrap._gcd_import(name[level:], package, level)
+ERROR 07-29 20:08:15 [registry.py:975]            ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ERROR 07-29 20:08:15 [registry.py:975]   File "/home/yuexing/miniconda/lib/python3.13/site-packages/zmq/backend/cython/__init__.py", line 6, in <module>
+ERROR 07-29 20:08:15 [registry.py:975]     from . import _zmq
+ERROR 07-29 20:08:15 [registry.py:975] ImportError: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /home/yuexing/miniconda/lib/python3.13/site-packages/zmq/backend/cython/../../../../../libzmq.so.5)
+ERROR 07-29 20:08:15 [registry.py:975] 

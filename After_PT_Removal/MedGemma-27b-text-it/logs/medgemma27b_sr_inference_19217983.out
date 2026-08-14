@@ -1,0 +1,63 @@
+==========================================
+Job ID: 19217983
+Job Name: medgemma27b_sr_inference
+Node: node3801
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B-Text-It SR inference...
+Start time: Wed Jul 29 18:09:29 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time: 2026-07-29 18:09:50.556740
+Input File: /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv
+Output File: /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Chat template: False | max_new_tokens: 50
+
+Loading input data...
+  • Loaded 1300 rows
+  • Pilot mode: limited to 20 rows
+Loading target file...
+  • Loaded 1300 rows
+  • Found 1300 error rows from previous run (will retry)
+  • Required columns found
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  • This may take 2-3 minutes...
+  ✓ Model loaded successfully
+
+================================================================================
+Running inference on 20 samples...
+================================================================================
+
+  [sample raw response row 0]: '<explanation>\n[Your explanation]\n</thought>\nThe user wants me to analyze the provided clinical case and determine the most appropriate next step from the given options.\n\n**Case Summary:**\n- 60s female with hyper'
+  [sample raw response row 1]: '<explanation>\n[Explanation of the answer]\n</explanation>\n\nThe patient presents with symptoms suggestive of atypical pneumonia, including sore throat, dry cough, ear pain, fever, fatigue, muscle aches, and headache. The chest X-'
+
+================================================================================
+UPDATING OUTPUT FILE
+================================================================================
+
+Merging predictions (1 valid predictions)...
+  • Valid predictions to merge: 1
+  • Skipped 1300 error rows from previous run (will be retried)
+  • Updated 1 rows in output file
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:           20
+Valid predictions:       1
+Unparseable responses:   19
+Error/exception count:   0
+Accuracy (valid only):   0.0% (1 samples)
+Coverage:                5.0% (1/20)
+Output rows updated:     1
+End Time:                2026-07-29 18:11:29.033532
+================================================================================
+
+Inference complete at: Wed Jul 29 18:11:30 EDT 2026
+==========================================

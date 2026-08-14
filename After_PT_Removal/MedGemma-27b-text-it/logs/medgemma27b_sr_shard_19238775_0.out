@@ -1,0 +1,53 @@
+==========================================
+Array Job: 19238775  Task: 0
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B SR shard 0 of 4...
+Start time: Thu Jul 30 00:15:10 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (batched) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-30 00:15:34.986328
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   batch_size: 16
+
+Loaded 1300 input rows
+Shard 0/4: 325 rows
+Loaded 1300 output rows
+cuDNN SDPA backend disabled (flash/mem-efficient remain enabled)
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded (attn=sdpa)
+Built 325 prompts (length-sorted for efficient padding)
+
+================================================================================
+Running inference on 325 samples...
+================================================================================
+
+  [sample raw response ID1569]: "<unused94>thought\nThe user wants me to identify the most likely diagnosis for a 65-year-old female presenting with aphasia, right-sided hemiparesis, and subsequent urinary incontinence.\n\n1.  **Analyze the patient's symptoms:**\n    *   Aphasia (difficulty with language)\n    *   Right-sided hemiparesi"
+  [sample raw response ID1506]: "<unused94>thought\nThe user wants me to identify the most likely diagnosis for a 75-year-old woman presenting with band-like, burning pain in her right upper abdomen extending from the epigastrium around to the midline of the back.\n\nLet's analyze the symptoms and the options:\n\n*   **Symptoms:**\n    *"
+
+  ✓ Wrote 309 predictions to partial: results/predictions/partials/medgemma_shard_0.csv
+     merge into the main CSV with shared/scripts/merge_sr_partials.py
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         325
+Parsed predictions:    309
+Unparsed responses:    16
+Coverage:              95.1% (309/325)
+Accuracy (parsed):     66.7% (206/309)
+Accuracy (all rows):   63.4% (206/325)
+Output rows updated:   309
+End Time:              2026-07-30 01:45:19.427470
+================================================================================
+
+Shard 0 complete at: Thu Jul 30 01:45:20 EDT 2026
+==========================================

@@ -1,0 +1,50 @@
+==========================================
+Job ID: 19219664
+Job Name: medgemma27b_sr_inference
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B-Text-It SR inference...
+Start time: Wed Jul 29 18:27:08 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-29 18:27:27.539136
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+Chat template:   True   max_new_tokens: 2048
+
+Loaded 20 input rows
+Loaded 1300 output rows
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded
+
+================================================================================
+Running inference on 20 samples...
+================================================================================
+
+  [sample raw response row 0]: '<unused94>thought\nThe user wants me to analyze a clinical vignette and choose the most appropriate next step from the given options.\n\n**Clinical Information:**\n- 60s female\n- History: Hyperlipidemia, hypothyroidism, chronic migraines\n- Presenting complaint: 9 months of progressive left-sided ptosis,'
+  [sample raw response row 1]: '<unused94>thought\nThe user wants me to identify the essential component for culturing the most likely causative organism based on the provided clinical scenario.\n\n1.  **Analyze the clinical presentation:**\n    *   20-year-old woman.\n    *   Progressive sore throat, dry cough, ear pain.\n    *   Prece'
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         20
+Parsed predictions:    20
+Unparsed responses:    0
+Coverage:              100.0% (20/20)
+Accuracy (parsed):     80.0% (16/20)
+Accuracy (all rows):   80.0% (16/20)
+Output rows updated:   20
+End Time:              2026-07-29 18:51:09.223319
+================================================================================
+
+Inference complete at: Wed Jul 29 18:51:10 EDT 2026
+==========================================

@@ -1,0 +1,53 @@
+==========================================
+Array Job: 19246309  Task: 1
+Node: node3901
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B SR shard 1 of 4...
+Start time: Thu Jul 30 00:38:39 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (batched) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-30 00:39:06.971918
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   batch_size: 16
+
+Loaded 1300 input rows
+Shard 1/4: 325 rows
+Loaded 1300 output rows
+cuDNN SDPA backend disabled (flash/mem-efficient remain enabled)
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded (attn=sdpa)
+Built 325 prompts (length-sorted for efficient padding)
+
+================================================================================
+Running inference on 325 samples...
+================================================================================
+
+  [sample raw response ID1688]: '<unused94>thought\nThe user wants me to identify the most appropriate health maintenance recommendation for a 22-year-old woman during a follow-up examination in October.\n\n1.  **Analyze the patient:** 22-year-old woman.\n2.  **Analyze the timing:** October (fall season in the Northern Hemisphere).\n3. '
+  [sample raw response ID1834]: "<unused94>thought\nThe user wants me to identify the spinal level associated with a sympathetic viscerosomatic reflex related to the patient's symptoms.\n\n1.  **Analyze the patient's symptoms:** The patient presents with progressive lower abdominal pain and constipation.\n2.  **Identify the affected or"
+
+  ✓ Wrote 316 predictions to partial: results/predictions/partials/medgemma_shard_1.csv
+     merge into the main CSV with shared/scripts/merge_sr_partials.py
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         325
+Parsed predictions:    316
+Unparsed responses:    9
+Coverage:              97.2% (316/325)
+Accuracy (parsed):     67.1% (212/316)
+Accuracy (all rows):   65.2% (212/325)
+Output rows updated:   316
+End Time:              2026-07-30 04:13:09.104464
+================================================================================
+
+Shard 1 complete at: Thu Jul 30 04:13:13 EDT 2026
+==========================================

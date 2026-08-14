@@ -1,333 +1,189 @@
 #!/usr/bin/env python3
 """
-Generate GPT-4o SR predictions using reduced-context setup via OpenAI API.
+Generate GPT-4O SR predictions on the llama70b-removed reduced context.
 
-Input: /home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv
-Context Column: [SR]High (reduced-relevance context)
-Question Column: question_options (multiple choice question)
+Prompt, input columns and answer parsing are imported from
+shared/scripts/sr_common.py so that every model in Table 6 is scored identically.
 
-Output: Updates gpt4o_direct_prediction column in
+Input:  SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv
+        context = [SR]High, question = question_options, key = Origin
+Output: Updates gpt4o_direct_prediction in
   /home/yuexing/NeuRIPS25/After_PT_Removal/GPT4o/results/predictions/[SR]_GPT4o_predictions_on_llama70b_removed.csv
+
+GENERATED FILE - edit scratchpad/gen_api.py or sr_common.py, not this copy.
 """
 
-import sys
 import os
-import re
-import json
-import pandas as pd
-import numpy as np
-from pathlib import Path
-from tqdm import tqdm
-from datetime import datetime
+import sys
 import time
+import argparse
+from pathlib import Path
+from datetime import datetime
+
+import pandas as pd
+from tqdm import tqdm
 from openai import OpenAI, RateLimitError
 
-# Paths
-INPUT_FILE = Path("/home/yuexing/NeuRIPS25/After_PT_Removal/SR_Predictions/Llama-70B_Removed/Llama_70B_[SR]_predictions.csv")
+sys.path.insert(0, "/home/yuexing/NeuRIPS25/After_PT_Removal/shared/scripts")
+from sr_common import (  # noqa: E402
+    CONTEXT_COL, QUESTION_COL, KEY_COL,
+    chat_messages, extract_letter, load_sr_input, summarize,
+)
+
+TITLE = "GPT-4O"
+MODEL_ID = "gpt-4o"
+PRED_COL = "gpt4o_direct_prediction"
 OUTPUT_FILE = Path("/home/yuexing/NeuRIPS25/After_PT_Removal/GPT4o/results/predictions/[SR]_GPT4o_predictions_on_llama70b_removed.csv")
-MODEL_ID = "gpt-4o"  # Latest GPT-4o model ID
 
-# Rate limiting
-MAX_RETRIES = 3
-INITIAL_BACKOFF = 1  # seconds
-MAX_BACKOFF = 60  # seconds
+# Generation budget. Kept generous so truncation is never what separates the
+# models; gpt-4o spends none of it on hidden reasoning.
+TOKEN_PARAM = "max_tokens"
+TOKEN_BUDGET = 2048
+EXTRA_PARAMS = {"temperature": 0.0}
 
-
-def extract_letter(pred_text):
-    """Extract letter from prediction response.
-
-    Handles various response formats from GPT.
-    """
-    if not isinstance(pred_text, str):
-        return None
-
-    # Step 1: Try to extract from <answer>...</answer> tags (anchored)
-    answer_match = re.search(r"<answer>(.*?)</answer>", pred_text, re.IGNORECASE | re.DOTALL)
-    if answer_match:
-        answer_content = answer_match.group(1).strip()
-        letter_match = re.search(r"Option\s+\[?([A-J])\]?", answer_content, re.IGNORECASE)
-        if letter_match:
-            return letter_match.group(1).upper()
-
-    # Step 2: Look for "Option [letter]" pattern anywhere in response
-    letter_match = re.search(r"Option\s+\[?([A-J])\]?", pred_text, re.IGNORECASE)
-    if letter_match:
-        return letter_match.group(1).upper()
-
-    # Step 3: Look for just a letter surrounded by common delimiters
-    letter_match = re.search(r"[:\s\[\(]([A-J])[:\s\]\)]", pred_text)
-    if letter_match:
-        return letter_match.group(1).upper()
-
-    # Step 4: As a last resort, extract first capital letter A-J from response
-    letter_match = re.search(r"([A-J])", pred_text)
-    if letter_match:
-        return letter_match.group(1).upper()
-
-    return None
+MAX_RETRIES = 5
+INITIAL_BACKOFF = 2
+MAX_BACKOFF = 60
 
 
-def generate_prediction(context, question, client, seed=42):
-    """Generate prediction using GPT-4o API with exponential backoff for rate limiting.
-
-    Args:
-        context: The medical context/case description
-        question: The multiple choice question
-        client: OpenAI API client
-        seed: Fixed seed for reproducibility (if supported by model)
-
-    Returns:
-        str: Model response or error message
-    """
-    prompt = f"""You are given some context and a multiple-choice question.
-
-Select the most appropriate answer from the options provided.
-
-{context}
-
-{question}
-
-Provide your response in the following format:
-<answer>Option [letter]</answer>"""
+def generate_prediction(context, question, client):
+    """One API call with exponential backoff. Returns raw text or an Error: string."""
+    kwargs = dict(
+        model=MODEL_ID,
+        messages=chat_messages(context, question),
+        **{TOKEN_PARAM: TOKEN_BUDGET},
+        **EXTRA_PARAMS,
+    )
 
     backoff = INITIAL_BACKOFF
-
     for attempt in range(MAX_RETRIES):
         try:
-            response = client.chat.completions.create(
-                model=MODEL_ID,
-                messages=[
-                    {
-                        "role": "system",
-                        "content": "You are a medical expert assistant helping with multiple-choice medical questions."
-                    },
-                    {
-                        "role": "user",
-                        "content": prompt
-                    }
-                ],
-                temperature=0.0,  # Deterministic
-                max_tokens=100,
-                seed=seed  # For reproducibility (if supported)
-            )
+            response = client.chat.completions.create(**kwargs)
+            content = response.choices[0].message.content
+            if not content or not content.strip():
+                return (f"Error: empty_content "
+                        f"(finish_reason={response.choices[0].finish_reason})")
+            return content
 
-            return response.choices[0].message.content
-
-        except RateLimitError as e:
+        except RateLimitError:
             if attempt < MAX_RETRIES - 1:
-                wait_time = min(backoff, MAX_BACKOFF)
-                print(f"  Rate limit hit. Waiting {wait_time}s before retry (attempt {attempt + 1}/{MAX_RETRIES})")
-                time.sleep(wait_time)
+                wait = min(backoff, MAX_BACKOFF)
+                print(f"  Rate limited; retrying in {wait}s "
+                      f"({attempt + 1}/{MAX_RETRIES})")
+                time.sleep(wait)
                 backoff *= 2
             else:
-                return f"Error: rate_limit_exceeded_after_{MAX_RETRIES}_retries"
+                return "Error: rate_limit_exceeded"
 
         except Exception as e:
-            error_msg = str(e)
-            if "exceeded token rate limit" in error_msg or "rate" in error_msg.lower():
-                if attempt < MAX_RETRIES - 1:
-                    wait_time = min(backoff, MAX_BACKOFF)
-                    print(f"  Rate limited. Waiting {wait_time}s before retry...")
-                    time.sleep(wait_time)
-                    backoff *= 2
-                else:
-                    return f"Error: rate_limit_exceeded"
-            else:
-                return f"Error: {error_msg[:100]}"
+            msg = str(e)
+            if "rate" in msg.lower() and attempt < MAX_RETRIES - 1:
+                wait = min(backoff, MAX_BACKOFF)
+                time.sleep(wait)
+                backoff *= 2
+                continue
+            return f"Error: {msg[:200]}"
+
+
+def parse_args():
+    p = argparse.ArgumentParser(description=f"{TITLE} SR inference")
+    p.add_argument("--limit", type=int, default=None,
+                   help="Score only the first N rows (pilot runs, keeps API cost down).")
+    p.add_argument("--dry-run", action="store_true",
+                   help="Score and report without writing the output CSV.")
+    return p.parse_args()
 
 
 def main():
-    print("="*80)
-    print("GPT-4o SR INFERENCE - REDUCED CONTEXT (via OpenAI API)")
-    print("="*80)
-    print(f"Start Time: {datetime.now()}")
-    print(f"Input File: {INPUT_FILE}")
-    print(f"Output File: {OUTPUT_FILE}")
-    print(f"Model: {MODEL_ID}")
+    args = parse_args()
+
+    print("=" * 80)
+    print(f"{TITLE} SR INFERENCE - REDUCED CONTEXT (OpenAI API)")
+    print("=" * 80)
+    print(f"Start Time:      {datetime.now()}")
+    print(f"Model:           {MODEL_ID}")
+    print(f"Output File:     {OUTPUT_FILE}")
+    print(f"Prediction col:  {PRED_COL}")
+    print(f"Context col:     {CONTEXT_COL}   Question col: {QUESTION_COL}")
+    print(f"{TOKEN_PARAM}: {TOKEN_BUDGET}  extra: {EXTRA_PARAMS}")
     print()
 
-    # Check for API key
     api_key = os.environ.get("OPENAI_API_KEY")
     if not api_key:
-        print("ERROR: OPENAI_API_KEY environment variable not set")
-        print("Please set: export OPENAI_API_KEY='your-key-here'")
+        print("ERROR: OPENAI_API_KEY not set")
         sys.exit(1)
+    client = OpenAI(api_key=api_key)
 
-    # Initialize OpenAI client
-    print("Initializing OpenAI API client...")
-    try:
-        client = OpenAI(api_key=api_key)
-        print("  ✓ API client initialized")
-    except Exception as e:
-        print(f"  ✗ Error initializing API client: {e}")
+    df_input = load_sr_input(limit=args.limit)
+    print(f"Loaded {len(df_input)} input rows")
+
+    if not OUTPUT_FILE.exists():
+        print(f"ERROR: output file not found: {OUTPUT_FILE}")
         sys.exit(1)
+    df_output = pd.read_csv(OUTPUT_FILE, low_memory=False)
+    print(f"Loaded {len(df_output)} output rows")
+    if PRED_COL not in df_output.columns:
+        print(f"  • {PRED_COL} absent from output file; it will be created")
+        df_output[PRED_COL] = pd.NA
+    # An all-empty column reads back as float64, and pandas 3 refuses to store a
+    # letter in it ("Invalid value 'D' for dtype 'float64'"). Force object first.
+    df_output[PRED_COL] = df_output[PRED_COL].astype("object")
 
-    # Load input data
-    print("\nLoading input data...")
-    try:
-        df_input = pd.read_csv(INPUT_FILE, low_memory=False)
-        print(f"  • Loaded {len(df_input)} rows")
-    except Exception as e:
-        print(f"  ✗ Error loading input file: {e}")
-        sys.exit(1)
+    print("\n" + "=" * 80)
+    print(f"Running inference on {len(df_input)} samples...")
+    print("=" * 80 + "\n")
 
-    # Load or create output file (target to update)
-    print("Loading target file...")
-    try:
-        # Create output file if it doesn't exist
-        if not OUTPUT_FILE.exists():
-            print("Creating output file...")
-            df_input.to_csv(OUTPUT_FILE, index=False)
-            print(f"  • Created: {OUTPUT_FILE}")
-            df_output = df_input.copy()
-        else:
-            df_output = pd.read_csv(OUTPUT_FILE, low_memory=False)
-            print(f"  • Loaded {len(df_output)} rows")
-    except Exception as e:
-        print(f"  ✗ Error loading output file: {e}")
-        sys.exit(1)
+    raw_responses = []
+    for i, (_, row) in enumerate(tqdm(df_input.iterrows(), total=len(df_input))):
+        context = str(row.get(CONTEXT_COL, "")).strip()
+        question = str(row.get(QUESTION_COL, "")).strip()
+        if not context or not question:
+            raw_responses.append("Error: missing_context_or_question")
+            continue
 
-    # Check for resume: filter out error rows to retry them
-    has_errors = df_output["gpt4o_direct_prediction"].notna() & \
-                 df_output["gpt4o_direct_prediction"].astype(str).str.startswith("Error", na=False)
-    if has_errors.any():
-        n_errors_to_retry = has_errors.sum()
-        print(f"  • Found {n_errors_to_retry} error rows from previous run (will retry)")
+        response = generate_prediction(context, question, client)
+        raw_responses.append(response)
+        if i < 2:
+            print(f"  [sample raw response row {i}]: {response[:300]!r}")
 
-    # Check required columns
-    if "Origin" not in df_input.columns or "Origin" not in df_output.columns:
-        print("ERROR: 'Origin' column not found")
-        sys.exit(1)
+    stats = summarize(df_input, raw_responses, PRED_COL)
 
-    required_cols = ["[SR]High", "question_options", "Origin"]
-    for col in required_cols:
-        if col not in df_input.columns:
-            print(f"ERROR: Required column '{col}' not found in input file")
-            sys.exit(1)
+    letters = [extract_letter(r) for r in raw_responses]
+    new_by_key = {k: v for k, v in zip(df_input[KEY_COL], letters) if v}
 
-    print("  • Required columns found")
-    print()
+    updated = 0
+    key_to_idx = {k: i for i, k in enumerate(df_output[KEY_COL])}
+    for key, letter in new_by_key.items():
+        if key in key_to_idx:
+            df_output.at[df_output.index[key_to_idx[key]], PRED_COL] = letter
+            updated += 1
 
-    print("="*80)
-    print(f"Running inference on {len(df_input)} samples with GPT-4o...")
-    print("="*80)
-    print()
-
-    # Run inference with detailed tracking
-    predictions = []
-    n_valid = 0
-    n_error = 0
-    n_unparsed = 0
-    api_calls = 0
-
-    for idx, row in tqdm(df_input.iterrows(), total=len(df_input)):
-        try:
-            context = str(row.get("[SR]High", "")).strip()
-            question = str(row.get("question_options", "")).strip()
-
-            if not context or not question:
-                predictions.append(None)
-                n_unparsed += 1
-                continue
-
-            # Generate prediction via API
-            response = generate_prediction(context, question, client)
-            api_calls += 1
-
-            # Check for error responses
-            if isinstance(response, str) and response.startswith("Error"):
-                predictions.append(response)
-                n_error += 1
-                continue
-
-            # Extract letter from response
-            answer = extract_letter(response)
-
-            if answer:
-                predictions.append(answer)
-                n_valid += 1
-            else:
-                predictions.append(None)
-                n_unparsed += 1
-
-        except Exception as e:
-            print(f"  Row {idx}: Exception - {e}")
-            predictions.append(None)
-            n_error += 1
-
-    print()
-    print("="*80)
-    print("UPDATING OUTPUT FILE")
-    print("="*80)
-    print()
-
-    # Add predictions to input dataframe
-    df_input["gpt4o_direct_prediction"] = predictions
-
-    # Merge predictions back to output file based on Origin
-    print(f"Merging predictions ({n_valid} valid predictions)...")
-
-    # Create mapping from input: ONLY include valid predictions
-    valid_predictions = {}
-    for origin, pred in zip(df_input["Origin"], predictions):
-        if pred is not None and not str(pred).startswith("Error"):
-            valid_predictions[origin] = pred
-
-    print(f"  • Valid predictions to merge: {len(valid_predictions)}")
-
-    # Update output file
-    updated_count = 0
-    skipped_error_rows = 0
-
-    for idx, row in df_output.iterrows():
-        origin = row.get("Origin")
-        current_value = row.get("gpt4o_direct_prediction")
-
-        # Skip rows that have error values (will retry them)
-        if isinstance(current_value, str) and current_value.startswith("Error"):
-            skipped_error_rows += 1
-
-        # Only update if we have a valid new prediction
-        if origin in valid_predictions:
-            df_output.at[idx, "gpt4o_direct_prediction"] = valid_predictions[origin]
-            updated_count += 1
-
-    if skipped_error_rows > 0:
-        print(f"  • Skipped {skipped_error_rows} error rows from previous run (will be retried)")
-
-    print(f"  • Updated {updated_count} rows in output file")
-
-    # Save output
-    print(f"\nSaving updated file...")
-    output_dir = OUTPUT_FILE.parent
-    output_dir.mkdir(parents=True, exist_ok=True)
-    df_output.to_csv(OUTPUT_FILE, index=False)
-    print(f"  ✓ Saved to: {OUTPUT_FILE}")
-
-    # Calculate accuracy (only on valid predictions)
-    if n_valid > 0:
-        df_input["gpt4o_extracted"] = predictions
-        df_input_valid = df_input[df_input["gpt4o_extracted"].notna() &
-                                   ~df_input["gpt4o_extracted"].str.startswith("Error", na=False)]
-        accuracy_pct = (df_input_valid["gpt4o_extracted"] == df_input_valid["answer_corr"]).sum() / len(df_input_valid) * 100 if len(df_input_valid) > 0 else 0
+    if args.dry_run:
+        print("\n  • --dry-run: output CSV left untouched")
     else:
-        accuracy_pct = 0
+        OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+        df_output.to_csv(OUTPUT_FILE, index=False)
+        print(f"\n  ✓ Saved {updated} predictions to: {OUTPUT_FILE}")
 
-    # Print summary
-    print()
-    print("="*80)
+    print("\n" + "=" * 80)
     print("SUMMARY")
-    print("="*80)
-    print(f"Total samples:           {len(df_input)}")
-    print(f"Valid predictions:       {n_valid}")
-    print(f"Unparseable responses:   {n_unparsed}")
-    print(f"Error/exception count:   {n_error}")
-    print(f"API calls made:          {api_calls}")
-    print(f"Accuracy (valid only):   {accuracy_pct:.1f}% ({n_valid} samples)")
-    print(f"Coverage:                {n_valid / len(df_input) * 100:.1f}% ({n_valid}/{len(df_input)})")
-    print(f"Output rows updated:     {updated_count}")
-    print(f"End Time:                {datetime.now()}")
-    print("="*80)
+    print("=" * 80)
+    print(f"Total samples:         {stats['n']}")
+    print(f"Parsed predictions:    {stats['scored']}")
+    print(f"Unparsed responses:    {stats['unparsed']}")
+    print(f"Coverage:              {stats['coverage']:.1f}% ({stats['scored']}/{stats['n']})")
+    print(f"Accuracy (parsed):     {stats['acc_scored']:.1f}% ({stats['correct']}/{stats['scored']})")
+    print(f"Accuracy (all rows):   {stats['acc_all']:.1f}% ({stats['correct']}/{stats['n']})")
+    print(f"Output rows updated:   {updated}")
+    print(f"End Time:              {datetime.now()}")
+    print("=" * 80)
+
+    # Per-row error handling means a run where every row failed still reaches
+    # this point. Exit non-zero so Slurm reports FAILED instead of COMPLETED and
+    # a total failure cannot be mistaken for a finished run.
+    if stats["n"] and stats["scored"] == 0:
+        print("\nERROR: no row produced a parseable answer - treating as failure.")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

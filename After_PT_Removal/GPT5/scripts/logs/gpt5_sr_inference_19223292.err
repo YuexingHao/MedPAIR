@@ -1,0 +1,67 @@
+/home/yuexing/miniconda/lib/python3.13/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.3) or chardet (7.4.0.post2)/charset_normalizer (3.3.2) doesn't match a supported version!
+  warnings.warn(
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:05<01:48,  5.72s/it] 10%|█         | 2/20 [00:08<01:16,  4.24s/it] 15%|█▌        | 3/20 [00:13<01:16,  4.51s/it] 20%|██        | 4/20 [00:32<02:41, 10.07s/it] 25%|██▌       | 5/20 [00:34<01:49,  7.32s/it] 30%|███       | 6/20 [00:40<01:34,  6.76s/it] 35%|███▌      | 7/20 [00:48<01:32,  7.12s/it] 40%|████      | 8/20 [00:53<01:18,  6.54s/it] 45%|████▌     | 9/20 [01:02<01:19,  7.22s/it] 50%|█████     | 10/20 [01:07<01:05,  6.58s/it] 55%|█████▌    | 11/20 [01:10<00:48,  5.38s/it] 60%|██████    | 12/20 [01:13<00:39,  4.89s/it] 65%|██████▌   | 13/20 [01:18<00:33,  4.81s/it] 70%|███████   | 14/20 [01:20<00:23,  3.86s/it] 75%|███████▌  | 15/20 [01:26<00:22,  4.57s/it] 80%|████████  | 16/20 [01:29<00:16,  4.09s/it] 85%|████████▌ | 17/20 [01:35<00:14,  4.82s/it] 90%|█████████ | 18/20 [01:37<00:07,  3.97s/it] 95%|█████████▌| 19/20 [01:42<00:04,  4.09s/it]100%|██████████| 20/20 [01:45<00:00,  3.84s/it]100%|██████████| 20/20 [01:45<00:00,  5.28s/it]
+Traceback (most recent call last):
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/frame.py", line 4911, in _set_value
+    self._mgr.column_setitem(icol, iindex, value, inplace_only=True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/managers.py", line 1501, in column_setitem
+    col_mgr.setitem_inplace(idx, value)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/managers.py", line 2203, in setitem_inplace
+    value = np_can_hold_element(arr.dtype, value)
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/dtypes/cast.py", line 1792, in np_can_hold_element
+    raise LossySetitemError
+pandas.errors.LossySetitemError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/blocks.py", line 1115, in setitem
+    casted = np_can_hold_element(values.dtype, value)
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/dtypes/cast.py", line 1792, in np_can_hold_element
+    raise LossySetitemError
+pandas.errors.LossySetitemError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/orcd/home/002/yuexing/NeuRIPS25/After_PT_Removal/GPT5/scripts/run_gpt5_sr_inference.py", line 180, in <module>
+    main()
+    ~~~~^^
+  File "/orcd/home/002/yuexing/NeuRIPS25/After_PT_Removal/GPT5/scripts/run_gpt5_sr_inference.py", line 155, in main
+    df_output.at[df_output.index[key_to_idx[key]], PRED_COL] = letter
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/indexing.py", line 2592, in __setitem__
+    return super().__setitem__(key, value)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/indexing.py", line 2542, in __setitem__
+    self.obj._set_value(*key, value=value, takeable=self._takeable)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/frame.py", line 4922, in _set_value
+    self.loc[index, col] = value
+    ~~~~~~~~^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/indexing.py", line 938, in __setitem__
+    iloc._setitem_with_indexer(indexer, value, self.name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/indexing.py", line 1953, in _setitem_with_indexer
+    self._setitem_with_indexer_split_path(indexer, value, name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/indexing.py", line 2044, in _setitem_with_indexer_split_path
+    self._setitem_single_column(loc, value, pi)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/indexing.py", line 2181, in _setitem_single_column
+    self.obj._mgr.column_setitem(loc, plane_indexer, value)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/managers.py", line 1503, in column_setitem
+    new_mgr = col_mgr.setitem((idx,), value)
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/managers.py", line 604, in setitem
+    return self.apply("setitem", indexer=indexer, value=value)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/managers.py", line 442, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/blocks.py", line 1118, in setitem
+    nb = self.coerce_to_target_dtype(value, raise_on_upcast=True)
+  File "/home/yuexing/miniconda/lib/python3.13/site-packages/pandas/core/internals/blocks.py", line 468, in coerce_to_target_dtype
+    raise TypeError(f"Invalid value '{other}' for dtype '{self.values.dtype}'")
+TypeError: Invalid value 'D' for dtype 'float64'

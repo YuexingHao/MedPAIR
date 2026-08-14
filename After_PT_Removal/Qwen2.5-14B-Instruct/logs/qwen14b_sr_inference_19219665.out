@@ -1,0 +1,50 @@
+==========================================
+Job ID: 19219665
+Job Name: qwen14b_sr_inference
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting Qwen2.5-14B-Instruct SR inference...
+Start time: Wed Jul 29 18:51:15 EDT 2026
+
+================================================================================
+QWEN2.5-14B-INSTRUCT SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-29 18:51:33.558955
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--Qwen--Qwen2.5-14B-Instruct/snapshots/cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/Qwen2.5-14B-Instruct/results/predictions/[SR]_Qwen14B_predictions_on_llama70b_removed.csv
+Prediction col:  qwen14b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+Chat template:   True   max_new_tokens: 2048
+
+Loaded 20 input rows
+Loaded 1300 output rows
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--Qwen--Qwen2.5-14B-Instruct/snapshots/cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8
+  ✓ Model loaded
+
+================================================================================
+Running inference on 20 samples...
+================================================================================
+
+  [sample raw response row 0]: '<answer>Option D</answer>'
+  [sample raw response row 1]: 'The context provided suggests that the patient may have an infection, possibly bacterial pneumonia given the symptoms and the chest X-ray findings. For many respiratory pathogens, particularly Haemophilus influenzae or Neisseria meningitidis, which can cause such infections, certain growth factors a'
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         20
+Parsed predictions:    20
+Unparsed responses:    0
+Coverage:              100.0% (20/20)
+Accuracy (parsed):     60.0% (12/20)
+Accuracy (all rows):   60.0% (12/20)
+Output rows updated:   20
+End Time:              2026-07-29 18:52:15.899308
+================================================================================
+
+Inference complete at: Wed Jul 29 18:52:17 EDT 2026
+==========================================

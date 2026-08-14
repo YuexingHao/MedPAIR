@@ -1,0 +1,53 @@
+==========================================
+Array Job: 19246309  Task: 3
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B SR shard 3 of 4...
+Start time: Thu Jul 30 03:13:19 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (batched) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-30 03:13:43.068389
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   batch_size: 16
+
+Loaded 1300 input rows
+Shard 3/4: 325 rows
+Loaded 1300 output rows
+cuDNN SDPA backend disabled (flash/mem-efficient remain enabled)
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded (attn=sdpa)
+Built 325 prompts (length-sorted for efficient padding)
+
+================================================================================
+Running inference on 325 samples...
+================================================================================
+
+  [sample raw response ID0122]: "<unused94>thought\nThe user wants me to identify the mechanism most likely to further increase the patient's blood pressure, given their current vital signs (pulse 80/min, BP 165/95 mm Hg).\n\nBlood pressure (BP) is determined by cardiac output (CO) and peripheral vascular resistance (PVR). The formula"
+  [sample raw response ID0164]: "<unused94>thought\nThe user wants me to identify the most likely diagnosis based on two clinical findings:\n1.  A grade 2/6 systolic ejection murmur heard along the upper left sternal border.\n2.  S2 is widely split and does not vary with respiration (fixed splitting).\n\nLet's analyze the options:\n\nA.  "
+
+  ✓ Wrote 310 predictions to partial: results/predictions/partials/medgemma_shard_3.csv
+     merge into the main CSV with shared/scripts/merge_sr_partials.py
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         325
+Parsed predictions:    310
+Unparsed responses:    15
+Coverage:              95.4% (310/325)
+Accuracy (parsed):     73.5% (228/310)
+Accuracy (all rows):   70.2% (228/325)
+Output rows updated:   310
+End Time:              2026-07-30 04:31:30.203997
+================================================================================
+
+Shard 3 complete at: Thu Jul 30 04:31:31 EDT 2026
+==========================================

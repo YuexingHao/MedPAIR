@@ -1,0 +1,52 @@
+==========================================
+Job ID: 19237939
+Job Name: medgemma27b_sr_batched
+Node: node2903
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B SR inference (batched)...
+Start time: Wed Jul 29 22:34:03 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (batched) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-29 22:34:36.087140
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   batch_size: 16
+
+Loaded 32 input rows
+Loaded 1300 output rows
+cuDNN SDPA backend disabled (flash/mem-efficient remain enabled)
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded (attn=sdpa)
+Built 32 prompts (length-sorted for efficient padding)
+
+================================================================================
+Running inference on 32 samples...
+================================================================================
+
+  [sample raw response ID0027]: '<unused94>thought\nThe user wants me to identify the most likely diagnosis based on the provided clinical information.\n\n**Clinical Information:**\n- 47-year-old man\n- Sudden onset of severe occipital headache\n- Stiff neck\n- Onset 12 hours ago\n- Temperature: 36.7°C (98.1°F) - Normal\n- Pulse: 100/min - '
+  [sample raw response ID0024]: '<unused94>thought\nThe user wants me to identify the protein/enzyme responsible for regulating cell progression during the proliferative phase of the menstrual cycle, based on the provided endometrial biopsy description.\n\n1.  **Analyze the biopsy description:** "regular tubular endometrial glands wit'
+
+  • --dry-run: output CSV left untouched
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         32
+Parsed predictions:    31
+Unparsed responses:    1
+Coverage:              96.9% (31/32)
+Accuracy (parsed):     74.2% (23/31)
+Accuracy (all rows):   71.9% (23/32)
+Output rows updated:   31
+End Time:              2026-07-29 22:47:22.373095
+================================================================================
+
+Inference complete at: Wed Jul 29 22:47:24 EDT 2026
+==========================================

@@ -1,0 +1,53 @@
+==========================================
+Array Job: 19246309  Task: 2
+Node: node3900
+Allocated GPUs: 0,1
+==========================================
+
+Starting MedGemma-27B SR shard 2 of 4...
+Start time: Thu Jul 30 01:45:27 EDT 2026
+
+================================================================================
+MEDGEMMA-27B-TEXT-IT (batched) SR INFERENCE - REDUCED CONTEXT
+================================================================================
+Start Time:      2026-07-30 01:45:50.439194
+Model:           /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+Output File:     /home/yuexing/NeuRIPS25/After_PT_Removal/MedGemma-27b-text-it/results/predictions/[SR]_MedGemma27B_predictions_on_llama70b_removed.csv
+Prediction col:  medgemma27b_direct_prediction
+Context col:     [SR]High   Question col: question_options
+max_new_tokens:  2048   batch_size: 16
+
+Loaded 1300 input rows
+Shard 2/4: 325 rows
+Loaded 1300 output rows
+cuDNN SDPA backend disabled (flash/mem-efficient remain enabled)
+
+Loading model: /orcd/compute/mghassem/001/gobi1/huggingface/hub/models--google--medgemma-27b-text-it/snapshots/5b667cf2ddcf064085bc90952edb35a0edbfb79c
+  ✓ Model loaded (attn=sdpa)
+Built 325 prompts (length-sorted for efficient padding)
+
+================================================================================
+Running inference on 325 samples...
+================================================================================
+
+  [sample raw response ID1989]: '<answer>Option B</answer>'
+  [sample raw response ID0728]: '<unused94>thought\nThe user wants me to act as a medical expert assistant and choose the best answer for a multiple-choice question about a 2-week-old boy with abnormal feet.\n\n1.  **Analyze the context:** A 2-week-old boy presents with abnormal feet. This is a very young infant, and the presentation '
+
+  ✓ Wrote 313 predictions to partial: results/predictions/partials/medgemma_shard_2.csv
+     merge into the main CSV with shared/scripts/merge_sr_partials.py
+
+================================================================================
+SUMMARY
+================================================================================
+Total samples:         325
+Parsed predictions:    313
+Unparsed responses:    12
+Coverage:              96.3% (313/325)
+Accuracy (parsed):     62.9% (197/313)
+Accuracy (all rows):   60.6% (197/325)
+Output rows updated:   313
+End Time:              2026-07-30 03:13:10.310837
+================================================================================
+
+Shard 2 complete at: Thu Jul 30 03:13:11 EDT 2026
+==========================================
