@@ -67,9 +67,37 @@ the outcome, so always state the convention.
 Variant A stays primary, matching `_compute_pt_condition_rows`. Under variant B,
 "not sure" wins outright on **449 of 930** questions.
 
-The 255 all-abstain questions are counted incorrect under A and account for
-**27.4 points** of the gap between A and A-decided. That is the single biggest
-driver of the headline number, not answer quality.
+### What the 930 questions actually break down into
+
+Variant A collapses four distinct outcomes into "correct" and "incorrect".
+They are worth separating, because only one of the three failure modes is an
+actual wrong answer:
+
+| Outcome | Questions | Share |
+|---|---:|---:|
+| Majority correct | 339 | 36.5% |
+| Majority wrong | 214 | 23.0% |
+| **All three abstained** | **255** | **27.4%** |
+| Split, no majority | 122 | 13.1% |
+| **Total** | **930** | 100% |
+
+The 255 all-abstain questions are counted incorrect under variant A and are the
+single biggest driver of the headline number. Only 214 questions, **23.0%**, are
+cases where annotators committed to an answer and got it wrong.
+
+### A rejected alternative
+
+Counting the 255 all-abstain questions as **correct** was considered, on the
+reasoning that abstention is the expected behaviour in a Physician-Irrelevant
+condition, and rejected. It yields 594/930 = 63.9%, but it cannot be called an
+accuracy: it merges "nobody could answer" with "answered correctly" into one
+success event, and it makes the metric rise with abstention. Under it,
+medbullets jumps from 32.5% to 73.8% and outranks jama despite having 52 correct
+questions against jama's 153, purely because 41.2% of its questions drew no
+answer at all. Rankings invert relative to every other convention.
+
+Report the pair **abstention rate 47.8% and accuracy-when-answered 61.3%**
+instead. It carries the same information without inviting that misreading.
 
 ---
 
@@ -86,6 +114,20 @@ driver of the headline number, not answer quality.
 MedXpert is again the weakest subset by a wide margin, consistent with the pilot
 and the rest of the project. It is the only 10-option source, and it also draws
 the second highest abstention rate.
+
+### Same four-way breakdown, per source
+
+| Source | Majority correct | Majority wrong | All abstained | Split | A |
+|---|---:|---:|---:|---:|---:|
+| jama | 153 | 56 | 39 (13.2%) | 47 | 51.9% |
+| mmlu | 87 | 32 | 55 (28.6%) | 18 | 45.3% |
+| medbullets | 52 | 33 | 66 (41.2%) | 9 | 32.5% |
+| medxpert | 47 | 93 | 95 (33.6%) | 48 | 16.6% |
+
+MedXpert is the only source where **majority wrong (93) outnumbers majority
+correct (47)**. Everywhere else the dominant failure mode is abstention rather
+than a wrong commitment, which is a meaningfully different result and is
+invisible in the variant A column alone.
 
 ---
 
